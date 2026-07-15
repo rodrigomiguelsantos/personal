@@ -54,13 +54,23 @@ estado, potência, velocidade máx., 0–100, motor, produção/raridade, coleç
 galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
 
 ## Fotografias — regras de rigor
-- As fotos têm de ser **mesmo do exemplar do Dr. Rodrigo**, não de outro carro
-  do mesmo modelo. **Nunca inventar/gerar imagens nem passar fotos genéricas da
-  internet como se fossem o carro dele.**
-- O Dr. Rodrigo envia as fotos dos seus carros; eu coloco-as, otimizo e registo.
-- Se faltarem fotos de um carro, **pedir ao Dr. Rodrigo** em vez de inventar.
-- Pastas: `assets/cars/<slug>/`; registar ficheiros no mapa `PHOTOS` em `index.html`.
-  A 1.ª foto é a principal (hero). Ver `assets/cars/README.md`.
+- Fotos enviadas pelo Dr. Rodrigo = fotos do exemplar dele; eu coloco-as na
+  pasta do carro, otimizo e registo. Têm sempre prioridade sobre tudo o resto.
+- Quando ele **não** envia fotos, posso **pesquisar fotos de referência do
+  modelo exato** (modelo/ano/cor/spec certos — pesquisa rigorosa), mas:
+  **notificá-lo sempre** do que foi usado, e marcar como *referência do modelo*,
+  nunca apresentar como o exemplar dele. Em dúvida, pedir fotos.
+- **Nunca inventar/gerar imagens.**
+- Pastas: `assets/cars/<slug>/` (uma subpasta por carro, fotos numeradas
+  `01.jpg, 02.jpg…`); registar no mapa `PHOTOS` em `index.html`.
+  A 1.ª foto é a principal (hero do card e da ficha). Ver `assets/cars/README.md`.
+- Estado: **carrera-gt tem 5 fotos** (enviadas 2026-07-15). Pendente: confirmar
+  jantes (4 fotos com jantes prateadas/pinças amarelas; 1 com jantes bronze).
+
+## Ritual por prompt
+A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
+showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
+o que for útil. Registar aprendizagens relevantes aqui.
 
 ## Fluxo para adicionar um carro novo (Modelo A)
 1. Eu apresento um **formulário** com os campos a preencher.

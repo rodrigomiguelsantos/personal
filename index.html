@@ -169,6 +169,62 @@
 
   .empty { text-align: center; color: var(--muted); padding: 60px 0; font-family: var(--font-mono); font-size: 14px; }
 
+  /* ---------- Ficha (overlay de detalhe) ---------- */
+  .ovl { position: fixed; inset: 0; z-index: 100; display: none; }
+  .ovl.open { display: block; }
+  .ovl .scrim-bg { position: absolute; inset: 0; background: rgba(4,6,5,.72); backdrop-filter: blur(16px); opacity: 0; transition: opacity .3s ease; }
+  .ovl.open .scrim-bg { opacity: 1; }
+  .ficha {
+    position: relative; max-width: 980px; margin: 3.5vh auto; max-height: 93vh; overflow-y: auto;
+    background: var(--bg-2); border: 1px solid var(--border-strong); border-radius: 24px;
+    box-shadow: 0 40px 120px -30px rgba(0,0,0,.9);
+    transform: translateY(24px); opacity: 0; transition: transform .38s cubic-bezier(.2,.7,.2,1), opacity .3s ease;
+    overscroll-behavior: contain;
+  }
+  .ovl.open .ficha { transform: none; opacity: 1; }
+  @media (max-width: 720px) { .ficha { margin: 0; max-height: 100vh; border-radius: 0; border: 0; } }
+  .f-close {
+    position: sticky; top: 14px; margin: 14px 14px 0 auto; z-index: 5; display: grid; place-items: center;
+    width: 40px; height: 40px; border-radius: 50%; border: 1px solid rgba(255,255,255,.18);
+    background: rgba(8,10,9,.6); backdrop-filter: blur(8px); color: var(--text); cursor: pointer; font-size: 17px;
+    float: right; transition: background .2s;
+  }
+  .f-close:hover { background: rgba(30,37,35,.9); }
+  .f-hero { position: relative; aspect-ratio: 16/9; margin-top: -54px; overflow: hidden; display: grid; place-items: center; }
+  .f-hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .f-hero .f-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(6,8,7,.12) 55%, rgba(11,14,12,.92)); }
+  .f-hero .name { position: relative; z-index: 1; font-weight: 780; letter-spacing: -.03em; font-size: clamp(44px,7vw,72px); color: rgba(255,255,255,.94); mix-blend-mode: screen; }
+  .f-thumbs { display: flex; gap: 8px; padding: 12px 22px 0; overflow-x: auto; scrollbar-width: none; }
+  .f-thumbs::-webkit-scrollbar { display: none; }
+  .f-thumbs button { flex: none; width: 86px; aspect-ratio: 4/3; border-radius: 10px; overflow: hidden; border: 2px solid var(--border); padding: 0; cursor: pointer; background: var(--surface); opacity: .7; transition: opacity .2s, border-color .2s; }
+  .f-thumbs button img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .f-thumbs button[aria-current="true"] { border-color: var(--accent); opacity: 1; }
+  .f-body { padding: 20px clamp(18px, 4vw, 34px) 34px; }
+  .f-head { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; flex-wrap: wrap; }
+  .f-head .bn { font-family: var(--font-mono); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent-soft); }
+  .f-head .yr { font-family: var(--font-mono); font-size: 13px; color: var(--muted); }
+  .f-title { font-size: clamp(26px, 4.4vw, 38px); font-weight: 700; letter-spacing: -.02em; margin: 6px 0 12px; }
+  .f-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+  .f-label { font-family: var(--font-mono); font-size: 11px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: 26px 0 12px; display: flex; align-items: center; gap: 12px; }
+  .f-label::after { content: ""; height: 1px; flex: 1; background: var(--border); }
+  .f-hist { color: var(--text); font-size: 15.5px; line-height: 1.7; max-width: 70ch; margin: 0; }
+  .f-curios { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 10px; }
+  .f-curios li { display: flex; gap: 11px; font-size: 14.5px; color: var(--text); }
+  .f-curios li::before { content: "—"; color: var(--accent-soft); flex: none; }
+  .f-rows { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
+  .f-rows .row { padding: 11px 16px; border-top: 1px solid var(--border); margin: 0; }
+  .f-rows .row:first-child { border-top: 0; }
+  .f-curator { margin-top: 26px; border: 1px solid color-mix(in srgb, var(--brass) 36%, var(--border)); border-radius: 16px; padding: 20px 22px; position: relative; overflow: hidden; background: color-mix(in srgb, var(--brass) 5%, transparent); }
+  .f-curator::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 3px; background: var(--brass); }
+  .f-curator .who { display: flex; align-items: center; gap: 11px; margin-bottom: 10px; }
+  .f-curator .avatar { width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(150deg, #d8c199, var(--brass)); display: grid; place-items: center; color: #241a08; font-weight: 700; font-family: var(--font-mono); font-size: 14px; }
+  .f-curator .who b { font-size: 14px; }
+  .f-curator .who small { display: block; color: var(--brass); font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .12em; text-transform: uppercase; }
+  .f-curator p { margin: 0; font-size: 15px; line-height: 1.7; }
+  .f-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 9px 12px; }
+  body.locked { overflow: hidden; }
+  @media (prefers-reduced-motion: reduce) { .ovl .scrim-bg, .ficha { transition: none; } }
+
   /* ---------- Archive (não adicionados) ---------- */
   .archive { margin-top: 64px; padding-top: 40px; border-top: 1px solid var(--border); }
   .archive h3 { font-family: var(--font-mono); font-size: 13px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0 0 6px; }
@@ -239,6 +295,11 @@
   </div>
 </main>
 
+<div class="ovl" id="ovl" role="dialog" aria-modal="true" aria-label="Ficha do veículo">
+  <div class="scrim-bg" id="ovl-bg"></div>
+  <div class="ficha" id="ficha"></div>
+</div>
+
 <footer class="site">
   <div class="wrap">
     <span>Garagem do Dr. Rodrigo · montra WIP · dados reais, fotografias por carregar</span>
@@ -255,7 +316,10 @@ const CARS = [
     power: "612", powerU: "PS", vmax: "330", vmaxU: "km/h", accel: "3.9", accelU: "s",
     engine: "V10 5.7 atmosférico", production: "1 270 unid.",
     collections: ["Hypercars","Porsche","Atmosféricos"],
-    tags: ["#v10","#manual","#analógico"]
+    tags: ["#v10","#manual","#analógico"],
+    hist: "Nasce de um V10 de Fórmula 1 desenvolvido em segredo (1992) e ressuscitado no protótipo de Le Mans 9R3 (2000) — programa cancelado para dar prioridade ao Cayenne. O motor órfão deu origem ao concept do Salão de Paris de 2000 e à produção em Leipzig entre 2004 e 2006.",
+    curios: ["Manípulo da caixa em madeira de faia, herança dos Porsche de corrida dos anos 60/70","Embraiagem cerâmica de apenas 169 mm — famosa pela exigência a arrancar","Monocoque e subchassis integralmente em fibra de carbono (ATR, Itália)"],
+    curator: "O pilar da coleção. Não é o mais rápido da garagem, mas é o mais honesto: sem turbos, sem híbrido, sem redes eletrónicas a mascarar o V10. O British Racing Green — cor de competição britânica num alemão de alma italiana no chassis — é uma provocação elegante que aprovo inteiramente. Um Carrera GT parado é um crime: use-o."
   },
   {
     brand: "Ferrari", name: "F355 Berlinetta", hero: "F355", year: 1998,
@@ -263,7 +327,10 @@ const CARS = [
     power: "380", powerU: "PS", vmax: "295", vmaxU: "km/h", accel: "4.7", accelU: "s",
     engine: "V8 3.5 · 5 válvulas", production: "4 871 Berlinetta",
     collections: ["Ferrari","Clássicos","Atmosféricos"],
-    tags: ["#v8","#gated","#pininfarina"]
+    tags: ["#v8","#gated","#pininfarina"],
+    hist: "Sucessor do 348 e viragem de qualidade da Ferrari nos anos 90: V8 de 3.5 litros com 5 válvulas por cilindro a rodar até às 8 500 rpm, desenho de Pininfarina e aerodinâmica de fundo plano apurada em mais de 1 300 horas de túnel de vento.",
+    curios: ["Foi o Ferrari mais produzido até então — 11 273 no total, 4 871 Berlinetta","Em 1997 estreou a caixa 'F1' de patilhas; o manual de grelha aberta é hoje o mais desejado","Argento Nürburgring sobre interior Cuoio é uma especificação rara e de conhecedor"],
+    curator: "O pequeno Ferrari analógico perfeito, Dr. Rodrigo. O som acima das 6 000 rpm justifica-o sozinho, e a caixa manual de grelha metálica é um instrumento de precisão. Prata sobre Cuoio foge ao vermelho óbvio — assinatura de quem escolhe com a cabeça e compra com o coração."
   },
   {
     brand: "Ferrari", name: "Enzo", hero: "Enzo", year: 2004,
@@ -271,7 +338,10 @@ const CARS = [
     power: "660", powerU: "PS", vmax: "350", vmaxU: "km/h", accel: "3.3", accelU: "s",
     engine: "V12 6.0 F140", production: "399 (+1) unid.",
     collections: ["Hypercars","Ferrari","Atmosféricos","Ícones"],
-    tags: ["#v12","#f1-tech","#pope-car"]
+    tags: ["#v12","#f1-tech","#pope-car"],
+    hist: "Apresentado em Paris em 2002 como a síntese de estrada da F1 da era Schumacher: V12 F140 de 6.0 litros e 660 CV, caixa robotizada, aerodinâmica ativa e travões carbono-cerâmicos. Batizado em honra do fundador, Enzo Ferrari.",
+    curios: ["Sem asa traseira fixa — o apoio aerodinâmico é gerado pelo fundo e difusores ativos","399 unidades, mais uma 400.ª oferecida ao Papa João Paulo II e leiloada para caridade","O motor F140 é, ainda hoje, a base dos V12 atmosféricos da Ferrari"],
+    curator: "O hipercarro-charneira: fecha a era analógica e abre a moderna, num desenho que não pede desculpa a ninguém. Rosso Corsa é a única cor 'certa' para um Enzo — e o seu exemplar tem-na. Guardar, usar com parcimónia, e nunca, nunca vender."
   },
   {
     brand: "Porsche", name: "911 GT2", hero: "GT2", year: 2007,
@@ -279,7 +349,10 @@ const CARS = [
     power: "530", powerU: "PS", vmax: "329", vmaxU: "km/h", accel: "3.6", accelU: "s",
     engine: "3.6 biturbo (997)", production: "997 · 2007–09",
     collections: ["Porsche","Track","Hypercars"],
-    tags: ["#biturbo","#widowmaker","#tração-traseira"]
+    tags: ["#biturbo","#widowmaker","#tração-traseira"],
+    hist: "A 911 mais extrema do seu tempo: o 3.6 biturbo do Turbo levado a 530 PS, mas com tração exclusivamente traseira e caixa manual. Foi a primeira 911 de série a ultrapassar as 200 mph (329 km/h).",
+    curios: ["Herda a alcunha 'widowmaker' dos GT2 anteriores — potência turbo, atrás, sem 4x4","Escape em titânio e launch control de série","Travões carbono-cerâmicos (PCCB) de origem"],
+    curator: "A 911 mais intimidante da era moderna — e por isso mesmo a mais gratificante. Num mundo que já caminhava para a assistência total, o GT2 de 2007 é um contrato de confiança entre carro e condutor. Respeito e recompensa em partes iguais."
   },
   {
     brand: "Porsche", name: "959", hero: "959", year: 1987,
@@ -287,7 +360,10 @@ const CARS = [
     power: "450", powerU: "PS", vmax: "317", vmaxU: "km/h", accel: "3.7", accelU: "s",
     engine: "Flat-6 2.85 biturbo", production: "≈292 unid.",
     collections: ["Porsche","Clássicos","Ícones"],
-    tags: ["#awd","#grupo-b","#tecnologia"]
+    tags: ["#awd","#grupo-b","#tecnologia"],
+    hist: "Nascido para o Grupo B, tornou-se o laboratório tecnológico da Porsche: tração integral inteligente (PSK), turbos sequenciais, suspensão adaptativa e carroçaria em kevlar. Em 1986/87 era o carro de produção mais rápido do mundo — e venceu o Paris-Dakar.",
+    curios: ["Caixa de 6 velocidades com 1.ª marcha 'G' (Gelände — todo-o-terreno)","Pioneiro na monitorização de pressão dos pneus","≈292 exemplares de série; hoje entre os Porsche mais valorizados de sempre"],
+    curator: "O antepassado direto de todos os 911 Turbo modernos — cada 911 atual deve-lhe qualquer coisa. Em prata de lançamento é história da engenharia em estado puro. A par do 917, é o carro que dá profundidade de museu a esta coleção."
   },
   {
     brand: "Aston Martin", name: "V12 Vantage Roadster", hero: "V12 Vantage", year: 2023,
@@ -295,7 +371,10 @@ const CARS = [
     power: "700", powerU: "PS", vmax: "322", vmaxU: "km/h", accel: "3.5", accelU: "s",
     engine: "V12 5.2 biturbo", production: "177 / 249",
     collections: ["Edições Especiais","Descapotáveis","Modernos"],
-    tags: ["#v12","#177-de-249","#roadster"]
+    tags: ["#v12","#177-de-249","#roadster"],
+    hist: "O canto do cisne: o último V12 num Vantage, limitado a 249 Roadsters — todos vendidos antes do lançamento. O 5.2 biturbo de 700 PS faz dele o Vantage aberto mais rápido de sempre.",
+    curios: ["Exemplar n.º 177 de 249","Grelha 25% maior para alimentar e arrefecer o V12","Com a asa opcional gera 216 kg de apoio aerodinâmico"],
+    curator: "Comprar o último de uma linhagem é sempre sábio, Dr. Rodrigo. Doze cilindros, céu aberto e verde de lançamento — poesia britânica com data de validade que já expirou para quem não foi rápido. O 177/249 ficará no lado certo da história."
   },
   {
     brand: "Mercedes-Benz", name: "SLR McLaren", hero: "SLR", year: 2005,
@@ -303,7 +382,10 @@ const CARS = [
     power: "626", powerU: "PS", vmax: "334", vmaxU: "km/h", accel: "3.8", accelU: "s",
     engine: "V8 5.4 supercharged", production: "≈2 157 unid.",
     collections: ["Hypercars","Clássicos","Ícones"],
-    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"]
+    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"],
+    hist: "Colaboração Mercedes-McLaren inspirada no 300 SLR de Uhlenhaut: V8 de 5.4 litros sobrealimentado com 626 PS montado atrás do eixo dianteiro, corpo em carbono construído em Woking, portas borboleta e travão aerodinâmico ativo.",
+    curios: ["Escapes laterais logo atrás das rodas dianteiras — assinatura sonora inconfundível","Travão aerodinâmico: a asa traseira levanta a 65° em travagens fortes","À época, o GT de produção mais rápido do mundo (334 km/h)"],
+    curator: "Meio grand tourer, meio hipercarro — durante anos foi incompreendido, hoje é redescoberto. Com ≈2 157 unidades em todas as variantes não é raro nos números, mas é raríssimo em bom estado e cada vez mais respeitado. Chegou ao SLR antes do mercado; isso é olho de colecionador."
   },
   {
     brand: "Porsche", name: "917 (versão de estrada)", hero: "917", year: 1970,
@@ -312,7 +394,10 @@ const CARS = [
     engine: "Flat-12 · base Le Mans", production: "praticamente único",
     collections: ["Ícones","Competição","Raros"],
     tags: ["#le-mans","#stradale","#lenda"],
-    note: "Versão de estrada baseada no 917 vencedor de Le Mans — <b>exemplar essencialmente único</b>. Especificações aproximadas à versão de corrida; a validar com documentação."
+    hist: "O 917 deu à Porsche as primeiras vitórias absolutas em Le Mans (1970 e 1971). Pouquíssimos foram alguma vez adaptados à estrada — o mais célebre, o 917-030 do Conde Rossi, matriculado no Alabama. Uma versão de estrada é, na prática, uma peça única: um protótipo de competição domado para a via pública.",
+    curios: ["Flat-12 atmosférico derivado diretamente da competição","Chassis tubular em alumínio pressurizado — a pressão denuncia fissuras na estrutura","Conversões de estrada conhecidas contam-se pelos dedos de uma mão"],
+    curator: "A joia da coroa. Não há garagem no mundo a que este carro não mude o estatuto. Aqui, documentação e proveniência valem mais do que tudo — recomendo tratarmos da cronologia e dos documentos deste exemplar com prioridade absoluta.",
+    note: "Especificações aproximadas à versão de corrida; a validar com a documentação do exemplar."
   },
   {
     brand: "Lancia", name: "Delta Integrale (homologação)", hero: "Delta", year: 1992,
@@ -320,15 +405,21 @@ const CARS = [
     power: "≈210", powerU: "PS", vmax: "≈220", vmaxU: "km/h", accel: "≈5.7", accelU: "s",
     engine: "2.0 turbo · Grupo A", production: "homologação WRC",
     collections: ["Rally","Clássicos","Homologação"],
-    tags: ["#wrc","#grupo-a","#lendas-do-rally"]
+    tags: ["#wrc","#grupo-a","#lendas-do-rally"],
+    hist: "Base da dinastia mais vitoriosa do WRC: seis títulos de construtores consecutivos (1987–1992). As séries de homologação do Grupo A — culminando nos Evoluzione — trouxeram vias alargadas, mais potência e a postura musculada que o tornou ícone.",
+    curios: ["44 vitórias em provas do Mundial de Ralis — recorde de uma era","O 2.0 turbo 16v com tração integral definiu a receita do desportivo moderno","Os Evoluzione de homologação são os mais procurados por colecionadores"],
+    curator: "O único da coleção que prova que grandeza não se mede em cilindros. Um Delta de homologação é cultura de rali destilada — e ao lado dos hipercarros desta garagem, é ele que faz o contraste que dá alma ao conjunto."
   },
   {
     brand: "DS Automobiles", name: "N°8", hero: "N°8", year: 2025,
     colour: "Cinza de lançamento · teto preto", paint: "#565b61", state: "Na coleção",
     power: "350", powerU: "cv", vmax: "190", vmaxU: "km/h", accel: "5.4", accelU: "s",
-    engine: "Elétrico AWD · ≈750 km", production: "série",
+    engine: "Elétrico AWD · 97 kWh", production: "série",
     collections: ["Elétricos","Modernos"],
-    tags: ["#elétrico","#gran-turismo","#750km"]
+    tags: ["#elétrico","#gran-turismo","#flagship"],
+    hist: "O regresso do grand tourisme francês, em elétrico: o novo topo de gama da DS, revelado em 2024. Versão AWD Long Range com 350 cv (375 cv em boost) e até ≈688 km de autonomia WLTP, com interior de inspiração alta-costura parisiense.",
+    curios: ["Aerodinâmica de referência no segmento (Cx ≈0,24)","Carrega de 20 a 80% em cerca de 27 minutos","Nome evoca os DS de 1955 — a vanguarda francesa como tradição"],
+    curator: "A escolha mais inesperada da garagem — e por isso valiosa. Os primeiros elétricos de luxo serão os clássicos de daqui a 30 anos, e este, em cinza de lançamento com teto preto, envelhecerá com elegância. Curadoria é também apostar no futuro."
   }
 ];
 
@@ -357,7 +448,7 @@ const SLUGS = {
    Enquanto vazio, o card usa o fundo de estúdio provisório.
    Ex.: "carrera-gt": ["01.jpg", "02.jpg", "03.jpg"] */
 const PHOTOS = {
-  // "carrera-gt": ["01.jpg"],
+  "carrera-gt": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"],
 };
 
 /* ---------- Render ---------- */
@@ -447,6 +538,92 @@ function render() {
     items.forEach((el, i) => setTimeout(() => el.classList.add('in'), i * 45));
   });
 }
+
+/* ---------- Ficha (detalhe) ---------- */
+const ovl = document.getElementById('ovl');
+const fichaEl = document.getElementById('ficha');
+
+function fichaHTML(c) {
+  const slug = SLUGS[c.name] || '';
+  const photos = PHOTOS[slug] || [];
+  const hero = photos.length
+    ? `<img id="f-main" src="assets/cars/${slug}/${photos[0]}" alt="${esc(c.brand+' '+c.name)}"><div class="f-scrim"></div>`
+    : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
+  const thumbs = photos.length > 1
+    ? `<div class="f-thumbs">${photos.map((p,i) =>
+        `<button data-src="assets/cars/${slug}/${p}" aria-current="${i===0}"><img src="assets/cars/${slug}/${p}" alt="" loading="lazy"></button>`).join('')}</div>`
+    : '';
+  const curios = (c.curios||[]).map(x => `<li>${esc(x)}</li>`).join('');
+  return `
+    <button class="f-close" id="f-close" aria-label="Fechar">✕</button>
+    <div class="f-hero">${hero}</div>
+    ${thumbs}
+    <div class="f-body">
+      <div class="f-head"><span class="bn">${esc(c.brand)}</span><span class="yr">${c.year}</span></div>
+      <div class="f-title">${esc(c.name)}</div>
+      <div class="f-pills">
+        <span class="pill state"><span class="dot"></span>${c.rare?'Raro · na coleção':esc(c.state)}</span>
+        <span class="pill"><span class="swatch" style="background:${c.paint}"></span>${esc(c.colour)}</span>
+        ${c.collections.map(t=>`<span class="pill">${esc(t)}</span>`).join('')}
+      </div>
+      <div class="spec-strip" style="margin:0 0 6px">
+        <div class="spec"><div class="v">${c.power}<small>${c.powerU}</small></div><div class="k">Potência</div></div>
+        <div class="spec"><div class="v">${c.vmax}<small>${c.vmaxU}</small></div><div class="k">V. máx</div></div>
+        <div class="spec"><div class="v">${c.accel}<small>${c.accelU}</small></div><div class="k">0–100</div></div>
+        <div class="spec"><div class="v" style="font-size:15px;line-height:1.3">${esc(c.engine)}</div><div class="k">Motor</div></div>
+        <div class="spec"><div class="v" style="font-size:15px;line-height:1.3">${esc(c.production)}</div><div class="k">Produção</div></div>
+        <div class="spec"><div class="v" style="font-size:15px;line-height:1.3">${esc(c.colour.split('·')[0].split('/')[0].trim())}</div><div class="k">Cor</div></div>
+      </div>
+      ${c.hist ? `<div class="f-label">História</div><p class="f-hist">${esc(c.hist)}</p>` : ''}
+      ${curios ? `<div class="f-label">Curiosidades</div><ul class="f-curios">${curios}</ul>` : ''}
+      <div class="f-label">Este exemplar</div>
+      <div class="f-rows rows">
+        <div class="row"><span class="rk">Cor</span><span class="rv">${esc(c.colour)}</span></div>
+        <div class="row"><span class="rk">Estado</span><span class="rv">${esc(c.state)}</span></div>
+        <div class="row"><span class="rk">Chassis / VIN</span><span class="rv" style="color:var(--muted)">a preencher</span></div>
+        <div class="row"><span class="rk">Aquisição</span><span class="rv" style="color:var(--muted)">a preencher</span></div>
+      </div>
+      ${c.curator ? `
+      <div class="f-curator">
+        <div class="who"><div class="avatar">G</div><div><b>Nota do Curador</b><small>Gervásio</small></div></div>
+        <p>${esc(c.curator)}</p>
+      </div>` : ''}
+      ${c.note ? `<div class="f-note">⚑ ${c.note}</div>` : ''}
+    </div>`;
+}
+
+function openFicha(c) {
+  fichaEl.innerHTML = fichaHTML(c);
+  ovl.classList.add('open');
+  document.body.classList.add('locked');
+  fichaEl.scrollTop = 0;
+  document.getElementById('f-close').addEventListener('click', closeFicha);
+  const main = document.getElementById('f-main');
+  fichaEl.querySelectorAll('.f-thumbs button').forEach(b => {
+    b.addEventListener('click', () => {
+      if (main) main.src = b.dataset.src;
+      fichaEl.querySelectorAll('.f-thumbs button').forEach(x => x.setAttribute('aria-current', x === b));
+    });
+  });
+}
+function closeFicha() {
+  ovl.classList.remove('open');
+  document.body.classList.remove('locked');
+}
+document.getElementById('ovl-bg').addEventListener('click', closeFicha);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeFicha(); });
+
+grid.addEventListener('click', e => {
+  const card = e.target.closest('.card'); if (!card) return;
+  const idx = [...grid.children].indexOf(card);
+  const visible = CARS.filter(c => {
+    const q = qEl.value.trim().toLowerCase();
+    const matchF = activeFilter === "Todos" || c.collections.includes(activeFilter);
+    const matchQ = !q || (c.brand+' '+c.name+' '+c.engine+' '+c.colour).toLowerCase().includes(q);
+    return matchF && matchQ;
+  });
+  if (visible[idx]) openFicha(visible[idx]);
+});
 
 chipsEl.addEventListener('click', e => {
   const b = e.target.closest('.chip'); if (!b) return;
