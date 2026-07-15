@@ -205,7 +205,7 @@
     <div class="stats">
       <div class="stat"><div class="n" id="stat-cars">10</div><div class="l">Automóveis</div></div>
       <div class="stat"><div class="n" id="stat-brands">6</div><div class="l">Marcas</div></div>
-      <div class="stat"><div class="n">1952–2025</div><div class="l">Décadas</div></div>
+      <div class="stat"><div class="n" id="stat-years">—</div><div class="l">Décadas</div></div>
       <div class="stat"><div class="n">∞</div><div class="l">Grupos</div></div>
     </div>
   </div>
@@ -270,13 +270,12 @@ const CARS = [
     tags: ["#v12","#f1-tech","#pope-car"]
   },
   {
-    brand: "Porsche", name: "911 GT2 RS", hero: "GT2 RS", year: 2007,
+    brand: "Porsche", name: "911 GT2", hero: "GT2", year: 2007,
     colour: "A definir", paint: "#6b7076", state: "Na coleção",
-    power: "620", powerU: "PS", vmax: "330", vmaxU: "km/h", accel: "3.5", accelU: "s",
-    engine: "3.6 biturbo (997)", production: "500 unid.",
+    power: "530", powerU: "PS", vmax: "329", vmaxU: "km/h", accel: "3.6", accelU: "s",
+    engine: "3.6 biturbo (997)", production: "997 · 2007–09",
     collections: ["Porsche","Track","Hypercars"],
-    tags: ["#biturbo","#widowmaker"],
-    note: "Ano a confirmar: o <b>GT2 RS (997)</b> foi produzido em 2010–2011. Um Porsche de 2007 corresponde ao <b>997 GT2</b> (530 PS). Confirmar variante e ano."
+    tags: ["#biturbo","#widowmaker","#tração-traseira"]
   },
   {
     brand: "Porsche", name: "959", hero: "959", year: 1987,
@@ -298,10 +297,9 @@ const CARS = [
     brand: "Mercedes-Benz", name: "SLR McLaren", hero: "SLR", year: 2005,
     colour: "A definir", paint: "#aeb3b7", state: "Na coleção",
     power: "626", powerU: "PS", vmax: "334", vmaxU: "km/h", accel: "3.8", accelU: "s",
-    engine: "V8 5.4 supercharged", production: "≈2 157 (todas)",
+    engine: "V8 5.4 supercharged", production: "≈2 157 unid.",
     collections: ["Hypercars","Clássicos","Ícones"],
-    tags: ["#mercedes-mclaren","#supercharged"],
-    note: "Exemplar descrito como muito raro — <b>confirmar variante</b> (base, 722 Edition ou Stirling Moss) para afinar produção e valor."
+    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"]
   },
   {
     brand: "Porsche", name: "917 (versão de estrada)", hero: "917", year: 1970,
@@ -316,10 +314,9 @@ const CARS = [
     brand: "Lancia", name: "Delta Integrale (homologação)", hero: "Delta", year: 1992,
     colour: "A definir", paint: "#8a2230", state: "Na coleção",
     power: "≈210", powerU: "PS", vmax: "≈220", vmaxU: "km/h", accel: "≈5.7", accelU: "s",
-    engine: "2.0 turbo · rally", production: "homologação",
+    engine: "2.0 turbo · Grupo A", production: "homologação WRC",
     collections: ["Rally","Clássicos","Homologação"],
-    tags: ["#wrc","#homologação","#lendas-do-rally"],
-    note: "Nota de curadoria: o <b>Delta Integrale</b> homologava para o <b>Grupo A</b>. A homologação <b>Grupo B</b> corresponde ao <b>Delta S4 Stradale</b>. Confirmar qual dos dois é o exemplar."
+    tags: ["#wrc","#grupo-a","#lendas-do-rally"]
   },
   {
     brand: "DS Automobiles", name: "N°8", hero: "N°8", year: 2025,
@@ -346,6 +343,8 @@ const emptyEl = document.getElementById('empty');
 
 document.getElementById('stat-cars').textContent = CARS.length;
 document.getElementById('stat-brands').textContent = new Set(CARS.map(c => c.brand)).size;
+const YEARS = CARS.map(c => c.year);
+document.getElementById('stat-years').textContent = Math.min(...YEARS) + '–' + Math.max(...YEARS);
 
 const ALL_COLLECTIONS = [...new Set(CARS.flatMap(c => c.collections))].sort();
 let activeFilter = "Todos";
