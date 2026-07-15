@@ -468,6 +468,9 @@ let activeFilter = "Todos";
 
 function esc(s){ return String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
 
+/* Resolve o caminho de uma foto (suporta data-URIs na pré-visualização) */
+function photoSrc(slug, p) { return p.startsWith('data:') ? p : `assets/cars/${slug}/${p}`; }
+
 function studioBg(paint) {
   return `radial-gradient(75% 90% at 50% 32%, ${paint}44, transparent 62%),`
        + `radial-gradient(120% 90% at 50% 120%, ${paint}22, transparent 60%),`
@@ -486,7 +489,7 @@ function cardHTML(c) {
   const slug = SLUGS[c.name] || '';
   const photos = PHOTOS[slug] || [];
   const shot = photos.length
-    ? `<img class="carimg" src="assets/cars/${slug}/${photos[0]}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
+    ? `<img class="carimg" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
        <div class="scrim"></div>
        <div class="name lower">${esc(c.hero)}</div>`
     : `<div class="studio" style="background:${studioBg(c.paint)}"></div>
@@ -547,11 +550,11 @@ function fichaHTML(c) {
   const slug = SLUGS[c.name] || '';
   const photos = PHOTOS[slug] || [];
   const hero = photos.length
-    ? `<img id="f-main" src="assets/cars/${slug}/${photos[0]}" alt="${esc(c.brand+' '+c.name)}"><div class="f-scrim"></div>`
+    ? `<img id="f-main" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand+' '+c.name)}"><div class="f-scrim"></div>`
     : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
   const thumbs = photos.length > 1
     ? `<div class="f-thumbs">${photos.map((p,i) =>
-        `<button data-src="assets/cars/${slug}/${p}" aria-current="${i===0}"><img src="assets/cars/${slug}/${p}" alt="" loading="lazy"></button>`).join('')}</div>`
+        `<button data-src="${photoSrc(slug, p)}" aria-current="${i===0}"><img src="${photoSrc(slug, p)}" alt="" loading="lazy"></button>`).join('')}</div>`
     : '';
   const curios = (c.curios||[]).map(x => `<li>${esc(x)}</li>`).join('');
   return `
