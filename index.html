@@ -63,6 +63,76 @@
   .brand .bt { font-weight: 640; letter-spacing: -.01em; font-size: 15px; }
   .brand .bs { color: var(--muted); font-size: 11.5px; font-family: var(--font-mono); letter-spacing: .04em; }
   .top .wip { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--border)); padding: 5px 10px; border-radius: 999px; }
+  .top nav { display: flex; gap: 4px; margin-left: auto; margin-right: 14px; }
+  .top nav a, .top nav button {
+    font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--muted); padding: 8px 12px; border-radius: 9px; cursor: pointer;
+    background: none; border: 0; transition: color .2s, background .2s;
+  }
+  .top nav a:hover, .top nav button:hover { color: var(--text); background: var(--surface-2); }
+  @media (max-width: 640px) { .top .wip { display: none; } .top nav { margin-right: 0; } }
+
+  /* ---------- Toggle de vista ---------- */
+  .listbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 0 0 20px; }
+  .viewtog { display: inline-flex; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .viewtog button { border: 0; background: var(--surface); color: var(--muted); padding: 8px 12px; cursor: pointer; display: grid; place-items: center; transition: all .18s; }
+  .viewtog button[aria-pressed="true"] { background: var(--accent); color: #04140c; }
+
+  /* ---------- Vista de lista ---------- */
+  .grid.list { display: flex; flex-direction: column; gap: 10px; }
+  .lrow {
+    display: flex; align-items: center; gap: 16px; padding: 10px 16px 10px 10px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 14px; cursor: pointer;
+    transition: transform .2s cubic-bezier(.2,.7,.2,1), border-color .2s;
+    opacity: 0; transform: translateY(10px);
+  }
+  .lrow.in { opacity: 1; transform: none; }
+  .lrow:hover { transform: translateX(3px); border-color: var(--border-strong); }
+  .lrow .lthumb { flex: none; width: 96px; aspect-ratio: 16/10; border-radius: 9px; overflow: hidden; position: relative; }
+  .lrow .lthumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .lrow .lmain { flex: 1; min-width: 0; }
+  .lrow .lb { font-family: var(--font-mono); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-soft); }
+  .lrow .ln { font-weight: 650; font-size: 16px; letter-spacing: -.01em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .lrow .lspecs { display: flex; gap: 22px; font-variant-numeric: tabular-nums; }
+  .lrow .lspec { text-align: right; }
+  .lrow .lspec .v { font-weight: 650; font-size: 14.5px; }
+  .lrow .lspec .k { font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .lrow .lyr { font-family: var(--font-mono); color: var(--muted); font-size: 12.5px; width: 46px; text-align: right; }
+  @media (max-width: 760px) { .lrow .lspecs { display: none; } }
+  @media (max-width: 520px) { .lrow .lthumb { width: 74px; } }
+
+  /* ---------- Gestor de grupos ---------- */
+  .chip.add { border-style: dashed; color: var(--accent-soft); }
+  .chip .star { opacity: .7; margin-right: 4px; }
+  .g-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+  .g-head h3 { margin: 0; font-size: 22px; letter-spacing: -.01em; }
+  .g-list { display: flex; flex-direction: column; gap: 10px; }
+  .g-row { display: flex; align-items: center; gap: 14px; padding: 14px 16px; border: 1px solid var(--border); border-radius: 13px; background: var(--surface); }
+  .g-row .gn { font-weight: 600; }
+  .g-row .gc { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); }
+  .g-row .gacts { margin-left: auto; display: flex; gap: 8px; }
+  .btn {
+    font-family: var(--font-sans); font-size: 13.5px; font-weight: 600; cursor: pointer;
+    padding: 9px 16px; border-radius: 10px; border: 1px solid var(--border-strong);
+    background: var(--surface-2); color: var(--text); transition: all .18s;
+  }
+  .btn:hover { border-color: var(--accent); }
+  .btn.primary { background: var(--accent); border-color: var(--accent); color: #04140c; }
+  .btn.primary:hover { background: var(--accent-soft); }
+  .btn.ghost { background: none; }
+  .btn.danger:hover { border-color: #c25555; color: #e08a8a; }
+  .btn.sm { padding: 6px 11px; font-size: 12.5px; }
+  .g-form input[type=text] {
+    width: 100%; padding: 12px 15px; border-radius: 11px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--text); font-size: 15px; margin: 6px 0 16px;
+  }
+  .g-form input[type=text]:focus { outline: none; border-color: var(--accent); }
+  .g-cars { display: flex; flex-wrap: wrap; gap: 8px; }
+  .g-car { cursor: pointer; user-select: none; font-size: 13px; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface); color: var(--muted); transition: all .15s; }
+  .g-car[aria-pressed="true"] { background: color-mix(in srgb, var(--accent) 18%, var(--surface)); border-color: var(--accent); color: var(--text); }
+  .g-sugg { display: flex; flex-wrap: wrap; gap: 8px; }
+  .g-sugg button { font-size: 12.5px; }
+  .g-footnote { margin-top: 18px; font-size: 12px; color: var(--faint); }
 
   /* ---------- Hero ---------- */
   .hero { padding: clamp(48px, 9vw, 104px) 0 clamp(28px, 5vw, 52px); }
@@ -142,6 +212,7 @@
     font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .1em; text-transform: uppercase;
     color: rgba(255,255,255,.5); border: 1px dashed rgba(255,255,255,.22); padding: 4px 8px; border-radius: 8px;
   }
+  .shot .photo-tag.onimg { bottom: auto; top: 14px; right: 14px; background: rgba(8,10,9,.55); backdrop-filter: blur(6px); color: rgba(255,255,255,.75); border-style: solid; }
 
   /* body */
   .body { padding: 18px 20px 20px; }
@@ -253,7 +324,12 @@
         <div class="bs">curadoria · Gervásio</div>
       </div>
     </div>
-    <span class="wip">WIP · v0.1</span>
+    <nav aria-label="Navegação">
+      <a href="#colecao">Coleção</a>
+      <button id="nav-grupos" type="button">Grupos</button>
+      <a href="#arquivo">Arquivo</a>
+    </nav>
+    <span class="wip">WIP · v0.2</span>
   </div>
 </header>
 
@@ -281,13 +357,23 @@
   </div>
 </div>
 
-<main>
+<main id="colecao">
   <div class="wrap">
-    <p class="count" id="count"></p>
+    <div class="listbar">
+      <p class="count" id="count" style="margin:0"></p>
+      <div class="viewtog" role="group" aria-label="Vista">
+        <button id="v-grid" aria-pressed="true" title="Vista de cartões" aria-label="Vista de cartões">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg>
+        </button>
+        <button id="v-list" aria-pressed="false" title="Vista de lista" aria-label="Vista de lista">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+        </button>
+      </div>
+    </div>
     <div class="grid" id="grid"></div>
     <div class="empty" id="empty" hidden>Nenhum automóvel corresponde à pesquisa.</div>
 
-    <section class="archive">
+    <section class="archive" id="arquivo">
       <h3>Arquivo do Curador · Analisados e não adicionados</h3>
       <p class="sub">Decisões de curadoria registadas por Gervásio.</p>
       <div class="arch-grid" id="arch"></div>
@@ -298,6 +384,11 @@
 <div class="ovl" id="ovl" role="dialog" aria-modal="true" aria-label="Ficha do veículo">
   <div class="scrim-bg" id="ovl-bg"></div>
   <div class="ficha" id="ficha"></div>
+</div>
+
+<div class="ovl" id="govl" role="dialog" aria-modal="true" aria-label="Grupos da garagem">
+  <div class="scrim-bg" id="govl-bg"></div>
+  <div class="ficha" id="gsheet" style="max-width:720px"></div>
 </div>
 
 <footer class="site">
@@ -449,6 +540,29 @@ const SLUGS = {
    Ex.: "carrera-gt": ["01.jpg", "02.jpg", "03.jpg"] */
 const PHOTOS = {
   "carrera-gt": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"],
+  "f355-berlinetta": ["ref-01.jpg"],
+  "enzo": ["ref-01.jpg"],
+  "911-gt2": ["ref-01.jpg"],
+  "959": ["ref-01.jpg"],
+  "v12-vantage-roadster": ["ref-01.jpg"],
+  "slr-mclaren": ["ref-01.jpg"],
+  "917-stradale": ["ref-01.jpg"],
+  "delta-integrale": ["ref-01.jpg"],
+  "ds-n8": ["ref-01.jpg"],
+};
+
+/* Metadados das fotos: ref = fotografia de referência do modelo (não o exemplar).
+   Ver assets/cars/CREDITS.md para atribuição das licenças. */
+const PHOTO_META = {
+  "f355-berlinetta": { ref: true, refNote: "Referência do modelo — F355 Berlinetta em Argento." },
+  "enzo": { ref: true, refNote: "Referência do modelo — Enzo em Rosso Corsa." },
+  "911-gt2": { ref: true, refNote: "Referência do modelo — 997 GT2 (cor do exemplar por confirmar)." },
+  "959": { ref: true, refNote: "Referência do modelo — 959 em prata." },
+  "v12-vantage-roadster": { ref: true, refNote: "Referência provisória: coupé preto — o exemplar é Roadster verde, n.º 177/249. Foto a substituir." },
+  "slr-mclaren": { ref: true, refNote: "Referência do modelo — SLR em prata (cor do exemplar por confirmar)." },
+  "917-stradale": { ref: true, refNote: "Referência: 917K de corrida (Gulf) — o exemplar é a versão de estrada. Foto a substituir." },
+  "delta-integrale": { ref: true, refNote: "Referência do modelo — HF Integrale Evoluzione (cor do exemplar por confirmar)." },
+  "ds-n8": { ref: true, refNote: "Referência do modelo — N°8 cinza com teto preto." },
 };
 
 /* ---------- Render ---------- */
@@ -465,6 +579,23 @@ document.getElementById('stat-years').textContent = Math.min(...YEARS) + '–' +
 
 const ALL_COLLECTIONS = [...new Set(CARS.flatMap(c => c.collections))].sort();
 let activeFilter = "Todos";
+let viewMode = localStorage.getItem('garage.view') || 'grid';
+
+/* ---------- Grupos do utilizador (guardados neste dispositivo) ---------- */
+function loadGroups() { try { return JSON.parse(localStorage.getItem('garage.groups')) || []; } catch { return []; } }
+function saveGroups(g) { localStorage.setItem('garage.groups', JSON.stringify(g)); }
+let USER_GROUPS = loadGroups();
+
+/* Sugestões de grupos (nacionalidade, motor, época, carroçaria) */
+const GROUP_SUGGESTIONS = [
+  { name: "Alemães", cars: ["Carrera GT","911 GT2","959","917 (versão de estrada)","SLR McLaren"] },
+  { name: "Italianos", cars: ["F355 Berlinetta","Enzo","Delta Integrale (homologação)"] },
+  { name: "Britânicos", cars: ["V12 Vantage Roadster"] },
+  { name: "Franceses", cars: ["N°8"] },
+  { name: "V12", cars: ["Enzo","V12 Vantage Roadster"] },
+  { name: "Século XX", cars: ["917 (versão de estrada)","959","Delta Integrale (homologação)","F355 Berlinetta"] },
+  { name: "Ar livre", cars: ["Carrera GT","V12 Vantage Roadster"] },
+];
 
 function esc(s){ return String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
 
@@ -488,13 +619,16 @@ function cardHTML(c) {
   const note = c.note ? `<div class="note">⚑ ${c.note}</div>` : '';
   const slug = SLUGS[c.name] || '';
   const photos = PHOTOS[slug] || [];
+  const meta = PHOTO_META[slug] || {};
+  const refTag = meta.ref ? `<span class="photo-tag onimg">◈ referência do modelo</span>` : '';
   const shot = photos.length
     ? `<img class="carimg" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
        <div class="scrim"></div>
+       ${refTag}
        <div class="name lower">${esc(c.hero)}</div>`
     : `<div class="studio" style="background:${studioBg(c.paint)}"></div>
        <div class="floor" style="background:${c.paint}"></div>
-       <span class="photo-tag">◎ foto do exemplar</span>
+       <span class="photo-tag">◎ foto do exemplar a enviar</span>
        <div class="name">${esc(c.hero)}</div>`;
   return `
   <article class="card" data-name="${esc((c.brand+' '+c.name+' '+c.engine).toLowerCase())}" data-cols="${esc(c.collections.join('|'))}">
@@ -518,29 +652,75 @@ function cardHTML(c) {
   </article>`;
 }
 
-function renderChips() {
-  const opts = ["Todos", ...ALL_COLLECTIONS];
-  chipsEl.innerHTML = opts.map(o =>
-    `<button class="chip" data-f="${esc(o)}" aria-pressed="${o===activeFilter}">${esc(o)}</button>`
-  ).join('');
+function rowHTML(c) {
+  const slug = SLUGS[c.name] || '';
+  const photos = PHOTOS[slug] || [];
+  const meta = PHOTO_META[slug] || {};
+  const thumb = photos.length
+    ? `<img src="${photoSrc(slug, photos[0])}" alt="" loading="lazy">`
+    : `<div style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div>`;
+  return `
+  <article class="lrow" tabindex="0" role="button" aria-label="${esc(c.brand+' '+c.name)}">
+    <div class="lthumb">${thumb}</div>
+    <div class="lmain">
+      <div class="lb">${esc(c.brand)}${meta.ref ? ' · ◈ ref.' : ''}</div>
+      <div class="ln">${esc(c.name)}</div>
+    </div>
+    <div class="lspecs">
+      <div class="lspec"><div class="v">${c.power}</div><div class="k">${c.powerU}</div></div>
+      <div class="lspec"><div class="v">${c.vmax}</div><div class="k">${c.vmaxU}</div></div>
+      <div class="lspec"><div class="v">${c.accel}</div><div class="k">0–100</div></div>
+    </div>
+    <div class="lyr">${c.year}</div>
+  </article>`;
 }
 
-function render() {
+function userGroup(name) { return USER_GROUPS.find(g => g.name === name); }
+
+function visibleCars() {
   const q = qEl.value.trim().toLowerCase();
-  const cards = CARS.filter(c => {
-    const matchF = activeFilter === "Todos" || c.collections.includes(activeFilter);
+  const ug = userGroup(activeFilter);
+  return CARS.filter(c => {
+    const matchF = activeFilter === "Todos"
+      || c.collections.includes(activeFilter)
+      || (ug && ug.cars.includes(c.name));
     const matchQ = !q || (c.brand+' '+c.name+' '+c.engine+' '+c.colour).toLowerCase().includes(q);
     return matchF && matchQ;
   });
-  grid.innerHTML = cards.map(cardHTML).join('');
+}
+
+function renderChips() {
+  const opts = ["Todos", ...ALL_COLLECTIONS];
+  chipsEl.innerHTML =
+    opts.map(o => `<button class="chip" data-f="${esc(o)}" aria-pressed="${o===activeFilter}">${esc(o)}</button>`).join('')
+    + USER_GROUPS.map(g => `<button class="chip" data-f="${esc(g.name)}" aria-pressed="${g.name===activeFilter}"><span class="star">✦</span>${esc(g.name)}</button>`).join('')
+    + `<button class="chip add" data-manage="1">＋ Grupos</button>`;
+}
+
+function render() {
+  const cards = visibleCars();
+  grid.classList.toggle('list', viewMode === 'list');
+  grid.innerHTML = cards.map(viewMode === 'list' ? rowHTML : cardHTML).join('');
   emptyEl.hidden = cards.length > 0;
   countEl.textContent = `${cards.length} ${cards.length === 1 ? 'automóvel' : 'automóveis'}`
     + (activeFilter !== "Todos" ? ` · ${activeFilter}` : '');
   requestAnimationFrame(() => {
-    const items = [...grid.querySelectorAll('.card')];
-    items.forEach((el, i) => setTimeout(() => el.classList.add('in'), i * 45));
+    const items = [...grid.querySelectorAll('.card, .lrow')];
+    items.forEach((el, i) => setTimeout(() => el.classList.add('in'), i * 40));
   });
 }
+
+/* toggle de vista */
+const vGrid = document.getElementById('v-grid'), vList = document.getElementById('v-list');
+function setView(m) {
+  viewMode = m; localStorage.setItem('garage.view', m);
+  vGrid.setAttribute('aria-pressed', m === 'grid');
+  vList.setAttribute('aria-pressed', m === 'list');
+  render();
+}
+vGrid.addEventListener('click', () => setView('grid'));
+vList.addEventListener('click', () => setView('list'));
+if (viewMode !== 'grid') setView(viewMode);
 
 /* ---------- Ficha (detalhe) ---------- */
 const ovl = document.getElementById('ovl');
@@ -549,6 +729,7 @@ const fichaEl = document.getElementById('ficha');
 function fichaHTML(c) {
   const slug = SLUGS[c.name] || '';
   const photos = PHOTOS[slug] || [];
+  const meta = PHOTO_META[slug] || {};
   const hero = photos.length
     ? `<img id="f-main" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand+' '+c.name)}"><div class="f-scrim"></div>`
     : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
@@ -577,6 +758,7 @@ function fichaHTML(c) {
         <div class="spec"><div class="v" style="font-size:15px;line-height:1.3">${esc(c.production)}</div><div class="k">Produção</div></div>
         <div class="spec"><div class="v" style="font-size:15px;line-height:1.3">${esc(c.colour.split('·')[0].split('/')[0].trim())}</div><div class="k">Cor</div></div>
       </div>
+      ${meta.ref ? `<div class="f-note" style="margin:0 0 6px">◈ ${esc(meta.refNote)} <span style="opacity:.7">Créditos das imagens: assets/cars/CREDITS.md</span></div>` : ''}
       ${c.hist ? `<div class="f-label">História</div><p class="f-hist">${esc(c.hist)}</p>` : ''}
       ${curios ? `<div class="f-label">Curiosidades</div><ul class="f-curios">${curios}</ul>` : ''}
       <div class="f-label">Este exemplar</div>
@@ -614,27 +796,126 @@ function closeFicha() {
   document.body.classList.remove('locked');
 }
 document.getElementById('ovl-bg').addEventListener('click', closeFicha);
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeFicha(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeFicha(); closeGroups(); } });
 
 grid.addEventListener('click', e => {
-  const card = e.target.closest('.card'); if (!card) return;
+  const card = e.target.closest('.card, .lrow'); if (!card) return;
   const idx = [...grid.children].indexOf(card);
-  const visible = CARS.filter(c => {
-    const q = qEl.value.trim().toLowerCase();
-    const matchF = activeFilter === "Todos" || c.collections.includes(activeFilter);
-    const matchQ = !q || (c.brand+' '+c.name+' '+c.engine+' '+c.colour).toLowerCase().includes(q);
-    return matchF && matchQ;
-  });
+  const visible = visibleCars();
+  if (visible[idx]) openFicha(visible[idx]);
+});
+grid.addEventListener('keydown', e => {
+  if (e.key !== 'Enter' && e.key !== ' ') return;
+  const card = e.target.closest('.lrow'); if (!card) return;
+  e.preventDefault();
+  const visible = visibleCars();
+  const idx = [...grid.children].indexOf(card);
   if (visible[idx]) openFicha(visible[idx]);
 });
 
 chipsEl.addEventListener('click', e => {
   const b = e.target.closest('.chip'); if (!b) return;
+  if (b.dataset.manage) { openGroups(); return; }
   activeFilter = b.dataset.f;
-  [...chipsEl.children].forEach(c => c.setAttribute('aria-pressed', c.dataset.f === activeFilter));
+  [...chipsEl.querySelectorAll('.chip[data-f]')].forEach(c => c.setAttribute('aria-pressed', c.dataset.f === activeFilter));
   render();
 });
 qEl.addEventListener('input', render);
+
+/* ---------- Gestor de grupos ---------- */
+const govl = document.getElementById('govl');
+const gsheet = document.getElementById('gsheet');
+
+function groupsListHTML() {
+  const sugg = GROUP_SUGGESTIONS.filter(s => !userGroup(s.name));
+  return `
+    <button class="f-close" id="g-close" aria-label="Fechar">✕</button>
+    <div class="f-body" style="padding-top:8px">
+      <div class="g-head"><h3>Grupos da garagem</h3>
+        <button class="btn primary" id="g-new">＋ Novo grupo</button></div>
+      ${USER_GROUPS.length ? `<div class="g-list">${USER_GROUPS.map((g,i) => `
+        <div class="g-row">
+          <div><div class="gn">✦ ${esc(g.name)}</div><div class="gc">${g.cars.length} ${g.cars.length===1?'automóvel':'automóveis'}</div></div>
+          <div class="gacts">
+            <button class="btn sm ghost" data-edit="${i}">Editar</button>
+            <button class="btn sm ghost danger" data-del="${i}">Remover</button>
+          </div>
+        </div>`).join('')}</div>`
+      : `<p style="color:var(--muted);margin:0 0 8px">Ainda não criou grupos. Comece por uma sugestão ou crie o seu.</p>`}
+      ${sugg.length ? `<div class="f-label">Sugestões — um toque para criar</div>
+      <div class="g-sugg">${sugg.map(s => `<button class="btn sm" data-sugg="${esc(s.name)}">✦ ${esc(s.name)} · ${s.cars.length}</button>`).join('')}</div>` : ''}
+      <p class="g-footnote">Os grupos ficam guardados neste dispositivo/navegador (nesta fase estática). Na app completa passarão para a base de dados, sincronizados em todo o lado.</p>
+    </div>`;
+}
+
+function groupFormHTML(g, idx) {
+  const sel = new Set(g ? g.cars : []);
+  return `
+    <button class="f-close" id="g-close" aria-label="Fechar">✕</button>
+    <div class="f-body" style="padding-top:8px">
+      <div class="g-head"><h3>${g ? 'Editar grupo' : 'Novo grupo'}</h3></div>
+      <div class="g-form">
+        <label style="font-size:13px;color:var(--muted)">Nome do grupo</label>
+        <input type="text" id="g-name" value="${g ? esc(g.name) : ''}" placeholder="ex.: Fins-de-semana, V12, Alemães…" maxlength="30">
+        <div class="f-label" style="margin-top:4px">Automóveis no grupo</div>
+        <div class="g-cars">${CARS.map(c =>
+          `<button class="g-car" data-car="${esc(c.name)}" aria-pressed="${sel.has(c.name)}">${esc(c.brand)} ${esc(c.name)}</button>`).join('')}</div>
+        <div style="display:flex;gap:10px;margin-top:22px">
+          <button class="btn primary" id="g-save" data-idx="${idx ?? ''}">Guardar</button>
+          <button class="btn ghost" id="g-back">Cancelar</button>
+        </div>
+      </div>
+    </div>`;
+}
+
+function openGroups() { govl.classList.add('open'); document.body.classList.add('locked'); showGroupsList(); }
+function closeGroups() { govl.classList.remove('open'); document.body.classList.remove('locked'); }
+function showGroupsList() { gsheet.innerHTML = groupsListHTML(); }
+function showGroupForm(g, idx) { gsheet.innerHTML = groupFormHTML(g, idx); document.getElementById('g-name').focus(); }
+
+gsheet.addEventListener('click', e => {
+  const t = e.target.closest('button'); if (!t) return;
+  if (t.id === 'g-close') return closeGroups();
+  if (t.id === 'g-new') return showGroupForm(null, null);
+  if (t.id === 'g-back') return showGroupsList();
+  if (t.dataset.sugg !== undefined && t.dataset.sugg !== '') {
+    const s = GROUP_SUGGESTIONS.find(x => x.name === t.dataset.sugg);
+    if (s) { USER_GROUPS.push({ name: s.name, cars: [...s.cars] }); saveGroups(USER_GROUPS); renderChips(); showGroupsList(); }
+    return;
+  }
+  if (t.dataset.edit !== undefined && t.dataset.edit !== '') {
+    const i = +t.dataset.edit; return showGroupForm(USER_GROUPS[i], i);
+  }
+  if (t.dataset.del !== undefined && t.dataset.del !== '') {
+    const i = +t.dataset.del;
+    const wasActive = activeFilter === USER_GROUPS[i].name;
+    USER_GROUPS.splice(i, 1); saveGroups(USER_GROUPS);
+    if (wasActive) activeFilter = "Todos";
+    renderChips(); render(); showGroupsList();
+    return;
+  }
+  if (t.classList.contains('g-car')) {
+    t.setAttribute('aria-pressed', t.getAttribute('aria-pressed') !== 'true');
+    return;
+  }
+  if (t.id === 'g-save') {
+    const name = document.getElementById('g-name').value.trim();
+    if (!name) { document.getElementById('g-name').focus(); return; }
+    const cars = [...gsheet.querySelectorAll('.g-car[aria-pressed="true"]')].map(b => b.dataset.car);
+    const idx = t.dataset.idx === '' ? null : +t.dataset.idx;
+    const clash = USER_GROUPS.findIndex(g => g.name === name);
+    if (idx === null) {
+      if (clash >= 0) USER_GROUPS[clash] = { name, cars };
+      else USER_GROUPS.push({ name, cars });
+    } else {
+      if (activeFilter === USER_GROUPS[idx].name) activeFilter = name;
+      USER_GROUPS[idx] = { name, cars };
+    }
+    saveGroups(USER_GROUPS); renderChips(); render(); showGroupsList();
+  }
+});
+document.getElementById('govl-bg').addEventListener('click', closeGroups);
+document.getElementById('nav-grupos').addEventListener('click', openGroups);
 
 document.getElementById('arch').innerHTML = ARCHIVE.map(a =>
   `<div class="arch"><div class="an">${esc(a.name)}</div><div class="ar">${esc(a.reason)}</div><span class="abadge">Não adicionado</span></div>`

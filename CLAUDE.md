@@ -64,8 +64,25 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
 - Pastas: `assets/cars/<slug>/` (uma subpasta por carro, fotos numeradas
   `01.jpg, 02.jpg…`); registar no mapa `PHOTOS` em `index.html`.
   A 1.ª foto é a principal (hero do card e da ficha). Ver `assets/cars/README.md`.
-- Estado: **carrera-gt tem 5 fotos** (enviadas 2026-07-15). Pendente: confirmar
+- Estado: **carrera-gt tem 5 fotos do exemplar** (2026-07-15). Pendente: confirmar
   jantes (4 fotos com jantes prateadas/pinças amarelas; 1 com jantes bronze).
+- **Fotos de referência (2026-07-15):** os outros 9 carros têm `ref-01.jpg`
+  da Wikimedia Commons (licenças CC BY-SA — atribuição obrigatória em
+  `assets/cars/CREDITS.md`). Marcadas na UI com selo "◈ referência do modelo"
+  e nota na ficha. **Fracas/a substituir:** Aston (é coupé preto, não Roadster
+  verde) e 917 (é o 917K Gulf de corrida). Tratamento aplicado via PIL
+  (autocontraste, nitidez, saturação -6%) antes de entrar na app.
+- `DADOS-EM-FALTA.md` na raiz: levantamento por carro do que falta (chassis,
+  km, aquisição, cores por confirmar, variantes) + revisão de categorias.
+
+## Features da montra (v0.2)
+- Pesquisa + filtros por coleção (chips) · ficha completa por carro (overlay
+  com galeria, história, curiosidades, nota do Gervásio) · vista grelha/lista
+  (toggle, persistida) · menu: Coleção / Grupos / Arquivo.
+- **Grupos personalizados (✦):** criar/editar/remover no gestor (chip
+  "＋ Grupos" ou menu). Guardados em `localStorage` — **só no dispositivo**;
+  migram para a BD no Modelo B. Sugestões de um toque: Alemães, Italianos,
+  Britânicos, Franceses, V12, Século XX, Ar livre.
 
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
