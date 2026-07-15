@@ -124,6 +124,10 @@
     font-size: clamp(38px, 6vw, 58px); line-height: .9;
     color: rgba(255,255,255,.94); text-shadow: 0 2px 40px rgba(0,0,0,.5); mix-blend-mode: screen;
   }
+  .shot .carimg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .55s cubic-bezier(.2,.7,.2,1); }
+  .card:hover .shot .carimg { transform: scale(1.045); }
+  .shot .scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(6,8,7,.05) 34%, rgba(6,8,7,.55) 74%, rgba(6,8,7,.9)); }
+  .shot .name.lower { position: absolute; left: 20px; right: 20px; bottom: 16px; text-align: left; padding: 0; mix-blend-mode: normal; font-size: clamp(28px, 4.4vw, 46px); }
   .shot .floor { position: absolute; left: 8%; right: 8%; bottom: 12%; height: 40px; border-radius: 50%; filter: blur(14px); opacity: .55; }
   .shot .state {
     position: absolute; top: 14px; left: 14px; z-index: 2;
@@ -334,6 +338,28 @@ const ARCHIVE = [
   { name: "Alfa Romeo MiTo QV 1.4 MultiAir (2012)", reason: "Pertence a um grande amigo do proprietário." }
 ];
 
+/* Slug (nome da pasta em assets/cars/<slug>/) de cada veículo */
+const SLUGS = {
+  "Carrera GT": "carrera-gt",
+  "F355 Berlinetta": "f355-berlinetta",
+  "Enzo": "enzo",
+  "911 GT2": "911-gt2",
+  "959": "959",
+  "V12 Vantage Roadster": "v12-vantage-roadster",
+  "SLR McLaren": "slr-mclaren",
+  "917 (versão de estrada)": "917-stradale",
+  "Delta Integrale (homologação)": "delta-integrale",
+  "N°8": "ds-n8"
+};
+
+/* Fotografias reais de cada exemplar. Preencher com os nomes dos ficheiros
+   colocados em assets/cars/<slug>/. A 1.ª foto é a principal (hero do card).
+   Enquanto vazio, o card usa o fundo de estúdio provisório.
+   Ex.: "carrera-gt": ["01.jpg", "02.jpg", "03.jpg"] */
+const PHOTOS = {
+  // "carrera-gt": ["01.jpg"],
+};
+
 /* ---------- Render ---------- */
 const grid = document.getElementById('grid');
 const chipsEl = document.getElementById('chips');
@@ -366,14 +392,21 @@ function cardHTML(c) {
     </div>`;
   const tags = c.collections.slice(0,3).map(t => `<span class="tag">${esc(t)}</span>`).join('');
   const note = c.note ? `<div class="note">⚑ ${c.note}</div>` : '';
+  const slug = SLUGS[c.name] || '';
+  const photos = PHOTOS[slug] || [];
+  const shot = photos.length
+    ? `<img class="carimg" src="assets/cars/${slug}/${photos[0]}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
+       <div class="scrim"></div>
+       <div class="name lower">${esc(c.hero)}</div>`
+    : `<div class="studio" style="background:${studioBg(c.paint)}"></div>
+       <div class="floor" style="background:${c.paint}"></div>
+       <span class="photo-tag">◎ foto do exemplar</span>
+       <div class="name">${esc(c.hero)}</div>`;
   return `
   <article class="card" data-name="${esc((c.brand+' '+c.name+' '+c.engine).toLowerCase())}" data-cols="${esc(c.collections.join('|'))}">
     <div class="shot">
-      <div class="studio" style="background:${studioBg(c.paint)}"></div>
-      <div class="floor" style="background:${c.paint}"></div>
+      ${shot}
       <span class="state ${c.rare?'rare':''}"><span class="dot"></span>${c.rare?'Raro · na coleção':esc(c.state)}</span>
-      <span class="photo-tag">◎ foto do exemplar</span>
-      <div class="name">${esc(c.hero)}</div>
     </div>
     <div class="body">
       <div class="brand-line"><span class="bn">${esc(c.brand)}</span><span class="yr">${c.year}</span></div>
