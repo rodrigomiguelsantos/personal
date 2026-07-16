@@ -28,8 +28,16 @@ Three.js/React Three Fiber (3D) · Docker. Alojamento grátis e sempre-ligado a
 decidir na altura (candidato: VM "Always Free", ou home server; deploy por git).
 
 ## Linguagem de design
-- **"Showroom noturno":** fundo quase-preto cinematográfico, escolha deliberada
-  de tema único (escuro). Inspiração: Porsche, Ferrari (ex.: Luce), Aston Martin.
+- **"Galeria diurna" (v0.4, 2026-07-16):** redesenho a pedido do Dr. Rodrigo —
+  **fundo branco**, UI simples/requintada, animações fluidas e subtis (entrada
+  do hero em cascata, fade entre separadores). Tiles cinza-claro tipo menu
+  Porsche; nome do carro em tinta escura sobre estúdio claro tingido pela cor
+  do carro; único momento escuro: tile do valor no dashboard (verde profundo).
+  O tema escuro anterior fica na história do git se quisermos volta atrás.
+- **Fotos retiradas da app (2026-07-16)** a pedido — mapa `PHOTOS` vazio;
+  ficheiros continuam em `assets/cars/` prontos a religar. "Tratamos disto
+  melhor" depois — aguardar instruções sobre fotos.
+- Inspiração de origem: Porsche (menu claro), Ferrari (Luce), Aston Martin.
 - Cada carro apresentado como peça de museu: **halo de luz de estúdio tingido
   com a cor real do carro**; nome grande como herói; pills minimalistas;
   dados em tipo monospace (sensação de instrumento); botão circular com seta;
