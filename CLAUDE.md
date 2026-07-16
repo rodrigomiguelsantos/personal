@@ -75,14 +75,27 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
 - `DADOS-EM-FALTA.md` na raiz: levantamento por carro do que falta (chassis,
   km, aquisição, cores por confirmar, variantes) + revisão de categorias.
 
-## Features da montra (v0.2)
+## Features da montra (v0.3)
 - Pesquisa + filtros por coleção (chips) · ficha completa por carro (overlay
   com galeria, história, curiosidades, nota do Gervásio) · vista grelha/lista
-  (toggle, persistida) · menu: Coleção / Grupos / Arquivo.
+  (toggle, persistida) · **ordenação** (curadoria/ano/potência/vmáx/valor/nome,
+  persistida) · menu-separadores: **Coleção / Cronologia / Dashboard / Grupos /
+  ▶ Apresentação**.
 - **Grupos personalizados (✦):** criar/editar/remover no gestor (chip
   "＋ Grupos" ou menu). Guardados em `localStorage` — **só no dispositivo**;
   migram para a BD no Modelo B. Sugestões de um toque: Alemães, Italianos,
   Britânicos, Franceses, V12, Século XX, Ar livre.
+- **Cronologia:** linha temporal vertical por ano do automóvel (marcos por
+  década); passará a usar datas de aquisição quando existirem.
+- **Dashboard:** valor estimado total (campo `valueK` em milhares €, estimativas
+  do Gervásio a validar), potência total/média, recordes, barras por
+  nacionalidade/motorização/década (campo `engType`).
+- **▶ Apresentação:** slideshow ecrã-cheio (foto cover, Ken Burns, auto-advance
+  6,5 s, setas/toque, dots), usa os carros filtrados na Coleção.
+- **PWA:** manifest.webmanifest + apple-touch-icon (monograma "G" gerado por
+  PIL em assets/icons/) + metas iOS. Instalável via Safari → "Adicionar ao
+  ecrã principal".
+- Categorias afinadas (2026-07-16): Track→Competição, Raros→Ícones.
 
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de

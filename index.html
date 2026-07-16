@@ -5,7 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Garagem do Dr. Rodrigo</title>
 <meta name="description" content="Coleção privada de automóveis do Dr. Rodrigo · curadoria de Gervásio">
-<meta name="theme-color" content="#0A0C0B">
+<meta name="theme-color" content="#0B0E0C">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Garagem">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/icons/icon-192.png">
 <style>
   :root {
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -63,17 +70,116 @@
   .brand .bt { font-weight: 640; letter-spacing: -.01em; font-size: 15px; }
   .brand .bs { color: var(--muted); font-size: 11.5px; font-family: var(--font-mono); letter-spacing: .04em; }
   .top .wip { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent-soft); border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--border)); padding: 5px 10px; border-radius: 999px; }
-  .top nav { display: flex; gap: 4px; margin-left: auto; margin-right: 14px; }
+  .top nav { display: flex; gap: 4px; margin-left: auto; margin-right: 14px; overflow-x: auto; scrollbar-width: none; }
+  .top nav::-webkit-scrollbar { display: none; }
   .top nav a, .top nav button {
     font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .1em; text-transform: uppercase;
-    color: var(--muted); padding: 8px 12px; border-radius: 9px; cursor: pointer;
+    color: var(--muted); padding: 8px 12px; border-radius: 9px; cursor: pointer; white-space: nowrap;
     background: none; border: 0; transition: color .2s, background .2s;
   }
   .top nav a:hover, .top nav button:hover { color: var(--text); background: var(--surface-2); }
+  .top nav button[aria-current="true"] { color: var(--accent-deep); background: color-mix(in srgb, var(--accent) 16%, transparent); }
+  .top nav .play { color: var(--accent-soft); }
   @media (max-width: 640px) { .top .wip { display: none; } .top nav { margin-right: 0; } }
 
+  /* ---------- Separadores (tabs) ---------- */
+  .tabsec { display: none; }
+  .tabsec.on { display: block; }
+
+  /* ---------- Cronologia ---------- */
+  .tl-wrap { max-width: 780px; margin: 0 auto; padding: 34px 0 20px; }
+  .tl-head { margin-bottom: 30px; }
+  .tl-head h2 { font-size: clamp(26px,4.5vw,38px); letter-spacing: -.02em; margin: 0 0 8px; }
+  .tl-head p { color: var(--muted); margin: 0; max-width: 60ch; }
+  .tl { position: relative; margin: 0; padding: 0 0 0 92px; list-style: none; }
+  .tl::before { content: ""; position: absolute; left: 64px; top: 8px; bottom: 8px; width: 1px; background: linear-gradient(var(--border-strong), var(--border)); }
+  .tl li { position: relative; padding: 0 0 26px; cursor: pointer; }
+  .tl li:last-child { padding-bottom: 0; }
+  .tl .dot { position: absolute; left: -32px; top: 22px; width: 11px; height: 11px; border-radius: 50%; background: var(--accent-soft); box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 22%, transparent); }
+  .tl .yr { position: absolute; left: -92px; top: 18px; width: 48px; text-align: right; font-family: var(--font-mono); font-size: 13px; color: var(--accent-soft); font-variant-numeric: tabular-nums; }
+  .tl .tl-card {
+    display: flex; align-items: center; gap: 14px; padding: 10px 14px 10px 10px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+    transition: transform .25s cubic-bezier(.2,.7,.2,1), border-color .25s;
+  }
+  .tl li:hover .tl-card { transform: translateX(4px); border-color: var(--border-strong); }
+  .tl .tthumb { flex: none; width: 84px; aspect-ratio: 16/10; border-radius: 9px; overflow: hidden; position: relative; }
+  .tl .tthumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .tl .tb { font-family: var(--font-mono); font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent-soft); }
+  .tl .tn { font-weight: 640; font-size: 15.5px; }
+  .tl .td { color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+  .tl .decade { font-family: var(--font-mono); font-size: 11px; letter-spacing: .22em; text-transform: uppercase; color: var(--faint); margin: 6px 0 18px; }
+  @media (max-width: 560px) {
+    .tl { padding-left: 66px; } .tl::before { left: 46px; }
+    .tl .yr { left: -66px; width: 36px; font-size: 11px; } .tl .dot { left: -25px; }
+    .tl .tthumb { width: 64px; }
+  }
+
+  /* ---------- Dashboard ---------- */
+  .dash { padding: 34px 0 20px; }
+  .dash h2 { font-size: clamp(26px,4.5vw,38px); letter-spacing: -.02em; margin: 0 0 8px; }
+  .dash .dsub { color: var(--muted); margin: 0 0 28px; max-width: 62ch; }
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 26px; }
+  .tile { background: var(--surface); border: 1px solid var(--border); border-radius: 15px; padding: 16px 16px 14px; }
+  .tile .tv { font-size: clamp(21px,3vw,28px); font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+  .tile .tv small { font-size: .55em; color: var(--muted); font-weight: 550; }
+  .tile .tk { font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-top: 5px; }
+  .tile.hero-tile { grid-column: span 2; background: linear-gradient(150deg, color-mix(in srgb, var(--accent) 14%, var(--surface)), var(--surface)); border-color: color-mix(in srgb, var(--accent) 34%, var(--border)); }
+  .dash-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 760px) { .dash-grid { grid-template-columns: 1fr; } .tile.hero-tile { grid-column: span 2; } }
+  .dcard { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
+  .dcard h4 { margin: 0 0 16px; font-family: var(--font-mono); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .bar-row { display: grid; grid-template-columns: 92px 1fr 44px; align-items: center; gap: 10px; margin-bottom: 10px; font-size: 13px; }
+  .bar-row .bl { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar-row .bt { position: relative; height: 8px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
+  .bar-row .bf { position: absolute; inset: 0 auto 0 0; border-radius: 99px; background: linear-gradient(90deg, var(--accent), var(--accent-soft)); }
+  .bar-row .bv { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+  .rec-row { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 9px 0; border-top: 1px solid var(--border); font-size: 14px; }
+  .rec-row:first-of-type { border-top: 0; }
+  .rec-row .rk2 { color: var(--muted); font-size: 13px; }
+  .rec-row .rv2 { font-weight: 600; text-align: right; }
+  .rec-row .rv2 small { color: var(--muted); font-weight: 400; font-family: var(--font-mono); font-size: 11px; margin-left: 5px; }
+  .dash-note { margin-top: 18px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
+
+  /* ---------- Ordenação ---------- */
+  .sortsel {
+    appearance: none; -webkit-appearance: none; cursor: pointer;
+    font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .04em; color: var(--muted);
+    background: var(--surface) url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="%238B958D" fill="none" stroke-width="1.6" stroke-linecap="round"/></svg>') no-repeat right 11px center;
+    border: 1px solid var(--border); border-radius: 10px; padding: 8px 30px 8px 12px;
+  }
+  .sortsel:focus { outline: none; border-color: var(--accent); }
+
+  /* ---------- Modo apresentação ---------- */
+  .present { position: fixed; inset: 0; z-index: 200; background: #050706; display: none; }
+  .present.on { display: block; }
+  .present .p-img { position: absolute; inset: 0; }
+  .present .p-img img { width: 100%; height: 100%; object-fit: cover; }
+  .present .p-img .p-studio { position: absolute; inset: 0; }
+  .present .p-img::after { content: ""; position: absolute; inset: 0; background: linear-gradient(200deg, rgba(5,7,6,.05) 40%, rgba(5,7,6,.88) 88%); }
+  @keyframes kenburns { from { transform: scale(1); } to { transform: scale(1.07); } }
+  .present .p-img img { animation: kenburns 9s ease-out forwards; }
+  .present .p-cap { position: absolute; left: clamp(20px,5vw,64px); right: clamp(20px,5vw,64px); bottom: clamp(28px,7vh,72px); z-index: 2; }
+  .present .p-brand { font-family: var(--font-mono); font-size: 13px; letter-spacing: .26em; text-transform: uppercase; color: var(--accent-soft); margin-bottom: 10px; }
+  .present .p-name { font-size: clamp(40px,8vw,88px); font-weight: 760; letter-spacing: -.03em; line-height: .95; color: #fff; }
+  .present .p-specs { display: flex; gap: clamp(18px,4vw,44px); margin-top: 20px; flex-wrap: wrap; }
+  .present .p-spec .v { font-size: clamp(18px,2.6vw,26px); font-weight: 680; color: #fff; font-variant-numeric: tabular-nums; }
+  .present .p-spec .v small { font-size: .6em; color: rgba(255,255,255,.55); }
+  .present .p-spec .k { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .14em; text-transform: uppercase; color: rgba(255,255,255,.5); margin-top: 3px; }
+  .present .p-ref { position: absolute; top: 18px; left: 18px; z-index: 3; font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: rgba(255,255,255,.6); border: 1px solid rgba(255,255,255,.2); border-radius: 999px; padding: 5px 10px; background: rgba(5,7,6,.4); }
+  .present .p-close { position: absolute; top: 16px; right: 16px; z-index: 4; width: 44px; height: 44px; border-radius: 50%; border: 1px solid rgba(255,255,255,.22); background: rgba(5,7,6,.5); color: #fff; font-size: 18px; cursor: pointer; backdrop-filter: blur(8px); }
+  .present .p-dots { position: absolute; bottom: 14px; left: 50%; transform: translateX(-50%); z-index: 3; display: flex; gap: 7px; }
+  .present .p-dots span { width: 7px; height: 7px; border-radius: 50%; background: rgba(255,255,255,.25); transition: background .3s, transform .3s; }
+  .present .p-dots span.on { background: var(--accent-soft); transform: scale(1.25); }
+  .present .p-zone { position: absolute; top: 0; bottom: 0; width: 34%; z-index: 3; cursor: pointer; }
+  .present .p-zone.prev { left: 0; } .present .p-zone.next { right: 0; }
+  .p-fade { animation: pfade .5s ease; }
+  @keyframes pfade { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .present .p-img img { animation: none; } .p-fade { animation: none; } }
+
   /* ---------- Toggle de vista ---------- */
-  .listbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 0 0 20px; }
+  .listbar { display: flex; align-items: center; gap: 10px; margin: 0 0 20px; flex-wrap: wrap; }
+  .listbar .count { margin-right: auto; }
   .viewtog { display: inline-flex; border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
   .viewtog button { border: 0; background: var(--surface); color: var(--muted); padding: 8px 12px; cursor: pointer; display: grid; place-items: center; transition: all .18s; }
   .viewtog button[aria-pressed="true"] { background: var(--accent); color: #04140c; }
@@ -325,15 +431,17 @@
       </div>
     </div>
     <nav aria-label="Navegação">
-      <a href="#colecao">Coleção</a>
+      <button type="button" data-tab="colecao" aria-current="true">Coleção</button>
+      <button type="button" data-tab="cronologia">Cronologia</button>
+      <button type="button" data-tab="dashboard">Dashboard</button>
       <button id="nav-grupos" type="button">Grupos</button>
-      <a href="#arquivo">Arquivo</a>
+      <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.2</span>
+    <span class="wip">WIP · v0.3</span>
   </div>
 </header>
 
-<section class="hero">
+<section class="hero tabsec on" data-sec="colecao">
   <div class="wrap">
     <p class="eyebrow">Coleção privada</p>
     <h1>A garagem,<br>onde quer que esteja.</h1>
@@ -347,7 +455,7 @@
   </div>
 </section>
 
-<div class="toolbar">
+<div class="toolbar tabsec on" data-sec="colecao">
   <div class="wrap">
     <div class="search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -357,10 +465,19 @@
   </div>
 </div>
 
-<main id="colecao">
+<main id="colecao" class="tabsec on" data-sec="colecao">
   <div class="wrap">
     <div class="listbar">
       <p class="count" id="count" style="margin:0"></p>
+      <select class="sortsel" id="sortsel" aria-label="Ordenar por">
+        <option value="curator">Ordem · curadoria</option>
+        <option value="year-asc">Ano · antigo→novo</option>
+        <option value="year-desc">Ano · novo→antigo</option>
+        <option value="power-desc">Potência · maior</option>
+        <option value="vmax-desc">V. máx · maior</option>
+        <option value="value-desc">Valor · maior</option>
+        <option value="name-asc">Nome · A→Z</option>
+      </select>
       <div class="viewtog" role="group" aria-label="Vista">
         <button id="v-grid" aria-pressed="true" title="Vista de cartões" aria-label="Vista de cartões">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg>
@@ -380,6 +497,26 @@
     </section>
   </div>
 </main>
+
+<section class="tabsec" data-sec="cronologia">
+  <div class="wrap">
+    <div class="tl-wrap">
+      <div class="tl-head">
+        <h2>Cronologia da coleção</h2>
+        <p>A garagem ordenada no tempo — do protótipo de Le Mans ao grand tourer elétrico. Por agora, pelo ano de cada automóvel; quando registarmos as datas de aquisição, esta linha contará a história da própria coleção.</p>
+      </div>
+      <ol class="tl" id="tl"></ol>
+    </div>
+  </div>
+</section>
+
+<section class="tabsec" data-sec="dashboard">
+  <div class="wrap">
+    <div class="dash" id="dash"></div>
+  </div>
+</section>
+
+<div class="present" id="present" role="dialog" aria-modal="true" aria-label="Apresentação"></div>
 
 <div class="ovl" id="ovl" role="dialog" aria-modal="true" aria-label="Ficha do veículo">
   <div class="scrim-bg" id="ovl-bg"></div>
@@ -407,7 +544,7 @@ const CARS = [
     power: "612", powerU: "PS", vmax: "330", vmaxU: "km/h", accel: "3.9", accelU: "s",
     engine: "V10 5.7 atmosférico", production: "1 270 unid.",
     collections: ["Hypercars","Porsche","Atmosféricos"],
-    tags: ["#v10","#manual","#analógico"],
+    tags: ["#v10","#manual","#analógico"], valueK: 1900, engType: "Atmosférico",
     hist: "Nasce de um V10 de Fórmula 1 desenvolvido em segredo (1992) e ressuscitado no protótipo de Le Mans 9R3 (2000) — programa cancelado para dar prioridade ao Cayenne. O motor órfão deu origem ao concept do Salão de Paris de 2000 e à produção em Leipzig entre 2004 e 2006.",
     curios: ["Manípulo da caixa em madeira de faia, herança dos Porsche de corrida dos anos 60/70","Embraiagem cerâmica de apenas 169 mm — famosa pela exigência a arrancar","Monocoque e subchassis integralmente em fibra de carbono (ATR, Itália)"],
     curator: "O pilar da coleção. Não é o mais rápido da garagem, mas é o mais honesto: sem turbos, sem híbrido, sem redes eletrónicas a mascarar o V10. O British Racing Green — cor de competição britânica num alemão de alma italiana no chassis — é uma provocação elegante que aprovo inteiramente. Um Carrera GT parado é um crime: use-o."
@@ -418,7 +555,7 @@ const CARS = [
     power: "380", powerU: "PS", vmax: "295", vmaxU: "km/h", accel: "4.7", accelU: "s",
     engine: "V8 3.5 · 5 válvulas", production: "4 871 Berlinetta",
     collections: ["Ferrari","Clássicos","Atmosféricos"],
-    tags: ["#v8","#gated","#pininfarina"],
+    tags: ["#v8","#gated","#pininfarina"], valueK: 180, engType: "Atmosférico",
     hist: "Sucessor do 348 e viragem de qualidade da Ferrari nos anos 90: V8 de 3.5 litros com 5 válvulas por cilindro a rodar até às 8 500 rpm, desenho de Pininfarina e aerodinâmica de fundo plano apurada em mais de 1 300 horas de túnel de vento.",
     curios: ["Foi o Ferrari mais produzido até então — 11 273 no total, 4 871 Berlinetta","Em 1997 estreou a caixa 'F1' de patilhas; o manual de grelha aberta é hoje o mais desejado","Argento Nürburgring sobre interior Cuoio é uma especificação rara e de conhecedor"],
     curator: "O pequeno Ferrari analógico perfeito, Dr. Rodrigo. O som acima das 6 000 rpm justifica-o sozinho, e a caixa manual de grelha metálica é um instrumento de precisão. Prata sobre Cuoio foge ao vermelho óbvio — assinatura de quem escolhe com a cabeça e compra com o coração."
@@ -429,7 +566,7 @@ const CARS = [
     power: "660", powerU: "PS", vmax: "350", vmaxU: "km/h", accel: "3.3", accelU: "s",
     engine: "V12 6.0 F140", production: "399 (+1) unid.",
     collections: ["Hypercars","Ferrari","Atmosféricos","Ícones"],
-    tags: ["#v12","#f1-tech","#pope-car"],
+    tags: ["#v12","#f1-tech","#pope-car"], valueK: 3800, engType: "Atmosférico",
     hist: "Apresentado em Paris em 2002 como a síntese de estrada da F1 da era Schumacher: V12 F140 de 6.0 litros e 660 CV, caixa robotizada, aerodinâmica ativa e travões carbono-cerâmicos. Batizado em honra do fundador, Enzo Ferrari.",
     curios: ["Sem asa traseira fixa — o apoio aerodinâmico é gerado pelo fundo e difusores ativos","399 unidades, mais uma 400.ª oferecida ao Papa João Paulo II e leiloada para caridade","O motor F140 é, ainda hoje, a base dos V12 atmosféricos da Ferrari"],
     curator: "O hipercarro-charneira: fecha a era analógica e abre a moderna, num desenho que não pede desculpa a ninguém. Rosso Corsa é a única cor 'certa' para um Enzo — e o seu exemplar tem-na. Guardar, usar com parcimónia, e nunca, nunca vender."
@@ -439,8 +576,8 @@ const CARS = [
     colour: "A definir", paint: "#6b7076", state: "Na coleção",
     power: "530", powerU: "PS", vmax: "329", vmaxU: "km/h", accel: "3.6", accelU: "s",
     engine: "3.6 biturbo (997)", production: "997 · 2007–09",
-    collections: ["Porsche","Track","Hypercars"],
-    tags: ["#biturbo","#widowmaker","#tração-traseira"],
+    collections: ["Porsche","Competição","Hypercars"],
+    tags: ["#biturbo","#widowmaker","#tração-traseira"], valueK: 260, engType: "Turbo",
     hist: "A 911 mais extrema do seu tempo: o 3.6 biturbo do Turbo levado a 530 PS, mas com tração exclusivamente traseira e caixa manual. Foi a primeira 911 de série a ultrapassar as 200 mph (329 km/h).",
     curios: ["Herda a alcunha 'widowmaker' dos GT2 anteriores — potência turbo, atrás, sem 4x4","Escape em titânio e launch control de série","Travões carbono-cerâmicos (PCCB) de origem"],
     curator: "A 911 mais intimidante da era moderna — e por isso mesmo a mais gratificante. Num mundo que já caminhava para a assistência total, o GT2 de 2007 é um contrato de confiança entre carro e condutor. Respeito e recompensa em partes iguais."
@@ -451,7 +588,7 @@ const CARS = [
     power: "450", powerU: "PS", vmax: "317", vmaxU: "km/h", accel: "3.7", accelU: "s",
     engine: "Flat-6 2.85 biturbo", production: "≈292 unid.",
     collections: ["Porsche","Clássicos","Ícones"],
-    tags: ["#awd","#grupo-b","#tecnologia"],
+    tags: ["#awd","#grupo-b","#tecnologia"], valueK: 1800, engType: "Turbo",
     hist: "Nascido para o Grupo B, tornou-se o laboratório tecnológico da Porsche: tração integral inteligente (PSK), turbos sequenciais, suspensão adaptativa e carroçaria em kevlar. Em 1986/87 era o carro de produção mais rápido do mundo — e venceu o Paris-Dakar.",
     curios: ["Caixa de 6 velocidades com 1.ª marcha 'G' (Gelände — todo-o-terreno)","Pioneiro na monitorização de pressão dos pneus","≈292 exemplares de série; hoje entre os Porsche mais valorizados de sempre"],
     curator: "O antepassado direto de todos os 911 Turbo modernos — cada 911 atual deve-lhe qualquer coisa. Em prata de lançamento é história da engenharia em estado puro. A par do 917, é o carro que dá profundidade de museu a esta coleção."
@@ -462,7 +599,7 @@ const CARS = [
     power: "700", powerU: "PS", vmax: "322", vmaxU: "km/h", accel: "3.5", accelU: "s",
     engine: "V12 5.2 biturbo", production: "177 / 249",
     collections: ["Edições Especiais","Descapotáveis","Modernos"],
-    tags: ["#v12","#177-de-249","#roadster"],
+    tags: ["#v12","#177-de-249","#roadster"], valueK: 450, engType: "Turbo",
     hist: "O canto do cisne: o último V12 num Vantage, limitado a 249 Roadsters — todos vendidos antes do lançamento. O 5.2 biturbo de 700 PS faz dele o Vantage aberto mais rápido de sempre.",
     curios: ["Exemplar n.º 177 de 249","Grelha 25% maior para alimentar e arrefecer o V12","Com a asa opcional gera 216 kg de apoio aerodinâmico"],
     curator: "Comprar o último de uma linhagem é sempre sábio, Dr. Rodrigo. Doze cilindros, céu aberto e verde de lançamento — poesia britânica com data de validade que já expirou para quem não foi rápido. O 177/249 ficará no lado certo da história."
@@ -473,7 +610,7 @@ const CARS = [
     power: "626", powerU: "PS", vmax: "334", vmaxU: "km/h", accel: "3.8", accelU: "s",
     engine: "V8 5.4 supercharged", production: "≈2 157 unid.",
     collections: ["Hypercars","Clássicos","Ícones"],
-    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"],
+    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"], valueK: 400, engType: "Sobrealimentado",
     hist: "Colaboração Mercedes-McLaren inspirada no 300 SLR de Uhlenhaut: V8 de 5.4 litros sobrealimentado com 626 PS montado atrás do eixo dianteiro, corpo em carbono construído em Woking, portas borboleta e travão aerodinâmico ativo.",
     curios: ["Escapes laterais logo atrás das rodas dianteiras — assinatura sonora inconfundível","Travão aerodinâmico: a asa traseira levanta a 65° em travagens fortes","À época, o GT de produção mais rápido do mundo (334 km/h)"],
     curator: "Meio grand tourer, meio hipercarro — durante anos foi incompreendido, hoje é redescoberto. Com ≈2 157 unidades em todas as variantes não é raro nos números, mas é raríssimo em bom estado e cada vez mais respeitado. Chegou ao SLR antes do mercado; isso é olho de colecionador."
@@ -483,8 +620,8 @@ const CARS = [
     colour: "Prata", paint: "#c4c8cb", state: "Na coleção", rare: true,
     power: "≈580", powerU: "PS", vmax: "≈330", vmaxU: "km/h", accel: "≈3.0", accelU: "s",
     engine: "Flat-12 · base Le Mans", production: "praticamente único",
-    collections: ["Ícones","Competição","Raros"],
-    tags: ["#le-mans","#stradale","#lenda"],
+    collections: ["Ícones","Competição"],
+    tags: ["#le-mans","#stradale","#lenda"], valueK: 15000, engType: "Atmosférico",
     hist: "O 917 deu à Porsche as primeiras vitórias absolutas em Le Mans (1970 e 1971). Pouquíssimos foram alguma vez adaptados à estrada — o mais célebre, o 917-030 do Conde Rossi, matriculado no Alabama. Uma versão de estrada é, na prática, uma peça única: um protótipo de competição domado para a via pública.",
     curios: ["Flat-12 atmosférico derivado diretamente da competição","Chassis tubular em alumínio pressurizado — a pressão denuncia fissuras na estrutura","Conversões de estrada conhecidas contam-se pelos dedos de uma mão"],
     curator: "A joia da coroa. Não há garagem no mundo a que este carro não mude o estatuto. Aqui, documentação e proveniência valem mais do que tudo — recomendo tratarmos da cronologia e dos documentos deste exemplar com prioridade absoluta.",
@@ -496,7 +633,7 @@ const CARS = [
     power: "≈210", powerU: "PS", vmax: "≈220", vmaxU: "km/h", accel: "≈5.7", accelU: "s",
     engine: "2.0 turbo · Grupo A", production: "homologação WRC",
     collections: ["Rally","Clássicos","Homologação"],
-    tags: ["#wrc","#grupo-a","#lendas-do-rally"],
+    tags: ["#wrc","#grupo-a","#lendas-do-rally"], valueK: 120, engType: "Turbo",
     hist: "Base da dinastia mais vitoriosa do WRC: seis títulos de construtores consecutivos (1987–1992). As séries de homologação do Grupo A — culminando nos Evoluzione — trouxeram vias alargadas, mais potência e a postura musculada que o tornou ícone.",
     curios: ["44 vitórias em provas do Mundial de Ralis — recorde de uma era","O 2.0 turbo 16v com tração integral definiu a receita do desportivo moderno","Os Evoluzione de homologação são os mais procurados por colecionadores"],
     curator: "O único da coleção que prova que grandeza não se mede em cilindros. Um Delta de homologação é cultura de rali destilada — e ao lado dos hipercarros desta garagem, é ele que faz o contraste que dá alma ao conjunto."
@@ -507,7 +644,7 @@ const CARS = [
     power: "350", powerU: "cv", vmax: "190", vmaxU: "km/h", accel: "5.4", accelU: "s",
     engine: "Elétrico AWD · 97 kWh", production: "série",
     collections: ["Elétricos","Modernos"],
-    tags: ["#elétrico","#gran-turismo","#flagship"],
+    tags: ["#elétrico","#gran-turismo","#flagship"], valueK: 60, engType: "Elétrico",
     hist: "O regresso do grand tourisme francês, em elétrico: o novo topo de gama da DS, revelado em 2024. Versão AWD Long Range com 350 cv (375 cv em boost) e até ≈688 km de autonomia WLTP, com interior de inspiração alta-costura parisiense.",
     curios: ["Aerodinâmica de referência no segmento (Cx ≈0,24)","Carrega de 20 a 80% em cerca de 27 minutos","Nome evoca os DS de 1955 — a vanguarda francesa como tradição"],
     curator: "A escolha mais inesperada da garagem — e por isso valiosa. Os primeiros elétricos de luxo serão os clássicos de daqui a 30 anos, e este, em cinza de lançamento com teto preto, envelhecerá com elegância. Curadoria é também apostar no futuro."
@@ -677,16 +814,36 @@ function rowHTML(c) {
 
 function userGroup(name) { return USER_GROUPS.find(g => g.name === name); }
 
+/* ---------- Ordenação ---------- */
+let sortMode = localStorage.getItem('garage.sort') || 'curator';
+const num = x => +String(x).replace(/[^\d.]/g, '') || 0;
+const SORTS = {
+  'curator':    null,
+  'year-asc':   (a,b) => a.year - b.year,
+  'year-desc':  (a,b) => b.year - a.year,
+  'power-desc': (a,b) => num(b.power) - num(a.power),
+  'vmax-desc':  (a,b) => num(b.vmax) - num(a.vmax),
+  'value-desc': (a,b) => (b.valueK||0) - (a.valueK||0),
+  'name-asc':   (a,b) => (a.brand+a.name).localeCompare(b.brand+b.name, 'pt'),
+};
+const sortSel = document.getElementById('sortsel');
+sortSel.value = sortMode;
+sortSel.addEventListener('change', () => {
+  sortMode = sortSel.value; localStorage.setItem('garage.sort', sortMode); render();
+});
+
 function visibleCars() {
   const q = qEl.value.trim().toLowerCase();
   const ug = userGroup(activeFilter);
-  return CARS.filter(c => {
+  const out = CARS.filter(c => {
     const matchF = activeFilter === "Todos"
       || c.collections.includes(activeFilter)
       || (ug && ug.cars.includes(c.name));
     const matchQ = !q || (c.brand+' '+c.name+' '+c.engine+' '+c.colour).toLowerCase().includes(q);
     return matchF && matchQ;
   });
+  const fn = SORTS[sortMode];
+  return fn ? [...out].sort(fn) : out;
 }
 
 function renderChips() {
@@ -916,6 +1073,161 @@ gsheet.addEventListener('click', e => {
 });
 document.getElementById('govl-bg').addEventListener('click', closeGroups);
 document.getElementById('nav-grupos').addEventListener('click', openGroups);
+
+/* ---------- Separadores ---------- */
+const navBtns = [...document.querySelectorAll('.top nav button[data-tab]')];
+function switchTab(name) {
+  document.querySelectorAll('[data-sec]').forEach(el => el.classList.toggle('on', el.dataset.sec === name));
+  navBtns.forEach(b => b.setAttribute('aria-current', b.dataset.tab === name));
+  window.scrollTo({ top: 0, behavior: 'auto' });
+  if (name === 'cronologia') renderTimeline();
+  if (name === 'dashboard') renderDash();
+}
+navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
+
+/* ---------- Cronologia ---------- */
+function thumbFor(c) {
+  const slug = SLUGS[c.name] || '';
+  const photos = PHOTOS[slug] || [];
+  return photos.length
+    ? `<img src="${photoSrc(slug, photos[0])}" alt="" loading="lazy">`
+    : `<div style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div>`;
+}
+function renderTimeline() {
+  const el = document.getElementById('tl');
+  const sorted = [...CARS].sort((a,b) => a.year - b.year);
+  let lastDecade = null, html = '';
+  for (const c of sorted) {
+    const dec = Math.floor(c.year/10)*10;
+    if (dec !== lastDecade) { html += `<li style="cursor:default;padding-bottom:14px"><div class="decade">Anos ${String(dec).slice(2)}</div></li>`; lastDecade = dec; }
+    const snippet = c.production && c.production !== 'série' ? c.production : (c.engine || '');
+    html += `
+    <li data-car="${esc(c.name)}" tabindex="0" role="button" aria-label="${esc(c.brand+' '+c.name)}">
+      <span class="yr">${c.year}</span><span class="dot"></span>
+      <div class="tl-card">
+        <div class="tthumb">${thumbFor(c)}</div>
+        <div><div class="tb">${esc(c.brand)}</div><div class="tn">${esc(c.name)}</div><div class="td">${esc(snippet)}</div></div>
+      </div>
+    </li>`;
+  }
+  el.innerHTML = html;
+}
+document.getElementById('tl').addEventListener('click', e => {
+  const li = e.target.closest('li[data-car]'); if (!li) return;
+  const c = CARS.find(x => x.name === li.dataset.car);
+  if (c) openFicha(c);
+});
+
+/* ---------- Dashboard ---------- */
+const COUNTRY = { "Porsche":"Alemanha", "Mercedes-Benz":"Alemanha", "Ferrari":"Itália", "Lancia":"Itália", "Aston Martin":"Reino Unido", "DS Automobiles":"França" };
+function fmtValue(k) {
+  return k >= 1000 ? '€' + (k/1000).toFixed(1).replace('.', ',') + ' M' : '€' + k + ' mil';
+}
+function barRows(counts, unit) {
+  const max = Math.max(...Object.values(counts));
+  return Object.entries(counts).sort((a,b) => b[1]-a[1]).map(([k,v]) =>
+    `<div class="bar-row"><span class="bl">${esc(k)}</span><span class="bt"><span class="bf" style="width:${Math.round(v/max*100)}%"></span></span><span class="bv">${v}${unit||''}</span></div>`
+  ).join('');
+}
+function renderDash() {
+  const el = document.getElementById('dash');
+  const totalPower = CARS.reduce((s,c) => s + num(c.power), 0);
+  const totalValue = CARS.reduce((s,c) => s + (c.valueK||0), 0);
+  const byCountry = {}, byDecade = {}, byEng = {};
+  CARS.forEach(c => {
+    const co = COUNTRY[c.brand] || 'Outro'; byCountry[co] = (byCountry[co]||0)+1;
+    const d = "Anos " + String(Math.floor(c.year/10)*10).slice(2); byDecade[d] = (byDecade[d]||0)+1;
+    byEng[c.engType||'—'] = (byEng[c.engType||'—']||0)+1;
+  });
+  const fastest = [...CARS].sort((a,b) => num(b.vmax)-num(a.vmax))[0];
+  const powerful = [...CARS].sort((a,b) => num(b.power)-num(a.power))[0];
+  const quickest = [...CARS].sort((a,b) => num(a.accel)-num(b.accel))[0];
+  const valuable = [...CARS].sort((a,b) => (b.valueK||0)-(a.valueK||0))[0];
+  const oldest = [...CARS].sort((a,b) => a.year-b.year)[0];
+  const rarest = CARS.find(c => c.name.includes('917')) || oldest;
+  el.innerHTML = `
+    <h2>Dashboard da coleção</h2>
+    <p class="dsub">A garagem em números — atualiza automaticamente à medida que a coleção evolui.</p>
+    <div class="tiles">
+      <div class="tile hero-tile"><div class="tv">${fmtValue(totalValue)}</div><div class="tk">Valor estimado da coleção</div></div>
+      <div class="tile"><div class="tv">${CARS.length}</div><div class="tk">Automóveis</div></div>
+      <div class="tile"><div class="tv">${new Set(CARS.map(c=>c.brand)).size}</div><div class="tk">Marcas</div></div>
+      <div class="tile"><div class="tv">${totalPower.toLocaleString('pt-PT')}<small> PS</small></div><div class="tk">Potência total</div></div>
+      <div class="tile"><div class="tv">${Math.round(totalPower/CARS.length)}<small> PS</small></div><div class="tk">Potência média</div></div>
+      <div class="tile"><div class="tv">${Math.max(...CARS.map(c=>c.year)) - Math.min(...CARS.map(c=>c.year))}<small> anos</small></div><div class="tk">Amplitude histórica</div></div>
+    </div>
+    <div class="dash-grid">
+      <div class="dcard"><h4>Recordes da garagem</h4>
+        <div class="rec-row"><span class="rk2">Mais rápido</span><span class="rv2">${esc(fastest.name)}<small>${fastest.vmax} ${fastest.vmaxU}</small></span></div>
+        <div class="rec-row"><span class="rk2">Mais potente</span><span class="rv2">${esc(powerful.name)}<small>${powerful.power} ${powerful.powerU}</small></span></div>
+        <div class="rec-row"><span class="rk2">0–100 mais rápido</span><span class="rv2">${esc(quickest.name)}<small>${quickest.accel} s</small></span></div>
+        <div class="rec-row"><span class="rk2">Mais valioso</span><span class="rv2">${esc(valuable.name)}<small>${fmtValue(valuable.valueK)}</small></span></div>
+        <div class="rec-row"><span class="rk2">Mais antigo</span><span class="rv2">${esc(oldest.name)}<small>${oldest.year}</small></span></div>
+        <div class="rec-row"><span class="rk2">Mais raro</span><span class="rv2">${esc(rarest.name)}<small>${esc(rarest.production)}</small></span></div>
+      </div>
+      <div class="dcard"><h4>Nacionalidades</h4>${barRows(byCountry)}
+        <h4 style="margin-top:22px">Motorizações</h4>${barRows(byEng)}</div>
+      <div class="dcard" style="grid-column:1/-1"><h4>Distribuição por década</h4>${barRows(byDecade)}</div>
+    </div>
+    <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
+}
+
+/* ---------- Modo apresentação ---------- */
+const presEl = document.getElementById('present');
+let presIdx = 0, presTimer = null, presList = [];
+function presSlide() {
+  const c = presList[presIdx];
+  const slug = SLUGS[c.name] || '';
+  const photos = PHOTOS[slug] || [];
+  const meta = PHOTO_META[slug] || {};
+  const img = photos.length
+    ? `<img src="${photoSrc(slug, photos[0])}" alt="">`
+    : `<div class="p-studio" style="background:${studioBg(c.paint)}"></div>`;
+  presEl.innerHTML = `
+    <div class="p-img p-fade">${img}</div>
+    ${meta.ref ? '<span class="p-ref">◈ referência do modelo</span>' : ''}
+    <button class="p-close" aria-label="Fechar">✕</button>
+    <div class="p-zone prev" aria-hidden="true"></div>
+    <div class="p-zone next" aria-hidden="true"></div>
+    <div class="p-cap p-fade">
+      <div class="p-brand">${esc(c.brand)} · ${c.year}</div>
+      <div class="p-name">${esc(c.hero)}</div>
+      <div class="p-specs">
+        <div class="p-spec"><div class="v">${c.power}<small> ${c.powerU}</small></div><div class="k">Potência</div></div>
+        <div class="p-spec"><div class="v">${c.vmax}<small> ${c.vmaxU}</small></div><div class="k">V. máx</div></div>
+        <div class="p-spec"><div class="v">${c.accel}<small> s</small></div><div class="k">0–100</div></div>
+        <div class="p-spec"><div class="v" style="font-size:15px;line-height:1.6">${esc(c.engine)}</div><div class="k">Motor</div></div>
+      </div>
+    </div>
+    <div class="p-dots">${presList.map((_,i) => `<span class="${i===presIdx?'on':''}"></span>`).join('')}</div>`;
+}
+function presNext(d) { presIdx = (presIdx + d + presList.length) % presList.length; presSlide(); presArm(); }
+function presArm() {
+  clearInterval(presTimer);
+  presTimer = setInterval(() => presNext(1), 6500);
+}
+function openPresent() {
+  presList = visibleCars().length ? visibleCars() : CARS;
+  presIdx = 0;
+  presEl.classList.add('on'); document.body.classList.add('locked');
+  presSlide(); presArm();
+}
+function closePresent() {
+  presEl.classList.remove('on'); document.body.classList.remove('locked');
+  clearInterval(presTimer); presTimer = null;
+}
+presEl.addEventListener('click', e => {
+  if (e.target.closest('.p-close')) return closePresent();
+  if (e.target.closest('.p-zone.prev')) return presNext(-1);
+  if (e.target.closest('.p-zone.next')) return presNext(1);
+});
+document.getElementById('nav-present').addEventListener('click', openPresent);
+document.addEventListener('keydown', e => {
+  if (!presEl.classList.contains('on')) return;
+  if (e.key === 'ArrowRight') presNext(1);
+  if (e.key === 'ArrowLeft') presNext(-1);
+  if (e.key === 'Escape') closePresent();
+});
 
 document.getElementById('arch').innerHTML = ARCHIVE.map(a =>
   `<div class="arch"><div class="an">${esc(a.name)}</div><div class="ar">${esc(a.reason)}</div><span class="abadge">Não adicionado</span></div>`
