@@ -17,6 +17,7 @@
   :root {
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     --font-mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    --font-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
 
     /* Galeria diurna — fundo branco, requinte de museu */
     --bg: #FFFFFF;
@@ -169,7 +170,8 @@
   .present .p-img img { animation: kenburns 9s ease-out forwards; }
   .present .p-cap { position: absolute; left: clamp(20px,5vw,64px); right: clamp(20px,5vw,64px); bottom: clamp(28px,7vh,72px); z-index: 2; }
   .present .p-brand { font-family: var(--font-mono); font-size: 13px; letter-spacing: .26em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
-  .present .p-name { font-size: clamp(40px,8vw,88px); font-weight: 760; letter-spacing: -.03em; line-height: .95; color: var(--text); }
+  .present .p-name { font-family: var(--font-serif); font-size: clamp(40px,8vw,82px); font-weight: 600; letter-spacing: -.01em; line-height: .98; color: var(--text); }
+  .present .p-sub { font-family: var(--font-serif); font-style: italic; font-size: clamp(15px,2.4vw,20px); color: var(--muted); margin-top: 12px; }
   .present .p-specs { display: flex; gap: clamp(18px,4vw,44px); margin-top: 20px; flex-wrap: wrap; }
   .present .p-spec .v { font-size: clamp(18px,2.6vw,26px); font-weight: 680; color: var(--text); font-variant-numeric: tabular-nums; }
   .present .p-spec .v small { font-size: .6em; color: var(--muted); }
@@ -303,15 +305,18 @@
   /* hero photo area (placeholder studio) */
   .shot { position: relative; aspect-ratio: 16 / 10.5; overflow: hidden; display: grid; place-items: center; }
   .shot .studio { position: absolute; inset: 0; }
+  .shot .cap { position: absolute; left: 22px; right: 22px; bottom: 18px; z-index: 2; }
+  .shot .cap.center { position: relative; left: auto; right: auto; bottom: auto; text-align: center; padding: 0 20px; }
   .shot .name {
-    position: relative; font-weight: 760; letter-spacing: -.03em; text-align: center; padding: 0 18px;
-    font-size: clamp(38px, 6vw, 58px); line-height: .9;
-    color: var(--text);
+    font-family: var(--font-serif); font-weight: 600; letter-spacing: -.01em; line-height: .96;
+    font-size: clamp(30px, 4.6vw, 46px); color: var(--text);
   }
+  .shot .cap.center .name { font-size: clamp(34px, 5.4vw, 52px); }
+  .shot .sub { font-family: var(--font-serif); font-style: italic; font-size: 14px; color: var(--muted); margin-top: 6px; max-width: 42ch; }
+  .shot .cap.center .sub { margin-left: auto; margin-right: auto; }
   .shot .carimg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; transition: transform .55s cubic-bezier(.2,.7,.2,1); }
   .card:hover .shot .carimg { transform: scale(1.045); }
-  .shot .scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,0) 45%, rgba(250,250,248,.86)); }
-  .shot .name.lower { position: absolute; left: 20px; right: 20px; bottom: 16px; text-align: left; padding: 0; font-size: clamp(28px, 4.4vw, 46px); }
+  .shot .scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,0) 40%, rgba(252,252,250,.62) 72%, rgba(252,252,250,.95)); }
   .shot .floor { position: absolute; left: 8%; right: 8%; bottom: 12%; height: 40px; border-radius: 50%; filter: blur(16px); opacity: .28; }
   .shot .state {
     position: absolute; top: 14px; left: 14px; z-index: 2;
@@ -378,7 +383,7 @@
   .f-hero { position: relative; aspect-ratio: 16/9; margin-top: -54px; overflow: hidden; display: grid; place-items: center; }
   .f-hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
   .f-hero .f-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(255,255,255,0) 55%, rgba(250,250,248,.92)); }
-  .f-hero .name { position: relative; z-index: 1; font-weight: 760; letter-spacing: -.03em; font-size: clamp(44px,7vw,72px); color: var(--text); }
+  .f-hero .name { font-family: var(--font-serif); position: relative; z-index: 1; font-weight: 600; letter-spacing: -.01em; font-size: clamp(40px,6.5vw,64px); color: var(--text); }
   .f-thumbs { display: flex; gap: 8px; padding: 12px 22px 0; overflow-x: auto; scrollbar-width: none; }
   .f-thumbs::-webkit-scrollbar { display: none; }
   .f-thumbs button { flex: none; width: 86px; aspect-ratio: 4/3; border-radius: 10px; overflow: hidden; border: 2px solid var(--border); padding: 0; cursor: pointer; background: var(--surface); opacity: .7; transition: opacity .2s, border-color .2s; }
@@ -388,7 +393,8 @@
   .f-head { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; flex-wrap: wrap; }
   .f-head .bn { font-family: var(--font-mono); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent-soft); }
   .f-head .yr { font-family: var(--font-mono); font-size: 13px; color: var(--muted); }
-  .f-title { font-size: clamp(26px, 4.4vw, 38px); font-weight: 700; letter-spacing: -.02em; margin: 6px 0 12px; }
+  .f-title { font-family: var(--font-serif); font-size: clamp(30px, 5vw, 46px); font-weight: 600; letter-spacing: -.01em; margin: 6px 0 4px; }
+  .f-sub { font-family: var(--font-serif); font-style: italic; font-size: clamp(15px,2.2vw,18px); color: var(--muted); margin: 0 0 14px; }
   .f-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
   .f-label { font-family: var(--font-mono); font-size: 11px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin: 26px 0 12px; display: flex; align-items: center; gap: 12px; }
   .f-label::after { content: ""; height: 1px; flex: 1; background: var(--border); }
@@ -445,7 +451,7 @@
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.4</span>
+    <span class="wip">WIP · v0.5</span>
   </div>
 </header>
 
@@ -547,7 +553,7 @@
 /* ---------- Dados da coleção ---------- */
 const CARS = [
   {
-    brand: "Porsche", name: "Carrera GT", hero: "Carrera GT", year: 2005,
+    brand: "Porsche", name: "Carrera GT", hero: "Carrera GT", sub: "O ícone atmosférico de V10 — o derradeiro carro de condutor.", year: 2005,
     colour: "British Racing Green", paint: "#16482f", state: "Na coleção",
     power: "612", powerU: "PS", vmax: "330", vmaxU: "km/h", accel: "3.9", accelU: "s",
     engine: "V10 5.7 atmosférico", production: "1 270 unid.",
@@ -558,7 +564,7 @@ const CARS = [
     curator: "O pilar da coleção. Não é o mais rápido da garagem, mas é o mais honesto: sem turbos, sem híbrido, sem redes eletrónicas a mascarar o V10. O British Racing Green — cor de competição britânica num alemão de alma italiana no chassis — é uma provocação elegante que aprovo inteiramente. Um Carrera GT parado é um crime: use-o."
   },
   {
-    brand: "Ferrari", name: "F355 Berlinetta", hero: "F355", year: 1998,
+    brand: "Ferrari", name: "F355 Berlinetta", hero: "F355", sub: "O V8 que devolveu a magia à Ferrari dos anos 90.", year: 1998,
     colour: "Argento Nürburgring / Cuoio", paint: "#c3c8cb", state: "Na coleção",
     power: "380", powerU: "PS", vmax: "295", vmaxU: "km/h", accel: "4.7", accelU: "s",
     engine: "V8 3.5 · 5 válvulas", production: "4 871 Berlinetta",
@@ -569,7 +575,7 @@ const CARS = [
     curator: "O pequeno Ferrari analógico perfeito, Dr. Rodrigo. O som acima das 6 000 rpm justifica-o sozinho, e a caixa manual de grelha metálica é um instrumento de precisão. Prata sobre Cuoio foge ao vermelho óbvio — assinatura de quem escolhe com a cabeça e compra com o coração."
   },
   {
-    brand: "Ferrari", name: "Enzo", hero: "Enzo", year: 2004,
+    brand: "Ferrari", name: "Enzo", hero: "Enzo", sub: "A Fórmula 1 da era Schumacher, feita estrada.", year: 2004,
     colour: "Rosso Corsa", paint: "#cc1122", state: "Na coleção",
     power: "660", powerU: "PS", vmax: "350", vmaxU: "km/h", accel: "3.3", accelU: "s",
     engine: "V12 6.0 F140", production: "399 (+1) unid.",
@@ -580,7 +586,7 @@ const CARS = [
     curator: "O hipercarro-charneira: fecha a era analógica e abre a moderna, num desenho que não pede desculpa a ninguém. Rosso Corsa é a única cor 'certa' para um Enzo — e o seu exemplar tem-na. Guardar, usar com parcimónia, e nunca, nunca vender."
   },
   {
-    brand: "Porsche", name: "911 GT2", hero: "GT2", year: 2007,
+    brand: "Porsche", name: "911 GT2", hero: "GT2", sub: "A 911 mais extrema do seu tempo — turbo, atrás, sem rede.", year: 2007,
     colour: "A definir", paint: "#6b7076", state: "Na coleção",
     power: "530", powerU: "PS", vmax: "329", vmaxU: "km/h", accel: "3.6", accelU: "s",
     engine: "3.6 biturbo (997)", production: "997 · 2007–09",
@@ -591,7 +597,7 @@ const CARS = [
     curator: "A 911 mais intimidante da era moderna — e por isso mesmo a mais gratificante. Num mundo que já caminhava para a assistência total, o GT2 de 2007 é um contrato de confiança entre carro e condutor. Respeito e recompensa em partes iguais."
   },
   {
-    brand: "Porsche", name: "959", hero: "959", year: 1987,
+    brand: "Porsche", name: "959", hero: "959", sub: "O laboratório que reinventou o desportivo moderno.", year: 1987,
     colour: "Prata de lançamento", paint: "#b9bec2", state: "Na coleção",
     power: "450", powerU: "PS", vmax: "317", vmaxU: "km/h", accel: "3.7", accelU: "s",
     engine: "Flat-6 2.85 biturbo", production: "≈292 unid.",
@@ -602,7 +608,7 @@ const CARS = [
     curator: "O antepassado direto de todos os 911 Turbo modernos — cada 911 atual deve-lhe qualquer coisa. Em prata de lançamento é história da engenharia em estado puro. A par do 917, é o carro que dá profundidade de museu a esta coleção."
   },
   {
-    brand: "Aston Martin", name: "V12 Vantage Roadster", hero: "V12 Vantage", year: 2023,
+    brand: "Aston Martin", name: "V12 Vantage Roadster", hero: "V12 Vantage", sub: "O último V12 a céu aberto de Gaydon.", year: 2023,
     colour: "Verde de lançamento", paint: "#1c3b2b", state: "Na coleção",
     power: "700", powerU: "PS", vmax: "322", vmaxU: "km/h", accel: "3.5", accelU: "s",
     engine: "V12 5.2 biturbo", production: "177 / 249",
@@ -613,7 +619,7 @@ const CARS = [
     curator: "Comprar o último de uma linhagem é sempre sábio, Dr. Rodrigo. Doze cilindros, céu aberto e verde de lançamento — poesia britânica com data de validade que já expirou para quem não foi rápido. O 177/249 ficará no lado certo da história."
   },
   {
-    brand: "Mercedes-Benz", name: "SLR McLaren", hero: "SLR", year: 2005,
+    brand: "Mercedes-Benz", name: "SLR McLaren", hero: "SLR", sub: "Grand tourer e hipercarro, herdeiro do 300 SLR.", year: 2005,
     colour: "A definir", paint: "#aeb3b7", state: "Na coleção",
     power: "626", powerU: "PS", vmax: "334", vmaxU: "km/h", accel: "3.8", accelU: "s",
     engine: "V8 5.4 supercharged", production: "≈2 157 unid.",
@@ -624,7 +630,7 @@ const CARS = [
     curator: "Meio grand tourer, meio hipercarro — durante anos foi incompreendido, hoje é redescoberto. Com ≈2 157 unidades em todas as variantes não é raro nos números, mas é raríssimo em bom estado e cada vez mais respeitado. Chegou ao SLR antes do mercado; isso é olho de colecionador."
   },
   {
-    brand: "Porsche", name: "917 (versão de estrada)", hero: "917", year: 1970,
+    brand: "Porsche", name: "917 (versão de estrada)", hero: "917", sub: "O vencedor de Le Mans, domado para a estrada.", year: 1970,
     colour: "Prata", paint: "#c4c8cb", state: "Na coleção", rare: true,
     power: "≈580", powerU: "PS", vmax: "≈330", vmaxU: "km/h", accel: "≈3.0", accelU: "s",
     engine: "Flat-12 · base Le Mans", production: "praticamente único",
@@ -636,7 +642,7 @@ const CARS = [
     note: "Especificações aproximadas à versão de corrida; a validar com a documentação do exemplar."
   },
   {
-    brand: "Lancia", name: "Delta Integrale (homologação)", hero: "Delta", year: 1992,
+    brand: "Lancia", name: "Delta Integrale (homologação)", hero: "Delta", sub: "Seis títulos mundiais destilados numa berlina.", year: 1992,
     colour: "A definir", paint: "#8a2230", state: "Na coleção",
     power: "≈210", powerU: "PS", vmax: "≈220", vmaxU: "km/h", accel: "≈5.7", accelU: "s",
     engine: "2.0 turbo · Grupo A", production: "homologação WRC",
@@ -647,7 +653,7 @@ const CARS = [
     curator: "O único da coleção que prova que grandeza não se mede em cilindros. Um Delta de homologação é cultura de rali destilada — e ao lado dos hipercarros desta garagem, é ele que faz o contraste que dá alma ao conjunto."
   },
   {
-    brand: "DS Automobiles", name: "N°8", hero: "N°8", year: 2025,
+    brand: "DS Automobiles", name: "N°8", hero: "N°8", sub: "O regresso do grande turismo francês — agora elétrico.", year: 2025,
     colour: "Cinza de lançamento · teto preto", paint: "#565b61", state: "Na coleção",
     power: "350", powerU: "cv", vmax: "190", vmaxU: "km/h", accel: "5.4", accelU: "s",
     engine: "Elétrico AWD · 97 kWh", production: "série",
@@ -684,8 +690,16 @@ const SLUGS = {
    Enquanto vazio, o card usa o fundo de estúdio provisório.
    Ex.: "carrera-gt": ["01.jpg", "02.jpg", "03.jpg"] */
 const PHOTOS = {
-  /* vazio de momento — fotos retiradas da app a pedido do Dr. Rodrigo (2026-07-16);
-     os ficheiros continuam em assets/cars/, prontos a religar aqui. */
+  "carrera-gt": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg"],
+  "f355-berlinetta": ["ref-01.jpg"],
+  "enzo": ["ref-01.jpg"],
+  "911-gt2": ["ref-01.jpg"],
+  "959": ["ref-01.jpg"],
+  "v12-vantage-roadster": ["ref-01.jpg"],
+  "slr-mclaren": ["ref-01.jpg"],
+  "917-stradale": ["ref-01.jpg"],
+  "delta-integrale": ["ref-01.jpg"],
+  "ds-n8": ["ref-01.jpg"],
 };
 
 /* Metadados das fotos: ref = fotografia de referência do modelo (não o exemplar).
@@ -758,15 +772,17 @@ function cardHTML(c) {
   const photos = PHOTOS[slug] || [];
   const meta = PHOTO_META[slug] || {};
   const refTag = meta.ref ? `<span class="photo-tag onimg">◈ referência do modelo</span>` : '';
+  const cap = `<div class="cap"><div class="name">${esc(c.hero)}</div>${c.sub ? `<div class="sub">${esc(c.sub)}</div>` : ''}</div>`;
+  const capC = `<div class="cap center"><div class="name">${esc(c.hero)}</div>${c.sub ? `<div class="sub">${esc(c.sub)}</div>` : ''}</div>`;
   const shot = photos.length
     ? `<img class="carimg" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
        <div class="scrim"></div>
        ${refTag}
-       <div class="name lower">${esc(c.hero)}</div>`
+       ${cap}`
     : `<div class="studio" style="background:${studioBg(c.paint)}"></div>
        <div class="floor" style="background:${c.paint}"></div>
        <span class="photo-tag">◎ foto do exemplar a enviar</span>
-       <div class="name">${esc(c.hero)}</div>`;
+       ${capC}`;
   return `
   <article class="card" data-name="${esc((c.brand+' '+c.name+' '+c.engine).toLowerCase())}" data-cols="${esc(c.collections.join('|'))}">
     <div class="shot">
@@ -901,7 +917,7 @@ function fichaHTML(c) {
     ${thumbs}
     <div class="f-body">
       <div class="f-head"><span class="bn">${esc(c.brand)}</span><span class="yr">${c.year}</span></div>
-      <div class="f-title">${esc(c.name)}</div>
+      <div class="f-title">${esc(c.name)}</div>${c.sub ? `<div class="f-sub">${esc(c.sub)}</div>` : ''}
       <div class="f-pills">
         <span class="pill state"><span class="dot"></span>${c.rare?'Raro · na coleção':esc(c.state)}</span>
         <span class="pill"><span class="swatch" style="background:${c.paint}"></span>${esc(c.colour)}</span>
@@ -1191,7 +1207,7 @@ function presSlide() {
     <div class="p-zone next" aria-hidden="true"></div>
     <div class="p-cap p-fade">
       <div class="p-brand">${esc(c.brand)} · ${c.year}</div>
-      <div class="p-name">${esc(c.hero)}</div>
+      <div class="p-name">${esc(c.hero)}</div>${c.sub ? `<div class="p-sub">${esc(c.sub)}</div>` : ''}
       <div class="p-specs">
         <div class="p-spec"><div class="v">${c.power}<small> ${c.powerU}</small></div><div class="k">Potência</div></div>
         <div class="p-spec"><div class="v">${c.vmax}<small> ${c.vmaxU}</small></div><div class="k">V. máx</div></div>

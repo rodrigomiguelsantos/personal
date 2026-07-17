@@ -34,9 +34,13 @@ decidir na altura (candidato: VM "Always Free", ou home server; deploy por git).
   Porsche; nome do carro em tinta escura sobre estúdio claro tingido pela cor
   do carro; único momento escuro: tile do valor no dashboard (verde profundo).
   O tema escuro anterior fica na história do git se quisermos volta atrás.
-- **Fotos retiradas da app (2026-07-16)** a pedido — mapa `PHOTOS` vazio;
-  ficheiros continuam em `assets/cars/` prontos a religar. "Tratamos disto
-  melhor" depois — aguardar instruções sobre fotos.
+- **Molde "showroom studio" (v0.5, 2026-07-16):** fotos religadas dentro de um
+  molde editorial — título em **serifada display** (var(--font-serif)) +
+  subtítulo em itálico, gradiente de luz e tipografia de revista, no espírito
+  das referências do Dr. Rodrigo (McLaren F1, 300 SL, Miura, XKSS, Carrera GT).
+  **Não gero imagens** (sem ferramenta + regra de rigor): uso fotos reais no
+  molde. Fundo puro de estúdio exigiria recorte/geração — não fazemos.
+  Fotos de estúdio limpas por modelo podem ser trocadas quando surgirem.
 - Inspiração de origem: Porsche (menu claro), Ferrari (Luce), Aston Martin.
 - Cada carro apresentado como peça de museu: **halo de luz de estúdio tingido
   com a cor real do carro**; nome grande como herói; pills minimalistas;
