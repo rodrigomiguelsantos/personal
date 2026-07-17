@@ -110,6 +110,31 @@ A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
 o que for útil. Registar aprendizagens relevantes aqui.
 
+## Motor de investigação de carros (protocolo de rigor)
+Objetivo: aceder a ~99% dos carros da história (tudo o que foi homologado,
+vendido, corrido ou leiloado), incluindo raros. Não há BD instalada — pesquisar
+e **cruzar** fontes na internet, em EN/DE/IT/FR além de PT, e verificar.
+
+Fontes por camada:
+1. **Fabricante** (autoridade p/ specs e produção): Porsche Newsroom/Heritage,
+   Ferrari, Mercedes-Benz Group Media, Aston Martin Heritage, DS, etc.
+2. **Enciclopédico/estruturado**: Wikipedia (cruzar EN/DE/IT/PT), Wikidata.
+3. **BD técnicas**: Ultimatespecs, automobile-catalog, carfolio, conceptcarz,
+   supercars.net, allcarindex.
+4. **Leiloeiras/mercado (ouro p/ raros: proveniência, chassis, valor)**:
+   RM Sotheby's, Gooding, Bonhams, Broad Arrow, Artcurial, Mecum,
+   Bring a Trailer, Collecting Cars, Car & Classic.
+5. **Registos de marca / clubes / papéis FIA** (nível chassis do exemplar).
+6. **Motorsport**: Racing Sports Cars, arquivos FIA, Le Mans, WRC.
+7. **Avaliação**: Hagerty Valuation, Classic.com (p/ valor e valorização).
+8. **Imprensa histórica**: Road & Track, Autocar, EVO, Quattroruote, Automobile Revue.
+9. **Comunidades**: Rennlist, FerrariChat, PistonHeads (detalhes de variantes raras).
+
+Método: cruzar 2–3 fontes por dado-chave (specs → fabricante/época; chassis/
+proveniência/valor → leiloeira/registo); separar Modelo vs. Exemplar; assinalar
+confirmado/estimado/conflito (⚑); notificar as fontes usadas; para one-offs, os
+documentos primários do Dr. Rodrigo prevalecem sobre tudo.
+
 ## Fluxo para adicionar um carro novo (Modelo A)
 1. Eu apresento um **formulário** com os campos a preencher.
 2. O Dr. Rodrigo preenche os dados e envia fotografias do exemplar.
