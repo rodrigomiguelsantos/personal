@@ -108,6 +108,16 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
   PIL em assets/icons/) + metas iOS. Instalável via Safari → "Adicionar ao
   ecrã principal".
 - Categorias afinadas (2026-07-16): Track→Competição, Raros→Ícones.
+- **v0.9 (2026-07-19):** UI varrida e movimento uniformizado; **Three.js
+  auto-alojado** (`assets/vendor/three.module.js`) — luz ambiente subtil (blobs
+  verdes a derivar, parallax ao ponteiro), com fallback para o gradiente CSS
+  (não carrega na pré-visualização Artifact por CSP; carrega no Pages). Reveal
+  uniforme estendido aos tiles/cards do Dashboard. Corrigidos estilos em falta
+  da ficha (v0.8) e formatação no iPhone.
+- **Koenigsegg Gemera (V8/HV8) adicionado (2026-07-19):** 11.º carro, a pedido.
+  2 300 cv, 400 km/h, 0–100 1,9 s, V8 5.0 biturbo híbrido, 300 unid., ~€2,2M.
+  Foto de referência (Commons, CC BY-SA, creditada). Cor/spec do exemplar por
+  validar pelo Dr. Rodrigo.
 - **v0.7 (2026-07-19):** decisão do Dr. Rodrigo — trazer capacidades à app
   vanilla no Pages, SEM React (React fica para Modelo B com servidor). Pages
   não corre servidor/BD: edição sincronizada exige Modelo B; no Pages só
@@ -169,7 +179,7 @@ documentos primários do Dr. Rodrigo prevalecem sobre tudo.
    crio a ficha e integro visualmente na UI.
 5. Eu faço **commit e push**. Aparece online.
 
-## Coleção (10) e arquivo de curadoria
+## Coleção (11) e arquivo de curadoria
 Ver `README.md`. Correções já aplicadas: é **911 GT2 (2007)** — não GT2 RS;
 **SLR McLaren** versão base (~2 157 unid., ainda assim exclusivo);
 **Lancia Delta Integrale** (homologação Grupo A).

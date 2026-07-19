@@ -39,6 +39,8 @@
 
   * { box-sizing: border-box; }
   img { max-width: 100%; }
+  :root { --ease: cubic-bezier(.2,.7,.2,1); --dur: .55s; }
+  #bg3d { position: fixed; inset: 0; z-index: -1; pointer-events: none; }
   html { scroll-behavior: smooth; }
   body {
     margin: 0; background: var(--bg); color: var(--text);
@@ -46,7 +48,7 @@
     line-height: 1.5; overflow-x: hidden;
   }
   body::before {
-    content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+    content: ""; position: fixed; inset: 0; z-index: -2; pointer-events: none;
     background:
       radial-gradient(90% 55% at 50% -12%, rgba(31,90,59,.05), transparent 60%);
   }
@@ -139,6 +141,8 @@
   .tile .tv { font-size: clamp(21px,3vw,28px); font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
   .tile .tv small { font-size: .55em; color: var(--muted); font-weight: 550; }
   .tile .tk { font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-top: 5px; }
+  .tile, .dcard { opacity: 0; transform: translateY(18px); transition: opacity var(--dur) var(--ease), transform var(--dur) var(--ease); }
+  .tile.in, .dcard.in { opacity: 1; transform: none; }
   .tile.hero-tile { grid-column: span 2; background: linear-gradient(150deg, var(--accent-deep), var(--accent)); border-color: var(--accent-deep); }
   .tile.hero-tile .tv, .tile.hero-tile .tk { color: #FFFFFF; }
   .tile.hero-tile .tk { opacity: .75; }
@@ -485,6 +489,7 @@ async function loadStudio() {
 </style>
 </head>
 <body>
+<canvas id="bg3d" aria-hidden="true"></canvas>
 
 <header class="top">
   <div class="wrap">
@@ -502,7 +507,7 @@ async function loadStudio() {
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.8</span>
+    <span class="wip">WIP · v0.9</span>
   </div>
 </header>
 
@@ -725,6 +730,19 @@ const CARS = [
     hist: "O regresso do grand tourisme francês, em elétrico: o novo topo de gama da DS, revelado em 2024. Versão AWD Long Range com 350 cv (375 cv em boost) e até ≈688 km de autonomia WLTP, com interior de inspiração alta-costura parisiense.",
     curios: ["Aerodinâmica de referência no segmento (Cx ≈0,24)","Carrega de 20 a 80% em cerca de 27 minutos","Nome evoca os DS de 1955 — a vanguarda francesa como tradição"],
     curator: "A escolha mais inesperada da garagem — e por isso valiosa. Os primeiros elétricos de luxo serão os clássicos de daqui a 30 anos, e este, em cinza de lançamento com teto preto, envelhecerá com elegância. Curadoria é também apostar no futuro."
+  },
+  {
+    brand: "Koenigsegg", name: "Gemera", hero: "Gemera", year: 2025,
+    sub: "O hiper-GT de quatro lugares \u2014 2 300 cv e 400 km/h.",
+    colour: "A definir", paint: "#0e5f52", state: "Na coleção",
+    power: "2 300", powerU: "cv", vmax: "400", vmaxU: "km/h", accel: "1.9", accelU: "s",
+    engine: "V8 5.0 biturbo · híbrido", production: "300 unid.",
+    valueK: 2200, engType: "Híbrido",
+    collections: ["Hypercars","Modernos","Ícones"],
+    tags: ["#v8-híbrido","#4-lugares","#mega-gt"],
+    hist: "Apresentado em 2020 como o primeiro Koenigsegg de quatro lugares, o Gemera reinventou o hiper-GT. A variante V8 (HV8) junta o 5.0 biturbo 'hot-V' derivado do Jesko a motores elétricos, para 2 300 cv combinados \u2014 um dos automóveis de produção mais potentes de sempre. Limitado a 300 exemplares.",
+    curios: ["Portas 'synchrohelix' que rodam para fora e para a frente num só gesto","Quatro lugares e bagagem \u2014 um hipercarro para levar a família a 400 km/h","Caixa LSTT de 9 velocidades, ultrarrápida","Nasceu com o 3-cilindros 'Tiny Friendly Giant'; o V8 chegou depois"],
+    curator: "A ousadia feita automóvel, Dr. Rodrigo. Um hipercarro de quatro lugares é uma contradição que só a Koenigsegg teria a coragem de resolver \u2014 e resolve-a com 2 300 cv. É o exemplar mais radical e mais moderno da coleção."
   }
 ];
 
@@ -745,7 +763,8 @@ const SLUGS = {
   "SLR McLaren": "slr-mclaren",
   "917 (versão de estrada)": "917-stradale",
   "Delta Integrale (homologação)": "delta-integrale",
-  "N°8": "ds-n8"
+  "N°8": "ds-n8",
+  "Gemera": "gemera"
 };
 
 /* Fotografias reais de cada exemplar. Preencher com os nomes dos ficheiros
@@ -763,6 +782,7 @@ const PHOTOS = {
   "917-stradale": ["ref-01.jpg"],
   "delta-integrale": ["ref-01.jpg"],
   "ds-n8": ["ref-01.jpg"],
+  "gemera": ["ref-01.jpg"],
 };
 
 /* Metadados das fotos: ref = fotografia de referência do modelo (não o exemplar).
@@ -777,6 +797,7 @@ const PHOTO_META = {
   "917-stradale": { ref: true, refNote: "Referência: 917K de corrida (Gulf) — o exemplar é a versão de estrada. Foto a substituir." },
   "delta-integrale": { ref: true, refNote: "Referência do modelo — HF Integrale Evoluzione (cor do exemplar por confirmar)." },
   "ds-n8": { ref: true, refNote: "Referência do modelo — N°8 cinza com teto preto." },
+  "gemera": { ref: true, refNote: "Referência do modelo — Gemera (foto de salão); cor e spec do exemplar por confirmar." },
 };
 
 /* ---------- Render ---------- */
@@ -1228,7 +1249,7 @@ document.getElementById('tl').addEventListener('click', e => {
 });
 
 /* ---------- Dashboard ---------- */
-const COUNTRY = { "Porsche":"Alemanha", "Mercedes-Benz":"Alemanha", "Ferrari":"Itália", "Lancia":"Itália", "Aston Martin":"Reino Unido", "DS Automobiles":"França" };
+const COUNTRY = { "Porsche":"Alemanha", "Mercedes-Benz":"Alemanha", "Ferrari":"Itália", "Lancia":"Itália", "Aston Martin":"Reino Unido", "DS Automobiles":"França", "Koenigsegg":"Suécia" };
 function fmtValue(k) {
   return k >= 1000 ? '€' + (k/1000).toFixed(1).replace('.', ',') + ' M' : '€' + k + ' mil';
 }
@@ -1279,6 +1300,7 @@ function renderDash() {
       <div class="dcard" style="grid-column:1/-1"><h4>Distribuição por década</h4>${barRows(byDecade)}</div>
     </div>
     <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
+  revealAll(el.querySelectorAll('.tile, .dcard'));
 }
 
 /* ---------- Galeria de estúdio ---------- */
@@ -1367,6 +1389,44 @@ document.getElementById('arch').innerHTML = ARCHIVE.map(a =>
 
 renderChips();
 render();
+</script>
+<script type="module">
+(async () => {
+  try {
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const canvas = document.getElementById('bg3d');
+    if (!canvas) return;
+    const THREE = await import('./assets/vendor/three.module.js');
+    const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+    renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+    const scene = new THREE.Scene();
+    const cam = new THREE.PerspectiveCamera(60, innerWidth / innerHeight, 0.1, 100);
+    cam.position.z = 14;
+    const c = document.createElement('canvas'); c.width = c.height = 128;
+    const g = c.getContext('2d');
+    const rg = g.createRadialGradient(64, 64, 0, 64, 64, 64);
+    rg.addColorStop(0, 'rgba(31,90,59,0.9)'); rg.addColorStop(1, 'rgba(31,90,59,0)');
+    g.fillStyle = rg; g.fillRect(0, 0, 128, 128);
+    const tex = new THREE.CanvasTexture(c);
+    const N = innerWidth < 760 ? 7 : 12;
+    const geo = new THREE.BufferGeometry();
+    const pos = new Float32Array(N * 3);
+    for (let i = 0; i < N; i++) { pos[i*3] = (Math.random()-0.5)*24; pos[i*3+1] = (Math.random()-0.5)*16; pos[i*3+2] = (Math.random()-0.5)*6; }
+    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+    const mat = new THREE.PointsMaterial({ map: tex, size: 8, sizeAttenuation: true, transparent: true, opacity: 0.10, depthWrite: false });
+    const pts = new THREE.Points(geo, mat); scene.add(pts);
+    let mx = 0, my = 0, tx = 0, ty = 0;
+    addEventListener('pointermove', e => { tx = e.clientX/innerWidth - 0.5; ty = e.clientY/innerHeight - 0.5; }, { passive: true });
+    function resize() { renderer.setSize(innerWidth, innerHeight); cam.aspect = innerWidth/innerHeight; cam.updateProjectionMatrix(); }
+    addEventListener('resize', resize); resize();
+    let raf, t = 0, running = true;
+    function loop() { if (!running) return; t += 0.0016; mx += (tx-mx)*0.03; my += (ty-my)*0.03;
+      pts.rotation.z = t * 0.4; pts.position.x = mx*2.2; pts.position.y = -my*1.6;
+      renderer.render(scene, cam); raf = requestAnimationFrame(loop); }
+    document.addEventListener('visibilitychange', () => { running = !document.hidden; if (running) loop(); else cancelAnimationFrame(raf); });
+    loop();
+  } catch (e) { /* fallback: fundo em gradiente CSS */ }
+})();
 </script>
 </body>
 </html>
