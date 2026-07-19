@@ -237,6 +237,7 @@ async function loadStudio() {
   }
   .lrow.in { opacity: 1; transform: none; }
   .lrow:hover { transform: translateX(3px); border-color: var(--border-strong); }
+  .lrow { transition: transform .45s cubic-bezier(.2,.7,.2,1), border-color .2s, opacity .45s ease; }
   .lrow .lthumb { flex: none; width: 96px; aspect-ratio: 16/10; border-radius: 9px; overflow: hidden; position: relative; }
   .lrow .lthumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .lrow .lmain { flex: 1; min-width: 0; }
@@ -284,7 +285,7 @@ async function loadStudio() {
   .g-footnote { margin-top: 18px; font-size: 12px; color: var(--faint); }
 
   /* ---------- Hero ---------- */
-  .hero { padding: clamp(48px, 9vw, 104px) 0 clamp(28px, 5vw, 52px); }
+  .hero { padding: clamp(48px, 9vw, 104px) 0 clamp(28px, 5vw, 52px); will-change: transform, opacity; }
   .hero .eyebrow {
     font-family: var(--font-mono); font-size: 12px; letter-spacing: .28em; text-transform: uppercase;
     color: var(--accent-soft); margin: 0 0 20px;
@@ -329,8 +330,8 @@ async function loadStudio() {
   .card {
     background: var(--surface); border: 1px solid var(--border); border-radius: 20px; overflow: hidden;
     box-shadow: var(--shadow); cursor: pointer; position: relative;
-    transition: transform .3s cubic-bezier(.2,.7,.2,1), border-color .3s, box-shadow .3s;
-    opacity: 0; transform: translateY(18px);
+    transition: transform .55s cubic-bezier(.2,.7,.2,1), border-color .3s, box-shadow .3s, opacity .55s ease;
+    opacity: 0; transform: translateY(22px);
   }
   .card.in { opacity: 1; transform: none; }
   .card:hover { transform: translateY(-4px); border-color: var(--border-strong); }
@@ -481,11 +482,10 @@ async function loadStudio() {
       <button type="button" data-tab="colecao" aria-current="true">Coleção</button>
       <button type="button" data-tab="cronologia">Cronologia</button>
       <button type="button" data-tab="dashboard">Dashboard</button>
-      <button type="button" data-tab="estudio">Estúdio</button>
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.6</span>
+    <span class="wip">WIP · v0.7</span>
   </div>
 </header>
 
@@ -923,9 +923,23 @@ function render() {
   emptyEl.hidden = cards.length > 0;
   countEl.textContent = `${cards.length} ${cards.length === 1 ? 'automóvel' : 'automóveis'}`
     + (activeFilter !== "Todos" ? ` · ${activeFilter}` : '');
-  requestAnimationFrame(() => {
-    const items = [...grid.querySelectorAll('.card, .lrow')];
-    items.forEach((el, i) => setTimeout(() => el.classList.add('in'), i * 40));
+  revealAll(grid.querySelectorAll('.card, .lrow'));
+}
+
+/* ---------- Reveal ao entrar no ecrã (IntersectionObserver) ---------- */
+const REDUCE = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const revealer = REDUCE ? null : new IntersectionObserver((entries, obs) => {
+  for (const e of entries) {
+    if (e.isIntersecting) { e.target.classList.add('in'); obs.unobserve(e.target); }
+  }
+}, { rootMargin: '0px 0px -8% 0px', threshold: 0.08 });
+
+function revealAll(nodes) {
+  const els = [...nodes];
+  if (REDUCE || !revealer) { els.forEach(el => el.classList.add('in')); return; }
+  els.forEach((el, i) => {
+    el.style.transitionDelay = ((i % 8) * 45) + 'ms';
+    revealer.observe(el);
   });
 }
 
@@ -1148,6 +1162,18 @@ function switchTab(name) {
 }
 navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
 
+/* Parallax subtil do hero */
+const heroEl = document.querySelector('.hero');
+if (!REDUCE && heroEl) {
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    if (y < 640 && heroEl.classList.contains('on')) {
+      heroEl.style.transform = 'translateY(' + (y * 0.12).toFixed(1) + 'px)';
+      heroEl.style.opacity = String(Math.max(0.15, 1 - y / 560));
+    }
+  }, { passive: true });
+}
+
 /* ---------- Cronologia ---------- */
 function thumbFor(c) {
   const slug = SLUGS[c.name] || '';
@@ -1174,6 +1200,7 @@ function renderTimeline() {
     </li>`;
   }
   el.innerHTML = html;
+  revealAll(el.querySelectorAll('li[data-car]'));
 }
 document.getElementById('tl').addEventListener('click', e => {
   const li = e.target.closest('li[data-car]'); if (!li) return;

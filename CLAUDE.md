@@ -108,6 +108,13 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
   PIL em assets/icons/) + metas iOS. Instalável via Safari → "Adicionar ao
   ecrã principal".
 - Categorias afinadas (2026-07-16): Track→Competição, Raros→Ícones.
+- **v0.7 (2026-07-19):** decisão do Dr. Rodrigo — trazer capacidades à app
+  vanilla no Pages, SEM React (React fica para Modelo B com servidor). Pages
+  não corre servidor/BD: edição sincronizada exige Modelo B; no Pages só
+  local (localStorage) + exportação p/ eu commitar. Feito agora: reveal ao
+  rolar (IntersectionObserver) + parallax subtil do hero; separador Estúdio
+  escondido (pipeline Gemini dormante — grátis não gera imagens). A seguir:
+  edição local (CRUD) e visualizador 3D (Three.js, pendente de modelos GLB).
 
 ## Pipeline de imagens "showroom studio" (v0.6, 2026-07-19)
 Geração **não local**: workflow GitHub Actions `.github/workflows/gerar.yml`
