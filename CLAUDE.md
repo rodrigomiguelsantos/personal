@@ -116,8 +116,8 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
   da ficha (v0.8) e formatação no iPhone.
 - **Koenigsegg Gemera (V8/HV8) adicionado (2026-07-19):** 11.º carro, a pedido.
   2 300 cv, 400 km/h, 0–100 1,9 s, V8 5.0 biturbo híbrido, 300 unid., ~€2,2M.
-  Foto de referência (Commons, CC BY-SA, creditada). Cor/spec do exemplar por
-  validar pelo Dr. Rodrigo.
+  Foto de referência (Commons, CC BY-SA, creditada). **Cor branca** (nome
+  a confirmar), 2025 confirmado pelo Dr. Rodrigo.
 - **v0.7 (2026-07-19):** decisão do Dr. Rodrigo — trazer capacidades à app
   vanilla no Pages, SEM React (React fica para Modelo B com servidor). Pages
   não corre servidor/BD: edição sincronizada exige Modelo B; no Pages só
