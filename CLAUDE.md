@@ -109,6 +109,20 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
   ecrã principal".
 - Categorias afinadas (2026-07-16): Track→Competição, Raros→Ícones.
 
+## Pipeline de imagens "showroom studio" (v0.6, 2026-07-19)
+Geração **não local**: workflow GitHub Actions `.github/workflows/gerar.yml`
+(`workflow_dispatch`, inputs modelo/subtitulo/foto) corre `gerar_carro.py`:
+obtém foto real (input --foto ou pesquisa ddgs) → gera estúdio via **Google
+Gemini `gemini-2.5-flash-image`** (segredo `GEMINI_API_KEY`) → aplica
+título/subtítulo com Pillow (Playfair Display) → grava em `assets/generated/`
+com nome `<slug>-<hash>.png` → regista em `assets/generated/manifest.json` →
+commit+push (permissions: contents: write) → dispara o Pages.
+Web app: separador **Estúdio** faz fetch do manifest e mostra grelha.
+`robots.txt` (Disallow: /) + nomes com hash mitigam o repo ser público.
+Nota de rigor: imagens IA marcadas como apresentação; fotos reais do exemplar
+mantêm prioridade. Pendente: segredo GEMINI_API_KEY; workflow_dispatch só
+aparece se o ficheiro existir na branch default.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar

@@ -150,6 +150,16 @@
   .rec-row .rv2 small { color: var(--muted); font-weight: 400; font-family: var(--font-mono); font-size: 11px; margin-left: 5px; }
   .dash-note { margin-top: 18px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
 
+  /* ---------- Galeria de estúdio ---------- */
+  .studio-sec { padding: 34px 0 20px; }
+  .studio-sec h2 { font-family: var(--font-serif); font-size: clamp(28px,4.6vw,42px); letter-spacing: -.01em; margin: 0 0 8px; }
+  .studio-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin-top: 24px; }
+  .studio-card { position: relative; border-radius: 16px; overflow: hidden; border: 1px solid var(--border); background: var(--surface); box-shadow: var(--shadow); aspect-ratio: 4/5; display: block; }
+  .studio-card img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .5s cubic-bezier(.2,.7,.2,1); }
+  .studio-card:hover img { transform: scale(1.04); }
+  .studio-empty { color: var(--muted); font-size: 14px; padding: 40px 0; border: 1px dashed var(--border-strong); border-radius: 14px; text-align: center; margin-top: 20px; }
+  .studio-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
+
   /* ---------- Ordenação ---------- */
   .sortsel {
     appearance: none; -webkit-appearance: none; cursor: pointer;
@@ -159,7 +169,30 @@
   }
   .sortsel:focus { outline: none; border-color: var(--accent); }
 
-  /* ---------- Modo apresentação ---------- */
+  /* ---------- Galeria de estúdio ---------- */
+let studioLoaded = false;
+async function loadStudio() {
+  if (studioLoaded) return;
+  const grid = document.getElementById('studio-grid');
+  const empty = document.getElementById('studio-empty');
+  try {
+    const res = await fetch('assets/generated/manifest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('sem manifest');
+    const items = await res.json();
+    if (!Array.isArray(items) || !items.length) { empty.hidden = false; studioLoaded = true; return; }
+    grid.innerHTML = items.slice().reverse().map(it =>
+      `<a class="studio-card" href="assets/generated/${encodeURIComponent(it.ficheiro)}" target="_blank" rel="noopener" title="${esc(it.modelo)}">
+         <img src="assets/generated/${encodeURIComponent(it.ficheiro)}" alt="${esc(it.modelo)}" loading="lazy">
+       </a>`).join('');
+    empty.hidden = true;
+    studioLoaded = true;
+  } catch (e) {
+    empty.hidden = false;
+    studioLoaded = true;
+  }
+}
+
+/* ---------- Modo apresentação ---------- */
   .present { position: fixed; inset: 0; z-index: 200; background: #FBFBF9; display: none; }
   .present.on { display: block; }
   .present .p-img { position: absolute; inset: 0; }
@@ -448,10 +481,11 @@
       <button type="button" data-tab="colecao" aria-current="true">Coleção</button>
       <button type="button" data-tab="cronologia">Cronologia</button>
       <button type="button" data-tab="dashboard">Dashboard</button>
+      <button type="button" data-tab="estudio">Estúdio</button>
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.5</span>
+    <span class="wip">WIP · v0.6</span>
   </div>
 </header>
 
@@ -527,6 +561,18 @@
 <section class="tabsec" data-sec="dashboard">
   <div class="wrap">
     <div class="dash" id="dash"></div>
+  </div>
+</section>
+
+<section class="tabsec" data-sec="estudio">
+  <div class="wrap">
+    <div class="studio-sec">
+      <h2>Estúdio</h2>
+      <p class="dsub">Imagens de estúdio geradas por IA a partir de fotos reais de cada modelo — apresentação editorial, não fotografia do exemplar do Dr. Rodrigo.</p>
+      <div class="studio-grid" id="studio-grid"></div>
+      <div class="studio-empty" id="studio-empty" hidden>Ainda não há imagens de estúdio. Gera-se uma no GitHub em <b>Actions → “Gerar imagem showroom” → Run workflow</b>, indicando o modelo (e, se quiser, o link de uma foto).</div>
+      <div class="studio-note">◈ Estas imagens são geradas por IA para fins de apresentação. As fotografias reais do exemplar continuam a ter prioridade na ficha de cada carro.</div>
+    </div>
   </div>
 </section>
 
@@ -1098,6 +1144,7 @@ function switchTab(name) {
   window.scrollTo({ top: 0, behavior: 'auto' });
   if (name === 'cronologia') renderTimeline();
   if (name === 'dashboard') renderDash();
+  if (name === 'estudio') loadStudio();
 }
 navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
 
@@ -1186,6 +1233,29 @@ function renderDash() {
       <div class="dcard" style="grid-column:1/-1"><h4>Distribuição por década</h4>${barRows(byDecade)}</div>
     </div>
     <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
+}
+
+/* ---------- Galeria de estúdio ---------- */
+let studioLoaded = false;
+async function loadStudio() {
+  if (studioLoaded) return;
+  const grid = document.getElementById('studio-grid');
+  const empty = document.getElementById('studio-empty');
+  try {
+    const res = await fetch('assets/generated/manifest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('sem manifest');
+    const items = await res.json();
+    if (!Array.isArray(items) || !items.length) { empty.hidden = false; studioLoaded = true; return; }
+    grid.innerHTML = items.slice().reverse().map(it =>
+      `<a class="studio-card" href="assets/generated/${encodeURIComponent(it.ficheiro)}" target="_blank" rel="noopener" title="${esc(it.modelo)}">
+         <img src="assets/generated/${encodeURIComponent(it.ficheiro)}" alt="${esc(it.modelo)}" loading="lazy">
+       </a>`).join('');
+    empty.hidden = true;
+    studioLoaded = true;
+  } catch (e) {
+    empty.hidden = false;
+    studioLoaded = true;
+  }
 }
 
 /* ---------- Modo apresentação ---------- */

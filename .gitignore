@@ -1,0 +1,7 @@
+# Fontes descarregadas em runtime pelo workflow (não versionar)
+fonts/
+
+# Artefactos locais
+__pycache__/
+*.pyc
+.DS_Store
