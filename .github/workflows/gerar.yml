@@ -1,0 +1,73 @@
+name: Gerar imagem showroom
+
+on:
+  workflow_dispatch:
+    inputs:
+      modelo:
+        description: "Nome do modelo (título)"
+        required: true
+        type: string
+      subtitulo:
+        description: "Subtítulo (uma linha, opcional)"
+        required: false
+        default: ""
+        type: string
+      foto:
+        description: "URL de foto de referência (opcional; se vazio, pesquisa automática)"
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Descarregar Playfair Display (Bold + Italic)
+        run: |
+          mkdir -p fonts
+          curl -fsSL -o fonts/PlayfairDisplay-Bold.ttf \
+            "https://github.com/google/fonts/raw/main/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf"
+          curl -fsSL -o fonts/PlayfairDisplay-Italic.ttf \
+            "https://github.com/google/fonts/raw/main/ofl/playfairdisplay/PlayfairDisplay-Italic%5Bwght%5D.ttf"
+
+      - name: Gerar imagem
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MODELO: ${{ inputs.modelo }}
+          SUBTITULO: ${{ inputs.subtitulo }}
+          FOTO: ${{ inputs.foto }}
+        run: |
+          python gerar_carro.py \
+            --modelo "$MODELO" \
+            --subtitulo "$SUBTITULO" \
+            --foto "$FOTO" \
+            --outdir assets/generated \
+            --manifest assets/generated/manifest.json
+
+      - name: Commit e push (dispara o deploy do Pages)
+        env:
+          MODELO: ${{ inputs.modelo }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/generated
+          if git diff --cached --quiet; then
+            echo "Sem alterações para commitar."
+            exit 0
+          fi
+          git commit -m "Gerar imagem showroom: $MODELO"
+          git push origin HEAD:${{ github.ref_name }}
