@@ -38,6 +38,7 @@
   }
 
   * { box-sizing: border-box; }
+  img { max-width: 100%; }
   html { scroll-behavior: smooth; }
   body {
     margin: 0; background: var(--bg); color: var(--text);
@@ -80,7 +81,14 @@
   .top nav a:hover, .top nav button:hover { color: var(--text); background: var(--surface-2); }
   .top nav button[aria-current="true"] { color: var(--accent-deep); background: color-mix(in srgb, var(--accent) 16%, transparent); }
   .top nav .play { color: var(--accent-soft); }
-  @media (max-width: 640px) { .top .wip { display: none; } .top nav { margin-right: 0; } }
+  @media (max-width: 640px) {
+    .top .wip { display: none; }
+    .top nav { margin-right: 0; }
+    .brand .bs { display: none; }
+    .brand .bt { font-size: 14px; }
+    .top .wrap { gap: 10px; }
+    .top nav a, .top nav button { font-size: 11px; padding: 7px 9px; letter-spacing: .06em; }
+  }
 
   /* ---------- Separadores (tabs) ---------- */
   .tabsec { display: none; }
@@ -381,6 +389,12 @@ async function loadStudio() {
   .specs .sv { font-size: 16px; font-weight: 680; letter-spacing: -.01em; font-variant-numeric: tabular-nums; }
   .specs .sv small { font-size: .62em; color: var(--muted); font-weight: 550; margin-left: 2px; }
   .specs .sk { font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-top: 3px; }
+  .spec-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+  .spec-strip .spec { background: var(--surface-2); padding: 12px 10px; text-align: center; min-width: 0; }
+  .spec-strip .v { font-size: 17px; font-weight: 680; letter-spacing: -.01em; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+  .spec-strip .v small { font-size: .6em; color: var(--muted); font-weight: 550; margin-left: 2px; }
+  .spec-strip .k { font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
+  @media (max-width: 520px) { .spec-strip { grid-template-columns: repeat(2, 1fr); } }
 
   .foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 16px; }
   .tags { display: flex; flex-wrap: wrap; gap: 6px; }
@@ -439,6 +453,9 @@ async function loadStudio() {
   .f-rows { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
   .f-rows .row { padding: 11px 16px; border-top: 1px solid var(--border); margin: 0; }
   .f-rows .row:first-child { border-top: 0; }
+  .f-rows .row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
+  .f-rows .rk { color: var(--muted); font-size: 14px; }
+  .f-rows .rv { text-align: right; font-weight: 550; overflow-wrap: anywhere; min-width: 0; }
   .f-curator { margin-top: 26px; border: 1px solid color-mix(in srgb, var(--brass) 36%, var(--border)); border-radius: 16px; padding: 20px 22px; position: relative; overflow: hidden; background: color-mix(in srgb, var(--brass) 5%, transparent); }
   .f-curator::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 3px; background: var(--brass); }
   .f-curator .who { display: flex; align-items: center; gap: 11px; margin-bottom: 10px; }
@@ -485,7 +502,7 @@ async function loadStudio() {
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v0.7</span>
+    <span class="wip">WIP · v0.8</span>
   </div>
 </header>
 
@@ -1156,6 +1173,8 @@ function switchTab(name) {
   document.querySelectorAll('[data-sec]').forEach(el => el.classList.toggle('on', el.dataset.sec === name));
   navBtns.forEach(b => b.setAttribute('aria-current', b.dataset.tab === name));
   window.scrollTo({ top: 0, behavior: 'auto' });
+  const _he = document.querySelector('.hero');
+  if (_he) { _he.style.transform = ''; _he.style.opacity = ''; }
   if (name === 'cronologia') renderTimeline();
   if (name === 'dashboard') renderDash();
   if (name === 'estudio') loadStudio();
