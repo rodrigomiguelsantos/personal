@@ -201,30 +201,7 @@
   }
   .sortsel:focus { outline: none; border-color: var(--accent); }
 
-  /* ---------- Galeria de estúdio ---------- */
-let studioLoaded = false;
-async function loadStudio() {
-  if (studioLoaded) return;
-  const grid = document.getElementById('studio-grid');
-  const empty = document.getElementById('studio-empty');
-  try {
-    const res = await fetch('assets/generated/manifest.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error('sem manifest');
-    const items = await res.json();
-    if (!Array.isArray(items) || !items.length) { empty.hidden = false; studioLoaded = true; return; }
-    grid.innerHTML = items.slice().reverse().map(it =>
-      `<a class="studio-card" href="assets/generated/${encodeURIComponent(it.ficheiro)}" target="_blank" rel="noopener" title="${esc(it.modelo)}">
-         <img src="assets/generated/${encodeURIComponent(it.ficheiro)}" alt="${esc(it.modelo)}" loading="lazy">
-       </a>`).join('');
-    empty.hidden = true;
-    studioLoaded = true;
-  } catch (e) {
-    empty.hidden = false;
-    studioLoaded = true;
-  }
-}
-
-/* ---------- Modo apresentação ---------- */
+  /* ---------- Modo apresentação ---------- */
   .present { position: fixed; inset: 0; z-index: 200; background: #FBFBF9; display: none; }
   .present.on { display: block; }
   .present .p-img { position: absolute; inset: 0; }
