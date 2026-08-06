@@ -108,6 +108,15 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
   PIL em assets/icons/) + metas iOS. Instalável via Safari → "Adicionar ao
   ecrã principal".
 - Categorias afinadas (2026-07-16): Track→Competição, Raros→Ícones.
+- **v1.0 (2026-08-06) — varrimento de qualidade da UI:**
+  **escala tipográfica** consolidada de 19 tamanhos avulsos para **7 degraus**
+  (10 · 11,5 · 12,5 · 13,5 · 15 · 17 · 21 px; +16 px nos campos em mobile).
+  **Foco acessível** (`:focus-visible`) que só aparece com teclado.
+  **Resposta ao toque** (`:active`) em cards/chips/botões/linhas + remoção do
+  flash cinzento do iOS (`-webkit-tap-highlight-color`), alvos ≥44 px no
+  telemóvel. **Hero em serifada** — unifica com cards/ficha (identidade
+  editorial). Corrigido zoom automático do Safari em campos <16 px.
+  Estado vazio, seleção de texto e ligaduras afinados.
 - **v0.9 (2026-07-19):** UI varrida e movimento uniformizado; **Three.js
   auto-alojado** (`assets/vendor/three.module.js`) — luz ambiente subtil (blobs
   verdes a derivar, parallax ao ponteiro), com fallback para o gradiente CSS
