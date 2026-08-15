@@ -1,0 +1,51 @@
+name: Atualizar notícias
+
+# Recolhe as notícias automóveis mais recentes e grava-as no site.
+# O cron só dispara a partir da branch predefinida do repositório (main),
+# mas o trabalho é sempre feito na branch do site (ver "ref" abaixo).
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # a cada 6 horas (00:17, 06:17, 12:17, 18:17 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+env:
+  BRANCH_SITE: claude/garage-3d-web-app-kdbt4i
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout da branch do site
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch == github.ref_name && 'claude/garage-3d-web-app-kdbt4i' || github.ref_name }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install feedparser requests
+
+      - name: Recolher notícias
+        run: python noticias.py --out assets/news/noticias.json --max 60
+
+      - name: Commit e push (dispara o deploy do Pages)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/news/noticias.json
+          if git diff --cached --quiet; then
+            echo "Sem notícias novas — nada a commitar."
+            exit 0
+          fi
+          git commit -m "Atualizar notícias ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push origin HEAD:${{ env.BRANCH_SITE }}

@@ -1,0 +1,618 @@
+{
+ "atualizado": "2026-08-15T23:51:31Z",
+ "fontes": [
+  "AutoSport",
+  "Autocar",
+  "Autosport",
+  "Car and Driver",
+  "Carscoops",
+  "FIA",
+  "Hagerty",
+  "Motor1",
+  "Motorsport.com",
+  "Razão Automóvel",
+  "Road & Track"
+ ],
+ "itens": [
+  {
+   "titulo": "Porsche Built The One 911 GT3 Money Can’t Buy In America",
+   "resumo": "Porsche's Nürburgring tribute sweats every detail, from the sill plate greeting to the recovery hook you hope never to use",
+   "url": "https://www.carscoops.com/2026/08/porsche-911-gt3-nurburgring-edition/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T22:58:00Z"
+  },
+  {
+   "titulo": "ERC: Březík edging narrow Zlín victory battle",
+   "resumo": "Sport news Heading into Sunday’s deciding leg of six stages, Hankook-equipped Škoda driver Adam Březík leads the sealed-surface event with an advantage of 9.7sec over Michelin-supplied Miko…",
+   "url": "https://www.fia.com/news/erc-brezik-edging-narrow-zlin-victory-battle",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T21:57:00Z"
+  },
+  {
+   "titulo": "IndyCar Drivers Experience Biggest Change From Simulator to Track at Markham’s Hairpin Turn",
+   "resumo": "David Malukas and Marcus Armstrong reflect on the difference between sim and asphalt as IndyCar takes on Markham for the first time.",
+   "url": "https://www.roadandtrack.com/news/a73442863/indycar-drivers-experience-biggest-change-from-simulator-to-track-at-markhams-hairpin-turn/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T21:45:13Z"
+  },
+  {
+   "titulo": "Nicki Thiim hits out at DTM and AMG: \"What’s going on here is a disgrace\"",
+   "resumo": "Aston Martin title contender Nicki Thiim was completely beside himself after finishing 11th in Saturday's DTM race at the Nurburgring - and lashed out at the series and at Mercedes-AMG. \"I…",
+   "url": "https://www.motorsport.com/dtm/news/thiim-hits-out-at-dtm-and-amg-whats-going-on-here-is-a-disgrace/10846568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T21:23:02Z"
+  },
+  {
+   "titulo": "Subaru Won’t Cover Her Blown Engine Because She Changed Her Own Oil",
+   "resumo": "An Outback owner says Subaru refused an engine repair claim after learning she handled servicing herself",
+   "url": "https://www.carscoops.com/2026/08/subaru-outback-warranty-denial/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T21:13:00Z"
+  },
+  {
+   "titulo": "Will Power crashes hard in second IndyCar Markham practice",
+   "resumo": "Will Power became the first driver to crash at the inaugural Ontario Honda Dealers Indy at Markham, bringing out a red flag late in Saturday’s second practice session. The Aussie was…",
+   "url": "https://www.motorsport.com/indycar/news/will-power-crashes-hard-in-second-indycar-markham-practice/10846566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T19:49:28Z"
+  },
+  {
+   "titulo": "Toyota Built The 1997 Land Cruiser To Be Thrashed, This One Did 170 Miles A Year",
+   "resumo": "Among the million-dollar exotics at Monterey sits a preserved Toyota that regular buyers can actually dream about chasing",
+   "url": "https://www.carscoops.com/2026/08/toyota-land-cruiser-auction-monterey/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T19:28:00Z"
+  },
+  {
+   "titulo": "Kaden Honeycutt earns dominant NASCAR Truck win at Richmond",
+   "resumo": "There was no stopping Kaden Honeycutt and the No. 11 TRICON Garage Toyota at Richmond Raceway. After starting on the front row with pole-sitter Shane van Gisbergen, Honeycutt went on to…",
+   "url": "https://www.motorsport.com/nascar-truck/news/kaden-honeycutt-nascar-truck-win-richmond/10846552/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T18:28:12Z"
+  },
+  {
+   "titulo": "Pascal Wehrlein responds to Porsche’s team tactics after dominant London win",
+   "resumo": "Pascal Wehrlein has defended Porsche’s use of team tactics to aid his victory in Saturday’s London E-Prix and strengthen his bid for the 2025-26 Formula E title. Wehrlein converted pole…",
+   "url": "https://www.motorsport.com/formula-e/news/pascal-wehrlein-responds-to-porsches-team-tactics-after-dominant-london-win/10846550/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T17:47:01Z"
+  },
+  {
+   "titulo": "Chevy’s 2026 Silverado ZR2 Is A Trail Weapon That Hates The Drive-Through",
+   "resumo": "We drive Chevrolet’s off-road flagship to see whether its serious hardware outweighs the cost, fuel use, and enormous footprint",
+   "url": "https://www.carscoops.com/2026/08/chevrolet-silverado-zr2-review/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T17:43:00Z"
+  },
+  {
+   "titulo": "“It’s typical of my luck” - Mitch Evans after VSC and “extreme” Porsche “games” in London",
+   "resumo": "Mitch Evans reckons the ill-timed virtual safety car was “typical of my luck” in race one of the London E-Prix, after Porsche’s “extreme games” already compromised his Formula E title…",
+   "url": "https://www.motorsport.com/formula-e/news/its-typical-of-my-luck-mitch-evans-after-vsc-and-extreme-porsche-games-in-london/10846548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T17:25:33Z"
+  },
+  {
+   "titulo": "David Malukas hails new Markham IndyCar circuit as “a blast”",
+   "resumo": "After Friday’s on-track activities were cancelled, compressing the IndyCar Series schedule into a busy Saturday, 24-year-old David Malukas emerged sixth fastest in opening practice for the…",
+   "url": "https://www.motorsport.com/indycar/news/david-malukas-hails-new-markham-indycar-circuit-as-a-blast/10846545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T17:06:21Z"
+  },
+  {
+   "titulo": "McLaren McL 6GT: o sonho de Bruce",
+   "resumo": "O McLaren McL 6GT apresentado durante evento na Semana do Automóvel de Monterey, na Califórnia, EUA, recupera o espírito do M6GT de Bruce McLaren, de 1969, e combina a inspiração histórica…",
+   "url": "https://www.autosport.pt/automais/mclaren-mcl-6gt-o-sonho-de-bruce/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T16:55:23Z"
+  },
+  {
+   "titulo": "ERC, Barum Czech Rally Zlín: Adam Březík na liderança, William Creighton e Liam Regan sem ferimentos graves",
+   "resumo": "Boa notícias chegam do Barum Czech Rally Zlín. A dupla William Creighton / Liam Regan (Citroën C3 Rally2), que sofreu um acidente na PEC 4 não sofreu ferimentos graves, segundo a…",
+   "url": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-adam-brezik-na-lideranca-william-creighton-e-liam-regan-sem-ferimentos-graves/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T16:48:26Z"
+  },
+  {
+   "titulo": "A fine performance from DS Penske in race one at the London E-Prix",
+   "resumo": "A tricky qualifying session and unfavourable starting positions at the Formula E London E-Prix did not prevent the two drivers from DS Penske from making their mark in this penultimate race…",
+   "url": "https://www.autosport.com/formula-e/news/formula-e-london-e-prix-a-fine-performance-from-ds-penske-in-race-one/10846542/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T16:33:11Z"
+  },
+  {
+   "titulo": "Aston Martin Valen tem V12 com 850 cv",
+   "resumo": "A Aston Martin, na Semana do Automóvel de Monterey, na Califórnia, EUA, revelou o Valen, obra-prima assinada pela divisão de personalização Q by Aston Martin. O novo superdesportivo…",
+   "url": "https://www.autosport.pt/automais/aston-martin-valen-tem-v12-com-850-cv/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T16:00:26Z"
+  },
+  {
+   "titulo": "Tesla’s Average Worker Would Need 2.5 Million Years To Match Musk’s 2025 Pay",
+   "resumo": "Even America’s other gigantic CEO pay gaps look microscopic beside Tesla’s, especially those at Ford and GM",
+   "url": "https://www.carscoops.com/2026/08/tesla-ceo-worker-pay-ratio/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T15:58:00Z"
+  },
+  {
+   "titulo": "Fórmula E, Londres: Félix da Costa fala em “jogadas sujas”",
+   "resumo": "António Félix da Costa fez uma recuperação notável do sétimo para o terceiro lugar no E-Prix de Londres, um resultado que ajudou a Jaguar a manter-se na frente do campeonato de equipas…",
+   "url": "https://www.autosport.pt/velocidade/formula-e-londres-felix-da-costa-fala-em-jogadas-sujas/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T15:46:58Z"
+  },
+  {
+   "titulo": "Formula E London E-Prix: Wehrlein dominates race one to take championship lead",
+   "resumo": "Pascal Wehrlein dominated the opening race of the London E-Prix weekend to grab the Formula E championship lead ahead of Sunday’s title decider. The factory Porsche driver won by six…",
+   "url": "https://www.autosport.com/formula-e/news/formula-e-london-e-prix-pascal-wehrlein-dominates-race-one-to-take-championship-lead-/10846536/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T15:10:45Z"
+  },
+  {
+   "titulo": "Formula E London E-Prix: Pascal Wehrlein dominates race one to take championship lead",
+   "resumo": "Pascal Wehrlein dominated the opening race of the London E-Prix weekend to grab the Formula E championship lead ahead of Sunday’s title decider. The factory Porsche driver won by six…",
+   "url": "https://www.motorsport.com/formula-e/news/formula-e-london-e-prix-race-report-/10846527/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T15:03:18Z"
+  },
+  {
+   "titulo": "Parece um novo F1 mas não é um McLaren",
+   "resumo": "Era suposto o T.50 ser o sucessor espiritual do McLaren F1. E, tecnicamente, continua a ser. Mas parece que isso não era suficiente. O novo Gordon Murray S1 aproxima-se tanto do F1 original…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-gordon-murray-s1-monterey-car-week-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-15T14:52:36Z"
+  },
+  {
+   "titulo": "DTM Nurburgring: Cairoli takes third win of season as only 12 cars finish",
+   "resumo": "The Prancing Horse was unstoppable at the Nurburgring on Saturday: Emil Frey Ferrari driver Matteo Cairoli celebrates his third win of the season in a crazy race in which only twelve cars…",
+   "url": "https://www.autosport.com/dtm/news/dtm-rennen-nurburgring-1-cairoli-feiert-dritten-saisonsieg-zwolf-autos-im-ziel/10846525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T14:16:45Z"
+  },
+  {
+   "titulo": "Porsche’s Poster-Child EV Is Reportedly Living On Borrowed Time",
+   "resumo": "Sales fell by roughly 60% in two years, and now Porsche has reportedly decided what happens to the Taycan next",
+   "url": "https://www.carscoops.com/2026/08/porsche-taycan-discontinuation/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T14:13:00Z"
+  },
+  {
+   "titulo": "Spyker Is Back: The 789-hp C8 Preliator XXV Makes Its Debut",
+   "resumo": "The C8 Preliator XXV marks Spyker's return to powerful, wickedly styled machines, paying homage to the brand's aviation heritage.",
+   "url": "https://www.motor1.com/news/805046/spyker-c8-preliator-xxv-debut/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T14:00:00Z"
+  },
+  {
+   "titulo": "Koenigsegg CCGT1 Pays Tribute to a Decades-Old Le Mans Dream",
+   "resumo": "Koenigsegg’s CCGT1 is a celebration of the original CCGT’s upcoming debut at Le Mans—more than 20 years after its first attempt.",
+   "url": "https://www.caranddriver.com/news/a73438334/koenigsegg-ccgt1-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T14:00:00Z"
+  },
+  {
+   "titulo": "Kyle Busch Remembered: Rowdy's most unforgettable moments at Richmond",
+   "resumo": "We continue our 'Kyle Busch Remembered' series as NASCAR takes on Richmond Raceway. Busch earned 12 victories between the Cup and O'Reilly Auto Parts Series at the Virginia short track…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-remembered-rowdys-most-unforgettable-moments-at-richmond/10846229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T13:46:55Z"
+  },
+  {
+   "titulo": "Fórmula E, Londres: Pascal Wehrlein vence corrida 1, Félix da Costa no pódio",
+   "resumo": "Pascal Wehrlein foi o vencedor da corrida 1 e subiu ao primeiro lugar do campeonato. Uma corrida tranquila e perfeitamente gerida pelo alemão e a sua equipa, que o permite entrar na…",
+   "url": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-corrida-1-felix-da-costa-no-podio/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T13:45:00Z"
+  },
+  {
+   "titulo": "1939 Maybach SW38 Special Roadster: Klockau Faints",
+   "resumo": "As some of you fine folks may recall, last year I shared a spectacular 1936 Mercedes-Benz 540K from the Geneva Concours d’Elegance, held each August in downtown Geneva, Illinois. It is a…",
+   "url": "https://www.hagerty.com/media/opinion/klockau-classics/1939-maybach-sw38-special-roadster-klockau-faints/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-15T13:00:00Z"
+  },
+  {
+   "titulo": "View Photos of the 1995 Cadillac SLS vs. Lincoln Continental",
+   "resumo": "See the interior and exterior of the 1995 Cadillac SLS and Lincoln Continental from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73427142/1995-cadillac-sls-vs-lincoln-continental-archive-comparison-test-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T12:49:08Z"
+  },
+  {
+   "titulo": "1995 America Luxorunners: Cadillac vs. Lincoln",
+   "resumo": "Fleet, fancy, and four-doored.",
+   "url": "https://www.caranddriver.com/reviews/comparison-test/a73378916/1995-cadillac-sls-vs-lincoln-continental-archive-comparison-test/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T12:49:03Z"
+  },
+  {
+   "titulo": "ERC, Barum Czech Rally Zlín: Manhã marcada por acidente de William Creighton",
+   "resumo": "William Creighton / Liam Regan (Citroën C3 Rally2) terminaram a manhã do Barum Czech Rally Zlín como destaques pelos piores motivos, com um acidente a provocar o cancelamento do troço…",
+   "url": "https://www.autosport.pt/ralis/erc-barum-czech-rally-zlin-manha-marcada-por-acidente-de-william-creighton/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T12:41:05Z"
+  },
+  {
+   "titulo": "America’s Oldest New Vehicle On Sale Today Is Getting A Color Touchscreen",
+   "resumo": "The Chevy Express arrived before smartphones existed, but for MY27 it reportedly discovers color touschreens",
+   "url": "https://www.carscoops.com/2026/08/chevrolet-express-touchscreen/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T12:28:00Z"
+  },
+  {
+   "titulo": "F1: Afinal, Nico Rosberg e Lewis Hamilton não foram despedidos da Mercedes",
+   "resumo": "A rivalidade entre Nico Rosberg e Lewis Hamilton pela vitória do Mundial de 2016 chegou a um ponto de rutura tão grave que Toto Wolff afirma ter chegado a despedir ambos os pilotos da…",
+   "url": "https://www.autosport.pt/formula1/f1-afinal-nico-rosberg-e-lewis-hamilton-nao-foram-despedidos-da-mercedes/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T12:16:53Z"
+  },
+  {
+   "titulo": "My ultra-efficient Leapmotor C10 has got me out of the slow lane",
+   "resumo": "Must you drive like a saint to get heavenly economy? This range-extender says not There I was, cruising along the inside lane of the M4 at my usual circa-65mph, congratulating myself on the…",
+   "url": "https://www.autocar.co.uk/car-news/features/my-ultra-efficient-leapmotor-c10-has-got-me-out-slow-lane",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T12:00:00Z"
+  },
+  {
+   "titulo": "IndyCar’s Markham Street Course Receives FIA License After Delays",
+   "resumo": "IndyCar will begin a tightly packed two-day condensed weekend schedule after delays in completing the Markham Street Course.",
+   "url": "https://www.roadandtrack.com/news/a73442091/indycars-markham-street-course-receives-fia-license-after-delays/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T11:57:06Z"
+  },
+  {
+   "titulo": "Este é o Koenigsegg mais rápido de sempre em circuito",
+   "resumo": "Normalmente, uma homenagem a um carro de competição implica que este tenha algum palmarés para recordar. Mas a história por detrás do novo Koenigsegg CCGT1 é bastante diferente. O CCGT…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-koenigsegg-ccgt1-monterey-car-week-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-15T11:12:18Z"
+  },
+  {
+   "titulo": "Rolex Motorsports Reunion Class Spotlight: Bruce McLaren Trophy 1963-1974 Can-Am USRRC V-8s",
+   "resumo": "There are plenty of exotic-sounding engines running during the Rolex Monterey Motorsports Reunion. The hills around WeatherTech Raceway Laguna Seca echo with wailing rotaries and tiny…",
+   "url": "https://www.hagerty.com/media/motorsports/rolex-motorsports-reunion-class-spotlight-bruce-mclaren-trophy-1963-1974-can-am-usrrc-v-8s/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-15T11:05:40Z"
+  },
+  {
+   "titulo": "Fórmula E, Londres: Pascal Wehrlein faz a pole, top 3 do campeonato separado por dois pontos",
+   "resumo": "Em Londres, a primeira qualificação do fim de semana da Fórmula E sorriu à Porsche, com Pascal Wehrlein a ficar com a pole. A Porsche conseguiu ficar com as duas primeiras posições da…",
+   "url": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-faz-a-pole/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-15T10:59:42Z"
+  },
+  {
+   "titulo": "Spyker’s Comeback Supercar Has 800 HP, Three Pedals, And The Restraint Of A Fabergé Egg",
+   "resumo": "Just 25 aluminum-bodied Preliator XXV coupes will be built, each one commissioned by hand with no price announced",
+   "url": "https://www.carscoops.com/2026/08/spyker-preliator-xxv/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T10:43:00Z"
+  },
+  {
+   "titulo": "Just four current MotoGP riders are yet to win a race",
+   "resumo": "The 2026 MotoGP season has proved to be extremely competitive so far. As the 1000cc era draws to a close ahead of the switch to new 850cc prototypes with less aerodynamic influence next…",
+   "url": "https://www.autosport.com/motogp/news/only-four-riders-on-the-current-grid-have-yet-to-win-a-motogp-race/10846477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T10:24:24Z"
+  },
+  {
+   "titulo": "Conduzimos o Firefly topo de gama que custa 32 mil euros",
+   "resumo": "O Firefly é chinês, faz lembrar um japonês e os seus maiores rivais são europeus. A NIO só «aterrou» em Portugal no final de 2025. E não chegou ao mercado para disputar os segmentos mais…",
+   "url": "https://www.razaoautomovel.com/testes/ensaio/ensaio-firefly-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-15T09:31:24Z"
+  },
+  {
+   "titulo": "Verstappen highlights \"big priority\" for Red Bull in second half of F1 2026",
+   "resumo": "During Formula 1's summer break, Max Verstappen finds himself no fewer than 110 points behind championship leader Kimi Antonelli. Last season, the four-time world champion launched a…",
+   "url": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-15T08:24:23Z"
+  },
+  {
+   "titulo": "Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For",
+   "resumo": "The Gordon Murray S1 turns the S1 LM into a lighter, cleaner V12 tourer with active aero, a six-speed manual, and production capped at 64 cars.",
+   "url": "https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T08:15:00Z"
+  },
+  {
+   "titulo": "Concours restorations? I prefer to save a banger on a budget",
+   "resumo": "Barn find rescues are big business on Youtube - is it time to have a go at your own classic resurrection? The YouTube pros make it look so easy. One of my favourite channels is Vice Grip…",
+   "url": "https://www.autocar.co.uk/opinion/used-cars/concours-restorations-i-prefer-save-banger-budget",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T07:00:00Z"
+  },
+  {
+   "titulo": "National Motor Museum confusion proves we need plain speaking",
+   "resumo": "Conflicting comms and corporate jargon can miss the point and confuse the people who really care I didn't realise the National Motor Museum and the Beaulieu Estate were anything other than…",
+   "url": "https://www.autocar.co.uk/opinion/features/national-motor-museum-confusion-proves-we-need-plain-speaking",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T06:00:00Z"
+  },
+  {
+   "titulo": "JCB Hydromax: inside the quest to set a 406mph hydrogen record",
+   "resumo": "Andy Green's run to a hydrogen land speed record looked easy – but things weren't nearly that simple The Bonneville Salt Flats were named to recognise explorer Benjamin Bonneville. But to…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/jcb-hydromax-inside-quest-set-406mph-hydrogen-record",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T05:00:00Z"
+  },
+  {
+   "titulo": "Want A One-Off Cayenne Or Panamera? Porsche Will Make It Happen",
+   "resumo": "It's not just the 911—Porsche tells Motor1 that Sonderwunsch is already working on bespoke four-door projects.",
+   "url": "https://www.motor1.com/news/805052/porsche-will-build-one-off-cayenne-panamera/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-15T01:30:54Z"
+  },
+  {
+   "titulo": "911 GT3 Buyers Helped Convince Porsche To Give The Carrera S A Manual",
+   "resumo": "Porsche is seeing rising demand for the manual transmission from its online fans, customers, and dealers.",
+   "url": "https://www.motor1.com/news/805043/porsche-911-gt3-manual-take-rate-carrera-s/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T21:30:00Z"
+  },
+  {
+   "titulo": "2028 Ford Fathom Is a $29,945 Electric Truck Worth Waiting For",
+   "resumo": "Ford has now confirmed the name and starting price of its upcoming EV that aims to change the game.",
+   "url": "https://www.caranddriver.com/news/a71855326/2028-ford-ranchero-future-cars/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T21:22:00Z"
+  },
+  {
+   "titulo": "Gordon Murray Special Vehicles Reveals the S1, a V-12-Powered, Manual-Equipped Stunner",
+   "resumo": "Gordon Murray Special Vehicles (GMSV), the more bespoke division of Gordon Murray Automotive, just revealed a stunning new supercar at The Quail, a Motorsports Gathering. It’s called the…",
+   "url": "https://www.hagerty.com/media/news/gordon-murray-special-vehicles-reveals-the-s1-a-v-12-powered-manual-equipped-stunner/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-14T20:36:14Z"
+  },
+  {
+   "titulo": "Inside the New Charger Super Bee’s 600-HP H.O. Inline-Six Engine",
+   "resumo": "We’re always excited when an automaker announces an interesting new engine, such as the Hurricane inline-six unveiled last spring by Stellantis, the corporate owner of Chrysler, Dodge…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/inside-the-new-charger-super-bees-600-hp-inline-six-engine/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-14T20:30:00Z"
+  },
+  {
+   "titulo": "Porsche U.S. CEO on Stick Shifts: We’ll Try to Sell Them ‘As Long as We’re Legally Allowed’",
+   "resumo": "The Carrera S just got its manual transmission back, so we asked Porsche about its row-your-own plans for the future. The response was encouraging.",
+   "url": "https://www.roadandtrack.com/news/a73438767/porsche-us-ceo-manual-gearbox-sales-as-long-as-legally-allowed/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:55:40Z"
+  },
+  {
+   "titulo": "A Land Rover Defender Octa Launched the World’s Fastest Hydrogen-Powered Car on Its 406-MPH Record Run",
+   "resumo": "The specially modified 626-hp Land Rover pushed JCB’s Hydromax up to a starting speed of 60 mph during the H2-powered bullet’s record-setting Bonneville blasts.",
+   "url": "https://www.roadandtrack.com/news/a73438220/land-rover-defender-octa-launch-fastest-hydrogen-powered-car-406-mph/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:35:46Z"
+  },
+  {
+   "titulo": "Gordon Murray Strikes Again with the S1",
+   "resumo": "The new S1 from GMSV could be considered a more accessible supercar, but you still can’t have one.",
+   "url": "https://www.caranddriver.com/news/a73429418/gordon-murray-special-vehicles-s1-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:15:00Z"
+  },
+  {
+   "titulo": "Revuelto SV ganha 50 cv mas V12 não ficou mais potente",
+   "resumo": "O Lamborghini Revuelto SV marca o regresso da sigla Super Veloce, mas com uma novidade: pela primeira vez, surge associada a um sistema híbrido. A receita mantém a lógica dos SV anteriores…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-lamborghini-revuelto-sv-monterey-car-week-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-14T19:02:24Z"
+  },
+  {
+   "titulo": "Gordon Murray on How Sketching Cars and Building His New Brand Helped Him Survive Cancer",
+   "resumo": "“If you haven't got something, if you're going through that—and it was terrible, the chemo—and you haven't got something to focus on, it's far, far worse,” Murray told Road & Track.",
+   "url": "https://www.roadandtrack.com/news/a73435441/gordon-murray-how-sketching-cars-building-brand-helped-survive-cancer/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:01:00Z"
+  },
+  {
+   "titulo": "GMA S1: New Murray supercar is the McLaren F1 reborn for 2026",
+   "resumo": "Toned-down take on S1 LM majors on long-distance refinement; keeps howling V12 and manual gearbox Gordon Murray has revealed the S1 as a modern-day tribute to his seminal McLaren F1…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/gma-s1-new-murray-supercar-mclaren-f1-reborn-2026",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:00:00Z"
+  },
+  {
+   "titulo": "Defender Dakar racer goes road-legal as 626bhp limited edition",
+   "resumo": "Rally-raid weapon hits the road as an extreme four-seater with wild chassis tech – and Flight mode The Defender Dakar racer is now available as a highly exclusive off-road supercar with a…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/defender-dakar-racer-goes-road-legal-626bhp-limited-edition",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:00:00Z"
+  },
+  {
+   "titulo": "You Can Make a Fiat Topolino Street Legal. Here’s How",
+   "resumo": "The tiny two-seater can be used on public roads; it just needs some modifications first. And you won't have to pay extra for them.",
+   "url": "https://www.motor1.com/news/805008/street-legal-fiat-topolino/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:00:00Z"
+  },
+  {
+   "titulo": "The Defender Dakar Is the Most Extreme Land Rover Yet",
+   "resumo": "This ‘design preview’ will be followed by a production model coming next year.",
+   "url": "https://www.caranddriver.com/news/a73396356/land-rover-defender-dakar-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-14T19:00:00Z"
+  }
+ ]
+}

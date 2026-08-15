@@ -149,6 +149,21 @@ Nota de rigor: imagens IA marcadas como apresentação; fotos reais do exemplar
 mantêm prioridade. Pendente: segredo GEMINI_API_KEY; workflow_dispatch só
 aparece se o ficheiro existir na branch default.
 
+## Notícias (v1.1, 2026-08-15)
+Separador **Notícias** agrega títulos de 12 feeds RSS de publicações de
+referência: **Desporto** (Motorsport.com, Autosport, Formula 1, FIA,
+AutoSport PT) · **Modelos/indústria** (Autocar, Motor1, Carscoops, Car and
+Driver, Road & Track, Razão Automóvel) · **Clássicos** (Hagerty).
+Pipeline: `noticias.py` (feedparser) → `assets/news/noticias.json` →
+a app faz fetch do JSON (mesma origem, **sem CORS nem terceiros em runtime**).
+Workflow `.github/workflows/noticias.yml`: cron de 6/6 h + manual; faz
+checkout da branch do site, corre o script, commit+push → dispara o Pages.
+**Nota:** o `schedule` só dispara a partir da branch predefinida (`main`) —
+o ficheiro tem de lá estar para a atualização ser automática.
+Rigor: guarda só título, resumo curto, fonte, data e link para o original;
+nunca o texto integral. Máx. 8 notícias por fonte, 60 no total.
+Filtros na UI: Todas · Modelos · Desporto · Clássicos · Portugal.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar

@@ -192,6 +192,41 @@
   .studio-empty { color: var(--muted); font-size: 15px; padding: 40px 0; border: 1px dashed var(--border-strong); border-radius: 14px; text-align: center; margin-top: 20px; }
   .studio-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
 
+  /* ---------- Notícias ---------- */
+  .news-sec { padding: 34px 0 20px; }
+  .news-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
+  .news-sec h2 { font-family: var(--font-serif); font-size: clamp(30px,4.6vw,44px); font-weight: 600; letter-spacing: -.01em; margin: 0; }
+  .news-upd { font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .news-sub { color: var(--muted); margin: 0 0 22px; max-width: 62ch; }
+  .news-filters { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; margin-bottom: 24px; scrollbar-width: none; }
+  .news-filters::-webkit-scrollbar { display: none; }
+  .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .ncard {
+    display: flex; flex-direction: column; gap: 10px; padding: 20px 20px 16px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+    box-shadow: var(--shadow); position: relative; overflow: hidden;
+    opacity: 0; transform: translateY(16px);
+    transition: opacity var(--dur) var(--ease), transform var(--dur) var(--ease), border-color .25s;
+  }
+  .ncard.in { opacity: 1; transform: none; }
+  .ncard:hover { border-color: var(--border-strong); transform: translateY(-3px); }
+  .ncard:active { transform: translateY(-1px) scale(.994); transition-duration: .12s; }
+  .ncard::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 2px; background: var(--accent); opacity: 0; transition: opacity .25s; }
+  .ncard:hover::before { opacity: 1; }
+  .ncard .nmeta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+  .ncard .nsrc { color: var(--accent-soft); font-weight: 600; }
+  .ncard .npt { border: 1px solid var(--border-strong); border-radius: 999px; padding: 1px 6px; }
+  .ncard .ntitle { font-family: var(--font-serif); font-size: 17px; line-height: 1.35; font-weight: 600; letter-spacing: -.005em; color: var(--text); text-wrap: pretty; }
+  .ncard .nsum { font-size: 13.5px; line-height: 1.55; color: var(--muted); margin: 0; }
+  .ncard .nfoot { margin-top: auto; padding-top: 6px; display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+  .ncard .ndom { font-family: var(--font-mono); font-size: 10px; color: var(--faint); }
+  .ncard .narrow { flex: none; width: 26px; height: 26px; border-radius: 50%; border: 1px solid var(--border-strong);
+    display: grid; place-items: center; color: var(--muted); transition: background .2s, color .2s, border-color .2s; }
+  .ncard:hover .narrow { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .news-note { margin-top: 22px; font-size: 12.5px; color: var(--muted); border: 1px dashed var(--border-strong); border-radius: 10px; padding: 11px 14px; }
+  .news-loading { color: var(--muted); font-family: var(--font-mono); font-size: 12.5px; padding: 40px 0; text-align: center; }
+
   /* ---------- Ordenação ---------- */
   .sortsel {
     appearance: none; -webkit-appearance: none; cursor: pointer;
@@ -508,10 +543,11 @@
       <button type="button" data-tab="colecao" aria-current="true">Coleção</button>
       <button type="button" data-tab="cronologia">Cronologia</button>
       <button type="button" data-tab="dashboard">Dashboard</button>
+      <button type="button" data-tab="noticias">Notícias</button>
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
-    <span class="wip">WIP · v1.0</span>
+    <span class="wip">WIP · v1.1</span>
   </div>
 </header>
 
@@ -598,6 +634,22 @@
       <div class="studio-grid" id="studio-grid"></div>
       <div class="studio-empty" id="studio-empty" hidden>Ainda não há imagens de estúdio. Gera-se uma no GitHub em <b>Actions → “Gerar imagem showroom” → Run workflow</b>, indicando o modelo (e, se quiser, o link de uma foto).</div>
       <div class="studio-note">◈ Estas imagens são geradas por IA para fins de apresentação. As fotografias reais do exemplar continuam a ter prioridade na ficha de cada carro.</div>
+    </div>
+  </div>
+</section>
+
+<section class="tabsec" data-sec="noticias">
+  <div class="wrap">
+    <div class="news-sec">
+      <div class="news-head">
+        <h2>Notícias</h2>
+        <span class="news-upd" id="news-upd"></span>
+      </div>
+      <p class="news-sub">O que se passa no mundo automóvel — indústria, novos modelos, desporto motorizado e mercado de coleção, reunido de publicações de referência.</p>
+      <div class="news-filters" id="news-filters"></div>
+      <div class="news-grid" id="news-grid"></div>
+      <div class="news-loading" id="news-loading">A carregar notícias…</div>
+      <div class="news-note" id="news-note" hidden></div>
     </div>
   </div>
 </section>
@@ -1202,6 +1254,7 @@ function switchTab(name) {
   if (_he) { _he.style.transform = ''; _he.style.opacity = ''; }
   if (name === 'cronologia') renderTimeline();
   if (name === 'dashboard') renderDash();
+  if (name === 'noticias') loadNews();
   if (name === 'estudio') loadStudio();
 }
 navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
@@ -1305,6 +1358,82 @@ function renderDash() {
     </div>
     <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
   revealAll(el.querySelectorAll('.tile, .dcard'));
+}
+
+/* ---------- Notícias ---------- */
+let newsData = null, newsFilter = 'Todas', newsLoaded = false;
+const NEWS_CATS = ['Todas', 'Modelos', 'Desporto', 'Clássicos', 'Portugal'];
+
+function haQuanto(iso) {
+  if (!iso) return '';
+  const s = (Date.now() - new Date(iso).getTime()) / 1000;
+  if (s < 90) return 'agora mesmo';
+  if (s < 5400) return 'há ' + Math.round(s / 60) + ' min';
+  if (s < 172800) return 'há ' + Math.round(s / 3600) + ' h';
+  const d = Math.round(s / 86400);
+  return d < 14 ? 'há ' + d + ' dias' : new Date(iso).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' });
+}
+
+function newsVisible() {
+  if (!newsData) return [];
+  if (newsFilter === 'Todas') return newsData.itens;
+  if (newsFilter === 'Portugal') return newsData.itens.filter(i => i.pt);
+  return newsData.itens.filter(i => i.categoria === newsFilter);
+}
+
+function renderNews() {
+  const grid = document.getElementById('news-grid');
+  grid.innerHTML = newsVisible().map(i => `
+    <a class="ncard" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">
+      <div class="nmeta">
+        <span class="nsrc">${esc(i.fonte)}</span>
+        <span>·</span><span>${esc(i.categoria)}</span>
+        ${i.pt ? '<span class="npt">PT</span>' : ''}
+      </div>
+      <div class="ntitle">${esc(i.titulo)}</div>
+      ${i.resumo ? `<p class="nsum">${esc(i.resumo)}</p>` : ''}
+      <div class="nfoot">
+        <span class="ndom">${esc(haQuanto(i.data))}</span>
+        <span class="narrow" aria-hidden="true">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg>
+        </span>
+      </div>
+    </a>`).join('');
+  revealAll(grid.querySelectorAll('.ncard'));
+  [...document.getElementById('news-filters').querySelectorAll('.chip')]
+    .forEach(c => c.setAttribute('aria-pressed', c.dataset.n === newsFilter));
+}
+
+async function loadNews() {
+  if (newsLoaded) return;
+  newsLoaded = true;
+  const loading = document.getElementById('news-loading');
+  const note = document.getElementById('news-note');
+  const filters = document.getElementById('news-filters');
+  try {
+    const res = await fetch('assets/news/noticias.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('sem ficheiro');
+    newsData = await res.json();
+    if (!newsData.itens || !newsData.itens.length) throw new Error('vazio');
+
+    filters.innerHTML = NEWS_CATS.map(c =>
+      `<button class="chip" data-n="${esc(c)}" aria-pressed="${c === newsFilter}">${esc(c)}</button>`).join('');
+    filters.addEventListener('click', e => {
+      const b = e.target.closest('.chip'); if (!b) return;
+      newsFilter = b.dataset.n; renderNews();
+    });
+
+    document.getElementById('news-upd').textContent = 'Atualizado ' + haQuanto(newsData.atualizado);
+    note.textContent = '◈ Títulos e resumos agregados de ' + newsData.fontes.length +
+      ' publicações (' + newsData.fontes.join(' · ') + '). ' +
+      'Tocar abre o artigo no site original — a leitura e os direitos pertencem a cada publicação.';
+    note.hidden = false;
+    loading.hidden = true;
+    renderNews();
+  } catch (e) {
+    loading.textContent = 'Ainda não há notícias guardadas. São recolhidas automaticamente algumas vezes por dia.';
+    newsLoaded = false;
+  }
 }
 
 /* ---------- Galeria de estúdio ---------- */
