@@ -81,9 +81,13 @@ galeria de fotos, documentos (PDF), cronologia, condição (1–5), modelo 3D.
 - **Fotos de referência (2026-07-15):** os outros 9 carros têm `ref-01.jpg`
   da Wikimedia Commons (licenças CC BY-SA — atribuição obrigatória em
   `assets/cars/CREDITS.md`). Marcadas na UI com selo "◈ referência do modelo"
-  e nota na ficha. **Fracas/a substituir:** Aston (é coupé preto, não Roadster
-  verde) e 917 (é o 917K Gulf de corrida). Tratamento aplicado via PIL
-  (autocontraste, nitidez, saturação -6%) antes de entrar na app.
+  e nota na ficha. Tratamento aplicado via PIL (autocontraste, nitidez,
+  saturação -6%) antes de entrar na app.
+- **Referências corrigidas (2026-08-16):** Aston → **V12 Vantage Roadster
+  verde de capota aberta** (CC0), modelo+carroçaria+cor certos; 917 → **917 KH
+  #23 «Salzburg»**, o verdadeiro vencedor de Le Mans 1970 (a anterior era o
+  Gulf, o mais famoso mas que *não* venceu). O 917 do Dr. Rodrigo é a versão
+  de estrada — fotos do exemplar continuam em falta.
 - `DADOS-EM-FALTA.md` na raiz: levantamento por carro do que falta (chassis,
   km, aquisição, cores por confirmar, variantes) + revisão de categorias.
 
@@ -161,7 +165,12 @@ checkout da branch do site, corre o script, commit+push → dispara o Pages.
 **Nota:** o `schedule` só dispara a partir da branch predefinida (`main`) —
 o ficheiro tem de lá estar para a atualização ser automática.
 Rigor: guarda só título, resumo curto, fonte, data e link para o original;
-nunca o texto integral. Máx. 8 notícias por fonte, 60 no total.
+nunca o texto integral. Máx. 5 notícias por fonte, 72 no total.
+**17 fontes (2026-08-16):** juntou-se The Race (desporto) e reforçou-se
+Clássicos com Octane, Classic & Sports Car, Silodrome e Sports Car Market —
+a categoria mais relevante para um colecionador passou de 4 para 17 notícias.
+A recolha usa `requests` com cabeçalhos de browser antes do feedparser
+(vários sites recusam leitores de feeds), com recurso alternativo.
 Filtros na UI: Todas · Modelos · Desporto · Clássicos · Portugal.
 Validado a 2026-08-16: workflow na `main`, run manual bem-sucedido, o robô
 commitou `Atualizar notícias` na branch do site → Pages atualizado.

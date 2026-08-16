@@ -33,6 +33,7 @@ FEEDS = [
     ("Formula 1",       "https://www.formula1.com/en/latest/all.xml",      "Desporto",  False),
     ("FIA",             "https://www.fia.com/rss/news",                    "Desporto",  False),
     ("AutoSport",       "https://www.autosport.pt/feed/",                  "Desporto",  True),
+    ("The Race",        "https://www.the-race.com/feed/",                  "Desporto",  False),
     # ---- Indústria e novos modelos ----
     ("Autocar",         "https://www.autocar.co.uk/rss",                   "Modelos",   False),
     ("Motor1",          "https://www.motor1.com/rss/news/all/",            "Modelos",   False),
@@ -41,11 +42,21 @@ FEEDS = [
     ("Road & Track",    "https://www.roadandtrack.com/rss/all.xml/",       "Modelos",   False),
     ("Razão Automóvel", "https://www.razaoautomovel.com/feed",             "Modelos",   True),
     # ---- Coleção e clássicos ----
-    ("Hagerty",         "https://www.hagerty.com/media/feed/",             "Clássicos", False),
+    ("Hagerty",             "https://www.hagerty.com/media/feed/",          "Clássicos", False),
+    ("Octane",              "https://www.octane-magazine.com/feed",         "Clássicos", False),
+    ("Classic & Sports Car","https://www.classicandsportscar.com/rss.xml",  "Clássicos", False),
+    ("Silodrome",           "https://silodrome.com/feed/",                  "Clássicos", False),
+    ("Sports Car Market",   "https://www.sportscarmarket.com/feed",         "Clássicos", False),
 ]
 
-UA = "Mozilla/5.0 (compatible; GaragemBot/1.0; agregador pessoal de notícias)"
-MAX_POR_FONTE = 8
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+CABECALHOS = {
+    "User-Agent": UA,
+    "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+    "Accept-Language": "en,pt;q=0.8",
+}
+MAX_POR_FONTE = 5
 RESUMO_MAX = 190
 
 
@@ -84,14 +95,21 @@ def chave(titulo: str) -> str:
 def main() -> None:
     ap = argparse.ArgumentParser(description="Agregar notícias automóveis para a Garagem.")
     ap.add_argument("--out", default="assets/news/noticias.json", help="Ficheiro JSON de saída.")
-    ap.add_argument("--max", type=int, default=60, help="Número máximo de notícias guardadas.")
+    ap.add_argument("--max", type=int, default=72, help="Número máximo de notícias guardadas.")
     args = ap.parse_args()
 
     itens, vistos, falhas = [], set(), []
 
     for nome, url, categoria, pt in FEEDS:
         try:
-            feed = feedparser.parse(url, agent=UA)
+            # Buscar com um cliente HTTP normal (alguns sites recusam leitores de
+            # feeds) e só depois entregar o conteúdo ao analisador.
+            try:
+                r = requests.get(url, headers=CABECALHOS, timeout=20)
+                r.raise_for_status()
+                feed = feedparser.parse(r.content)
+            except Exception:
+                feed = feedparser.parse(url, agent=UA)  # recurso alternativo
             entradas = feed.entries or []
             if not entradas:
                 falhas.append(nome)

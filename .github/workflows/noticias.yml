@@ -36,7 +36,7 @@ jobs:
         run: pip install feedparser requests
 
       - name: Recolher notícias
-        run: python noticias.py --out assets/news/noticias.json --max 60
+        run: python noticias.py --out assets/news/noticias.json --max 72
 
       - name: Commit e push (dispara o deploy do Pages)
         run: |
