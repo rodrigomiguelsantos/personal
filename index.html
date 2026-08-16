@@ -955,15 +955,16 @@ const CARS = [
   },
   {
     brand: "Porsche", name: "917 (versão de estrada)", hero: "917", sub: "O vencedor de Le Mans, domado para a estrada.", year: 1970,
-    colour: "Prata", paint: "#c4c8cb", state: "Na coleção", rare: true,
+    colour: "Livery Martini Racing · branco, azul e vermelho", paint: "#e9edf2", state: "Na coleção", rare: true,
+    chassis: "917-014", prov: "Le Mans 1971 · conversão de estrada Porsche Sonderwunsch",
     power: "≈580", powerU: "PS", vmax: "≈330", vmaxU: "km/h", accel: "≈3.0", accelU: "s",
     engine: "Flat-12 · base Le Mans", production: "praticamente único",
     collections: ["Ícones","Competição"],
     tags: ["#le-mans","#stradale","#lenda"], valueK: 15000, engType: "Atmosférico",
-    hist: "O 917 deu à Porsche as primeiras vitórias absolutas em Le Mans (1970 e 1971). Pouquíssimos foram alguma vez adaptados à estrada — o mais célebre, o 917-030 do Conde Rossi, matriculado no Alabama. Uma versão de estrada é, na prática, uma peça única: um protótipo de competição domado para a via pública.",
-    curios: ["Flat-12 atmosférico derivado diretamente da competição","Chassis tubular em alumínio pressurizado — a pressão denuncia fissuras na estrutura","Conversões de estrada conhecidas contam-se pelos dedos de uma mão"],
-    curator: "A joia da coroa. Não há garagem no mundo a que este carro não mude o estatuto. Aqui, documentação e proveniência valem mais do que tudo — recomendo tratarmos da cronologia e dos documentos deste exemplar com prioridade absoluta.",
-    note: "Especificações aproximadas à versão de corrida; a validar com a documentação do exemplar."
+    hist: "Chassis 917-014, correu as 24 Horas de Le Mans de 1971 — o ano em que a Porsche selou vitórias consecutivas à geral, depois do triunfo de 1970, ambas com o 917. Nessa edição de 1971 o 917 KH #22 da Martini Racing, de Helmut Marko e Gijs van Lennep, percorreu 5 335,3 km a uma média de 222,3 km/h: um recorde de distância que resistiu 39 anos. Terminada a carreira desportiva, este exemplar foi convertido para estrada pela divisão **Sonderwunsch** da Porsche, a pedido do Dr. Rodrigo, mantendo praticamente toda a especificação de competição — apenas adaptada e homologada para a via pública. Foi repintado com a livery Martini Racing de 1971, devolvendo-lhe as cores originais e históricas.",
+    curios: ["Le Mans 1971 fechou a dobradinha da Porsche: vitórias absolutas em 1970 e 1971, ambas com o 917","O recorde de distância de 1971 (5 335,3 km) só caiu em 2010","Sonderwunsch é o departamento de pedidos especiais da Porsche, com raízes nos anos 50 e hoje capaz de criar peças únicas de fábrica","Flat-12 atmosférico e chassis tubular de alumínio pressurizado — a pressão denuncia fissuras na estrutura","Conversões de 917 para estrada contam-se pelos dedos de uma mão"],
+    curator: "A joia da coroa, e agora com a história que merece. Um 917 que correu Le Mans, devolvido à estrada pela própria Porsche e às suas cores de guerra — não é um carro, é um documento histórico com matrícula. Guardar a papelada da conversão Sonderwunsch é tão importante como guardar o carro: é ela que separa esta peça de qualquer réplica.",
+    note: "Proveniência conforme documentação do proprietário. O historial público do chassis 917-014 não está detalhado nas fontes abertas — os documentos da Porsche Sonderwunsch são aqui a fonte de autoridade."
   },
   {
     brand: "Lancia", name: "Delta Integrale (homologação)", hero: "Delta", sub: "Seis títulos mundiais destilados numa berlina.", year: 1992,
@@ -1050,7 +1051,7 @@ const PHOTO_META = {
   "959": { ref: true, refNote: "Referência do modelo — 959 em prata." },
   "v12-vantage-roadster": { ref: true, refNote: "Referência do modelo — V12 Vantage Roadster verde, capota aberta. O exemplar do Dr. Rodrigo é o n.º 177/249." },
   "slr-mclaren": { ref: true, refNote: "Referência do modelo — SLR em prata (cor do exemplar por confirmar)." },
-  "917-stradale": { ref: true, refNote: "Referência: 917 KH #23 «Salzburg» — o exemplar que venceu Le Mans em 1970, no Museu Porsche. O carro do Dr. Rodrigo é a versão de estrada, praticamente única; fotos do exemplar ainda em falta." },
+  "917-stradale": { ref: true, refNote: "Referência: 917 KH #22 da Martini Racing — o vencedor de Le Mans 1971, no Museu Porsche, com a mesma livery que este exemplar enverga. Fotos do carro do Dr. Rodrigo ainda em falta." },
   "delta-integrale": { ref: true, refNote: "Referência do modelo — HF Integrale Evoluzione (cor do exemplar por confirmar)." },
   "ds-n8": { ref: true, refNote: "Referência do modelo — N°8 cinza com teto preto." },
   "gemera": { ref: true, refNote: "Referência do modelo — Gemera (foto de salão); cor e spec do exemplar por confirmar." },
@@ -1294,8 +1295,8 @@ function fichaHTML(c) {
       <div class="f-rows rows">
         <div class="row"><span class="rk">Cor</span><span class="rv">${esc(c.colour)}</span></div>
         <div class="row"><span class="rk">Estado</span><span class="rv">${esc(c.state)}</span></div>
-        <div class="row"><span class="rk">Chassis / VIN</span><span class="rv" style="color:var(--muted)">a preencher</span></div>
-        <div class="row"><span class="rk">Aquisição</span><span class="rv" style="color:var(--muted)">a preencher</span></div>
+        <div class="row"><span class="rk">Chassis / VIN</span><span class="rv"${c.chassis ? '' : ' style="color:var(--muted)"'}>${esc(c.chassis || 'a preencher')}</span></div>
+        <div class="row"><span class="rk">Proveniência</span><span class="rv"${c.prov ? '' : ' style="color:var(--muted)"'}>${esc(c.prov || 'a preencher')}</span></div>
       </div>
       ${c.curator ? `
       <div class="f-curator">

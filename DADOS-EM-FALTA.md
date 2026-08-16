@@ -43,11 +43,14 @@ e (opcional) valor pago / avaliação atual.
 - [ ] Fotos do exemplar
 - [ ] Chassis, km, aquisição
 
-### Porsche 917 (versão de estrada) — ◈ foto de referência (917K de corrida!)
-- [ ] **Fotos do exemplar** (prioritário)
-- [ ] **História/proveniência deste chassis** (a peça mais valiosa da coleção — que chassis é, quem fez a conversão, matrícula)
-- [ ] Ano exato, cor atual
-- [ ] Documentação (Gervásio recomenda tratar disto com prioridade absoluta)
+### Porsche 917 (versão de estrada) — ✅ proveniência documentada (2026-08-16)
+- [x] **Chassis 917-014**, correu as 24 H de Le Mans de 1971
+- [x] **Conversão para estrada pela Porsche Sonderwunsch**, a pedido do proprietário,
+      mantendo praticamente toda a spec de competição
+- [x] **Livery Martini Racing de 1971** — cores originais e históricas restituídas
+- [ ] **Fotos do exemplar** (prioritário — a referência é o #22 do museu)
+- [ ] Matrícula, ano da conversão, e cópia da documentação Sonderwunsch
+- [ ] Confirmar resultado/participação exata em Le Mans 1971 (nº de corrida, pilotos)
 
 ### Lancia Delta Integrale (homologação) — ◈ foto de referência
 - [ ] **Variante exata** (8V, 16V, Evo I "Deltona", Evo II?) e ano

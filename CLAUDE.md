@@ -226,6 +226,20 @@ documentos primários do Dr. Rodrigo prevalecem sobre tudo.
    crio a ficha e integro visualmente na UI.
 5. Eu faço **commit e push**. Aparece online.
 
+## Porsche 917 — proveniência (dada pelo proprietário, 2026-08-16)
+**Chassis 917-014**, correu as **24 H de Le Mans de 1971**. Convertido para
+estrada pela divisão **Sonderwunsch da Porsche**, a pedido do Dr. Rodrigo,
+mantendo quase toda a especificação de competição (só adaptada/homologada).
+Repintado com a **livery Martini Racing de 1971** — cores originais e históricas.
+Contexto verificado: a Porsche venceu Le Mans à geral em **1970 e 1971
+(consecutivas), ambas com o 917**; em 1971 o **#22 Martini KH** de Marko/van
+Lennep fez 5 335,3 km a 222,3 km/h de média, recorde que durou 39 anos
+(chassis do vencedor: 917-053). O historial público do 917-014 não está
+detalhado em fontes abertas → **a documentação Sonderwunsch do proprietário é
+a fonte de autoridade** (regra dos one-offs). Foto de referência trocada para
+o **#22 Martini** (Museu Porsche), a livery que este exemplar enverga.
+Campos novos suportados na ficha: `chassis` e `prov` (proveniência).
+
 ## Coleção (11) e arquivo de curadoria
 Ver `README.md`. Correções já aplicadas: é **911 GT2 (2007)** — não GT2 RS;
 **SLR McLaren** versão base (~2 157 unid., ainda assim exclusivo);
