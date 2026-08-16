@@ -96,7 +96,13 @@
     background: none; border: 0; transition: color .2s, background .2s;
   }
   .top nav a:hover, .top nav button:hover { color: var(--text); background: var(--surface-2); }
-  .top nav button[aria-current="true"] { color: var(--accent-deep); background: color-mix(in srgb, var(--accent) 16%, transparent); }
+  .top nav a, .top nav button { position: relative; }
+  .top nav button[aria-current="true"] { color: var(--text); background: none; }
+  .top nav button[aria-current="true"]::after {
+    content: ""; position: absolute; left: 12px; right: 12px; bottom: 2px; height: 2px;
+    background: var(--accent); border-radius: 2px; animation: navin .32s var(--ease);
+  }
+  @keyframes navin { from { transform: scaleX(0); opacity: 0; } }
   .top nav .play { color: var(--accent-soft); }
   @media (max-width: 640px) {
     /* Safari faz zoom em campos com menos de 16px — evitar */
@@ -173,7 +179,10 @@
   .bar-row { display: grid; grid-template-columns: 92px 1fr 44px; align-items: center; gap: 10px; margin-bottom: 10px; font-size: 13.5px; }
   .bar-row .bl { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .bar-row .bt { position: relative; height: 8px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
-  .bar-row .bf { position: absolute; inset: 0 auto 0 0; border-radius: 99px; background: linear-gradient(90deg, var(--accent), var(--accent-soft)); }
+  .bar-row .bf { position: absolute; inset: 0 auto 0 0; border-radius: 99px; background: linear-gradient(90deg, var(--accent), var(--accent-soft));
+    width: 0; transition: width .9s cubic-bezier(.2,.8,.25,1); }
+  .dcard.in .bar-row .bf { width: var(--w); }
+  @media (prefers-reduced-motion: reduce) { .bar-row .bf { transition: none; } }
   .bar-row .bv { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
   .rec-row { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 9px 0; border-top: 1px solid var(--border); font-size: 15px; }
   .rec-row:first-of-type { border-top: 0; }
@@ -226,6 +235,22 @@
   .ncard:hover .narrow { background: var(--accent); border-color: var(--accent); color: #fff; }
   .news-note { margin-top: 22px; font-size: 12.5px; color: var(--muted); border: 1px dashed var(--border-strong); border-radius: 10px; padding: 11px 14px; }
   .news-loading { color: var(--muted); font-family: var(--font-mono); font-size: 12.5px; padding: 40px 0; text-align: center; }
+  .news-empty { color: var(--muted); text-align: center; padding: 56px 20px; border: 1px dashed var(--border-strong); border-radius: 16px; font-size: 15px; }
+
+  /* ---------- Voltar ao topo ---------- */
+  #totop {
+    position: fixed; right: max(18px, env(safe-area-inset-right)); z-index: 60;
+    bottom: calc(18px + env(safe-area-inset-bottom));
+    width: 46px; height: 46px; border-radius: 50%; cursor: pointer;
+    border: 1px solid var(--border-strong); background: color-mix(in srgb, var(--bg) 86%, transparent);
+    backdrop-filter: blur(10px); color: var(--text); display: grid; place-items: center;
+    box-shadow: var(--shadow);
+    opacity: 0; transform: translateY(10px) scale(.9); pointer-events: none;
+    transition: opacity .3s var(--ease), transform .3s var(--ease), background .2s;
+  }
+  #totop.on { opacity: 1; transform: none; pointer-events: auto; }
+  #totop:hover { background: var(--surface); border-color: var(--accent); color: var(--accent); }
+  #totop:active { transform: scale(.93); }
 
   /* ---------- Ordenação ---------- */
   .sortsel {
@@ -529,6 +554,9 @@
 </head>
 <body>
 <canvas id="bg3d" aria-hidden="true"></canvas>
+<button id="totop" type="button" aria-label="Voltar ao topo" title="Voltar ao topo">
+  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
 
 <header class="top">
   <div class="wrap">
@@ -560,7 +588,7 @@
       <div class="stat"><div class="n" id="stat-cars">10</div><div class="l">Automóveis</div></div>
       <div class="stat"><div class="n" id="stat-brands">6</div><div class="l">Marcas</div></div>
       <div class="stat"><div class="n" id="stat-years">—</div><div class="l">Décadas</div></div>
-      <div class="stat"><div class="n">∞</div><div class="l">Grupos</div></div>
+      <div class="stat"><div class="n" id="stat-power">—</div><div class="l">Cavalos</div></div>
     </div>
   </div>
 </section>
@@ -867,6 +895,8 @@ document.getElementById('stat-cars').textContent = CARS.length;
 document.getElementById('stat-brands').textContent = new Set(CARS.map(c => c.brand)).size;
 const YEARS = CARS.map(c => c.year);
 document.getElementById('stat-years').textContent = Math.min(...YEARS) + '–' + Math.max(...YEARS);
+document.getElementById('stat-power').textContent =
+  CARS.reduce((s, c) => s + (+String(c.power).replace(/[^\d]/g, '') || 0), 0).toLocaleString('pt-PT');
 
 const ALL_COLLECTIONS = [...new Set(CARS.flatMap(c => c.collections))].sort();
 let activeFilter = "Todos";
@@ -1259,6 +1289,14 @@ function switchTab(name) {
 }
 navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
 
+/* Voltar ao topo */
+const toTop = document.getElementById('totop');
+if (toTop) {
+  addEventListener('scroll', () => toTop.classList.toggle('on', scrollY > 700), { passive: true });
+  toTop.addEventListener('click', () =>
+    scrollTo({ top: 0, behavior: REDUCE ? 'auto' : 'smooth' }));
+}
+
 /* Parallax subtil do hero */
 const heroEl = document.querySelector('.hero');
 if (!REDUCE && heroEl) {
@@ -1313,7 +1351,7 @@ function fmtValue(k) {
 function barRows(counts, unit) {
   const max = Math.max(...Object.values(counts));
   return Object.entries(counts).sort((a,b) => b[1]-a[1]).map(([k,v]) =>
-    `<div class="bar-row"><span class="bl">${esc(k)}</span><span class="bt"><span class="bf" style="width:${Math.round(v/max*100)}%"></span></span><span class="bv">${v}${unit||''}</span></div>`
+    `<div class="bar-row"><span class="bl">${esc(k)}</span><span class="bt"><span class="bf" style="--w:${Math.round(v/max*100)}%"></span></span><span class="bv">${v}${unit||''}</span></div>`
   ).join('');
 }
 function renderDash() {
@@ -1383,7 +1421,14 @@ function newsVisible() {
 
 function renderNews() {
   const grid = document.getElementById('news-grid');
-  grid.innerHTML = newsVisible().map(i => `
+  const itens = newsVisible();
+  if (!itens.length) {
+    grid.innerHTML = `<div class="news-empty" style="grid-column:1/-1">Sem notícias em “${esc(newsFilter)}” nesta recolha. As fontes são consultadas várias vezes por dia.</div>`;
+    [...document.getElementById('news-filters').querySelectorAll('.chip')]
+      .forEach(c => c.setAttribute('aria-pressed', c.dataset.n === newsFilter));
+    return;
+  }
+  grid.innerHTML = itens.map(i => `
     <a class="ncard" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">
       <div class="nmeta">
         <span class="nsrc">${esc(i.fonte)}</span>

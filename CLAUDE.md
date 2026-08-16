@@ -163,6 +163,8 @@ o ficheiro tem de lá estar para a atualização ser automática.
 Rigor: guarda só título, resumo curto, fonte, data e link para o original;
 nunca o texto integral. Máx. 8 notícias por fonte, 60 no total.
 Filtros na UI: Todas · Modelos · Desporto · Clássicos · Portugal.
+Validado a 2026-08-16: workflow na `main`, run manual bem-sucedido, o robô
+commitou `Atualizar notícias` na branch do site → Pages atualizado.
 
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
