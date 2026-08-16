@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-16T00:58:23Z",
+ "atualizado": "2026-08-16T06:58:43Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -14,6 +14,156 @@
   "Road & Track"
  ],
  "itens": [
+  {
+   "titulo": "Horse reveals methanol-powered range-extender for electric cars",
+   "resumo": "Horse D20 uses clever motor tech and an extremely efficient methanol-burning engine to slash emissions Alternative powertrain progress may have swung inexorably in favour of BEVs, but…",
+   "url": "https://www.autocar.co.uk/car-news/technology/horse-reveals-methanol-powered-range-extender-electric-cars",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T06:00:00Z"
+  },
+  {
+   "titulo": "What Alpina did next: How Bovensiepen will keep building ultimate BMWs",
+   "resumo": "BMW has taken control of Alpina, so what's next for the family that established the name? Andreas Bovensiepen sweeps into a deserted canteen at the Salzburgring, six minutes late for our…",
+   "url": "https://www.autocar.co.uk/car-news/features/what-alpina-did-next-how-bovensiepen-will-keep-building-ultimate-bmws",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T05:00:00Z"
+  },
+  {
+   "titulo": "Dale Earnhardt's grandson Wyatt Miller flips wildly in crash, but drives away",
+   "resumo": "At Bark River International Raceway on Saturday afternoon, Wyatt Miller was driving a Pro Spec truck in the Championship Off-Road Series. The 14-year-old grandson of NASCAR's greatest icon…",
+   "url": "https://www.motorsport.com/general/news/dale-earnhardts-grandson-wyatt-miller-goes-for-wild-rollover-crash-but-keeps-going/10846616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T04:56:32Z"
+  },
+  {
+   "titulo": "Denny Hamlin breaks down pit struggles that cost No. 11 team",
+   "resumo": "Denny Hamlin's homecoming weekend and Richmond Raceway unfortunately didn't end in victory lane. The No. 11 team battled for a fourth-place finish with a blistering final stretch on the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/denny-hamlin-breaks-down-pit-struggles-that-cost-no-11-team/10846614/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T04:24:45Z"
+  },
+  {
+   "titulo": "Kyle Larson Rushes from NASCAR Richmond Race to Knoxville Nationals",
+   "resumo": "Larson makes a mad dash from Richmond Raceway to Knoxville Raceway in hopes of making it to the Sprint Car Capital of the World in time to start the A-Main from pole.",
+   "url": "https://www.roadandtrack.com/news/a73444250/kyle-larson-rushes-from-nascar-richmond-race-to-the-knoxville-nationals/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T04:23:33Z"
+  },
+  {
+   "titulo": "Shane van Gisbergen falls to Chase bubble but actually gains ground at Richmond",
+   "resumo": "Shane Van Gisbergen started Saturday's NASCAR Cup race at Richmond outside the top 30 in the running order. With Austin Cindric ended up having his best run of the 2026 season, it was…",
+   "url": "https://www.motorsport.com/nascar-cup/news/shane-van-gisbergen-falls-to-chase-bubble-but-actually-gains-ground-at-richmond/10846612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T04:03:30Z"
+  },
+  {
+   "titulo": "Austin Cindric: Richmond was the 'kick in the ass' we needed",
+   "resumo": "It was a big night for Team Penske at Richmond Raceway on Saturday, with Joey Logano taking the checkered flag and Austin Cindric finishing in third. Cindric was in need of a strong…",
+   "url": "https://www.motorsport.com/nascar-cup/news/austin-cindric-richmond-was-the-kick-in-the-ass-we-needed/10846610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T03:56:01Z"
+  },
+  {
+   "titulo": "Christopher Bell says finish was 'better than we deserved' after Richmond gamble",
+   "resumo": "Christopher Bell was clearly tired of coming in second place. Heading into the final long run at Richmond Raceway on Saturday night, Bell and Tyler Reddick were the only two cars in…",
+   "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-says-finish-was-better-than-we-deserved-after-richmond-gamble/10846608/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T03:23:02Z"
+  },
+  {
+   "titulo": "Complete NASCAR Cup points standings after Richmond 2026",
+   "resumo": "With just two races left before the Chase reset, Denny Hamlin holds a 115-point lead in the championship. After the reset, it will be reduced to just 25 over whoever is second. After…",
+   "url": "https://www.motorsport.com/nascar-cup/news/complete-nascar-cup-points-standings-after-richmond-2026/10846606/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T03:22:04Z"
+  },
+  {
+   "titulo": "Chase Briscoe 'frustrated' after second-place finish at Richmond",
+   "resumo": "Joey Logano held off a late charge from Chase Briscoe through the final laps at Richmond Raceway on Saturday night to take the checkered flag. Briscoe had been the most dominant car on the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/chase-briscoe-frustrated-after-second-place-finish-at-richmond/10846601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T02:59:52Z"
+  },
+  {
+   "titulo": "Official race results: 2026 NASCAR Cup at Richmond",
+   "resumo": "At Richmond, Team Penske's Joey Logano held off a charging Chase Briscoe to earn his second win of the 2026 season, his third at Richmond Raceway, and the 39th of his Cup career. Briscoe…",
+   "url": "https://www.motorsport.com/nascar-cup/news/official-race-results-2026-nascar-cup-at-richmond/10846599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T02:57:43Z"
+  },
+  {
+   "titulo": "Joey Logano Wins at Richmond to Solidify NASCAR Season Comeback",
+   "resumo": "In just six weeks, Joey Logano went from a 2026 NASCAR Chase longshot to a true threat to contend for his fourth championship.",
+   "url": "https://www.roadandtrack.com/news/a73444041/joey-logano-goes-from-playoff-longshot-to-champion-contender-richmond/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T02:48:19Z"
+  },
+  {
+   "titulo": "The McL 6GT Does Something McLaren Never Does: Look Backwards",
+   "resumo": "Until now, McLaren has been an exclusively forward-looking company that brings the latest Formula One hypertech to the road with cars known for sporting lots of computers and wind-shaping…",
+   "url": "https://www.hagerty.com/media/news/the-mcl-6gt-does-something-mclaren-never-does-look-backwards/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-16T02:40:06Z"
+  },
+  {
+   "titulo": "Singer/Louis Vuitton Tie-up Produces the Craziest Modified Porsches Yet",
+   "resumo": "Gaudy expressions of wealth are nothing new at Monterey’s Car Week, starting with the teardrop-shaped Figoni-bodied French bolides that annually glide onto the concours lawn to vie for the…",
+   "url": "https://www.hagerty.com/media/news/singer-louis-vuitton-tie-up-the-craziest-modified-porsches-yet/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-16T02:08:59Z"
+  },
+  {
+   "titulo": "The Quail Honors Route 66’s Centennial",
+   "resumo": "The Quail by The Peninsula, A Motorsports Gathering, is one of the most exclusive shows of Monterey Car Week. The gathering celebrates the engineering and design of the finest automobiles…",
+   "url": "https://www.hagerty.com/media/automobilia/the-quail-honors-route-66s-centennial/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-16T01:29:09Z"
+  },
   {
    "titulo": "BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does",
    "resumo": "A gas-powered X5 M is coming too, but the electric iX5 M might be the one that corners hardest",
@@ -33,16 +183,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-16T00:38:07Z"
-  },
-  {
-   "titulo": "IndyCar Markham starting lineup: Louis Foster storms to pole as Alex Palou crashes",
-   "resumo": "Louis Foster surged late in qualifying to claim pole for the inaugural Ontario Honda Dealers Indy at Markham. Driving the No. 45 Rahal Letterman Lanigan Racing Honda, the 23-year-old Briton…",
-   "url": "https://www.motorsport.com/indycar/news/indycar-markham-starting-lineup-louis-foster-storms-to-markham-indycar-pole-as-alex-palou-crashes/10846570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-16T00:31:01Z"
   },
   {
    "titulo": "Porsche Built The One 911 GT3 Money Can’t Buy In America",
@@ -75,16 +215,6 @@
    "data": "2026-08-15T21:45:13Z"
   },
   {
-   "titulo": "Nicki Thiim hits out at DTM and AMG: \"What’s going on here is a disgrace\"",
-   "resumo": "Aston Martin title contender Nicki Thiim was completely beside himself after finishing 11th in Saturday's DTM race at the Nurburgring - and lashed out at the series and at Mercedes-AMG. \"I…",
-   "url": "https://www.motorsport.com/dtm/news/thiim-hits-out-at-dtm-and-amg-whats-going-on-here-is-a-disgrace/10846568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T21:23:02Z"
-  },
-  {
    "titulo": "Subaru Won’t Cover Her Blown Engine Because She Changed Her Own Oil",
    "resumo": "An Outback owner says Subaru refused an engine repair claim after learning she handled servicing herself",
    "url": "https://www.carscoops.com/2026/08/subaru-outback-warranty-denial/",
@@ -93,16 +223,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-15T21:13:00Z"
-  },
-  {
-   "titulo": "Will Power crashes hard in second IndyCar Markham practice",
-   "resumo": "Will Power became the first driver to crash at the inaugural Ontario Honda Dealers Indy at Markham, bringing out a red flag late in Saturday’s second practice session. The Aussie was…",
-   "url": "https://www.motorsport.com/indycar/news/will-power-crashes-hard-in-second-indycar-markham-practice/10846566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T19:49:28Z"
   },
   {
    "titulo": "Toyota Built The 1997 Land Cruiser To Be Thrashed, This One Did 170 Miles A Year",
@@ -115,26 +235,6 @@
    "data": "2026-08-15T19:28:00Z"
   },
   {
-   "titulo": "Kaden Honeycutt earns dominant NASCAR Truck win at Richmond",
-   "resumo": "There was no stopping Kaden Honeycutt and the No. 11 TRICON Garage Toyota at Richmond Raceway. After starting on the front row with pole-sitter Shane van Gisbergen, Honeycutt went on to…",
-   "url": "https://www.motorsport.com/nascar-truck/news/kaden-honeycutt-nascar-truck-win-richmond/10846552/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T18:28:12Z"
-  },
-  {
-   "titulo": "Pascal Wehrlein responds to Porsche’s team tactics after dominant London win",
-   "resumo": "Pascal Wehrlein has defended Porsche’s use of team tactics to aid his victory in Saturday’s London E-Prix and strengthen his bid for the 2025-26 Formula E title. Wehrlein converted pole…",
-   "url": "https://www.motorsport.com/formula-e/news/pascal-wehrlein-responds-to-porsches-team-tactics-after-dominant-london-win/10846550/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T17:47:01Z"
-  },
-  {
    "titulo": "Chevy’s 2026 Silverado ZR2 Is A Trail Weapon That Hates The Drive-Through",
    "resumo": "We drive Chevrolet’s off-road flagship to see whether its serious hardware outweighs the cost, fuel use, and enormous footprint",
    "url": "https://www.carscoops.com/2026/08/chevrolet-silverado-zr2-review/",
@@ -143,26 +243,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-15T17:43:00Z"
-  },
-  {
-   "titulo": "“It’s typical of my luck” - Mitch Evans after VSC and “extreme” Porsche “games” in London",
-   "resumo": "Mitch Evans reckons the ill-timed virtual safety car was “typical of my luck” in race one of the London E-Prix, after Porsche’s “extreme games” already compromised his Formula E title…",
-   "url": "https://www.motorsport.com/formula-e/news/its-typical-of-my-luck-mitch-evans-after-vsc-and-extreme-porsche-games-in-london/10846548/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T17:25:33Z"
-  },
-  {
-   "titulo": "David Malukas hails new Markham IndyCar circuit as “a blast”",
-   "resumo": "After Friday’s on-track activities were cancelled, compressing the IndyCar Series schedule into a busy Saturday, 24-year-old David Malukas emerged sixth fastest in opening practice for the…",
-   "url": "https://www.motorsport.com/indycar/news/david-malukas-hails-new-markham-indycar-circuit-as-a-blast/10846545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T17:06:21Z"
   },
   {
    "titulo": "McLaren McL 6GT: o sonho de Bruce",
@@ -233,16 +313,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-15T15:10:45Z"
-  },
-  {
-   "titulo": "Formula E London E-Prix: Pascal Wehrlein dominates race one to take championship lead",
-   "resumo": "Pascal Wehrlein dominated the opening race of the London E-Prix weekend to grab the Formula E championship lead ahead of Sunday’s title decider. The factory Porsche driver won by six…",
-   "url": "https://www.motorsport.com/formula-e/news/formula-e-london-e-prix-race-report-/10846527/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T15:03:18Z"
   },
   {
    "titulo": "Parece um novo F1 mas não é um McLaren",
@@ -543,76 +613,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-14T19:55:40Z"
-  },
-  {
-   "titulo": "A Land Rover Defender Octa Launched the World’s Fastest Hydrogen-Powered Car on Its 406-MPH Record Run",
-   "resumo": "The specially modified 626-hp Land Rover pushed JCB’s Hydromax up to a starting speed of 60 mph during the H2-powered bullet’s record-setting Bonneville blasts.",
-   "url": "https://www.roadandtrack.com/news/a73438220/land-rover-defender-octa-launch-fastest-hydrogen-powered-car-406-mph/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:35:46Z"
-  },
-  {
-   "titulo": "Gordon Murray Strikes Again with the S1",
-   "resumo": "The new S1 from GMSV could be considered a more accessible supercar, but you still can’t have one.",
-   "url": "https://www.caranddriver.com/news/a73429418/gordon-murray-special-vehicles-s1-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:15:00Z"
-  },
-  {
-   "titulo": "Revuelto SV ganha 50 cv mas V12 não ficou mais potente",
-   "resumo": "O Lamborghini Revuelto SV marca o regresso da sigla Super Veloce, mas com uma novidade: pela primeira vez, surge associada a um sistema híbrido. A receita mantém a lógica dos SV anteriores…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-lamborghini-revuelto-sv-monterey-car-week-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-14T19:02:24Z"
-  },
-  {
-   "titulo": "Gordon Murray on How Sketching Cars and Building His New Brand Helped Him Survive Cancer",
-   "resumo": "“If you haven't got something, if you're going through that—and it was terrible, the chemo—and you haven't got something to focus on, it's far, far worse,” Murray told Road & Track.",
-   "url": "https://www.roadandtrack.com/news/a73435441/gordon-murray-how-sketching-cars-building-brand-helped-survive-cancer/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:01:00Z"
-  },
-  {
-   "titulo": "GMA S1: New Murray supercar is the McLaren F1 reborn for 2026",
-   "resumo": "Toned-down take on S1 LM majors on long-distance refinement; keeps howling V12 and manual gearbox Gordon Murray has revealed the S1 as a modern-day tribute to his seminal McLaren F1…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/gma-s1-new-murray-supercar-mclaren-f1-reborn-2026",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:00:00Z"
-  },
-  {
-   "titulo": "Defender Dakar racer goes road-legal as 626bhp limited edition",
-   "resumo": "Rally-raid weapon hits the road as an extreme four-seater with wild chassis tech – and Flight mode The Defender Dakar racer is now available as a highly exclusive off-road supercar with a…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/defender-dakar-racer-goes-road-legal-626bhp-limited-edition",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:00:00Z"
-  },
-  {
-   "titulo": "You Can Make a Fiat Topolino Street Legal. Here’s How",
-   "resumo": "The tiny two-seater can be used on public roads; it just needs some modifications first. And you won't have to pay extra for them.",
-   "url": "https://www.motor1.com/news/805008/street-legal-fiat-topolino/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:00:00Z"
   }
  ]
 }
