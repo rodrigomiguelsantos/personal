@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-15T23:51:31Z",
+ "atualizado": "2026-08-16T00:58:23Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -14,6 +14,36 @@
   "Road & Track"
  ],
  "itens": [
+  {
+   "titulo": "BMW’s 2028 iX5 M Has No Engine, But It Might Embarrass The One That Does",
+   "resumo": "A gas-powered X5 M is coming too, but the electric iX5 M might be the one that corners hardest",
+   "url": "https://www.carscoops.com/2026/08/bmw-ix5m-nurburging-scoop/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T00:43:00Z"
+  },
+  {
+   "titulo": "Three IndyCar Champions Crash in Markham Qualifying, Foster Grabs Second Career Pole",
+   "resumo": "Louis Foster secured his first street circuit pole and second pole of his IndyCar career as several champions found the wall at Markham.",
+   "url": "https://www.roadandtrack.com/news/a73443796/three-indycar-champions-crash-markham-qualifying-louis-foster-second-career-pole/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-16T00:38:07Z"
+  },
+  {
+   "titulo": "IndyCar Markham starting lineup: Louis Foster storms to pole as Alex Palou crashes",
+   "resumo": "Louis Foster surged late in qualifying to claim pole for the inaugural Ontario Honda Dealers Indy at Markham. Driving the No. 45 Rahal Letterman Lanigan Racing Honda, the 23-year-old Briton…",
+   "url": "https://www.motorsport.com/indycar/news/indycar-markham-starting-lineup-louis-foster-storms-to-markham-indycar-pole-as-alex-palou-crashes/10846570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-16T00:31:01Z"
+  },
   {
    "titulo": "Porsche Built The One 911 GT3 Money Can’t Buy In America",
    "resumo": "Porsche's Nürburgring tribute sweats every detail, from the sill plate greeting to the recovery hook you hope never to use",
@@ -265,16 +295,6 @@
    "data": "2026-08-15T14:00:00Z"
   },
   {
-   "titulo": "Kyle Busch Remembered: Rowdy's most unforgettable moments at Richmond",
-   "resumo": "We continue our 'Kyle Busch Remembered' series as NASCAR takes on Richmond Raceway. Busch earned 12 victories between the Cup and O'Reilly Auto Parts Series at the Virginia short track…",
-   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-remembered-rowdys-most-unforgettable-moments-at-richmond/10846229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T13:46:55Z"
-  },
-  {
    "titulo": "Fórmula E, Londres: Pascal Wehrlein vence corrida 1, Félix da Costa no pódio",
    "resumo": "Pascal Wehrlein foi o vencedor da corrida 1 e subiu ao primeiro lugar do campeonato. Uma corrida tranquila e perfeitamente gerida pelo alemão e a sua equipa, que o permite entrar na…",
    "url": "https://www.autosport.pt/velocidade/formula-e-londres-pascal-wehrlein-vence-corrida-1-felix-da-costa-no-podio/",
@@ -393,16 +413,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-08-15T10:59:42Z"
-  },
-  {
-   "titulo": "Spyker’s Comeback Supercar Has 800 HP, Three Pedals, And The Restraint Of A Fabergé Egg",
-   "resumo": "Just 25 aluminum-bodied Preliator XXV coupes will be built, each one commissioned by hand with no price announced",
-   "url": "https://www.carscoops.com/2026/08/spyker-preliator-xxv/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-15T10:43:00Z"
   },
   {
    "titulo": "Just four current MotoGP riders are yet to win a race",
@@ -600,16 +610,6 @@
    "url": "https://www.motor1.com/news/805008/street-legal-fiat-topolino/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-14T19:00:00Z"
-  },
-  {
-   "titulo": "The Defender Dakar Is the Most Extreme Land Rover Yet",
-   "resumo": "This ‘design preview’ will be followed by a production model coming next year.",
-   "url": "https://www.caranddriver.com/news/a73396356/land-rover-defender-dakar-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-14T19:00:00Z"
