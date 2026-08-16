@@ -166,6 +166,18 @@ Filtros na UI: Todas · Modelos · Desporto · Clássicos · Portugal.
 Validado a 2026-08-16: workflow na `main`, run manual bem-sucedido, o robô
 commitou `Atualizar notícias` na branch do site → Pages atualizado.
 
+## Navegação (v1.2, 2026-08-16)
+**Menu deslizante** (gaveta à esquerda, fechada por defeito): hambúrguer no
+cabeçalho → lista todas as páginas + ferramentas (Grupos, Apresentação).
+Fecha com ✕, toque fora ou Esc; tem *focus trap* e bloqueio de scroll.
+**Ecrã inicial (`inicio`)** passou a ser a página de arranque: hero + números
+da garagem + **tiles** para cada secção + "Em destaque" (1.º carro com fotos do
+exemplar, abre a ficha) + "Últimas notícias" (4 títulos). Botão 🏠 no
+cabeçalho volta sempre ao início. As tabs inline só aparecem ≥1000 px — abaixo
+disso a gaveta é a navegação.
+**Feed de notícias:** 1.ª notícia com tratamento de **manchete** (largura
+total, título grande), selo **"Novo"** (<6 h) e **contagem por filtro**.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
