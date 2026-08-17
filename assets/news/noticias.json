@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-08-17T01:54:53Z",
+ "atualizado": "2026-08-17T07:16:04Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,86 @@
  ],
  "itens": [
   {
+   "titulo": "Brabus Bodo Cabriolet: 1,000 HP Open-Top Beast, Only 77 Made",
+   "resumo": "With a hand-built 5.2-liter V12 biturbo and a 223-mph limiter, the Brabus Bodo Cabriolet turns its 77-unit run into a true halo spectacle.",
+   "url": "https://www.motor1.com/news/805109/brabus-bodo-cabriolet-packs-1/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-17T06:47:46Z"
+  },
+  {
+   "titulo": "Made In The USA: The Danner Bull Run Boot",
+   "resumo": "This is the Danner Bull Run Boot, it’s built using the same mold as the company’s highly-regarded Mountain Pass hiking boot, and each pair... The post Made In The USA: The Danner Bull Run…",
+   "url": "https://silodrome.com/danner-bull-run-boot/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-17T06:30:12Z"
+  },
+  {
+   "titulo": "55 electric cars tested: Exclusive real-world data reveals most efficient EVs",
+   "resumo": "Efficiency is becoming increasingly important as the EV conversation moves away from just range – but who's best? It’s almost two years ago now that we gave the century-old Autocar road…",
+   "url": "https://www.autocar.co.uk/opinion/electric-cars/55-electric-cars-tested-exclusive-real-world-data-reveals-most-efficient-evs",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-17T06:00:00Z"
+  },
+  {
+   "titulo": "NSX és tu? Acura imagina futuro desportivo",
+   "resumo": "A Acura levou ao Monterey Car Week um daqueles protótipos que dificilmente passam despercebidos. Chama-se Nexera Vision e é um desportivo de dois lugares cujo propósito é mostrar a nova…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-acura-nexera-vision-monterey-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-17T06:00:00Z"
+  },
+  {
+   "titulo": "Land Rover Defender Dakar: 626 HP Rally Beast You Can Drive",
+   "resumo": "Land Rover Defender Dakar blends D7X-R rally hardware, a 626-horsepower V8, and a focused 2+2 cabin into a limited-run, $170,000 street SUV.",
+   "url": "https://www.motor1.com/news/805100/2027-land-rover-defender-dakar/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-17T05:47:00Z"
+  },
+  {
+   "titulo": "Next Mini Cooper to be inspired by 2001 'R50' – and could go RWD",
+   "resumo": "Autocar's artist impression showcases what a new Mini inspired by the 2001 car could look like Shift to BMW's Gen6 platform would be a landmark moment for the Mini; brand will choose…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/next-mini-cooper-be-inspired-2001-r50-%E2%80%93-and-could-go-rwd",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-17T05:00:00Z"
+  },
+  {
+   "titulo": "1935 Duesenberg SSJ Special Speedster Wins 2026 Pebble Beach Concours d’Elegance Best of Show",
+   "resumo": "The sun has set on the 75th Pebble Beach Concours d’Elegance. The Sunday event is the grand finale of Monterey Car Week, and the Best of Show award is the grand finale to that grand finale…",
+   "url": "https://www.hagerty.com/media/news/1935-duesenberg-ssj-special-speedster-wins-2026-pebble-beach-concours-delegance-best-of-show/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-17T04:26:33Z"
+  },
+  {
+   "titulo": "MGB GT V8 heroes: it’s Costello vs Abingdon",
+   "resumo": "MGB GT V8 heroes: it’s Costello vs Abingdon Ryan Standen Mon, 17/08/2026 - 05:25",
+   "url": "https://www.classicandsportscar.com/features/mgb-gt-v8-heroes-its-costello-vs-abingdon",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-17T04:25:16Z"
+  },
+  {
    "titulo": "1935 Duesenberg SSJ Special Speedster Wins 2026 Pebble Beach Best of Show",
    "resumo": "A rare supercharged Duesenberg takes the top honor at the 75th annual Concours d'Elegance.",
    "url": "https://www.caranddriver.com/news/a73446879/best-of-show-2026-pebble-beach-concours-delegance/",
@@ -27,14 +108,14 @@
    "data": "2026-08-17T01:18:09Z"
   },
   {
-   "titulo": "New Tech Can Link Your Phone And Dog’s Collar To Your License Plate In Maryland",
+   "titulo": "Your Dog’s Collar And Phone Could Now Tie You To Your Plate In Maryland",
    "resumo": "A technical review finds major limits in a police system designed to pair device signals with license plate data",
    "url": "https://www.carscoops.com/2026/08/signaltrace-maryland-surveillance/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-17T00:47:00Z"
+   "data": "2026-08-17T00:48:00Z"
   },
   {
    "titulo": "Mercedes-AMG’s Flat-Plane V8 Mythos Is Being Built To Ruin The BMW M4",
@@ -417,16 +498,6 @@
    "data": "2026-08-16T07:33:30Z"
   },
   {
-   "titulo": "$42.9M Shelby Cobra Daytona Coupe Is the Most Expensive American Car Ever Sold at Auction",
-   "resumo": "Monterey Car Week is drawing to a close, and the auction results are staggering. While the auction companies are still tallying post-block sales, as of this writing, the overall total has…",
-   "url": "https://www.hagerty.com/media/market-trends/sotw-monterey-edition/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-16T07:30:00Z"
-  },
-  {
    "titulo": "Vintage Home-On-Wheels! A Beautiful 1963 Silver Streak Sabre",
    "resumo": "This is a 1963 Silver Streak Sabre travel trailer that benefits from a comprehensive interior renovation – the inside was stripped and painted, the... The post Vintage Home-On-Wheels! A…",
    "url": "https://silodrome.com/silver-streak-sabre-travel-trailer/",
@@ -545,76 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-15T12:49:03Z"
-  },
-  {
-   "titulo": "Believe It Or Not, It’s Street-Legal: The 1966 VW Radcliffe “Green Beach”",
-   "resumo": "This is the 1966 Volkswagen Radcliffe Green Beach, it’s a British dune buggy from famous automotive sculptor Benedict Radcliffe, and if it looks familiar... The post Believe It Or Not, It’s…",
-   "url": "https://silodrome.com/volkswagen-radcliffe-green-beach-buggy/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-15T12:30:43Z"
-  },
-  {
-   "titulo": "My ultra-efficient Leapmotor C10 has got me out of the slow lane",
-   "resumo": "Must you drive like a saint to get heavenly economy? This range-extender says not There I was, cruising along the inside lane of the M4 at my usual circa-65mph, congratulating myself on the…",
-   "url": "https://www.autocar.co.uk/car-news/features/my-ultra-efficient-leapmotor-c10-has-got-me-out-slow-lane",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-15T12:00:00Z"
-  },
-  {
-   "titulo": "Este é o Koenigsegg mais rápido de sempre em circuito",
-   "resumo": "Normalmente, uma homenagem a um carro de competição implica que este tenha algum palmarés para recordar. Mas a história por detrás do novo Koenigsegg CCGT1 é bastante diferente. O CCGT…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-koenigsegg-ccgt1-monterey-car-week-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-15T11:12:18Z"
-  },
-  {
-   "titulo": "The key F1 mistake McLaren can't correct until 2027",
-   "resumo": "McLaren prioritised saving weight with the design of its 2026 F1 car - but one outcome of that has left it at an aerodynamic disadvantage",
-   "url": "https://www.the-race.com/formula-1/key-f1-mistake-mclaren-cannot-correct-until-2027/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-15T08:27:21Z"
-  },
-  {
-   "titulo": "Gordon Murray S1 Is The Modern McLaren F1 We've Been Waiting For",
-   "resumo": "The Gordon Murray S1 turns the S1 LM into a lighter, cleaner V12 tourer with active aero, a six-speed manual, and production capped at 64 cars.",
-   "url": "https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-15T08:15:00Z"
-  },
-  {
-   "titulo": "Concours restorations? I prefer to save a banger on a budget",
-   "resumo": "Barn find rescues are big business on Youtube - is it time to have a go at your own classic resurrection? The YouTube pros make it look so easy. One of my favourite channels is Vice Grip…",
-   "url": "https://www.autocar.co.uk/opinion/used-cars/concours-restorations-i-prefer-save-banger-budget",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-15T07:00:00Z"
-  },
-  {
-   "titulo": "The Bamford GMT Steel Heritage: An Affordable Swiss Watch",
-   "resumo": "This is the Bamford GMT Steel Heritage, it’s a watch designed in London and made in Switzerland with a Swiss automatic movement, as well... The post The Bamford GMT Steel Heritage: An…",
-   "url": "https://silodrome.com/bamford-gmt-steel-heritage/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-15T06:30:08Z"
   }
  ]
 }
