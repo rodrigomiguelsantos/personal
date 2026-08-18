@@ -231,12 +231,15 @@ documentos primários do Dr. Rodrigo prevalecem sobre tudo.
 estrada pela divisão **Sonderwunsch da Porsche**, a pedido do Dr. Rodrigo,
 mantendo quase toda a especificação de competição (só adaptada/homologada).
 Repintado com a **livery Martini Racing de 1971** — cores originais e históricas.
+**Confirmado pelo arquivo da Porsche** (2026-08-16): o 917-014 é **um dos
+automóveis que alinharam sob o nº 22 da Martini Racing** nesse ano — o
+proprietário obteve-o junto da marca após um processo longo. Isto é autoridade
+de camada 1 (fabricante) no nosso protocolo, acima de qualquer fonte pública.
 Contexto verificado: a Porsche venceu Le Mans à geral em **1970 e 1971
 (consecutivas), ambas com o 917**; em 1971 o **#22 Martini KH** de Marko/van
-Lennep fez 5 335,3 km a 222,3 km/h de média, recorde que durou 39 anos
-(chassis do vencedor: 917-053). O historial público do 917-014 não está
-detalhado em fontes abertas → **a documentação Sonderwunsch do proprietário é
-a fonte de autoridade** (regra dos one-offs). Foto de referência trocada para
+Lennep fez 5 335,3 km a 222,3 km/h de média, recorde que durou 39 anos.
+As fontes públicas atribuem a vitória ao chassis **917-053** e não detalham o
+014 — só o registo de fábrica cobre esse nível. Foto de referência trocada para
 o **#22 Martini** (Museu Porsche), a livery que este exemplar enverga.
 Campos novos suportados na ficha: `chassis` e `prov` (proveniência).
 
