@@ -1,15 +1,15 @@
 {
- "atualizado": "2026-08-18T01:51:20Z",
+ "atualizado": "2026-08-18T07:04:31Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
-  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
@@ -17,6 +17,116 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Mazda's Fictional Rotary Sports Car Is Returning For A Hardcore Version",
+   "resumo": "The RX-Vision GT3 is getting the Evo treatment, but you'll only be able to drive it in Gran Turismo.",
+   "url": "https://www.motor1.com/news/805244/mazda-rx-vision-gt3-evo/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T06:58:08Z"
+  },
+  {
+   "titulo": "Mini Rooftop Edition Turns Its Signature Contrast Roof On Its Head",
+   "resumo": "Special Mini Rooftop Edition flips body and roof colors on Cooper S hatchbacks while tying into the brand’s 2026 Icon Drops anniversary campaign in the US.",
+   "url": "https://www.motor1.com/news/805251/mini-rooftop-edition-prices-colors/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T06:45:00Z"
+  },
+  {
+   "titulo": "The Gerber Pocket Knife Money Clip",
+   "resumo": "This is the Gerber EAB Lite, though the name isn’t particularly clear at first glance, it’s actually a small everyday carry pocket knife with... The post The Gerber Pocket Knife Money Clip…",
+   "url": "https://silodrome.com/the-gerber-pocket-knife-money-clip/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-18T06:30:43Z"
+  },
+  {
+   "titulo": "Ford’s New Hypercar Brings A Big V8 To A Fight Full Of Turbo Sixes",
+   "resumo": "While some endurance rivals lean on turbocharged sixes, Ford's Le Mans hypercar keeps a big naturally aspirated V8 making 670 hp",
+   "url": "https://www.carscoops.com/2026/08/ford-lmdh-hypercar-testing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T06:25:21Z"
+  },
+  {
+   "titulo": "BYD designer Egger: Milan studio to help Denza chase Audi, BMW",
+   "resumo": "Chinese giant will use European base to deploy \"new designs and innovation\" against established brands BYD design chief Wolfgang Egger - previously of Alfa Romeo, Audi and Lamborghini - is…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/byd-designer-egger-milan-studio-help-denza-chase-audi-bmw",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T06:00:00Z"
+  },
+  {
+   "titulo": "Mercedes-Benz C-Class Facelift Hides A 255-HP Mild-Hybrid Surprise",
+   "resumo": "Refreshed Mercedes C-Class boosts its combustion lineup with stronger hybrid tech, longer plug-in range, and a more digital, sensor-heavy cabin.",
+   "url": "https://www.motor1.com/news/805241/mercedes-c-class-facelift-gas/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T06:00:00Z"
+  },
+  {
+   "titulo": "Este Land Cruiser não andou quase nada em 29 anos",
+   "resumo": "Recentemente demos a conhecer um Toyota Land Cruiser à beira do milhão de quilómetros, mas este exemplar de 1997 está no extremo oposto: em praticamente 30 anos percorreu escassos 7544 km…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-toyota-land-cruiser-leilao-monterey-car-week-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-18T06:00:00Z"
+  },
+  {
+   "titulo": "\"It's so characteristic...\" Audi mulls options for five-cylinder future",
+   "resumo": "Sport division is \"well aware\" of engine's significance and \"evaluations are still running\" Audi could keep its venerable five-cylinder turbo engine alive for another generation despite…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/its-so-characteristic-audi-mulls-options-five-cylinder-future",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T05:00:00Z"
+  },
+  {
+   "titulo": "LFP or NMC: How is my electric car's battery made - and do I care?",
+   "resumo": "Behind the acronyms lies a simple truth: all EV batteries work the same - but there are key differences By far the most most important part of any electric car is the battery. It’s also one…",
+   "url": "https://www.autocar.co.uk/car-news/technology/lfp-or-nmc-how-my-electric-cars-battery-made-and-do-i-care",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T05:00:00Z"
+  },
+  {
+   "titulo": "Your classic: Mercedes-Benz 220SEb Coupé",
+   "resumo": "Your classic: Mercedes-Benz 220SEb Coupé Ryan Standen Tue, 18/08/2026 - 05:13",
+   "url": "https://www.classicandsportscar.com/features/your-classic-mercedes-benz-220seb-coupe",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-18T04:13:03Z"
+  },
+  {
+   "titulo": "25 classic cars with memorable graphics",
+   "resumo": "25 classic cars with memorable graphics Lizzie Pope Tue, 18/08/2026 - 05:12",
+   "url": "https://www.classicandsportscar.com/gallery/25-classic-cars-memorable-graphics",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-18T04:12:11Z"
+  },
   {
    "titulo": "A Twice-Crashed McLaren Is Now The Priciest British Car Ever Auctioned",
    "resumo": "Both a journalist and Nick Mason himself have crashed the famous Pop Art McLaren F1 GTR, but it still sold for a record $34.6 million",
@@ -96,16 +206,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-17T22:06:20Z"
-  },
-  {
-   "titulo": "The 2027 Charger’s Newest Color Is A Deep Red That Forgot To Be Red",
-   "resumo": "Dodge adds Red Oxide to the 2027 Charger, a new color carried over from the Durango and available on every trim",
-   "url": "https://www.carscoops.com/2026/08/dodge-charger-red-oxide/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T22:05:00Z"
   },
   {
    "titulo": "Christian Horner announces UK book tour for new memoir following Red Bull F1 exit",
@@ -428,16 +528,6 @@
    "data": "2026-08-17T16:00:00Z"
   },
   {
-   "titulo": "Hyundai Kauai vai mudar mais do que era esperado",
-   "resumo": "A Hyundai tem em curso a atualização de alguns dos seus modelos mais importantes. O Tucson, o best-seller do construtor na Europa, foi «apanhado» em testes no início do ano e, à exceção do…",
-   "url": "https://www.razaoautomovel.com/noticias/antevisao-fotos-espia-hyundai-kauai-2027/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-17T15:54:16Z"
-  },
-  {
    "titulo": "WEC: Hypercar da Ford já se viu… e ouviu",
    "resumo": "A Ford Racing já levou para a pista o Hypercar, que fará a estreia no Campeonato Mundial de Endurance da FIA no próximo ano, coincidindo com o início dos testes em pista do protótipo. O…",
    "url": "https://www.autosport.pt/velocidade/wec-hypercar-da-ford-ja-se-viu-e-ouviu/",
@@ -526,96 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-17T14:25:01Z"
-  },
-  {
-   "titulo": "ICE Mercedes C-Class gets fresh look – and keeps diesel power",
-   "resumo": "Petrol, diesel and PHEV powertrains get more power as they are updated to meet Euro 7 emissions requirements The Mercedes-Benz C-Class lives on with petrol and diesel power after gaining…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/ice-mercedes-c-class-gets-fresh-look-%E2%80%93-and-keeps-diesel-power",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T14:00:00Z"
-  },
-  {
-   "titulo": "Mini’s Next Cooper Might Switch To Rear-Wheel Drive—R50 Cues Return",
-   "resumo": "Mini’s next Cooper will blend 2001 R50-inspired proportions with a potential rear-drive Gen6 EV platform.",
-   "url": "https://www.motor1.com/news/805179/next-mini-cooper-r50-inspired/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T14:00:00Z"
-  },
-  {
-   "titulo": "Dickens defeats the Bentleys after intriguing Silverstone Allcomers tale",
-   "resumo": "The finale of the annual Bentley Drivers Club meeting last weekend was its Allcomers race and this featured the unusual spectacle of modern Bentley GTs, two Bentley T-type specials, a 750…",
-   "url": "https://www.autosport.com/national/news/dickens-defeats-the-bentleys-after-intriguing-silverstone-allcomers-tale/10846833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-17T13:42:50Z"
-  },
-  {
-   "titulo": "The misfits: Lamborghini Espada vs Ferrari 365 GTC/4",
-   "resumo": "The Lamborghini Espada and Ferrari 365 GTC/4 have long existed in the shadow of more exalted siblings. Richard Heseltine says it's time they received greater recognition.",
-   "url": "https://www.octane-magazine.com/articles/the-misfits-lamborghini-espada-vs-ferrari-365-gtc-4/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-17T13:20:10Z"
-  },
-  {
-   "titulo": "Mercedes-AMG GLC 53",
-   "resumo": "Straight-six SUV aims to banish memory of four-cylinder plug-in hybrid Just about anywhere must be up, you might well say, from where Mercedes’ mid-sized fast SUV - the Mercedes-AMG GLC…",
-   "url": "https://www.autocar.co.uk/car-review/mercedes-amg/glc-53",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T13:00:00Z"
-  },
-  {
-   "titulo": "Winners and losers from Formula E's contentious title decider",
-   "resumo": "Formula E's final races at the Excel London provided a fittingly dramatic send-off. Here's our winners and losers from the title decider",
-   "url": "https://www.the-race.com/formula-e/winners-losers-formula-e-contentious-season-finale-excel-london/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-17T12:33:16Z"
-  },
-  {
-   "titulo": "The Holden Monaro CV8: Australia’s Modern Classic Muscle Car",
-   "resumo": "This is a Holden Monaro CV8, it’s been called “Australia’s last muscle car” as it was the Australian automaker’s high-performance coupe (not including utes... The post The Holden Monaro…",
-   "url": "https://silodrome.com/holden-monaro-cv8/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-17T12:30:59Z"
-  },
-  {
-   "titulo": "This Is The Billionaire Who Dropped $40 Million On Ferrari’s First EV",
-   "resumo": "Herbie Wertheim’s record $40 million bid for Ferrari Luce Chassis 0 turns the first electric halo car into an instant piece of Maranello lore.",
-   "url": "https://www.motor1.com/news/805168/herbie-wertheim-40-million-ferrari/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T11:57:00Z"
-  },
-  {
-   "titulo": "Shelby Daytona Cobra Just Broke US Auction Record At $42.9 Million",
-   "resumo": "Gooding Christie’s Pebble Beach sale turns the 1964 Shelby Cobra Daytona Coupe into a new benchmark for American blue-chip racing legends.",
-   "url": "https://www.motor1.com/news/805165/shelby-cobra-daytona-coupe-sets/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-17T11:00:00Z"
   }
  ]
 }
