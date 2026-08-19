@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-18T18:56:09Z",
+ "atualizado": "2026-08-19T01:53:13Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,6 +7,7 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -18,6 +19,106 @@
  ],
  "itens": [
   {
+   "titulo": "Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine",
+   "resumo": "The specialized truck is designed to help emergency crews reach incident scenes significantly faster than traditional full-sized fire trucks",
+   "url": "https://www.carscoops.com/2026/08/ford-ranger-super-duty-fire-truck/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T00:49:00Z"
+  },
+  {
+   "titulo": "2027 Nissan Sentra Goes Dark With New Midnight Edition",
+   "resumo": "Besides the blackout package, Nissan's entry-level sedan gains a revised transmission and a new Qi2 phone charger",
+   "url": "https://www.carscoops.com/2026/08/2027-nissan-sentra-updates/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T00:06:00Z"
+  },
+  {
+   "titulo": "Man charged with burglarizing Greg Biffle's home after fatal plane crash, investigation ongoing",
+   "resumo": "Iredell County Sheriff Darren Campbell announced that Terrell Williams of Georgia, aged 44, has been charged with second-degree burglary, safe cracking, money laundering, obtaining property…",
+   "url": "https://www.motorsport.com/nascar-cup/news/man-charged-with-burglarizing-greg-biffles-home-after-fatal-plane-crash-investigation-ongoing/10847222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-18T23:49:10Z"
+  },
+  {
+   "titulo": "One Family’s Gladiator Fire Case Hits Court As A Million-Jeep Recall Looms",
+   "resumo": "A burned 2022 Gladiator is now part of a court fight that overlaps with Jeep’s 1.07 million-vehicle fire recall",
+   "url": "https://www.carscoops.com/2026/08/jeep-gladiator-fire-lawsuit/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T23:24:00Z"
+  },
+  {
+   "titulo": "As Gas Prices Soar, Americans Are Changing Their Driving Habits",
+   "resumo": "20% of Americans are driving less and a majority of them are blaming higher gas prices",
+   "url": "https://www.carscoops.com/2026/08/changing-transportation-habits/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T22:42:00Z"
+  },
+  {
+   "titulo": "Connor Zilisch couldn’t say ‘no’ to a Cup ride at Hendrick Motorsports",
+   "resumo": "Loyalty means a great deal to Connor Zilisch but this is Hendrick Motorsports. The 20-year-old is trudging along through a challenging Cup Series rookie season with Trackhouse Racing but…",
+   "url": "https://www.motorsport.com/nascar-cup/news/connor-zilisch-couldnt-say-no-to-a-cup-ride-at-hendrick-motorsports-/10847216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-18T22:28:22Z"
+  },
+  {
+   "titulo": "Aston Martin’s 838 HP Vanquish S Has An Exhaust Problem We Can’t Ignore",
+   "resumo": "The hotter V12 flagship is back testing, and its eight tailpipes have us asking questions",
+   "url": "https://www.carscoops.com/2026/08/aston-martins-838-hp-vanquish-s-has-an-exhaust-problem-we-cant-ignore/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T22:00:00Z"
+  },
+  {
+   "titulo": "Report: Next-Gen Mini Cooper EV Could Go Rear-Wheel Drive",
+   "resumo": "A shift to BMW’s Gen6 platform could move the next-generation Mini Cooper Electric away from its traditional FWD layout.",
+   "url": "https://www.caranddriver.com/news/a73466096/next-gen-mini-cooper-ev-rear-wheel-drive-report/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T21:30:00Z"
+  },
+  {
+   "titulo": "Patent Reveals Production Design of Acura's DOA EV",
+   "resumo": "To no one's surprise, the production Acura RSX would have looked a lot like the RSX Prototype from 2025.",
+   "url": "https://www.caranddriver.com/news/a73467130/acura-rsx-dead-production-patent-images/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T20:30:24Z"
+  },
+  {
+   "titulo": "Kyle Larson shares his favorite Kyle Busch memory",
+   "resumo": "NASCAR has declared August 18 as Kyle Busch Day, celebrating the two numbers (8/18) with which he built the legend of his racing career. Across the sport, Busch's fans and fellow drivers…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larson-shares-his-favorite-kyle-busch-memory/10847199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-18T19:31:39Z"
+  },
+  {
    "titulo": "New Patent Filing Suggests Mazda Isn’t Giving Up on Rotary Engines",
    "resumo": "A new exhaust gas recirculation (EGR) setup could improve performance and efficiency.",
    "url": "https://www.roadandtrack.com/news/a73465712/mazda-rotary-egr-patent-filing/",
@@ -26,16 +127,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-18T18:30:17Z"
-  },
-  {
-   "titulo": "North Carolina Legalizes AI Plate Cameras On Nearly Every State Road",
-   "resumo": "State and local agencies can now deploy license plate readers in North Carolina DOT rights-of-way permanently",
-   "url": "https://www.carscoops.com/2026/08/north-carolina-plate-readers/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T18:30:00Z"
   },
   {
    "titulo": "Cadillac Might Sell the V-One, If Enough People Want One",
@@ -78,16 +169,6 @@
    "data": "2026-08-18T17:55:38Z"
   },
   {
-   "titulo": "Grubhub And DoorDash Are Taking The Delivery Robots Uber Didn’t Want",
-   "resumo": "With more than 2,000 robots already rolling, Serve is opening its first Miami microdepot to stage and charge the fleet",
-   "url": "https://www.carscoops.com/2026/08/serve-robotics-delivery-robots/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T17:48:00Z"
-  },
-  {
    "titulo": "Novo Volkswagen ID. Polo GTI só tem um problema",
    "resumo": "O Volkswagen Polo passou pela maior transformação de sempre e rendeu-se por completo à eletrificação. Na sétima geração mudou tudo, até o nome, uma vez que passou a chamar-se ID. Polo. As…",
    "url": "https://www.razaoautomovel.com/video/video-volkswagen-id-polo-gti-tem-um-problema/",
@@ -106,16 +187,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-18T17:13:31Z"
-  },
-  {
-   "titulo": "Bugatti’s Boss Wants A Manual V16, And He Won’t Fake It Like Ferrari",
-   "resumo": "Mate Rimac says a real manual paired with the Tourbillon's V16 is on the table, and he won't fake the clutch to do it",
-   "url": "https://www.carscoops.com/2026/08/bugatti-v16-manual-transmission/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T17:06:00Z"
   },
   {
    "titulo": "Neste país europeu os elétricos podem andar mais rápido do que os outros",
@@ -146,16 +217,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-18T17:00:00Z"
-  },
-  {
-   "titulo": "NASCAR declares 8/18 'Kyle Busch Day' as tributes pour in",
-   "resumo": "In a fitting tribute for one of the greatest drivers the world has ever seen, NASCAR declared that August 18 would be celebrated as \"Kyle Busch Day\" in honor of the two numbers (8/18) that…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascar-declares-8-18-kyle-busch-day-as-tributes-pour-in/10847165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T16:48:06Z"
   },
   {
    "titulo": "XPENG G9 ganha prova de carregamento",
@@ -208,34 +269,14 @@
    "data": "2026-08-18T16:30:03Z"
   },
   {
-   "titulo": "Mini’s Next Cooper Could Break The One Rule It’s Followed For Nearly 70 Years",
-   "resumo": "The new electric model will change platforms, while the petrol model may use an older FWD setup",
-   "url": "https://www.carscoops.com/2026/08/mini-cooper-rear-wheel-drive/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T16:24:00Z"
-  },
-  {
-   "titulo": "Homestead will again host NASCAR championship weekend in 2027",
-   "resumo": "Homestead-Miami Speedway will again host all three national title-deciders in 2027, the track confirmed on Tuesday. The 2027 NASCAR championship weekend is set to take place from Nov. 12-14…",
-   "url": "https://www.motorsport.com/nascar-cup/news/homestead-will-again-host-nascar-championship-weekend-in-2027/10847167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T16:21:41Z"
-  },
-  {
    "titulo": "Christian Horner to headline 2026 ABX NYC",
    "resumo": "Motorsport Network has revealed the lineup for its second annual Autosport Business Exchange New York event today, which will be headlined by former Oracle Red Bull Racing team principal…",
-   "url": "https://www.motorsport.com/general/news/christian-horner-to-headline-2026-abx-nyc/10847144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "url": "https://www.autosport.com/general/news/christian-horner-to-headline-2026-abx-nyc/10847153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-08-18T16:16:09Z"
+   "data": "2026-08-18T16:18:44Z"
   },
   {
    "titulo": "View Interior Photos of the 2026 Toyota Land Cruiser 1958",
@@ -248,27 +289,7 @@
    "data": "2026-08-18T16:10:17Z"
   },
   {
-   "titulo": "Toyota Says First Run of U.S.-Bound GR GTs Won’t Meet Demand ‘By Design’",
-   "resumo": "The automaker wants to make sure that no GR GT is bought to be flipped or put on ice.",
-   "url": "https://www.caranddriver.com/news/a73463825/toyota-gr-gt-sold-out/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T16:09:39Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2026 Toyota Land Cruiser 1958",
-   "resumo": "See the 2026 Toyota Land Cruiser 1958 from every exterior angle.",
-   "url": "https://www.caranddriver.com/photos/a73464851/2026-toyota-land-cruiser-1958-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T16:04:20Z"
-  },
-  {
-   "titulo": "McLaren's Manual Supercar Isn't A Preview Of The Future",
+   "titulo": "McLaren's Manual Supercar Won't Define What Comes Next: 'It Is Not A Preview Of The Future'",
    "resumo": "The McL 6GT revives one of Bruce McLaren’s most ambitious ideas, but the company says its radical design won’t shape future models.",
    "url": "https://www.motor1.com/news/805359/mclaren-manual-supercar-wont-influence-future-cars/",
    "fonte": "Motor1",
@@ -296,16 +317,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-18T15:46:34Z"
-  },
-  {
-   "titulo": "Lincoln Wants To Build A Mercedes G-Class Rival On A Bronco For Half The Price",
-   "resumo": "Ford’s luxury brand reportedly wants a rugged SUV with Bronco bones and priced at around half what the G-Class costs",
-   "url": "https://www.carscoops.com/2026/08/lincoln-rugged-suv/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T15:43:00Z"
   },
   {
    "titulo": "Mark Walter LA Lakers sale: what it could mean for Cadillac F1 team",
@@ -428,6 +439,16 @@
    "data": "2026-08-18T13:59:58Z"
   },
   {
+   "titulo": "FIA EHRC GRAVEL CHAMPIONSHIP HEADS TO FINLAND FOR THRILLING LAHTI HISTORIC RALLY",
+   "resumo": "Sport news The FIA European Historic Rally Championship's new Gravel Championship reaches its halfway point this week as competitors head to Finland for Lahti Historic Rally, the third…",
+   "url": "https://www.fia.com/news/fia-ehrc-gravel-championship-heads-finland-thrilling-lahti-historic-rally",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-18T13:30:00Z"
+  },
+  {
    "titulo": "What we know as Williams unveils 'new' Albon F1 deal",
    "resumo": "Alex Albon will remain with Williams for a sixth F1 season in 2027, in what the team has presented as a contract \"extension\"",
    "url": "https://www.the-race.com/formula-1/what-we-know-williams-unveils-new-alex-albon-f1-deal/",
@@ -438,31 +459,11 @@
    "data": "2026-08-18T13:29:02Z"
   },
   {
-   "titulo": "Albon commits to Williams F1 team for 2027",
-   "resumo": "Alex Albon will stay at Williams for a sixth consecutive Formula 1 season in 2027 after agreeing a short-term contract extension. Albon joined Williams ahead of the 2022 season and was one…",
-   "url": "https://www.autosport.com/f1/news/alex-albon-commits-to-williams-f1-team-for-2027/10847126/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T13:20:30Z"
-  },
-  {
    "titulo": "Keep your V12s - Porsche's Mezger flat six is my all-time favourite engine",
    "resumo": "You need only hear this legendary race-bred lump at full chat to be convinced From the likes of the 4.0-litre six that powers the 992 GT3 RS to the thunderous dirty dozen in the legendary…",
    "url": "https://www.autocar.co.uk/opinion/new-cars/keep-your-v12s-porsches-mezger-flat-six-my-all-time-favourite-engine",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T13:00:00Z"
-  },
-  {
-   "titulo": "Only 100 Will Exist: Meet The Nürburgring-Born Porsche 911 GT3",
-   "resumo": "An early tribute, since the anniversary is actually not until 2027",
-   "url": "https://www.motor1.com/news/805315/porsche-911-gt3-edition/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-18T13:00:00Z"
@@ -516,6 +517,16 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-18T12:02:39Z"
+  },
+  {
+   "titulo": "The Toyota GR GT Will Be Hard To Get In America. And That's Exactly The Point (Update)",
+   "resumo": "Limited to roughly 200 to 250 cars, Toyota GR GT allocation in the US is pre-assigned to known GR drivers to shut out speculators.",
+   "url": "https://www.motor1.com/news/805308/toyota-gr-gt-us-allocation/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-18T11:30:00Z"
   },
   {
    "titulo": "Government must ease electric car targets to protect UK automotive",
@@ -606,16 +617,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-17T19:50:31Z"
-  },
-  {
-   "titulo": "Beach Bummer",
-   "resumo": "Sometimes the worst vehicles create the best memories A wiggle of the temperature gauge caught my eye as the SUV sauntered into the sand. Did I see it move, slightly, off the comfortable…",
-   "url": "https://www.sportscarmarket.com/columns/collecting-thoughts/beach-bummer",
-   "fonte": "Sports Car Market",
-   "dominio": "sportscarmarket.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-17T19:50:11Z"
   }
  ]
 }
