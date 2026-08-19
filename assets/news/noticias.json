@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-19T01:53:13Z",
+ "atualizado": "2026-08-19T07:05:09Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,17 +7,145 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
-  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
-  "Sports Car Market",
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Lincoln's G-Class Rival Could Launch In 2029 For Around $70,000",
+   "resumo": "Dealers have been asking for a Bronco-based off-road luxury SUV, and they're apparently getting it.",
+   "url": "https://www.motor1.com/news/805388/lincoln-rugged-suv-price-launch-details/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T07:00:00Z"
+  },
+  {
+   "titulo": "Rowland rejects rivals' bids to lure him from Nissan",
+   "resumo": "Oliver Rowland will remain a Nissan Formula E driver next season despite significant rival efforts and offers to prise him away",
+   "url": "https://www.the-race.com/formula-e/oliver-rowland-tempted-by-rival-formula-e-offers-but-sticks-with-nissan/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-19T06:54:24Z"
+  },
+  {
+   "titulo": "Hadjar reportedly in doubt for Dutch GP, Lawson on standby",
+   "resumo": "Isack Hadjar will reportedly miss the Dutch Grand Prix due to injury, meaning Liam Lawson could make a surprise return to Red Bull",
+   "url": "https://www.the-race.com/formula-1/hadjar-reportedly-in-doubt-for-dutch-gp-lawson-on-standby/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-19T06:36:37Z"
+  },
+  {
+   "titulo": "Crate Engine: A 385 BHP SVT Mustang Cobra R V8",
+   "resumo": "This is a rare Ford SVT Mustang Cobra R V8 engine that remains in completely unused condition – it’s still bolted down to the... The post Crate Engine: A 385 BHP SVT Mustang Cobra R V8…",
+   "url": "https://silodrome.com/crate-engine-ford-svt-mustang-cobra-r-v8/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-19T06:30:36Z"
+  },
+  {
+   "titulo": "Chrysler Uses FML, STFU In New Pacifica Ads, Seriously?",
+   "resumo": "Chrysler’s 2027 Pacifica leans on reimagined NSFW acronyms to spotlight sliding doors, Stow ’n Go seating, and kid-focused tech as real family perks.",
+   "url": "https://www.motor1.com/news/805387/chrysler-pacifica-acronyms-campaign-uses/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T06:06:19Z"
+  },
+  {
+   "titulo": "UK firm's self-driving lorry ditches cab for more capacity, less weight",
+   "resumo": "Voltempo's coach-sized 'smart trailer', to be tested and built in UK, boosts capacity by 15% Electric vehicle specialist Voltempo is developing a cabless, autonomous rigid lorry that’s…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/uk-firms-self-driving-lorry-ditches-cab-more-capacity-less-weight",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T06:00:00Z"
+  },
+  {
+   "titulo": "Este Daewoo identifica-se como um Porsche 911",
+   "resumo": "À primeira vista, um Daewoo Matiz e um Porsche 911 têm pouco em comum. Mas o designer Timur Dautov não pensa assim e decidiu transformar o pequeno citadino sul-coreano num improvável 911…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-daewoo-matiz-porsche-911/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-19T06:00:00Z"
+  },
+  {
+   "titulo": "2027 Hyundai Tucson Revealed With Massive Design Changes",
+   "resumo": "Forget what you know about the Tucson because this next-generation model is totally different.",
+   "url": "https://www.motor1.com/news/805386/2027-hyundai-tucson-design-revealed/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T05:05:46Z"
+  },
+  {
+   "titulo": "\"You haven't seen the peak yet...\" Gerry McGovern on life after JLR",
+   "resumo": "Exclusive: McGovern addresses \"disinformation\" around his exit from Gaydon, and maps out next steps Gerry McGovern is in his element, leaning back in a comfortable chair, clad in a…",
+   "url": "https://www.autocar.co.uk/car-news/features/you-havent-seen-peak-yet-gerry-mcgovern-life-after-jlr",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T05:00:00Z"
+  },
+  {
+   "titulo": "19 cars powered by Ford’s Lima V8",
+   "resumo": "19 cars powered by Ford’s Lima V8 Lizzie Pope Wed, 19/08/2026 - 05:12",
+   "url": "https://www.classicandsportscar.com/gallery/19-cars-powered-fords-lima-v8",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-19T04:12:32Z"
+  },
+  {
+   "titulo": "Four stunning wallpapers from the September 2026 Classic & Sports Car",
+   "resumo": "Four stunning wallpapers from the September 2026 Classic & Sports Car Marc McLaren Wed, 19/08/2026 - 05:12",
+   "url": "https://www.classicandsportscar.com/features/four-stunning-wallpapers-september-2026-classic-sports-car",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-19T04:12:01Z"
+  },
+  {
+   "titulo": "Strong sales, high costs: Why BMW needs to rethink Mini's future",
+   "resumo": "Oxford factory is key to Mini's image but also brings high costs As parent company BMW hits headwinds, Mini's resilience comes into question Amid all the talk of cost-cutting on BMW's…",
+   "url": "https://www.autocar.co.uk/opinion/business-corporate/strong-sales-high-costs-why-bmw-needs-rethink-minis-future",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T04:00:00Z"
+  },
+  {
+   "titulo": "2027 Hyundai Tucson Revealed with a Radical New Design",
+   "resumo": "These are the first photos of the new-generation compact SUV, which looks wildly different than its predecessor both inside and out.",
+   "url": "https://www.caranddriver.com/news/a73469617/2027-hyundai-tucson-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T02:32:55Z"
+  },
   {
    "titulo": "Ford Made A Fire-Fighting Ranger Super Duty That Runs Its Pumps On Sunshine",
    "resumo": "The specialized truck is designed to help emergency crews reach incident scenes significantly faster than traditional full-sized fire trucks",
@@ -29,7 +157,7 @@
    "data": "2026-08-19T00:49:00Z"
   },
   {
-   "titulo": "2027 Nissan Sentra Goes Dark With New Midnight Edition",
+   "titulo": "Nissan’s 2027 Sentra Adds A Better CVT And A Midnight Edition",
    "resumo": "Besides the blackout package, Nissan's entry-level sedan gains a revised transmission and a new Qi2 phone charger",
    "url": "https://www.carscoops.com/2026/08/2027-nissan-sentra-updates/",
    "fonte": "Carscoops",
@@ -279,16 +407,6 @@
    "data": "2026-08-18T16:18:44Z"
   },
   {
-   "titulo": "View Interior Photos of the 2026 Toyota Land Cruiser 1958",
-   "resumo": "See the 2026 Toyota Land Cruiser 1958 from every interior angle.",
-   "url": "https://www.caranddriver.com/photos/a73464952/view-interior-photos-of-the-2026-toyota-land-cruiser-1958/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T16:10:17Z"
-  },
-  {
    "titulo": "McLaren's Manual Supercar Won't Define What Comes Next: 'It Is Not A Preview Of The Future'",
    "resumo": "The McL 6GT revives one of Bruce McLaren’s most ambitious ideas, but the company says its radical design won’t shape future models.",
    "url": "https://www.motor1.com/news/805359/mclaren-manual-supercar-wont-influence-future-cars/",
@@ -347,16 +465,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-08-18T15:07:43Z"
-  },
-  {
-   "titulo": "Jeep Just Debuted The New Cherokee. But Another One Is Already On The Way",
-   "resumo": "The new Jeep Cherokee will enter production in late 2029 and ride on Stellantis’ new STLA One platform.",
-   "url": "https://www.motor1.com/news/805341/next-generation-jeep-cherokee-new-platform-2029/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T15:00:00Z"
   },
   {
    "titulo": "What’s Your Worst Makeshift Repair?",
@@ -419,16 +527,6 @@
    "data": "2026-08-18T14:05:00Z"
   },
   {
-   "titulo": "850,000 Jeep, Ram, Dodge And Chrysler Vehicles Recalled",
-   "resumo": "Stellantis recall covers popular 2026 and 2027 Jeep, Ram, Dodge, and Chrysler models, with a free over-the-air camera software update rolling out to owners.",
-   "url": "https://www.motor1.com/news/805323/stellantis-recall-hits-850-000/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T14:00:00Z"
-  },
-  {
    "titulo": "Report: Audi Sport Is Fighting to Keep the Five-Cylinder Alive",
    "resumo": "Audi’s sonorous five-cylinder engine is turning 50 this year, and up until recently it looked like the end was near for it. That might not be the case after all: Audi Sport is searching for…",
    "url": "https://www.hagerty.com/media/news/audi-five-cylinder-engine-future-plans/",
@@ -437,16 +535,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-18T13:59:58Z"
-  },
-  {
-   "titulo": "FIA EHRC GRAVEL CHAMPIONSHIP HEADS TO FINLAND FOR THRILLING LAHTI HISTORIC RALLY",
-   "resumo": "Sport news The FIA European Historic Rally Championship's new Gravel Championship reaches its halfway point this week as competitors head to Finland for Lahti Historic Rally, the third…",
-   "url": "https://www.fia.com/news/fia-ehrc-gravel-championship-heads-finland-thrilling-lahti-historic-rally",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T13:30:00Z"
   },
   {
    "titulo": "What we know as Williams unveils 'new' Albon F1 deal",
@@ -499,26 +587,6 @@
    "data": "2026-08-18T12:30:51Z"
   },
   {
-   "titulo": "Este é o X5 M que a BMW devia ter feito",
-   "resumo": "A BMW nunca fez um X5 M da primeira geração. E não foi por falta de provas de que a receita podia funcionar. Em 2000, criou o X5 Le Mans, um protótipo tão absurdo quanto fascinante…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-bmw-x5-kith-v10-restomod/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-18T12:11:38Z"
-  },
-  {
-   "titulo": "This turbulent F1 career is finally settling down",
-   "resumo": "Three years on from his unexpected F1 debut, Liam Lawson is getting both happier and faster - and it shows in the points",
-   "url": "https://www.the-race.com/formula-1/turbulent-f1-career-red-bull-racing-bulls-liam-lawson/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T12:02:39Z"
-  },
-  {
    "titulo": "The Toyota GR GT Will Be Hard To Get In America. And That's Exactly The Point (Update)",
    "resumo": "Limited to roughly 200 to 250 cars, Toyota GR GT allocation in the US is pre-assigned to known GR drivers to shut out speculators.",
    "url": "https://www.motor1.com/news/805308/toyota-gr-gt-us-allocation/",
@@ -539,16 +607,6 @@
    "data": "2026-08-18T10:53:29Z"
   },
   {
-   "titulo": "Why a fuel giant ended its F1 exile",
-   "resumo": "BP has not been an F1 brand for a long time. This is why it came back, why it chose Audi, and why that call already feels vindicated",
-   "url": "https://www.the-race.com/business/audi-bp-f1-return-castrol-sponsorship/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-18T10:35:41Z"
-  },
-  {
    "titulo": "The Gerber Pocket Knife Money Clip",
    "resumo": "This is the Gerber EAB Lite, though the name isn’t particularly clear at first glance, it’s actually a small everyday carry pocket knife with... The post The Gerber Pocket Knife Money Clip…",
    "url": "https://silodrome.com/the-gerber-pocket-knife-money-clip/",
@@ -557,66 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-18T06:30:43Z"
-  },
-  {
-   "titulo": "BYD designer Egger: Milan studio to help Denza chase Audi, BMW",
-   "resumo": "Chinese giant will use European base to deploy \"new designs and innovation\" against established brands BYD design chief Wolfgang Egger - previously of Alfa Romeo, Audi and Lamborghini - is…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/byd-designer-egger-milan-studio-help-denza-chase-audi-bmw",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T06:00:00Z"
-  },
-  {
-   "titulo": "\"It's so characteristic...\" Audi mulls options for five-cylinder future",
-   "resumo": "Sport division is \"well aware\" of engine's significance and \"evaluations are still running\" Audi could keep its venerable five-cylinder turbo engine alive for another generation despite…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/its-so-characteristic-audi-mulls-options-five-cylinder-future",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T05:00:00Z"
-  },
-  {
-   "titulo": "LFP or NMC: How is my electric car's battery made - and do I care?",
-   "resumo": "Behind the acronyms lies a simple truth: all EV batteries work the same - but there are key differences By far the most most important part of any electric car is the battery. It’s also one…",
-   "url": "https://www.autocar.co.uk/car-news/technology/lfp-or-nmc-how-my-electric-cars-battery-made-and-do-i-care",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-18T05:00:00Z"
-  },
-  {
-   "titulo": "Your classic: Mercedes-Benz 220SEb Coupé",
-   "resumo": "Your classic: Mercedes-Benz 220SEb Coupé Ryan Standen Tue, 18/08/2026 - 05:13",
-   "url": "https://www.classicandsportscar.com/features/your-classic-mercedes-benz-220seb-coupe",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-18T04:13:03Z"
-  },
-  {
-   "titulo": "25 classic cars with memorable graphics",
-   "resumo": "25 classic cars with memorable graphics Lizzie Pope Tue, 18/08/2026 - 05:12",
-   "url": "https://www.classicandsportscar.com/gallery/25-classic-cars-memorable-graphics",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-18T04:12:11Z"
-  },
-  {
-   "titulo": "Alfanomics",
-   "resumo": "Photos courtesy Bring a Trailer The Alfa Romeo 164 is an affordable and stylish Italian sport-sedan experience Ask car enthusiasts who built the first mass-produced sport sedan and most…",
-   "url": "https://www.sportscarmarket.com/columns/profiles/affordable-classics/alfanomics",
-   "fonte": "Sports Car Market",
-   "dominio": "sportscarmarket.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-17T19:50:31Z"
   }
  ]
 }
