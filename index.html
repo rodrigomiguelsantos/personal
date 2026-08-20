@@ -292,6 +292,64 @@
   .studio-empty { color: var(--muted); font-size: 15px; padding: 40px 0; border: 1px dashed var(--border-strong); border-radius: 14px; text-align: center; margin-top: 20px; }
   .studio-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
 
+  /* ---------- Mapa de cores ---------- */
+  .cores-sec { padding: 34px 0 20px; }
+  .cores-sec h2 { font-family: var(--font-serif); font-size: clamp(30px,4.6vw,44px); font-weight: 600; letter-spacing: -.01em; margin: 0 0 8px; }
+  .cores-sub { color: var(--muted); margin: 0 0 30px; max-width: 64ch; }
+
+  /* fita — o "mapa" propriamente dito */
+  .ribbon { display: flex; height: 132px; border-radius: 16px; overflow: hidden; border: 1px solid var(--border); box-shadow: var(--shadow); }
+  .rseg {
+    position: relative; flex: 1; cursor: pointer; border: 0; padding: 0;
+    transition: flex-grow .5s var(--ease), filter .3s;
+    display: flex; align-items: flex-end; justify-content: center; overflow: hidden;
+  }
+  .rseg:hover, .rseg:focus-visible { flex-grow: 2.1; }
+  .ribbon:hover .rseg:not(:hover) { filter: saturate(.72) brightness(1.04); }
+  .rseg .rlabel {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase;
+    color: #fff; padding: 0 6px 12px; white-space: nowrap;
+    opacity: 0; transform: translateY(6px); transition: opacity .3s var(--ease), transform .3s var(--ease);
+    text-shadow: 0 1px 6px rgba(0,0,0,.45);
+  }
+  .rseg:hover .rlabel, .rseg:focus-visible .rlabel { opacity: 1; transform: none; }
+  .rseg.on-light .rlabel { color: #131612; text-shadow: none; }
+  .ribbon-note { display: flex; justify-content: space-between; gap: 12px; margin-top: 10px;
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--faint); }
+
+  /* grelha de amostras */
+  .swatches { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 16px; margin-top: 40px; }
+  .swatch-card {
+    text-align: left; border: 1px solid var(--border); border-radius: 18px; overflow: hidden; cursor: pointer;
+    background: var(--surface); box-shadow: var(--shadow); padding: 0;
+    opacity: 0; transform: translateY(16px);
+    transition: opacity var(--dur) var(--ease), transform var(--dur) var(--ease), border-color .25s;
+  }
+  .swatch-card.in { opacity: 1; transform: none; }
+  .swatch-card:hover { transform: translateY(-4px); border-color: var(--border-strong); }
+  .swatch-card:active { transform: translateY(-1px) scale(.99); transition-duration: .12s; }
+  .sw-block { position: relative; aspect-ratio: 3/2; display: flex; align-items: flex-end; padding: 14px; }
+  .sw-block .sw-hex {
+    font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .08em;
+    color: #fff; opacity: .9; text-shadow: 0 1px 6px rgba(0,0,0,.4);
+  }
+  .sw-block.on-light .sw-hex { color: #131612; text-shadow: none; opacity: .75; }
+  .sw-block .sw-real {
+    position: absolute; top: 14px; right: 14px; width: 26px; height: 26px; border-radius: 8px;
+    border: 2px solid rgba(255,255,255,.8); box-shadow: 0 1px 5px rgba(19,22,18,.22);
+  }
+  .sw-body { padding: 15px 16px 17px; }
+  .sw-body .sb { font-family: var(--font-mono); font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent-soft); }
+  .sw-body .sn { font-family: var(--font-serif); font-size: 21px; font-weight: 600; letter-spacing: -.01em; margin-top: 3px; }
+  .sw-body .sw-why { font-size: 12.5px; color: var(--muted); line-height: 1.5; margin-top: 7px; }
+  .sw-body .sw-paint { display: flex; align-items: center; gap: 7px; margin-top: 11px; padding-top: 11px; border-top: 1px solid var(--border);
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; color: var(--faint); }
+  .sw-body .sw-paint i { width: 11px; height: 11px; border-radius: 3px; border: 1px solid var(--border-strong); flex: none; }
+  .cores-note { margin-top: 26px; font-size: 12.5px; color: var(--muted); border: 1px dashed var(--border-strong); border-radius: 10px; padding: 11px 14px; }
+
+  /* ponto de cor na vista de lista — leitura rápida, sem ruído */
+  .lrow .link { width: 7px; height: 7px; border-radius: 50%; flex: none; margin-right: -8px; }
+
   /* ---------- Notícias ---------- */
   .news-sec { padding: 34px 0 20px; }
   .news-head { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 6px; }
@@ -670,6 +728,7 @@
       <button class="dlink" data-go="colecao"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg></span>Coleção<span class="dnote">11 automóveis</span></button>
       <button class="dlink" data-go="cronologia"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg></span>Cronologia<span class="dnote">1970 – 2025</span></button>
       <button class="dlink" data-go="dashboard"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg></span>Dashboard<span class="dnote">Números da garagem</span></button>
+      <button class="dlink" data-go="cores"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="8" r="1.6"/><circle cx="15.5" cy="10.5" r="1.6"/><circle cx="15" cy="14.5" r="1.6"/><circle cx="9" cy="14.5" r="1.6"/><circle cx="8.5" cy="10.5" r="1.6"/></svg></span>Mapa de cores<span class="dnote">11 cores</span></button>
       <button class="dlink" data-go="noticias"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h13v14H4z"/><path d="M17 9h3v8a2 2 0 0 1-2 2h-1"/><path d="M7 9h7M7 12.5h7M7 16h4"/></svg></span>Notícias<span class="dnote">Atualizado hoje</span></button>
     <div class="dlabel">Ferramentas</div>
       <button class="dlink" data-act="grupos"><span class="di"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3.5 2.6 5.5 6 .8-4.4 4.2 1.1 6-5.3-2.9-5.3 2.9 1.1-6L3.4 9.8l6-.8z"/></svg></span>Grupos</button>
@@ -698,12 +757,13 @@
       <button type="button" data-tab="colecao" aria-current="true">Coleção</button>
       <button type="button" data-tab="cronologia">Cronologia</button>
       <button type="button" data-tab="dashboard">Dashboard</button>
+      <button type="button" data-tab="cores">Cores</button>
       <button type="button" data-tab="noticias">Notícias</button>
       <button id="nav-grupos" type="button">Grupos</button>
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
     <button class="iconbtn home" id="btn-home" type="button" aria-label="Ecrã inicial" title="Início"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg></button>
-    <span class="wip">WIP · v1.2</span>
+    <span class="wip">WIP · v1.3</span>
   </div>
 </header>
 
@@ -743,6 +803,12 @@
         <span class="hi"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h13v14H4z"/><path d="M17 9h3v8a2 2 0 0 1-2 2h-1"/><path d="M7 9h7M7 12.5h7M7 16h4"/></svg></span>
         <span class="hn">Notícias</span>
         <span class="hd">Indústria, novos modelos e desporto, de fontes de referência.</span>
+      </button>
+      <button class="htile" data-go="cores">
+        <span class="harrow"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
+        <span class="hi"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="8" r="1.6"/><circle cx="15.5" cy="10.5" r="1.6"/><circle cx="15" cy="14.5" r="1.6"/><circle cx="9" cy="14.5" r="1.6"/><circle cx="8.5" cy="10.5" r="1.6"/></svg></span>
+        <span class="hn">Mapa de cores</span>
+        <span class="hd">Uma cor de identidade para cada automóvel — o espectro da coleção.</span>
       </button>
       <button class="htile" data-act="apresentacao">
         <span class="harrow"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg></span>
@@ -838,6 +904,19 @@
   </div>
 </section>
 
+<section class="tabsec" data-sec="cores">
+  <div class="wrap">
+    <div class="cores-sec">
+      <h2>Mapa de cores</h2>
+      <p class="cores-sub">Cada automóvel da garagem tem a sua cor de identidade — escolhida a partir do seu carácter, da pintura real ou da livery, e distinta de todas as outras. Ordenadas por matiz, formam o espectro da coleção.</p>
+      <div class="ribbon" id="ribbon"></div>
+      <div class="ribbon-note"><span>Espectro da coleção</span><span id="ribbon-count"></span></div>
+      <div class="swatches" id="swatches"></div>
+      <div class="cores-note">◈ A cor de identidade é uma escolha de curadoria para leitura e navegação; a <b>pintura real</b> de cada exemplar aparece na amostra pequena, no canto de cada bloco, e na ficha do automóvel.</div>
+    </div>
+  </div>
+</section>
+
 <section class="tabsec" data-sec="noticias">
   <div class="wrap">
     <div class="news-sec">
@@ -882,7 +961,7 @@ const CARS = [
     power: "612", powerU: "PS", vmax: "330", vmaxU: "km/h", accel: "3.9", accelU: "s",
     engine: "V10 5.7 atmosférico", production: "1 270 unid.",
     collections: ["Hypercars","Porsche","Atmosféricos"],
-    tags: ["#v10","#manual","#analógico"], valueK: 1900, engType: "Atmosférico",
+    tags: ["#v10","#manual","#analógico"], ink: "#1D5B3A", inkWhy: "British Racing Green do próprio carro", valueK: 1900, engType: "Atmosférico",
     hist: "Nasce de um V10 de Fórmula 1 desenvolvido em segredo (1992) e ressuscitado no protótipo de Le Mans 9R3 (2000) — programa cancelado para dar prioridade ao Cayenne. O motor órfão deu origem ao concept do Salão de Paris de 2000 e à produção em Leipzig entre 2004 e 2006.",
     curios: ["Manípulo da caixa em madeira de faia, herança dos Porsche de corrida dos anos 60/70","Embraiagem cerâmica de apenas 169 mm — famosa pela exigência a arrancar","Monocoque e subchassis integralmente em fibra de carbono (ATR, Itália)"],
     curator: "O pilar da coleção. Não é o mais rápido da garagem, mas é o mais honesto: sem turbos, sem híbrido, sem redes eletrónicas a mascarar o V10. O British Racing Green — cor de competição britânica num alemão de alma italiana no chassis — é uma provocação elegante que aprovo inteiramente. Um Carrera GT parado é um crime: use-o."
@@ -893,7 +972,7 @@ const CARS = [
     power: "380", powerU: "PS", vmax: "295", vmaxU: "km/h", accel: "4.7", accelU: "s",
     engine: "V8 3.5 · 5 válvulas", production: "4 871 Berlinetta",
     collections: ["Ferrari","Clássicos","Atmosféricos"],
-    tags: ["#v8","#gated","#pininfarina"], valueK: 180, engType: "Atmosférico",
+    tags: ["#v8","#gated","#pininfarina"], ink: "#D69B1E", inkWhy: "Giallo Modena — a outra cor histórica da Ferrari", valueK: 180, engType: "Atmosférico",
     hist: "Sucessor do 348 e viragem de qualidade da Ferrari nos anos 90: V8 de 3.5 litros com 5 válvulas por cilindro a rodar até às 8 500 rpm, desenho de Pininfarina e aerodinâmica de fundo plano apurada em mais de 1 300 horas de túnel de vento.",
     curios: ["Foi o Ferrari mais produzido até então — 11 273 no total, 4 871 Berlinetta","Em 1997 estreou a caixa 'F1' de patilhas; o manual de grelha aberta é hoje o mais desejado","Argento Nürburgring sobre interior Cuoio é uma especificação rara e de conhecedor"],
     curator: "O pequeno Ferrari analógico perfeito, Dr. Rodrigo. O som acima das 6 000 rpm justifica-o sozinho, e a caixa manual de grelha metálica é um instrumento de precisão. Prata sobre Cuoio foge ao vermelho óbvio — assinatura de quem escolhe com a cabeça e compra com o coração."
@@ -904,7 +983,7 @@ const CARS = [
     power: "660", powerU: "PS", vmax: "350", vmaxU: "km/h", accel: "3.3", accelU: "s",
     engine: "V12 6.0 F140", production: "399 (+1) unid.",
     collections: ["Hypercars","Ferrari","Atmosféricos","Ícones"],
-    tags: ["#v12","#f1-tech","#pope-car"], valueK: 3800, engType: "Atmosférico",
+    tags: ["#v12","#f1-tech","#pope-car"], ink: "#C81E28", inkWhy: "Rosso Corsa", valueK: 3800, engType: "Atmosférico",
     hist: "Apresentado em Paris em 2002 como a síntese de estrada da F1 da era Schumacher: V12 F140 de 6.0 litros e 660 CV, caixa robotizada, aerodinâmica ativa e travões carbono-cerâmicos. Batizado em honra do fundador, Enzo Ferrari.",
     curios: ["Sem asa traseira fixa — o apoio aerodinâmico é gerado pelo fundo e difusores ativos","399 unidades, mais uma 400.ª oferecida ao Papa João Paulo II e leiloada para caridade","O motor F140 é, ainda hoje, a base dos V12 atmosféricos da Ferrari"],
     curator: "O hipercarro-charneira: fecha a era analógica e abre a moderna, num desenho que não pede desculpa a ninguém. Rosso Corsa é a única cor 'certa' para um Enzo — e o seu exemplar tem-na. Guardar, usar com parcimónia, e nunca, nunca vender."
@@ -915,7 +994,7 @@ const CARS = [
     power: "530", powerU: "PS", vmax: "329", vmaxU: "km/h", accel: "3.6", accelU: "s",
     engine: "3.6 biturbo (997)", production: "997 · 2007–09",
     collections: ["Porsche","Competição","Hypercars"],
-    tags: ["#biturbo","#widowmaker","#tração-traseira"], valueK: 260, engType: "Turbo",
+    tags: ["#biturbo","#widowmaker","#tração-traseira"], ink: "#33383D", inkWhy: "Grafite — a 911 mais sombria", valueK: 260, engType: "Turbo",
     hist: "A 911 mais extrema do seu tempo: o 3.6 biturbo do Turbo levado a 530 PS, mas com tração exclusivamente traseira e caixa manual. Foi a primeira 911 de série a ultrapassar as 200 mph (329 km/h).",
     curios: ["Herda a alcunha 'widowmaker' dos GT2 anteriores — potência turbo, atrás, sem 4x4","Escape em titânio e launch control de série","Travões carbono-cerâmicos (PCCB) de origem"],
     curator: "A 911 mais intimidante da era moderna — e por isso mesmo a mais gratificante. Num mundo que já caminhava para a assistência total, o GT2 de 2007 é um contrato de confiança entre carro e condutor. Respeito e recompensa em partes iguais."
@@ -926,7 +1005,7 @@ const CARS = [
     power: "450", powerU: "PS", vmax: "317", vmaxU: "km/h", accel: "3.7", accelU: "s",
     engine: "Flat-6 2.85 biturbo", production: "≈292 unid.",
     collections: ["Porsche","Clássicos","Ícones"],
-    tags: ["#awd","#grupo-b","#tecnologia"], valueK: 1800, engType: "Turbo",
+    tags: ["#awd","#grupo-b","#tecnologia"], ink: "#93BAD6", inkWhy: "Azul-gelo — o laboratório do Grupo B", valueK: 1800, engType: "Turbo",
     hist: "Nascido para o Grupo B, tornou-se o laboratório tecnológico da Porsche: tração integral inteligente (PSK), turbos sequenciais, suspensão adaptativa e carroçaria em kevlar. Em 1986/87 era o carro de produção mais rápido do mundo — e venceu o Paris-Dakar.",
     curios: ["Caixa de 6 velocidades com 1.ª marcha 'G' (Gelände — todo-o-terreno)","Pioneiro na monitorização de pressão dos pneus","≈292 exemplares de série; hoje entre os Porsche mais valorizados de sempre"],
     curator: "O antepassado direto de todos os 911 Turbo modernos — cada 911 atual deve-lhe qualquer coisa. Em prata de lançamento é história da engenharia em estado puro. A par do 917, é o carro que dá profundidade de museu a esta coleção."
@@ -937,7 +1016,7 @@ const CARS = [
     power: "700", powerU: "PS", vmax: "322", vmaxU: "km/h", accel: "3.5", accelU: "s",
     engine: "V12 5.2 biturbo", production: "177 / 249",
     collections: ["Edições Especiais","Descapotáveis","Modernos"],
-    tags: ["#v12","#177-de-249","#roadster"], valueK: 450, engType: "Turbo",
+    tags: ["#v12","#177-de-249","#roadster"], ink: "#2FA58C", inkWhy: "Verde britânico luminoso, para não se confundir com o GT", valueK: 450, engType: "Turbo",
     hist: "O canto do cisne: o último V12 num Vantage, limitado a 249 Roadsters — todos vendidos antes do lançamento. O 5.2 biturbo de 700 PS faz dele o Vantage aberto mais rápido de sempre.",
     curios: ["Exemplar n.º 177 de 249","Grelha 25% maior para alimentar e arrefecer o V12","Com a asa opcional gera 216 kg de apoio aerodinâmico"],
     curator: "Comprar o último de uma linhagem é sempre sábio, Dr. Rodrigo. Doze cilindros, céu aberto e verde de lançamento — poesia britânica com data de validade que já expirou para quem não foi rápido. O 177/249 ficará no lado certo da história."
@@ -948,7 +1027,7 @@ const CARS = [
     power: "626", powerU: "PS", vmax: "334", vmaxU: "km/h", accel: "3.8", accelU: "s",
     engine: "V8 5.4 supercharged", production: "≈2 157 unid.",
     collections: ["Hypercars","Clássicos","Ícones"],
-    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"], valueK: 400, engType: "Sobrealimentado",
+    tags: ["#mercedes-mclaren","#supercharged","#gran-turismo"], ink: "#C0AE93", inkWhy: "Champanhe-platina, herança das Flechas de Prata", valueK: 400, engType: "Sobrealimentado",
     hist: "Colaboração Mercedes-McLaren inspirada no 300 SLR de Uhlenhaut: V8 de 5.4 litros sobrealimentado com 626 PS montado atrás do eixo dianteiro, corpo em carbono construído em Woking, portas borboleta e travão aerodinâmico ativo.",
     curios: ["Escapes laterais logo atrás das rodas dianteiras — assinatura sonora inconfundível","Travão aerodinâmico: a asa traseira levanta a 65° em travagens fortes","À época, o GT de produção mais rápido do mundo (334 km/h)"],
     curator: "Meio grand tourer, meio hipercarro — durante anos foi incompreendido, hoje é redescoberto. Com ≈2 157 unidades em todas as variantes não é raro nos números, mas é raríssimo em bom estado e cada vez mais respeitado. Chegou ao SLR antes do mercado; isso é olho de colecionador."
@@ -960,7 +1039,7 @@ const CARS = [
     power: "≈580", powerU: "PS", vmax: "≈330", vmaxU: "km/h", accel: "≈3.0", accelU: "s",
     engine: "Flat-12 · base Le Mans", production: "praticamente único",
     collections: ["Ícones","Competição"],
-    tags: ["#le-mans","#stradale","#lenda"], valueK: 15000, engType: "Atmosférico",
+    tags: ["#le-mans","#stradale","#lenda"], ink: "#0E3A8C", inkWhy: "Azul Martini Racing", valueK: 15000, engType: "Atmosférico",
     hist: "Chassis 917-014 — confirmado pelo arquivo da Porsche, após um processo longo junto da marca, como um dos automóveis que alinharam sob o nº 22 da Martini Racing nas 24 Horas de Le Mans de 1971. Foi o ano em que a Porsche selou vitórias consecutivas à geral, depois do triunfo de 1970, ambas com o 917: nessa edição o #22 de Helmut Marko e Gijs van Lennep percorreu 5 335,3 km a uma média de 222,3 km/h, um recorde de distância que resistiu 39 anos. Terminada a carreira desportiva, este exemplar foi convertido para estrada pela divisão **Sonderwunsch** da Porsche, a pedido do Dr. Rodrigo, mantendo praticamente toda a especificação de competição — apenas adaptada e homologada para a via pública. Foi repintado com a livery Martini Racing de 1971, devolvendo-lhe as cores originais e históricas do carro.",
     curios: ["Le Mans 1971 fechou a dobradinha da Porsche: vitórias absolutas em 1970 e 1971, ambas com o 917","O recorde de distância de 1971 (5 335,3 km) só caiu em 2010","Sonderwunsch é o departamento de pedidos especiais da Porsche, com raízes nos anos 50 e hoje capaz de criar peças únicas de fábrica","Flat-12 atmosférico e chassis tubular de alumínio pressurizado — a pressão denuncia fissuras na estrutura","Conversões de 917 para estrada contam-se pelos dedos de uma mão"],
     curator: "A joia da coroa, e agora com a história selada na fonte certa. Um 917 do plantel #22 da Martini, devolvido à estrada pela própria Porsche e às suas cores de guerra — não é um carro, é um documento histórico com matrícula. E há aqui uma lição de curadoria: a confirmação veio do arquivo da fábrica, não de um livro nem de um leilão. É esse papel que separa esta peça de qualquer réplica, e vale tanto como o próprio automóvel.",
@@ -972,7 +1051,7 @@ const CARS = [
     power: "≈210", powerU: "PS", vmax: "≈220", vmaxU: "km/h", accel: "≈5.7", accelU: "s",
     engine: "2.0 turbo · Grupo A", production: "homologação WRC",
     collections: ["Rally","Clássicos","Homologação"],
-    tags: ["#wrc","#grupo-a","#lendas-do-rally"], valueK: 120, engType: "Turbo",
+    tags: ["#wrc","#grupo-a","#lendas-do-rally"], ink: "#C4661C", inkWhy: "Âmbar dos faróis de rali", valueK: 120, engType: "Turbo",
     hist: "Base da dinastia mais vitoriosa do WRC: seis títulos de construtores consecutivos (1987–1992). As séries de homologação do Grupo A — culminando nos Evoluzione — trouxeram vias alargadas, mais potência e a postura musculada que o tornou ícone.",
     curios: ["44 vitórias em provas do Mundial de Ralis — recorde de uma era","O 2.0 turbo 16v com tração integral definiu a receita do desportivo moderno","Os Evoluzione de homologação são os mais procurados por colecionadores"],
     curator: "O único da coleção que prova que grandeza não se mede em cilindros. Um Delta de homologação é cultura de rali destilada — e ao lado dos hipercarros desta garagem, é ele que faz o contraste que dá alma ao conjunto."
@@ -983,7 +1062,7 @@ const CARS = [
     power: "350", powerU: "cv", vmax: "190", vmaxU: "km/h", accel: "5.4", accelU: "s",
     engine: "Elétrico AWD · 97 kWh", production: "série",
     collections: ["Elétricos","Modernos"],
-    tags: ["#elétrico","#gran-turismo","#flagship"], valueK: 60, engType: "Elétrico",
+    tags: ["#elétrico","#gran-turismo","#flagship"], ink: "#8465C0", inkWhy: "Violeta — a avant-garde francesa da DS", valueK: 60, engType: "Elétrico",
     hist: "O regresso do grand tourisme francês, em elétrico: o novo topo de gama da DS, revelado em 2024. Versão AWD Long Range com 350 cv (375 cv em boost) e até ≈688 km de autonomia WLTP, com interior de inspiração alta-costura parisiense.",
     curios: ["Aerodinâmica de referência no segmento (Cx ≈0,24)","Carrega de 20 a 80% em cerca de 27 minutos","Nome evoca os DS de 1955 — a vanguarda francesa como tradição"],
     curator: "A escolha mais inesperada da garagem — e por isso valiosa. Os primeiros elétricos de luxo serão os clássicos de daqui a 30 anos, e este, em cinza de lançamento com teto preto, envelhecerá com elegância. Curadoria é também apostar no futuro."
@@ -996,7 +1075,7 @@ const CARS = [
     engine: "V8 5.0 biturbo · híbrido", production: "300 unid.",
     valueK: 2200, engType: "Híbrido",
     collections: ["Hypercars","Modernos","Ícones"],
-    tags: ["#v8-híbrido","#4-lugares","#mega-gt"],
+    tags: ["#v8-híbrido","#4-lugares","#mega-gt"], ink: "#0E9BC4", inkWhy: "Ciano nórdico, elétrico",
     hist: "Apresentado em 2020 como o primeiro Koenigsegg de quatro lugares, o Gemera reinventou o hiper-GT. A variante V8 (HV8) junta o 5.0 biturbo 'hot-V' derivado do Jesko a motores elétricos, para 2 300 cv combinados \u2014 um dos automóveis de produção mais potentes de sempre. Limitado a 300 exemplares.",
     curios: ["Portas 'synchrohelix' que rodam para fora e para a frente num só gesto","Quatro lugares e bagagem \u2014 um hipercarro para levar a família a 400 km/h","Caixa LSTT de 9 velocidades, ultrarrápida","Nasceu com o 3-cilindros 'Tiny Friendly Giant'; o V8 chegou depois"],
     curator: "A ousadia feita automóvel, Dr. Rodrigo. Um hipercarro de quatro lugares é uma contradição que só a Koenigsegg teria a coragem de resolver \u2014 e resolve-a com 2 300 cv. É o exemplar mais radical e mais moderno da coleção."
@@ -1167,6 +1246,7 @@ function rowHTML(c) {
       <div class="lspec"><div class="v">${c.vmax}</div><div class="k">${c.vmaxU}</div></div>
       <div class="lspec"><div class="v">${c.accel}</div><div class="k">0–100</div></div>
     </div>
+    ${c.ink ? `<span class="link" style="background:${c.ink}" aria-hidden="true"></span>` : ''}
     <div class="lyr">${c.year}</div>
   </article>`;
 }
@@ -1463,6 +1543,7 @@ function switchTab(name) {
   if (name === 'inicio') { revealAll(document.querySelectorAll('.htile')); renderHome(); }
   if (name === 'cronologia') renderTimeline();
   if (name === 'dashboard') renderDash();
+  if (name === 'cores') renderCores();
   if (name === 'noticias') loadNews();
   if (name === 'estudio') loadStudio();
 }
@@ -1663,6 +1744,65 @@ function renderDash() {
     </div>
     <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
   revealAll(el.querySelectorAll('.tile, .dcard'));
+}
+
+/* ---------- Mapa de cores ---------- */
+/* matiz e luminosidade a partir do hex — para ordenar o espectro e escolher
+   texto claro/escuro sobre cada cor */
+function hexRGB(hex) {
+  const n = parseInt(hex.replace('#',''), 16);
+  return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+}
+function matiz(hex) {
+  const [r,g,b] = hexRGB(hex).map(v => v/255);
+  const mx = Math.max(r,g,b), mn = Math.min(r,g,b), d = mx - mn;
+  if (!d) return 0;
+  let hh;
+  if (mx === r) hh = ((g-b)/d) % 6;
+  else if (mx === g) hh = (b-r)/d + 2;
+  else hh = (r-g)/d + 4;
+  return (hh * 60 + 360) % 360;
+}
+function claro(hex) {
+  const [r,g,b] = hexRGB(hex);
+  return (0.299*r + 0.587*g + 0.114*b) > 165;   // fundo claro → texto escuro
+}
+
+let coresDone = false;
+function renderCores() {
+  const ordenados = [...CARS].filter(c => c.ink).sort((a,b) => matiz(a.ink) - matiz(b.ink));
+  const ribbon = document.getElementById('ribbon');
+  ribbon.innerHTML = ordenados.map(c =>
+    `<button class="rseg${claro(c.ink) ? ' on-light' : ''}" style="background:${c.ink}"
+       data-car="${esc(c.name)}" aria-label="${esc(c.brand + ' ' + c.hero)}">
+       <span class="rlabel">${esc(c.hero)}</span>
+     </button>`).join('');
+  document.getElementById('ribbon-count').textContent = ordenados.length + ' automóveis';
+
+  const grid = document.getElementById('swatches');
+  grid.innerHTML = ordenados.map(c => `
+    <button class="swatch-card" data-car="${esc(c.name)}">
+      <div class="sw-block${claro(c.ink) ? ' on-light' : ''}" style="background:${c.ink}">
+        <span class="sw-hex">${esc(c.ink.toUpperCase())}</span>
+        <span class="sw-real" style="background:${c.paint}" title="Pintura real"></span>
+      </div>
+      <div class="sw-body">
+        <div class="sb">${esc(c.brand)}</div>
+        <div class="sn">${esc(c.hero)}</div>
+        ${c.inkWhy ? `<div class="sw-why">${esc(c.inkWhy)}</div>` : ''}
+        <div class="sw-paint"><i style="background:${c.paint}"></i>${esc(c.colour)}</div>
+      </div>
+    </button>`).join('');
+
+  if (!coresDone) {
+    [ribbon, grid].forEach(el => el.addEventListener('click', e => {
+      const t = e.target.closest('[data-car]'); if (!t) return;
+      const car = CARS.find(x => x.name === t.dataset.car);
+      if (car) openFicha(car);
+    }));
+    coresDone = true;
+  }
+  revealAll(grid.querySelectorAll('.swatch-card'));
 }
 
 /* ---------- Notícias ---------- */

@@ -187,6 +187,25 @@ disso a gaveta é a navegação.
 **Feed de notícias:** 1.ª notícia com tratamento de **manchete** (largura
 total, título grande), selo **"Novo"** (<6 h) e **contagem por filtro**.
 
+## Mapa de cores (v1.3, 2026-08-18)
+Separador **Mapa de cores**: cada automóvel tem uma **cor de identidade**
+(campo `ink` + `inkWhy` a explicar a escolha), ancorada no carácter do carro
+(pintura real, livery, marca ou era) mas escolhida para ser distinta das
+restantes. **Validado numericamente**: ΔE (CIE76) mínimo entre qualquer par
+= 22,5 (critério >20 = claramente distintas). Duas iterações foram precisas —
+F355 vs 959 estavam a 14,9 (dois cinza-azulados), resolvido dando ao Ferrari
+o **Giallo Modena**; depois afastaram-se Aston/Carrera GT e 917/N°8.
+Paleta: Carrera GT #1D5B3A · F355 #D69B1E · Enzo #C81E28 · GT2 #33383D ·
+959 #93BAD6 · V12 Vantage #2FA58C · SLR #C0AE93 · 917 #0E3A8C (Martini) ·
+Delta #C4661C · N°8 #8465C0 · Gemera #0E9BC4.
+UI: **fita/espectro** ordenada por matiz (segmentos crescem ao passar, com
+nome) + **grelha de amostras** (bloco de cor, hex, porquê da escolha e a
+**pintura real** numa amostra pequena — a cor real nunca é apagada). Tocar
+abre a ficha. Texto claro/escuro escolhido por luminância. Ponto de cor
+discreto também na vista de lista, para leitura rápida.
+Nota de contenção: a cor manda **só** neste separador — o resto da app mantém
+o branco com o verde de assinatura.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
