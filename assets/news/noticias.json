@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-19T18:53:19Z",
+ "atualizado": "2026-08-20T01:51:54Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,126 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Speeding Is The New Normal As 79% Of Americans Exceed The Speed Limit",
+   "resumo": "Most people don't even consider it speeding until you go 10 mph over the speed limit",
+   "url": "https://www.carscoops.com/2026/08/aaa-speeding-study/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T00:53:00Z"
+  },
+  {
+   "titulo": "An American Hypercar Might Be Coming From The AMG One’s Nürburgring Record",
+   "resumo": "The 21C already rules Laguna Seca, and now Czinger has set its sights on the outright Nürburgring production car record",
+   "url": "https://www.carscoops.com/2026/08/czinger-nurburgring-lap-record/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T00:09:00Z"
+  },
+  {
+   "titulo": "The Era Of The 1,973 HP Wagon Could Be Upon Us",
+   "resumo": "Denza appears to be working on a hardcore Z9 GT that borrows heavily from the upcoming Z Special Edition",
+   "url": "https://www.carscoops.com/2026/08/denza-z9-gt-special-edition-spied/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T23:25:00Z"
+  },
+  {
+   "titulo": "BMW’s Fix For A Driveshaft Recall? Glue, Unless It’s Too Late",
+   "resumo": "A worn driveshaft-to-differential connection has prompted BMW to recall select 5, 7, and 8 Series models",
+   "url": "https://www.carscoops.com/2026/08/bmw-driveline-recall/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T22:41:00Z"
+  },
+  {
+   "titulo": "Dale Jr. defends Cleetus McFarland's Super Late Model run: 'Yeah he wrecked, so f***ing what?'",
+   "resumo": "Cleetus McFarland (real name Garrett Mitchell) had himself quite a busy few days last week. The popular YouTuber turned real-life racer recently invested in a new car and took it out racing…",
+   "url": "https://www.motorsport.com/nascar/news/dale-jr-defends-cleetus-mcfarlands-super-late-model-run-yeah-he-wrecked-so-fing-what/10847443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-19T22:14:38Z"
+  },
+  {
+   "titulo": "Here’s Your First Look At The Grand Tour Reboot",
+   "resumo": "The rebooted show returns on September 4 with three new hosts and plenty of cars",
+   "url": "https://www.carscoops.com/2026/08/the-grand-tour-trailer/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T21:57:00Z"
+  },
+  {
+   "titulo": "Two Speed Shops Live and Breathe American Muscle… with an English Twist",
+   "resumo": "If you’re after a lot of horsepower from a classic Chevy, Ford, or Chrysler race engine, you might think the only place to go is the United States. After all, these engines have been…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/two-speed-shops-live-and-breathe-american-muscle-with-an-english-twist/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-19T21:00:00Z"
+  },
+  {
+   "titulo": "Justin Marks addresses Trackhouse downsizing debate",
+   "resumo": "The biggest move of NASCAR's 2027 offseason may have already taken place. Earlier this week, it was announced that Connor Zilisch would be leaving Trackhouse Racing to join Hendrick…",
+   "url": "https://www.motorsport.com/nascar-cup/news/justin-marks-addresses-trackhouse-downsizing-debate/10847438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-19T20:19:14Z"
+  },
+  {
+   "titulo": "The Grand Tour Season 7 Trailer Has Everything It Needs to Succeed",
+   "resumo": "Fast cars, and importantly, slow cars, gags, goofs, and gimmicks, the relaunch of the Grand Tour looks to pack them all.",
+   "url": "https://www.caranddriver.com/news/a73476319/the-grand-tour-season-7-trailer/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T20:04:42Z"
+  },
+  {
+   "titulo": "Dale Earnhardt Jr. isn't sure on Trackhouse's next move after Connor Zilisch departure",
+   "resumo": "Trackhouse Racing has to make some plans for the future following the move of Connor Zilisch, who is set to leave Trackhouse and join Hendrick Motorsports at the conclusion of the 2027…",
+   "url": "https://www.motorsport.com/nascar-cup/news/dale-earnhardt-jr-trackhouse-racing-questions-connor-zilisch-departure/10847425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-19T19:50:17Z"
+  },
+  {
+   "titulo": "13 Factory Accessories to Deck Out Your Ford Truck or SUV",
+   "resumo": "Skip the junk. Here is the OEM gear actually worth your hard-earned cash.",
+   "url": "https://www.roadandtrack.com/gear/lifestyle/a73395306/best-ford-accessories-truck-suv/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-19T19:43:35Z"
+  },
+  {
+   "titulo": "2025 BMW M2 Review: Ch- Ch- Ch- Changes",
+   "resumo": "BMW’s high-performance M branch had a banner year in 2025, posting record sales totaling 213,457 vehicles. For all the ways BMW loyalists, including your author, lament the ways that the M…",
+   "url": "https://www.hagerty.com/media/new-car-reviews/2025-bmw-m2-review-ch-ch-ch-changes/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-19T19:00:00Z"
+  },
   {
    "titulo": "Regarding Hendrick, Kyle Larson, Connor Zilisch and the Charlotte-Indianapolis double",
    "resumo": "No, Kyle Larson completing a generally unplanned Knoxville-and-Richmond double does not make him any more likely to attempt both the Indianapolis 500 and Coca-Cola 600 on the same day ever…",
@@ -36,16 +156,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-19T18:29:17Z"
-  },
-  {
-   "titulo": "BMW’s New Wagon Is The Cure For Everyone Bored By Electric SUVs",
-   "resumo": "A large 108.7 kWh battery pack will ensure the BMW i3 Touring is just as practical as a combustion-powered 3-Series",
-   "url": "https://www.carscoops.com/2026/08/bmw-i3-touring-nurburgring/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T18:17:00Z"
   },
   {
    "titulo": "View Interior Photos of the 2026 Hyundai Venue",
@@ -98,7 +208,7 @@
    "data": "2026-08-19T18:00:00Z"
   },
   {
-   "titulo": "14 Important Cars From the 2026 RM Sotheby’s Monterey Auction",
+   "titulo": "14 Important Cars from the 2026 RM Sotheby’s Monterey Auction",
    "resumo": "RM Sotheby’s held a three-day auction in Monterey this year, with the first day of sales mostly consisting of prewar greats from large collections. Otherwise, much of the buzz around this…",
    "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/auction-report/14-important-cars-from-the-2026-rm-sothebys-monterey-auction/",
    "fonte": "Hagerty",
@@ -106,16 +216,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-19T18:00:00Z"
-  },
-  {
-   "titulo": "Finally, An Off-Road Camper Trailer That’s Cheaper Than The Truck You Tow It With",
-   "resumo": "The Motsmann Outranger costs less than a Miata, weighs just 1,450 lbs and lets you add only the gear you actually want",
-   "url": "https://www.carscoops.com/2026/08/motsmann-outranger-camper/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T17:33:00Z"
   },
   {
    "titulo": "Skoda ainda mais Simply Clever",
@@ -148,7 +248,7 @@
    "data": "2026-08-19T17:03:55Z"
   },
   {
-   "titulo": "Jovens não gostam de carros? Talvez não seja a pergunta certa",
+   "titulo": "Os jovens deixaram mesmo de gostar de carros?",
    "resumo": "Os jovens já não gostam de carros. Quantas vezes ouvimos esta ideia? Há menos pressa em tirar a carta, sobretudo nas grandes cidades, as revistas de automóveis vendem menos e a relação com…",
    "url": "https://www.razaoautomovel.com/podcasts/auto-radio/auto-radio-144-carros-velhos-youngtimers/",
    "fonte": "Razão Automóvel",
@@ -218,36 +318,6 @@
    "data": "2026-08-19T16:51:20Z"
   },
   {
-   "titulo": "Geely’s New Solid-State Battery Lasts 621,000 Miles And Starts Pilot Testing Next Year",
-   "resumo": "The solid-state breakthrough drivers waited years for has arrived, though US tariffs could keep it far from American showrooms",
-   "url": "https://www.carscoops.com/2026/08/geely-solid-state-batteries/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T16:49:00Z"
-  },
-  {
-   "titulo": "2027 Hyundai Tucson",
-   "resumo": "What We Know So Far",
-   "url": "https://www.caranddriver.com/hyundai/tucson-2027",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T16:40:50Z"
-  },
-  {
-   "titulo": "Connor Zilisch doesn't mean Hendrick still isn't big on Corey Day",
-   "resumo": "Just because Connor Zilisch has been hired to drive the No. 48 Ally Chevrolet in 2028, that doesn’t mean Hendrick Motorsports doesn’t have a plan for Corey Day. That was part of what was…",
-   "url": "https://www.motorsport.com/nascar-cup/news/connor-zilisch-doesnt-mean-hendrick-still-isnt-big-on-corey-day/10847404/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-19T16:38:25Z"
-  },
-  {
    "titulo": "Toyota pondera alinhar 6 carros no WRC 2027: depende de Ogier, mas não só…",
    "resumo": "Apesar de todas as indefinições do WRC27, a Toyota pode ter, nada mais nada menos que seis carros. O diretor da equipa, Jari-Matti Latvala, sublinhou em declarações ao Rallyjournal que a…",
    "url": "https://www.autosport.pt/ralis/toyota-pondera-alinhar-6-carros-no-wrc-2027-depende-de-ogier-mas-nao-so/",
@@ -266,36 +336,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-19T16:30:06Z"
-  },
-  {
-   "titulo": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
-   "resumo": "Hendrick Motorsports holds countless NASCAR records, including the most Cup championships of any organization in history (15), and the most race wins too (322 at the writing of this story)…",
-   "url": "https://www.motorsport.com/nascar-cup/news/the-history-of-rare-hendrick-motorsports-driver-changes-and-how-it-worked-out/10846969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-19T16:08:20Z"
-  },
-  {
-   "titulo": "Chris Buescher's worst financial decision is hilariously relatable",
-   "resumo": "Most car lovers — heck most people in general — have put too much money into a car that wasn't worth the trouble. Whether out of necessity or out of love, keeping a car in running shape can…",
-   "url": "https://www.motorsport.com/nascar-cup/news/chris-bueschers-worst-financial-decision-is-hilariously-relatable/10847229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-19T16:07:35Z"
-  },
-  {
-   "titulo": "Two Good Samaritans Tried To Save A Driver In A Dangling Sequoia And Dropped Him Off A Ledge",
-   "resumo": "What could have been a routine winch-recovery scenario turned into a totaled vehicle, thankfully with only minor injuries",
-   "url": "https://www.carscoops.com/2026/08/toyota-sequoia-ledge-rollover/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T16:05:00Z"
   },
   {
    "titulo": "Gallery: 2026 Rolex Monterey Motorsports Reunion—1966–79 Historic SCCA B & C Sedans",
@@ -348,26 +388,6 @@
    "data": "2026-08-19T15:21:35Z"
   },
   {
-   "titulo": "Rivian, Hyundai, Toyota, And Cadillac Are Fighting For Tesla’s Scraps",
-   "resumo": "New EV sales rose in July compared to the month prior, but are still down significantly from last year",
-   "url": "https://www.carscoops.com/2026/08/tesla-electric-car-market-share/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T15:21:00Z"
-  },
-  {
-   "titulo": "Next-Generation Mini Cooper Could Be Rear-Wheel Drive, Report Claims",
-   "resumo": "No matter what wheels are driven, though, Mini executives say the Cooper will retain its classic proportions.",
-   "url": "https://www.roadandtrack.com/news/a73474234/next-mini-cooper-could-be-rear-wheel-drive-report/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T15:19:03Z"
-  },
-  {
    "titulo": "Campeonato Centro de Ralis: Escuderia Castelo Branco substitui Alitém por Rali Terras d’Idanha, em asfalto",
    "resumo": "O Campeonato Centro de Ralis de 2026 vai contar com uma nova prova nos dias 19 e 20 de setembro. A Escuderia Castelo Branco assume a organização do Rali Terras d’Idanha, uma prova…",
    "url": "https://www.autosport.pt/ralis/campeonato-centro-de-ralis-escuderia-castelo-branco-substitui-alitem-por-rali-terras-didanha-em-asfalto/",
@@ -384,16 +404,6 @@
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-19T15:00:00Z"
-  },
-  {
-   "titulo": "The Pony Cycle’s Short-Lived Success and Lasting Legacy",
-   "resumo": "Terry Hawke isn’t a man stuck in the past, but at times he seems like a man stuck with the past. The collection of vintage scooters in his 1950s suburban Michigan garage is more than family…",
-   "url": "https://www.hagerty.com/media/automotive-history/the-pony-cycles-short-lived-success-and-lasting-legacy/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-19T15:00:00Z"
   },
@@ -416,16 +426,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-19T14:04:41Z"
-  },
-  {
-   "titulo": "The Next Mini Cooper Could Be Rear-Wheel Drive",
-   "resumo": "The city-friendly Mini has changed a lot since the original model made its debut in 1959: It has gradually gotten bigger, quicker, and headed more upmarket. It has never strayed from its…",
-   "url": "https://www.hagerty.com/media/news/next-mini-cooper-rwd-specs/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-19T14:00:00Z"
   },
   {
    "titulo": "Why Carlos Sainz is being wasted at Williams",
