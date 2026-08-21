@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-20T18:59:12Z",
+ "atualizado": "2026-08-21T01:57:27Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,6 +7,7 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -17,6 +18,156 @@
  ],
  "itens": [
   {
+   "titulo": "Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost",
+   "resumo": "The GV80 Hybrid arrives in South Korea next month with a turbocharged 2.5-liter engine, two electric motors, and a unique water-cooled battery",
+   "url": "https://www.carscoops.com/2026/08/genesis-gv80-hybrid-details/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T01:02:00Z"
+  },
+  {
+   "titulo": "The BMW XM Splits Opinion Just Fine On Its Own. Larte Disagreed",
+   "resumo": "The tuner behind that green Escalade has now aimed its olive palette at BMW's most extreme SUV, with carbon fiber to match",
+   "url": "https://www.carscoops.com/2026/08/larte-carbon-bmw-xm/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T00:21:00Z"
+  },
+  {
+   "titulo": "Jeep’s Latest Special Edition Is A Blacked Out Wrangler For Mama Bears",
+   "resumo": "The Wrangler Smoky Mountain Edition sports a black grille and wheels as well as a mama bear shifter",
+   "url": "https://www.carscoops.com/2026/08/jeep-wrangler-smoky-mountain/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T23:40:00Z"
+  },
+  {
+   "titulo": "California Is The First State To Regulate Your Replacement Tires, But Your Track Rubber Is Safe",
+   "resumo": "The nation’s first replacement tire efficiency standards take effect in 2029, promising lower running costs but potentially shrinking your tire shopping list",
+   "url": "https://www.carscoops.com/2026/08/california-tire-efficiency-standards/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T22:59:00Z"
+  },
+  {
+   "titulo": "Aston Martin Is Open To Manuals Again, But With A Ferrari-Style Setup",
+   "resumo": "Getting the company's new architecture and electronics is play nice with manuals is easier said than done",
+   "url": "https://www.carscoops.com/2026/08/aston-martin-manual-return/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T22:18:00Z"
+  },
+  {
+   "titulo": "Jeep’s XJ Cherokee Makes a Strong Case for the Practical Classic",
+   "resumo": "“I don’t think I’ve driven one of those since high school,” I say, staring at the impeccable red XJ Cherokee. Memories from 30 years ago flood my brain; suddenly I’m in Northern Virginia…",
+   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/jeeps-xj-cherokee-makes-a-strong-case-for-the-practical-classic/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-20T22:17:58Z"
+  },
+  {
+   "titulo": "Max Verstappen is yet to reach his peak, says former F1 team boss",
+   "resumo": "Former Formula 1 team principal Otmar Szafnauer believes Max Verstappen is continuing to improve and has still not reached his peak performance. During an episode of the High Performance…",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-is-yet-to-reach-his-peak-says-former-f1-team-boss/10847757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T21:22:52Z"
+  },
+  {
+   "titulo": "In Northern Ireland, Drifting Bridges Divides and Salves Wounds",
+   "resumo": "A new short film by director Ruairí Bradley examines the impact of the grassroots drift culture in Belfast.",
+   "url": "https://www.roadandtrack.com/news/a73476263/northern-ireland-drifting-culture-documentary/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T20:32:06Z"
+  },
+  {
+   "titulo": "Karun Chandhok \"surprised\" by length of Max Verstappen's Red Bull contract",
+   "resumo": "Max Verstappen's decision to sign a contract extension with Red Bull until the end of 2030 shows he believes in the long-term potential of the team's in-house power unit programme…",
+   "url": "https://www.motorsport.com/f1/news/karun-chandhok-surprised-by-length-of-max-verstappens-red-bull-contract/10847737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T20:19:01Z"
+  },
+  {
+   "titulo": "John Hunter Nemechek switches to No. 40 for special anniversary",
+   "resumo": "Legacy Motor Club is switching numbers for one weekend only, using the No. 40 for John Hunter Nemechek in this weekend's NASCAR Cup race at New Hampshire Motor Speedway. This change is to…",
+   "url": "https://www.motorsport.com/nascar-cup/news/john-hunter-nemechek-switches-to-no-40-for-special-anniversary-/10847735/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T20:15:50Z"
+  },
+  {
+   "titulo": "8 Tells to Know If a Car Is Actually Low Mileage",
+   "resumo": "Maybe you saw the sale of that Ford GT recently, or maybe you just love the idea of a well-preserved piece of automotive history. It makes sense that most car people tend to seek out the…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/8-tells-to-know-if-a-car-is-actually-low-mileage/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-20T20:00:00Z"
+  },
+  {
+   "titulo": "2028 Genesis GV90",
+   "resumo": "What We Know So Far",
+   "url": "https://www.caranddriver.com/genesis/gv90",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T19:50:29Z"
+  },
+  {
+   "titulo": "Genesis Reveals Details on the Upcoming GV80 Hybrid’s Powertrain",
+   "resumo": "A new four-cylinder hybrid powertrain is coming to the mid-size SUV, and it should arrive in the U.S. sooner rather than later.",
+   "url": "https://www.caranddriver.com/news/a73487175/genesis-gv80-hybrid-details/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T19:47:52Z"
+  },
+  {
+   "titulo": "2027 Ford F-150 Raptor Gets a Price Cut to Challenge Its Ram Rival",
+   "resumo": "The Raptor costs less for 2027 to better compete with the Ram 1500 RHO, but it also comes with fewer standard features.",
+   "url": "https://www.caranddriver.com/news/a73487285/2027-ford-f-150-raptor-pricing/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-20T19:37:58Z"
+  },
+  {
+   "titulo": "Against All Oddities: Shop Tundra Saga",
+   "resumo": "A little while back, I bought a 312,000-mile Toyota Tundra to replace my car commune/shop’s aged and unreliable 1991 Dodge Ram, Fuggles. I blew Fuggles up while smuggling engines back to…",
+   "url": "https://www.hagerty.com/media/opinion/against-all-oddities/against-all-oddities-shop-tundra-saga/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-20T19:00:00Z"
+  },
+  {
    "titulo": "F1 Dutch GP: Friday schedule, weather forecast and how to watch",
    "resumo": "Formula 1 returns from its summer break at Zandvoort this weekend, with the Dutch GP starting the final stretch of the 2026 season after Lando Norris’ breakthrough win in Hungary. Norris…",
    "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-friday-schedule-weather-forecast-and-how-to-watch/10847729/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
@@ -25,16 +176,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-20T18:50:06Z"
-  },
-  {
-   "titulo": "An American Sedan Just Smoked The New Corvette ZR1X To 200 MPH And Back",
-   "resumo": "Lucid’s Air Sapphire sedan demolished two supercars in Car and Driver’s 0-200-0 mph showdown",
-   "url": "https://www.carscoops.com/2026/08/200mph-to-zero-speed-test/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T18:49:00Z"
   },
   {
    "titulo": "George Russell shares details of summer break proposal to partner Carmen Montero Mundt",
@@ -47,24 +188,14 @@
    "data": "2026-08-20T18:12:39Z"
   },
   {
-   "titulo": "Brembo’s Strongest Passenger Car Brake Ever Went To A Chevy Truck, Not A Ferrari Supercar",
-   "resumo": "Six pistons, a cast-iron bridge, and more braking torque than most supercars, all for a full-size electric truck",
-   "url": "https://www.carscoops.com/2026/08/brembo-boldika-caliper/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T18:05:00Z"
-  },
-  {
-   "titulo": "“Something needed to change” – What Marcin Budkowski must fix at Cadillac F1",
-   "resumo": "With Cadillac F1 Team pulling the trigger on a surprising mid-season team boss change, incoming chief Marcin Budkowski is tasked with rectifying the new team's flaws and speeding up its…",
-   "url": "https://www.motorsport.com/f1/news/something-needed-to-change-what-marcin-budkowski-must-fix-at-cadillac-f1/10847712/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "London E-Prix “Entre insultos, lágrimas e glória: a corrida-limite que coroou os campeões da Fórmula E",
+   "resumo": "Já todos sabemos como foi o fim de semana que decidiu os títulos da Fórmula E, e na última corrida, a GEN3 chegou ao fim e os pilotos, engenheiros e equipas não pouparam palavras na rádio…",
+   "url": "https://www.autosport.pt/velocidade/london-e-prix-entre-insultos-lagrimas-e-gloria-a-corrida-limite-que-coroou-os-campeoes-da-formula-e/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
    "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-20T18:04:19Z"
+   "pt": true,
+   "data": "2026-08-20T18:12:04Z"
   },
   {
    "titulo": "Novo FIAT 600 por menos de 18 mil euros com alegria de série",
@@ -75,16 +206,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-20T17:21:58Z"
-  },
-  {
-   "titulo": "Turns Out The Fastest Way To Sell A $2.5M American Hypercar Is A Third Pedal",
-   "resumo": "A naturally aspirated V8, a six-speed gated manual, and no turbos made Hennessey's newest hypercar an instant sellout",
-   "url": "https://www.carscoops.com/2026/08/hennessey-blackbird-sold-out/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T17:21:00Z"
   },
   {
    "titulo": "BMW Recalling 27,720 Cars Over Potential Rollaway Risk",
@@ -127,26 +248,6 @@
    "data": "2026-08-20T16:49:48Z"
   },
   {
-   "titulo": "Honda’s Cheapest Type R Costs $41 And Goes On Your Kid’s Feet",
-   "resumo": "The Civic Type R just got a junior version that runs purely on foot power, wears a real Type R emblem, and comes in three familiar colors",
-   "url": "https://www.carscoops.com/2026/08/honda-type-r-sneakers/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T16:37:00Z"
-  },
-  {
-   "titulo": "President Donald Trump to wave green flag and take 'lap of honor' before D.C. IndyCar race",
-   "resumo": "U.S. President Donald Trump has been directly involved in the preparation for the IndyCar race on the streets of Washington D.C. this weekend, called the Freedom 250 Grand Prix. He signed…",
-   "url": "https://www.motorsport.com/indycar/news/president-donald-trump-to-wave-green-flag-and-take-lap-of-honor-before-dc-indycar-race/10847695/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-20T16:33:19Z"
-  },
-  {
    "titulo": "GP dos Países Baixos F1: Ferrari e Hamilton na perseguição",
    "resumo": "A Scuderia Ferrari HP ocupa atualmente o segundo lugar no Campeonato de Construtores, com Lewis Hamilton a posicionar-se também na segunda posição da tabela individual. Apesar de ambos os…",
    "url": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-ferrari-e-hamilton-na-perseguicao/",
@@ -175,16 +276,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-08-20T16:05:21Z"
-  },
-  {
-   "titulo": "How to watch IndyCar 2026 at Washington D.C.: Weekend schedule, start time, TV",
-   "resumo": "Round No. 15 of the 2026 IndyCar season will be truly unique, as the open-wheel division races in Washington D.C. in an all-new street course. It will pass the National Archives, National…",
-   "url": "https://www.motorsport.com/indycar/news/how-to-watch-indycar-2026-at-washington-dc-weekend-schedule-start-time-tv/10847688/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-20T16:05:20Z"
   },
   {
    "titulo": "The Cars We’d Have Bought at Monterey for $100K or Less",
@@ -217,16 +308,6 @@
    "data": "2026-08-20T15:57:27Z"
   },
   {
-   "titulo": "This Ex-Army Camper Truck Has A Miele Oven And A Better Bathroom Than Your Apartment",
-   "resumo": "A retired US Army hauler now hides a double bed, an induction cooktop, and a bathroom you would actually use",
-   "url": "https://www.carscoops.com/2026/08/military-truck-overland-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T15:53:00Z"
-  },
-  {
    "titulo": "US billionaire Robert Wood Johnson acquires minor Aston Martin F1 stake",
    "resumo": "Aston Martin has sold a minority stake in its Formula 1 team to US billionaire Robert Wood Johnson, who joins the board of directors as vice chairman. Johnson, an heir of the Johnson &…",
    "url": "https://www.autosport.com/f1/news/us-billionaire-robert-wood-johnson-acquires-minor-aston-martin-f1-stake/10847685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -245,6 +326,16 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-20T15:49:02Z"
+  },
+  {
+   "titulo": "How an FIA research project at Zandvoort is testing new ways to capture particles from road runoff",
+   "resumo": "Sport news When rain falls on the road, it washes away more than just dirt. Tyres, brakes and powertrains all release tiny particles into the air as vehicles travel, and a share of this…",
+   "url": "https://www.fia.com/news/how-fia-research-project-zandvoort-testing-new-ways-capture-particles-road-runoff",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T15:32:00Z"
   },
   {
    "titulo": "Report: Ford Bronco Pickup Could Step into the Gladiator Arena",
@@ -275,26 +366,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-20T15:16:12Z"
-  },
-  {
-   "titulo": "Calm and Composed: The Pleasing Purr of an RX-7’s 1.3 Liters",
-   "resumo": "As a so-savvy car collector, I’ve long followed the personal mantra of “Buy high, sell low,” which began with my 1970 Ford Mustang Mach 1, for which I accepted $1200 as trade-in on another…",
-   "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/calm-and-composed-the-pleasing-purr-of-an-rx-7s-1-3-liters/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-20T15:00:00Z"
-  },
-  {
-   "titulo": "The Veyron Is 20 Years Old Now, So Bugatti Remade One Better Than New",
-   "resumo": "The company’s La Maison Pur Sang program gave this Veyron new wheels, fresh paint, an updated interior, and other touches to bring it into the modern era.",
-   "url": "https://www.roadandtrack.com/news/a73484280/bugatti-veyron-official-restoration/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T14:51:49Z"
   },
   {
    "titulo": "2027 Hyundai Ioniq 5",
@@ -337,16 +408,6 @@
    "data": "2026-08-20T14:02:44Z"
   },
   {
-   "titulo": "Lembra-se de Xavi Pons e Carlos del Barrio: navegador perde-se e o carro precisou de botânico em vez de mecânico…",
-   "resumo": "“Onde estamos?” “No 200º rali, a chorar!” Pons, entre furioso e jardineiro, quase trouxe a floresta alemã para o parque fechado. Foi o rali mais verde da história da Kronos. A ‘tragédia…",
-   "url": "https://www.autosport.pt/ralis/lembra-se-de-xavi-pons-e-carlos-del-barrio-navegador-perde-se-e-o-carro-precisou-de-botanico-em-vez-de-mecanico/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-20T14:01:50Z"
-  },
-  {
    "titulo": "California Approved New Efficiency Rules For Replacement Tires. Here's What It Means",
    "resumo": "Your replacement tires need to be as efficient as new-car tires, but there are a few loopholes for enthusiasts.",
    "url": "https://www.motor1.com/news/805502/california-replacement-tire-rules-passed/",
@@ -357,17 +418,7 @@
    "data": "2026-08-20T14:00:00Z"
   },
   {
-   "titulo": "Douglas-Kalmar TBL-280 Tugmaster",
-   "resumo": "Some people get picked up by airplanes. Some people pick up airplanes.",
-   "url": "https://www.caranddriver.com/reviews/a15140108/douglas-kalmar-tbl-280-tugmaster-specialty-file/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T13:50:00Z"
-  },
-  {
-   "titulo": "Finally: Skoda's New Sedan Has Messaging Rear Seats",
+   "titulo": "Finally: Skoda's New Sedan Has Massaging Rear Seats",
    "resumo": "Too bad the updated Slavia is only for the Indian market.",
    "url": "https://www.motor1.com/news/805594/skoda-sedili-posteriori-massaggio/",
    "fonte": "Motor1",
@@ -375,6 +426,16 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-20T13:30:00Z"
+  },
+  {
+   "titulo": "F1 - 2026 Dutch Grand Prix - Thursday Press Conference Transcript",
+   "resumo": "Sport news PART ONE – Arvid LINDBLAD (Racing Bulls), Sergio PÉREZ (Cadillac), Max VERSTAPPEN (Red Bull) Q: Max, perhaps we could start with you. Hope the summer was good to you. First…",
+   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-thursday-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T13:21:00Z"
   },
   {
    "titulo": "Why Verstappen has suddenly committed to Red Bull until 2030",
@@ -385,36 +446,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-20T13:17:10Z"
-  },
-  {
-   "titulo": "Behind-the-Scenes Photos of the 0–150–0 Speed Test 2026",
-   "resumo": "See behind-the-scenes photos from our 0–150–0 Speed Test 2026.",
-   "url": "https://www.caranddriver.com/photos/a73454294/0-150-0-mph-speed-test-2026-behind-the-scenes-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T13:00:00Z"
-  },
-  {
-   "titulo": "Porsche Cayenne Turbo Electric at the 0–150–0-MPH Speed Test 2026",
-   "resumo": "Why does a three-ton SUV outaccelerate a 911 Turbo S? There are 1139 reasons.",
-   "url": "https://www.caranddriver.com/features/a73416307/porsche-cayenne-turbo-ev-0-150-0-speed-test-2026/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T13:00:00Z"
-  },
-  {
-   "titulo": "Picture Car Confidential #46: From Front-Loader to Bonneville Front-Runner",
-   "resumo": "People are always talking about their bucket lists. Things they want to do before they die. I have no bucket list, which might seem strange for an obsessive car collector, but there you…",
-   "url": "https://www.hagerty.com/media/opinion/picture-car-confidential/picture-car-confidential-46-from-front-loader-to-bonneville-front-runner/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-20T13:00:00Z"
   },
   {
    "titulo": "How the 2027 F1 grid is shaping up after Verstappen's Red Bull new deal",
@@ -465,6 +496,16 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-20T12:29:47Z"
+  },
+  {
+   "titulo": "FIA Vice President for Sport Meets Government of Trinidad and Tobago to Advance Regional Motor Sport",
+   "resumo": "Members news FIA Vice President for Sport (North, Central America and Caribbean), Daniel Coen, recently met with Trinidad and Tobago's Minister of Trade, Investment and Tourism, Senator the…",
+   "url": "https://www.fia.com/news/fia-vice-president-sport-meets-government-trinidad-and-tobago-advance-regional-motor-sport",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T12:20:00Z"
   },
   {
    "titulo": "Zarco set for Aragon MotoGP return after Barcelona accident",
@@ -537,6 +578,16 @@
    "data": "2026-08-20T10:22:08Z"
   },
   {
+   "titulo": "EDRC: NitrOlympX Set to Shape Title Battles",
+   "resumo": "Sport news The FIA European Drag Racing Championship heads to Germany for the NitrOlympX at the Rico Anthes Quartermile of the HockenheimRing on 21-23 August, with championship battles…",
+   "url": "https://www.fia.com/news/edrc-nitrolympx-set-shape-title-battles",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-20T09:49:00Z"
+  },
+  {
    "titulo": "A Limited-Edition Evel Knievel Cane (With A Hidden Liquor Compartment)",
    "resumo": "This is number #025 of a limited-edition series of Evel Knievel canes, all carefully designed to replicate his infamous walking stick with its gem... The post A Limited-Edition Evel Knievel…",
    "url": "https://silodrome.com/evel-knievel-walking-stick-cane-hidden-liquor-compartment/",
@@ -565,56 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-20T04:15:33Z"
-  },
-  {
-   "titulo": "Chinese car makers take a fifth of the UK market – can they keep growing?",
-   "resumo": "Affordable electrified vehicles power a huge surge in Chinese car sales, as legacy firms struggle to stay competitive Chinese brands accounted for almost a fifth of all UK registrations in…",
-   "url": "https://www.autocar.co.uk/car-news/business-car-sales/chinese-car-makers-take-fifth-uk-market-%E2%80%93-can-they-keep-growing",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T04:00:00Z"
-  },
-  {
-   "titulo": "2027 Genesis GV90 Debuts As A Flagship SUV With Coach Doors",
-   "resumo": "Genesis' new flagship packs 657 horsepower, a 123.5-kWh battery, and an available four-seat interior with coach doors. It sounds fancy.",
-   "url": "https://www.motor1.com/news/805518/2027-genesis-gv90-horsepower-price-details/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T03:00:00Z"
-  },
-  {
-   "titulo": "Two Speed Shops Live and Breathe American Muscle… with an English Twist",
-   "resumo": "If you’re after a lot of horsepower from a classic Chevy, Ford, or Chrysler race engine, you might think the only place to go is the United States. After all, these engines have been…",
-   "url": "https://www.hagerty.com/media/maintenance-and-tech/two-speed-shops-live-and-breathe-american-muscle-with-an-english-twist/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-19T21:00:00Z"
-  },
-  {
-   "titulo": "For Sale: Steve McQueen’s Incredible Scott “Flying Squirrel”",
-   "resumo": "This is a late-1930s-era Scott Flying Squirrel, possibly the greatest-named motorcycle in history, and it comes with a matching sidecar. It formerly belonged to... The post For Sale: Steve…",
-   "url": "https://silodrome.com/steve-mcqueen-scott-flying-squirrel/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-19T12:30:58Z"
-  },
-  {
-   "titulo": "Crate Engine: A 385 BHP SVT Mustang Cobra R V8",
-   "resumo": "This is a rare Ford SVT Mustang Cobra R V8 engine that remains in completely unused condition – it’s still bolted down to the... The post Crate Engine: A 385 BHP SVT Mustang Cobra R V8…",
-   "url": "https://silodrome.com/crate-engine-ford-svt-mustang-cobra-r-v8/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-19T06:30:36Z"
   }
  ]
 }
