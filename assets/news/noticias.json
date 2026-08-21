@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-21T01:57:27Z",
+ "atualizado": "2026-08-21T07:07:15Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,86 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Praga Bohema Smashes Pagani's Spa Record",
+   "resumo": "On road-legal tires and in traffic, Praga Bohema clocks a 2:21.42 at Spa-Francorchamps, edging a long-standing Pagani Huayra BC benchmark.",
+   "url": "https://www.motor1.com/news/805662/praga-bohema-spa-lap-record/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T06:35:06Z"
+  },
+  {
+   "titulo": "A 1:3 Scale Porsche 911 Turbo Engine Kit: With Moving Internal Parts!",
+   "resumo": "This is an officially licensed Porsche 911 Turbo (930) engine kit, produced to 1:3rd scale, and designed using the original engineering drawings from the... The post A 1:3 Scale Porsche 911…",
+   "url": "https://silodrome.com/porsche-911-turbo-model-engine-kit/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-21T06:30:36Z"
+  },
+  {
+   "titulo": "Aston Martin Undecided Whether It Wants To Fake A Manual Or Not",
+   "resumo": "While it hasn't ruled out bringing back a proper manual, cost concerns remain.",
+   "url": "https://www.motor1.com/news/805656/aston-martin-talks-manual-gearboxes/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T06:11:05Z"
+  },
+  {
+   "titulo": "Marca chinesa fez o que a Mercedes só mostrou num anúncio",
+   "resumo": "Em 2010, Michael Schumacher pareceu protagonizar uma das acrobacias automóveis mais memoráveis: um loop completo num túnel ao volante de um Mercedes-Benz SLS AMG. Pareceu, porque a proeza…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-voyah-passion-s-loop-tunel/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-21T06:01:00Z"
+  },
+  {
+   "titulo": "Jeep's $80 Blackout Wrangler That Dares The Ford Bronco",
+   "resumo": "Built off the Jeep Wrangler Willys, the Smoky Mountain adds blackout styling and comfort gear for a modest premium over its off-road hardware twin.",
+   "url": "https://www.motor1.com/news/805641/2027-jeep-wrangler-smoky-mountain/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T05:40:00Z"
+  },
+  {
+   "titulo": "Inside the new tests making ADAS systems you'll actually want to use",
+   "resumo": "Driver assistance systems annoy motorists on real roads, but testing body Thatcham Research is on the case Just inches from the crash test mock-up of a compact SUV, the automatic emergency…",
+   "url": "https://www.autocar.co.uk/car-news/features/inside-new-tests-making-adas-systems-youll-actually-want-use",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T05:00:00Z"
+  },
+  {
+   "titulo": "AMC Rambler Rebel: dawn of the muscle car",
+   "resumo": "AMC Rambler Rebel: dawn of the muscle car Ryan Standen Fri, 21/08/2026 - 05:23",
+   "url": "https://www.classicandsportscar.com/features/amc-rambler-rebel-dawn-muscle-car",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-21T04:23:57Z"
+  },
+  {
+   "titulo": "Mercedes aims to stimulate luxury MPV market with plush new VLE",
+   "resumo": "Luxurious new electric MPV looks to find success where the previous EQV didn't – and London will be key Next year’s UK launch of the new Mercedes-Benz VLE will jump-start the market for…",
+   "url": "https://www.autocar.co.uk/car-news/business-electric-vehicles/mercedes-aims-stimulate-luxury-mpv-market-plush-new-vle",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T04:00:00Z"
+  },
   {
    "titulo": "Genesis GV80 Hybrid Adds 47 HP And 25% Fuel Economy Boost",
    "resumo": "The GV80 Hybrid arrives in South Korea next month with a turbocharged 2.5-liter engine, two electric motors, and a unique water-cooled battery",
@@ -58,7 +138,7 @@
    "data": "2026-08-20T22:59:00Z"
   },
   {
-   "titulo": "Aston Martin Is Open To Manuals Again, But With A Ferrari-Style Setup",
+   "titulo": "Aston Martin’s Boss Explains The Real Obstacle To A Manual, And It Isn’t The Gearbox",
    "resumo": "Getting the company's new architecture and electronics is play nice with manuals is easier said than done",
    "url": "https://www.carscoops.com/2026/08/aston-martin-manual-return/",
    "fonte": "Carscoops",
@@ -418,16 +498,6 @@
    "data": "2026-08-20T14:00:00Z"
   },
   {
-   "titulo": "Finally: Skoda's New Sedan Has Massaging Rear Seats",
-   "resumo": "Too bad the updated Slavia is only for the Indian market.",
-   "url": "https://www.motor1.com/news/805594/skoda-sedili-posteriori-massaggio/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T13:30:00Z"
-  },
-  {
    "titulo": "F1 - 2026 Dutch Grand Prix - Thursday Press Conference Transcript",
    "resumo": "Sport news PART ONE – Arvid LINDBLAD (Racing Bulls), Sergio PÉREZ (Cadillac), Max VERSTAPPEN (Red Bull) Q: Max, perhaps we could start with you. Hope the summer was good to you. First…",
    "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-thursday-press-conference-transcript",
@@ -476,16 +546,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-20T12:30:33Z"
-  },
-  {
-   "titulo": "Mazda Pushes CX-30 Redesign To 2031",
-   "resumo": "Mazda CX-30 stays on its 2019 platform until fiscal 2030, as tariffs and cost-cutting push the next-generation crossover further down the priority list.",
-   "url": "https://www.motor1.com/news/805588/mazda-cx-30-redesign-delay/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T12:30:00Z"
   },
   {
    "titulo": "Zarco returns early after one of MotoGP 2026's worst crashes",
@@ -538,16 +598,6 @@
    "data": "2026-08-20T11:17:11Z"
   },
   {
-   "titulo": "Recebeu uma multa? Não pague antes de ler isto",
-   "resumo": "Há cartas que não queremos encontrar na caixa do correio e uma multa de trânsito ou, mais rigorosamente, a notificação de uma contraordenação rodoviária, está seguramente entre elas. O…",
-   "url": "https://www.razaoautomovel.com/autopedia/como-quando-contestar-multa-transito/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-20T11:12:46Z"
-  },
-  {
    "titulo": "FIA to ban team collusion in Formula E from next season",
    "resumo": "The FIA will enforce its sporting regulations more strictly in Formula E’s Gen4 era to clamp down on teams colluding to “manipulate” races. Manufacturers in Formula E hold significant…",
    "url": "https://www.autosport.com/formula-e/news/fia-to-ban-team-collusion-in-formula-e-from-next-season/10847513/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -566,56 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-20T10:28:03Z"
-  },
-  {
-   "titulo": "Cadillac F1 team owner issues firm statement over sale talk",
-   "resumo": "The Cadillac F1 team's parent company has issued a statement about its ownership amid a US federal investigation into billionaire Mark Walter",
-   "url": "https://www.the-race.com/business/cadillac-f1-owner-twg-firm-statement-team-sale-talk/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-20T10:22:08Z"
-  },
-  {
-   "titulo": "EDRC: NitrOlympX Set to Shape Title Battles",
-   "resumo": "Sport news The FIA European Drag Racing Championship heads to Germany for the NitrOlympX at the Rico Anthes Quartermile of the HockenheimRing on 21-23 August, with championship battles…",
-   "url": "https://www.fia.com/news/edrc-nitrolympx-set-shape-title-battles",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-20T09:49:00Z"
-  },
-  {
-   "titulo": "A Limited-Edition Evel Knievel Cane (With A Hidden Liquor Compartment)",
-   "resumo": "This is number #025 of a limited-edition series of Evel Knievel canes, all carefully designed to replicate his infamous walking stick with its gem... The post A Limited-Edition Evel Knievel…",
-   "url": "https://silodrome.com/evel-knievel-walking-stick-cane-hidden-liquor-compartment/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-20T06:30:43Z"
-  },
-  {
-   "titulo": "10,000rpm, £354k Ford Escort is a car 'nobody else could build'",
-   "resumo": "Boreham Motorworks is readying is official reimagining of the rally icon for early next year Boreham Motorworks is putting the finishing touches to its £354k Mk1 Ford Escort continuation…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/10000rpm-%C2%A3354k-ford-escort-car-nobody-else-could-build",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-20T05:00:00Z"
-  },
-  {
-   "titulo": "Daimler DB18: Churchill’s chariot",
-   "resumo": "Daimler DB18: Churchill’s chariot Ryan Standen Thu, 20/08/2026 - 05:15",
-   "url": "https://www.classicandsportscar.com/features/daimler-db18-churchills-chariot",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-20T04:15:33Z"
   }
  ]
 }
