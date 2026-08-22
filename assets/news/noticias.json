@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-08-22T01:50:06Z",
+ "atualizado": "2026-08-22T06:59:35Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "FIA",
+  "Classic & Sports Car",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -16,6 +16,56 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "For Sale: An Incredible 1950s-Era C-11B Flight Simulator",
+   "resumo": "This is a Link Aviation Devices C-11B Instrument Flight Simulator from the 1950s, it has no screens at all, just manual controls and analog... The post For Sale: An Incredible 1950s-Era…",
+   "url": "https://silodrome.com/link-aviation-c11b-instrument-flight-simulator/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-22T06:30:51Z"
+  },
+  {
+   "titulo": "MOT price hike: why it's worth paying more to your mechanic",
+   "resumo": "The Independent Garage Association has called for MOT prices to rise to £95 – and it makes perfect sense I know what you’re thinking: motoring hacks get paid too much. What other credible…",
+   "url": "https://www.autocar.co.uk/opinion/consumer/mot-price-hike-why-its-worth-paying-more-your-mechanic",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-22T05:00:00Z"
+  },
+  {
+   "titulo": "Exclusive: Mercedes boss on why car fans will love its future EVs",
+   "resumo": "Its cars are becoming more electric and digital, but Merc's CEO won't lose sight of the brand's spirit Mercedes-Benz CEO Ola Källenius is clearly proud of the new C-Class Electric saloon…",
+   "url": "https://www.autocar.co.uk/car-news/features/exclusive-mercedes-boss-why-car-fans-will-love-its-future-evs",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-22T05:00:00Z"
+  },
+  {
+   "titulo": "Introducing the impressive IROC field for Washington D.C. race",
+   "resumo": "As part of the Freedom 250 Grand Prix weekend with IndyCar, the revived IROC Series (International Race of Champions) will be on track as well, taking on the 1.7-mile street course with the…",
+   "url": "https://www.motorsport.com/general/news/introducing-iroc-field-washington-dc/10848080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T03:42:22Z"
+  },
+  {
+   "titulo": "Toni Breidinger loses New Hampshire NASCAR Truck ride as driver swap backfires",
+   "resumo": "Frankie Muniz stepping aside for teammate Luke Baldwin wasn't the only driver swap after NASCAR Craftsman Truck Series qualifying at New Hampshire Motor Speedway. A total of five drivers…",
+   "url": "https://www.motorsport.com/nascar-truck/news/toni-breidinger-loses-new-hampshire-nascar-truck-ride-as-driver-swap-backfires/10848091/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T02:08:31Z"
+  },
   {
    "titulo": "Frankie Muniz gives up NASCAR Truck seat to help teammate in selfless move",
    "resumo": "There aren't many teammates who would do what Frankie Muniz decided to do on Friday. After qualifying for the NASCAR Craftsman Truck Series (NCTS) race at New Hampshire Motor Speedway, Team…",
@@ -107,26 +157,6 @@
    "data": "2026-08-21T21:57:00Z"
   },
   {
-   "titulo": "Netflix confirms release date for new Michael Schumacher F1 documentary",
-   "resumo": "Netflix has announced that its new Formula 1 documentary focusing on Michael Schumacher's maiden title-winning campaign will be released globally on 2 October 2026. Titled Schumacher '94…",
-   "url": "https://www.motorsport.com/f1/news/netflix-confirms-release-date-for-new-michael-schumacher-f1-documentary/10848075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-21T21:14:11Z"
-  },
-  {
-   "titulo": "\"Chaos, passing, crashes\": Alex Palou braces for IndyCar mayhem at Freedom 250",
-   "resumo": "Alex Palou knows what is waiting for the IndyCar Series on the streets surrounding the National Mall this weekend, and he isn't sugarcoating it: expect mayhem. While the 29-year-old…",
-   "url": "https://www.motorsport.com/indycar/news/chaos-passing-crashes-palou-braces-for-capitol-mayhem-at-freedom-250/10848073/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-21T21:12:49Z"
-  },
-  {
    "titulo": "Ayrton Senna’s NSX Hits the Block",
    "resumo": "For the second time in two years, the late Ayrton Senna’s 1991 Honda NSX is for sale. RM Sotheby’s has consigned the Japanese supercar to its October 31 London Auction, with a presale…",
    "url": "https://www.hagerty.com/media/news/ayrton-sennas-nsx-hits-the-block/",
@@ -187,7 +217,7 @@
    "data": "2026-08-21T19:00:00Z"
   },
   {
-   "titulo": "What ruined Honda's big F1 upgrade engine debut",
+   "titulo": "Could have been 2.5s quicker?! Honda's deceptive F1 engine upgrade debut",
    "resumo": "The debut of Honda’s upgraded spec 2 Formula 1 engine proved to be a disappointment in sprint qualifying at the Dutch Grand Prix on paper",
    "url": "https://www.the-race.com/formula-1/what-ruined-aston-martin-honda-big-f1-upgrade-engine-debut/",
    "fonte": "The Race",
@@ -377,16 +407,6 @@
    "data": "2026-08-21T16:07:18Z"
   },
   {
-   "titulo": "F1 – Russell take Sprint Pole at Zandvoort ahead of Norris and Leclerc",
-   "resumo": "Sport news George Russell secured pole position for the Sprint at the 2026 FIA Formula 1 Dutch Grand Prix, beating Lando Norris by just 0.041 seconds in a closely contested Sprint…",
-   "url": "https://www.fia.com/news/f1-russell-take-sprint-pole-zandvoort-ahead-norris-and-leclerc",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-21T16:03:00Z"
-  },
-  {
    "titulo": "15 Important Cars from the 2026 Gooding Christie’s Pebble Beach Auction",
    "resumo": "Gooding Christie’s conducted its 22nd Pebble Beach auction this year, bringing 167 vehicles ranging from a 1905 Léon Bollée to historic racers to nearly new Porsches, Lamborghinis, and…",
    "url": "https://www.hagerty.com/media/market-trends/15-important-cars-from-the-2026-gooding-christies-pebble-beach-auction/",
@@ -457,16 +477,6 @@
    "data": "2026-08-21T14:29:45Z"
   },
   {
-   "titulo": "F1 - 2026 Dutch Grand Prix - Friday Press Conference Transcript",
-   "resumo": "Sport news TEAM REPRESENTATIVES James VOWLES (Williams), Peter BAYER (Racing Bulls), Ayao KOMATSU (Haas) Q: James, if we could start with you, and can we start by talking about drivers?…",
-   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-friday-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-21T13:52:00Z"
-  },
-  {
    "titulo": "Why Tesla's Design Chief Preserved His Model S Plaid #001",
    "resumo": "Franz von Holzhausen sends his Model S Plaid Signature Edition chassis 001 to Unplugged Performance for preservation, prioritizing paint and interior over extra power.",
    "url": "https://www.motor1.com/news/805705/tesla-design-boss-protects-model/",
@@ -515,16 +525,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-21T11:57:13Z"
-  },
-  {
-   "titulo": "F1 - Antonelli quickest ahead of Norris in tight practice session for Dutch Grand Prix",
-   "resumo": "Sport news Kimi Antonelli set the pace in the sole practice session for the 2026 FIA Formula 1 Dutch Grand Prix, finishing just ahead of Lando Norris and Mercedes team-mate George Russell…",
-   "url": "https://www.fia.com/news/f1-antonelli-quickest-ahead-norris-tight-practice-session-dutch-grand-prix",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-21T11:49:00Z"
   },
   {
    "titulo": "F1 Dutch GP: Antonelli pips Norris in practice amid poor showing for Red Bull",
@@ -587,16 +587,6 @@
    "data": "2026-08-21T09:40:31Z"
   },
   {
-   "titulo": "How long will the battery last in my electric car?",
-   "resumo": "Should you be worried about the battery life of an electric car? Not if you pay close attention to our guide For many car owners, the electric car represents an entirely new way of driving…",
-   "url": "https://www.autocar.co.uk/car-news/advice-electric-cars/how-long-will-battery-last-my-electric-car",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T07:54:33Z"
-  },
-  {
    "titulo": "A 1:3 Scale Porsche 911 Turbo Engine Kit: With Moving Internal Parts!",
    "resumo": "This is an officially licensed Porsche 911 Turbo (930) engine kit, produced to 1:3rd scale, and designed using the original engineering drawings from the... The post A 1:3 Scale Porsche 911…",
    "url": "https://silodrome.com/porsche-911-turbo-model-engine-kit/",
@@ -607,14 +597,24 @@
    "data": "2026-08-21T06:30:36Z"
   },
   {
-   "titulo": "Inside the new tests making ADAS systems you'll actually want to use",
-   "resumo": "Driver assistance systems annoy motorists on real roads, but testing body Thatcham Research is on the case Just inches from the crash test mock-up of a compact SUV, the automatic emergency…",
-   "url": "https://www.autocar.co.uk/car-news/features/inside-new-tests-making-adas-systems-youll-actually-want-use",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
+   "titulo": "AMC Rambler Rebel: dawn of the muscle car",
+   "resumo": "AMC Rambler Rebel: dawn of the muscle car Ryan Standen Fri, 21/08/2026 - 05:23",
+   "url": "https://www.classicandsportscar.com/features/amc-rambler-rebel-dawn-muscle-car",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
    "pt": false,
-   "data": "2026-08-21T05:00:00Z"
+   "data": "2026-08-21T04:23:57Z"
+  },
+  {
+   "titulo": "The Bulletproof “Xtinction Level Escape” Travel Trailer",
+   "resumo": "This is the XLE travel trailer from Mammoth Overland, the model name stands for “Xtinction Level Escape,” as it’s an apocalypse proof home-on-wheels with... The post The Bulletproof…",
+   "url": "https://silodrome.com/bulletproof-xtinction-level-escape-xle-travel-trailer/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-20T12:30:33Z"
   }
  ]
 }
