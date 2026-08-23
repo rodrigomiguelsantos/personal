@@ -1,12 +1,11 @@
 {
- "atualizado": "2026-08-23T01:59:32Z",
+ "atualizado": "2026-08-23T07:01:20Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -16,6 +15,56 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "The New LEGO® Technic™ Dodge Viper GTS-R: With A Working 10-Piston V10",
+   "resumo": "This is the new LEGO® Technic™ Dodge Viper GTS-R, it’s an 805 piece model designed for people aged 11 and up, though as with... The post The New LEGO® Technic™ Dodge Viper GTS-R: With A…",
+   "url": "https://silodrome.com/lego-technic-dodge-viper-gts-r/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-23T06:30:47Z"
+  },
+  {
+   "titulo": "South America Gets A Charming Little VW Pickup You Can’t Have",
+   "resumo": "The new Tukan will be manufactured in Brazil, offering single and double-cab body styles and a mild-hybrid powertrain option",
+   "url": "https://www.carscoops.com/2026/08/vw-tukan-pickup-reveal/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T06:01:30Z"
+  },
+  {
+   "titulo": "Why you need a used Honda Civic Type R – even if it costs £40k",
+   "resumo": "It's still £40k, and for maybe the zenith of hot hatches worth every penny In 2022, jaws dropped when Honda announced the starting price of the 'FL5' Civic Type R as £46,995 - £15,000 more…",
+   "url": "https://www.autocar.co.uk/car-news/used-cars/why-you-need-used-honda-civic-type-r-%E2%80%93-even-if-it-costs-%C2%A340k",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T05:00:00Z"
+  },
+  {
+   "titulo": "Kyle Busch Remembered: Breaking records and bumping the pace car at New Hampshire",
+   "resumo": "We continue our 'Kyle Busch Remembered' series as NASCAR takes on New Hampshire Motor Speedway. Busch earned 12 national-level wins at the 'Magic Mile' with three in Cup Series, six in the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-remembered-notable-moments-from-rowdys-career-at-new-hampshire/10848475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T03:54:58Z"
+  },
+  {
+   "titulo": "Ryan Preece needs a home run to make NASCAR Chase",
+   "resumo": "Basically, Ryan Preece is standing on deck and his manager just told him 'we need you to hit a home run here.' That's not even entirely a metaphor. That is literally the exchange the RFK…",
+   "url": "https://www.motorsport.com/nascar-cup/news/ryan-preece-needs-a-home-run-to-make-nascar-chase-/10848473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T03:04:48Z"
+  },
   {
    "titulo": "Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed",
    "resumo": "We could describe it as the sporty alter ego of the Hilux, perfect for fans of modified Japanese classics",
@@ -77,26 +126,6 @@
    "data": "2026-08-22T22:35:17Z"
   },
   {
-   "titulo": "IMSA VIR starting lineup: Andrea Caldarelli puts Pfaff Lamborghini on pole",
-   "resumo": "Andrea Caldarelli claimed pole for the Michelin GT Challenge at Virginia International Raceway. Driving the #9 Lamborghini Temerario GT3 for Pfaff Motorsports, the Italian threw down a…",
-   "url": "https://www.motorsport.com/imsa/news/andrea-caldarelli-takes-lamborghini-to-imsa-vir-pole/10848445/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T21:53:51Z"
-  },
-  {
-   "titulo": "Jeff Gordon sweeps both IROC races in Washington D.C.",
-   "resumo": "Eight IROC cars took part in a pair of races Saturday on the streets of Washington D.C. with the US Capitol providing the backdrop. As a support race for the IndyCar Series this weekend…",
-   "url": "https://www.motorsport.com/general/news/jeff-gordon-sweeps-iroc-races-in-washington-dc/10848440/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T21:07:19Z"
-  },
-  {
    "titulo": "Dealers Only Need $1 Of Service To Erase $10 Of Lost Car Sales",
    "resumo": "Selling cars isn’t the profit machine it was during the pandemic, but dealerships have another very lucrative place to make up the difference",
    "url": "https://www.carscoops.com/2026/08/dealers-service-sales-profits/",
@@ -115,16 +144,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-22T19:58:45Z"
-  },
-  {
-   "titulo": "LATVALA CLAIMS DOMINANT HOME VICTORY AT LAHTI HISTORIC RALLY",
-   "resumo": "Sport news The FIA European Historic Rally Championship's Gravel Championship produced another spectacular weekend of competition as the Lahti Historic Rally delivered two days of flat-out…",
-   "url": "https://www.fia.com/news/latvala-claims-dominant-home-victory-lahti-historic-rally",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T19:18:00Z"
   },
   {
    "titulo": "Need A Porsche Or A GT-R For The Afterlife? This Shop Has You Covered",
@@ -167,26 +186,6 @@
    "data": "2026-08-22T17:34:22Z"
   },
   {
-   "titulo": "New-Car Prices Are Going Up, But Your Discount Is Going Down",
-   "resumo": "Americans paid nearly $50,000 for the average new vehicle in July while automakers quietly became less generous with incentives",
-   "url": "https://www.carscoops.com/2026/08/new-car-prices-discounts/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-22T17:22:00Z"
-  },
-  {
-   "titulo": "F1 – Norris claims pole for Dutch Grand Prix ahead of Russell and Antonelli",
-   "resumo": "Sport news Lando Norris claimed pole position for the 2026 FIA Formula 1 Dutch Grand Prix, beating George Russell by 0.102 seconds in a tense conclusion to Qualifying at Zandvoort. With…",
-   "url": "https://www.fia.com/news/f1-norris-claims-pole-dutch-grand-prix-ahead-russell-and-antonelli",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T16:56:00Z"
-  },
-  {
    "titulo": "F1 2026 Dutch Grand Prix starting grid",
    "resumo": "Lando Norris will start on pole position ahead of the Mercedes duo at Formula 1's Dutch Grand Prix",
    "url": "https://www.the-race.com/formula-1/f1-2026-dutch-grand-prix-starting-grid/",
@@ -205,16 +204,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-22T16:47:54Z"
-  },
-  {
-   "titulo": "F1 - 2026 Dutch Grand Prix Post-Qualifying Press Conference Transcript",
-   "resumo": "Sport news DRIVERS 1 – Lando NORRIS (McLaren) 2 – George RUSSELL (Mercedes) 3 – Kimi ANTONELLI (Mercedes) PARC FERMÉ INTERVIEWS (Conducted by Giedo van der Garde) Q: Lando, you are on pole…",
-   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-post-qualifying-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T16:11:00Z"
   },
   {
    "titulo": "The Genesis G70 Is Losing Its Best Engine",
@@ -427,26 +416,6 @@
    "data": "2026-08-22T11:47:36Z"
   },
   {
-   "titulo": "F1 – Russell controls Dutch Sprint as Leclerc passes Norris for second",
-   "resumo": "Sport news George Russell converted pole position into a commanding Sprint victory at Zandvoort, leading all 24 laps to take his third Saturday win of the 2026 FIA Formula One season. The…",
-   "url": "https://www.fia.com/news/f1-russell-controls-dutch-sprint-leclerc-passes-norris-second",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T11:43:00Z"
-  },
-  {
-   "titulo": "F1 - 2026 Dutch Grand Prix Post-Sprint Press Conference Transcript",
-   "resumo": "Sport news DRIVERS 1 – George RUSSELL (Mercedes) 2 – Charles LECLERC (Ferrari) 3 – Lando NORRIS (McLaren) TRACK INTERVIEWS (Conducted by David Coulthard) Q: Welcome to our Sprint finishers…",
-   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-post-sprint-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T11:41:00Z"
-  },
-  {
    "titulo": "Queixas sobre carros elétricos quase triplicaram em dois anos",
    "resumo": "As reclamações relacionadas com carros elétricos quase triplicaram em apenas dois anos. Entre janeiro e julho de 2026, o Portal da Queixa registou 205 reclamações, contra 75 no mesmo…",
    "url": "https://www.razaoautomovel.com/noticias/mercado-queixas-carros-eletricos-quase-triplicam-2026/",
@@ -615,6 +584,36 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-21T12:30:50Z"
+  },
+  {
+   "titulo": "GM reviewing plans to relaunch Cadillac in UK",
+   "resumo": "US brand planned to launch cars in the UK this year, but is reconsidering as market \"evolves rapidly\" General Motors is reconsidering its plan to relaunch Cadillac in the UK , citing…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/gm-reviewing-plans-relaunch-cadillac-uk",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T12:00:00Z"
+  },
+  {
+   "titulo": "BMW Killed Any Hopes Of A New 8 Series: 'Not Feasible'",
+   "resumo": "According to BMW, the Vision Alpina will take the place of the 8 Series in the lineup.",
+   "url": "https://www.motor1.com/news/805697/bmw-8-series-ends-alpina/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-21T11:57:13Z"
+  },
+  {
+   "titulo": "A 1:3 Scale Porsche 911 Turbo Engine Kit: With Moving Internal Parts!",
+   "resumo": "This is an officially licensed Porsche 911 Turbo (930) engine kit, produced to 1:3rd scale, and designed using the original engineering drawings from the... The post A 1:3 Scale Porsche 911…",
+   "url": "https://silodrome.com/porsche-911-turbo-model-engine-kit/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-21T06:30:36Z"
   }
  ]
 }
