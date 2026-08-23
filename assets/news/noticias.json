@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-08-23T07:01:20Z",
+ "atualizado": "2026-08-23T13:02:03Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -15,6 +16,216 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Porsche Has High Hopes for the Future of Sonderwunsch",
+   "resumo": "Expect more one-of-one projects as Porsche’s special-request program continues to find its creative footing.",
+   "url": "https://www.caranddriver.com/news/a73494602/porsche-sonderwunsch-future-plans/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T13:00:00Z"
+  },
+  {
+   "titulo": "Piston Slap: Inserting Yourself Into The Diagnostic Tree",
+   "resumo": "Tom writes: Our 1998 Mercedes-Benz C230 has an electrical issue that sometimes causes the windows to open overnight, the doors not to lock or unlock, the windows not to close, the ABS light…",
+   "url": "https://www.hagerty.com/media/advice/piston-slap/piston-slap-inserting-yourself-into-the-diagnostic-tree/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-23T13:00:00Z"
+  },
+  {
+   "titulo": "Nico Rosberg warns Kimi Antonelli of F1 title \"demons\"",
+   "resumo": "2016 Formula 1 champion Nico Rosberg believes Mercedes driver and current championship leader Kimi Antonelli will face a psychological battle as he fights for his maiden title. Speaking to…",
+   "url": "https://www.motorsport.com/f1/news/nico-rosberg-warns-kimi-antonelli-of-f1-title-demons/10848584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T12:45:10Z"
+  },
+  {
+   "titulo": "Estes cinco usados não deviam estar esquecidos",
+   "resumo": "Já diz o ditado «mais vale cair em graça do que ser engraçado». E o mercado automóvel está cheio de modelos que lhe dão razão. Alguns ficaram aquém das expectativas comerciais. Outros até…",
+   "url": "https://www.razaoautomovel.com/usados/guias-de-compra/guia-de-compra-cinco-usados-esquecidos-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-23T12:36:10Z"
+  },
+  {
+   "titulo": "eBay Barn Find! A 1971 Camaro Z27 SS Hidden Away For 18 Years",
+   "resumo": "This barn find 1971 Chevrolet Camaro Z27 SS has been hidden away under a thick layer of dust for 18 years in Amarillo, Texas,... The post eBay Barn Find! A 1971 Camaro Z27 SS Hidden Away…",
+   "url": "https://silodrome.com/chevrolet-camaro-z27-ss/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-23T12:30:06Z"
+  },
+  {
+   "titulo": "Stefano Domenicali \"cannot see\" F1 without Max Verstappen",
+   "resumo": "Formula 1 chief Stefano Domenicali has responded buoyantly to Max Verstappen extending his Red Bull contract. The four-time world champion announced on Thursday that he’d signed a new deal…",
+   "url": "https://www.motorsport.com/f1/news/stefano-domenicali-cannot-see-f1-without-max-verstappen/10848574/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T12:26:53Z"
+  },
+  {
+   "titulo": "BTCC Donington Park: Morgan beats Sutton in opener",
+   "resumo": "Adam Morgan kept up the rich vein of form for the ‘Team Formerly Known As Plato Racing’ with victory in Sunday’s British Touring Car Championship opener at Donington Park. Morgan and his…",
+   "url": "https://www.autosport.com/btcc/news/btcc-donington-park-morgan-beats-sutton-in-opener/10848566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T11:55:27Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1: Grelha de partida atualizada, corrida às 14h00",
+   "resumo": "Lando Norris parte da pole position para o Grande Prémio dos Países Baixos de Fórmula 1, partilhando a primeira fila da grelha de partida com George Russell. A corrida de 72 voltas no…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-grelha-de-partida-atualizada-corrida-as-14h00/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T11:35:34Z"
+  },
+  {
+   "titulo": "Lando Norris: I hope Mercedes gets a double disqualification in Las Vegas and forgets to pit in Qatar",
+   "resumo": "As the legendary British Formula 1 TV commentator Murray Walker once said “F1 is ‘if’ backwards”. While the grammatical details of this rhetorical flourish perhaps don’t stand up to close…",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-i-hope-mercedes-get-a-double-disqualification-in-las-vegas-and-forget-to-pit-in-qatar/10848549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T11:22:53Z"
+  },
+  {
+   "titulo": "Kawasaki’s New $7,899 Electric Ninja Makes Just 12 HP For 15 Seconds",
+   "resumo": "The 2027 Ninja e-1 offers just 41 miles of claimed range, while unrestricted American riders can buy much faster gas bikes for thousands less",
+   "url": "https://www.carscoops.com/2026/08/kawasaki-ninja-e1-pricing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T11:03:00Z"
+  },
+  {
+   "titulo": "Bugatti fecha a era W16 mas não abdica dos 16 cilindros",
+   "resumo": "Durante mais de duas décadas, falar da Bugatti era quase sinónimo de falar de um motor: o W16 de 8,0 litros com quatro turbocompressores. Estreou-se em 2005 no Veyron, onde começou por…",
+   "url": "https://www.razaoautomovel.com/especial/novidades-2026-bugatti/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-23T10:53:46Z"
+  },
+  {
+   "titulo": "Why McLaren thinks Ferrari is quickest in Zandvoort, but may well be stuck",
+   "resumo": "Ferrari's impressive sprint race at Zandvoort has put its Formula 1 rivals on high alert, but a disappointing qualifying performance may leave the Scuderia unable to use its advantage in…",
+   "url": "https://www.motorsport.com/f1/news/why-mclaren-thinks-ferrari-is-quickest-in-zandvoort-but-may-well-be-stuck/10848538/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T10:30:03Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1: Aston Martin encorajada: evolução face às equipas da frente e no ritmo de corrida",
+   "resumo": "A Aston Martin viveu um sábado de sentimentos mistos no Grande Prémio dos Países Baixos, com Fernando Alonso e Lance Stroll a não irem além da Q1. Apesar de alinharem nas 18ª e 19ª posições…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-aston-martin-encorajada-evolucao-face-as-equipas-da-frente-e-no-ritmo-de-corrida/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T10:05:22Z"
+  },
+  {
+   "titulo": "“It’s just nuts” – Lewis Hamilton baffled by Ferrari’s tyre-warming struggle",
+   "resumo": "Lewis Hamilton was left baffled by the Ferrari SF-26 inability to sufficiently warm its tyres up over an out-lap at Formula 1’s Dutch Grand Prix. Both Hamilton and Charles Leclerc required…",
+   "url": "https://www.motorsport.com/f1/news/its-just-nuts-lewis-hamilton-baffled-by-ferraris-tyre-warming-struggle/10848524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T09:58:17Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1: Posição em pista assume papel determinante em Zandvoort",
+   "resumo": "A gestão da posição em pista perfila-se como o fator mais crítico para o desfecho do Grande Prémio dos Países Baixos, naquela que será a derradeira visita da Fórmula 1, pelo menos durante…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-posicao-em-pista-assume-papel-determinante-em-zandvoort/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T09:53:12Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1: Lawson e Tsunoda focados em aproveitar a oportunidade em Zandvoort",
+   "resumo": "Liam Lawson garantiu o oitavo lugar na grelha de partida para o Grande Prémio dos Países Baixos, assumindo o volante da Red Bull em substituição de Isack Hadjar, ausente devido a uma lesão…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lawson-e-tsunoda-focados-em-aproveitar-a-oportunidade-em-zandvoort/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T09:43:33Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1: Mercedes e McLaren disputam vitória na despedida de Zandvoort",
+   "resumo": "George Russell parte do segundo lugar da grelha de partida para o Grande Prémio dos Países Baixos, confiante em desafiar o homem da pole, Lando Norris no traçado de Zandvoort. O piloto da…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-mercedes-e-mclaren-disputam-vitoria-na-despedida-de-zandvoort/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T09:35:17Z"
+  },
+  {
+   "titulo": "Gary Anderson: Ferrari's deceptive Zandvoort upgrade explained",
+   "resumo": "Ferrari's Zandvoort upgrades might not look like much but when analysed as a package, Gary Anderson reckons the attention detail could pay dividends",
+   "url": "https://www.the-race.com/formula-1/gary-anderson-ferraris-deceptive-zandvoort-upgrade-explained/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T08:36:15Z"
+  },
+  {
+   "titulo": "Wolff jokes that Mercedes already has Verstappen for the \"real hero races\"",
+   "resumo": "As is tradition, Mercedes organises a special media session with Wolff and representatives of the Dutch press at Zandvoort. In recent years, those roundtables have often produced some…",
+   "url": "https://www.autosport.com/f1/news/toto-wolff-jokes-about-max-verstappens-red-bull-deal-mercedes-has-him-for-the-real-hero-races/10848497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T08:00:26Z"
+  },
+  {
+   "titulo": "Home improvement: The mechanics turning your drive into a garage",
+   "resumo": "The RAC is one of many firms offering services at home or a place of work, and the idea is catching on In most jobs, gratification is rooted in hard metrics: leads, customer conversions…",
+   "url": "https://www.autocar.co.uk/car-news/features/home-improvement-mechanics-turning-your-drive-garage",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T08:00:00Z"
+  },
+  {
+   "titulo": "Supercars Ipswich: Feeney takes second win to secure unlikely Sprint Cup title",
+   "resumo": "Broc Feeney scored victory in the third race of the Queensland Raceway Supercars weekend and with it, took an unlikely Sprint Cup title. Feeney started from second of the grid alongside…",
+   "url": "https://www.autosport.com/supercars/news/supercars-ipswich-broc-feeney-secures-unlikely-sprint-cup-title-after-second-weekend-win/10848496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T07:44:44Z"
+  },
   {
    "titulo": "The New LEGO® Technic™ Dodge Viper GTS-R: With A Working 10-Piston V10",
    "resumo": "This is the new LEGO® Technic™ Dodge Viper GTS-R, it’s an 805 piece model designed for people aged 11 and up, though as with... The post The New LEGO® Technic™ Dodge Viper GTS-R: With A…",
@@ -46,26 +257,6 @@
    "data": "2026-08-23T05:00:00Z"
   },
   {
-   "titulo": "Kyle Busch Remembered: Breaking records and bumping the pace car at New Hampshire",
-   "resumo": "We continue our 'Kyle Busch Remembered' series as NASCAR takes on New Hampshire Motor Speedway. Busch earned 12 national-level wins at the 'Magic Mile' with three in Cup Series, six in the…",
-   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-remembered-notable-moments-from-rowdys-career-at-new-hampshire/10848475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T03:54:58Z"
-  },
-  {
-   "titulo": "Ryan Preece needs a home run to make NASCAR Chase",
-   "resumo": "Basically, Ryan Preece is standing on deck and his manager just told him 'we need you to hit a home run here.' That's not even entirely a metaphor. That is literally the exchange the RFK…",
-   "url": "https://www.motorsport.com/nascar-cup/news/ryan-preece-needs-a-home-run-to-make-nascar-chase-/10848473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T03:04:48Z"
-  },
-  {
    "titulo": "Toyota’s Corolla KE70 Was Never A Pickup Until Someone In Poland Disagreed",
    "resumo": "We could describe it as the sporty alter ego of the Hilux, perfect for fans of modified Japanese classics",
    "url": "https://www.carscoops.com/2026/08/toyota-corolla-ke70-ute-conversion/",
@@ -74,26 +265,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-23T00:34:00Z"
-  },
-  {
-   "titulo": "Christian Rasmussen storms to career-best fourth in Washington IndyCar qualifying",
-   "resumo": "Ed Carpenter Racing’s Christian Rasmussen delivered the best qualifying performance of his IndyCar career on Saturday, charging into the Fast Six and securing a fourth-place starting…",
-   "url": "https://www.motorsport.com/indycar/news/christian-rasmussen-storms-to-career-best-fourth-in-washington-indycar-qualifying/10848465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T00:20:35Z"
-  },
-  {
-   "titulo": "Bowman Gray to host NASCAR Truck race for very first time in 2027",
-   "resumo": "Bowman Gray Stadium will host a NASCAR Craftsman Truck Series race in 2027. The historic North Carolina short track has hosted the pre-season Clash exhibition race with the NASCAR Cup…",
-   "url": "https://www.motorsport.com/nascar-truck/news/bowman-gray-to-host-nascar-truck-race-in-2027/10848428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T00:16:00Z"
   },
   {
    "titulo": "Alex Palou Will Start the Freedom 250 from the Pole, Hopes to Make Chaotic Race ‘Boring’",
@@ -116,16 +287,6 @@
    "data": "2026-08-22T22:46:00Z"
   },
   {
-   "titulo": "IndyCar Freedom 250 starting lineup: Alex Palou claims pole in Washington D.C.",
-   "resumo": "Chip Ganassi Racing’s Alex Palou stormed to pole for Sunday’s Freedom 250 Grand Prix. The reigning, four-time IndyCar Series champion went out second in the Fast Six and delivered a stout…",
-   "url": "https://www.motorsport.com/indycar/news/indycar-freedom-250-starting-lineup-alex-palou-claims-pole-in-washington-dc/10848443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T22:35:17Z"
-  },
-  {
    "titulo": "Dealers Only Need $1 Of Service To Erase $10 Of Lost Car Sales",
    "resumo": "Selling cars isn’t the profit machine it was during the pandemic, but dealerships have another very lucrative place to make up the difference",
    "url": "https://www.carscoops.com/2026/08/dealers-service-sales-profits/",
@@ -146,14 +307,14 @@
    "data": "2026-08-22T19:58:45Z"
   },
   {
-   "titulo": "Need A Porsche Or A GT-R For The Afterlife? This Shop Has You Covered",
-   "resumo": "Inside the workshop crafting full-size paper AE86s and Teslas, each built for a single night before the flames take it",
-   "url": "https://www.carscoops.com/2026/08/hong-kong-paper-cars-funerals/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
+   "titulo": "LATVALA CLAIMS DOMINANT HOME VICTORY AT LAHTI HISTORIC RALLY",
+   "resumo": "Sport news The FIA European Historic Rally Championship's Gravel Championship produced another spectacular weekend of competition as the Lahti Historic Rally delivered two days of flat-out…",
+   "url": "https://www.fia.com/news/latvala-claims-dominant-home-victory-lahti-historic-rally",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
    "pt": false,
-   "data": "2026-08-22T19:10:00Z"
+   "data": "2026-08-22T19:18:00Z"
   },
   {
    "titulo": "Mixed Emotions as Verstappen Qualifies P7 for Final Home GP and Temporary Teammate Lawson Shines",
@@ -186,7 +347,17 @@
    "data": "2026-08-22T17:34:22Z"
   },
   {
-   "titulo": "F1 2026 Dutch Grand Prix starting grid",
+   "titulo": "F1 – Norris claims pole for Dutch Grand Prix ahead of Russell and Antonelli",
+   "resumo": "Sport news Lando Norris claimed pole position for the 2026 FIA Formula 1 Dutch Grand Prix, beating George Russell by 0.102 seconds in a tense conclusion to Qualifying at Zandvoort. With…",
+   "url": "https://www.fia.com/news/f1-norris-claims-pole-dutch-grand-prix-ahead-russell-and-antonelli",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T16:56:00Z"
+  },
+  {
+   "titulo": "F1 2026 Dutch Grand Prix starting grid with a pitlane start",
    "resumo": "Lando Norris will start on pole position ahead of the Mercedes duo at Formula 1's Dutch Grand Prix",
    "url": "https://www.the-race.com/formula-1/f1-2026-dutch-grand-prix-starting-grid/",
    "fonte": "The Race",
@@ -204,6 +375,16 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-22T16:47:54Z"
+  },
+  {
+   "titulo": "F1 - 2026 Dutch Grand Prix Post-Qualifying Press Conference Transcript",
+   "resumo": "Sport news DRIVERS 1 – Lando NORRIS (McLaren) 2 – George RUSSELL (Mercedes) 3 – Kimi ANTONELLI (Mercedes) PARC FERMÉ INTERVIEWS (Conducted by Giedo van der Garde) Q: Lando, you are on pole…",
+   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-post-qualifying-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T16:11:00Z"
   },
   {
    "titulo": "The Genesis G70 Is Losing Its Best Engine",
@@ -226,16 +407,6 @@
    "data": "2026-08-22T16:00:00Z"
   },
   {
-   "titulo": "GP Países Baixos F1, Toto Wolff: “Ficámos um pouco preocupados que pudéssemos perder os primeiros lugares”",
-   "resumo": "Toto Wolff classificou como “sólida” a sessão de qualificação da Mercedes em Zandvoort. O chefe da Mercedes admitiu que a equipa chegou a temer perder os primeiros lugares, mas o segundo e…",
-   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-toto-wolff-ficamos-um-pouco-preocupados-que-pudessemos-perder-os-primeiros-lugares/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-22T15:41:09Z"
-  },
-  {
    "titulo": "Why Verstappen's 2026 Mercedes contact was very different from last year's",
    "resumo": "Will Max Verstappen ever race for Mercedes in Formula 1? This is what team principal Toto Wolff is quizzed about in his yearly media session with Dutch journalists at Zandvoort – and this…",
    "url": "https://www.autosport.com/f1/news/no-max-verstappen-talks-for-mercedes-this-time-around-but-toto-wolff-still-has-hope/10848315/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -244,36 +415,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-22T15:38:33Z"
-  },
-  {
-   "titulo": "GP Países Baixos F1, Lando Norris na pole em Zandvoort: “estou um pouco surpreendido, sinceramente”",
-   "resumo": "Lando Norris garantiu a “pole position” para o Grande Prémio dos Países Baixos de Fórmula 1, registando 1m11.163s e superando por uma margem mínima George Russell e Kimi Antonelli. A…",
-   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-lando-norris-na-pole-em-zandvoort-estou-um-pouco-surpreendido-sinceramente/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-22T15:35:17Z"
-  },
-  {
-   "titulo": "GP dos Países Baixos, F1: Andrea Stella quer McLaren a melhorar o ritmo com pneus usados",
-   "resumo": "O ritmo puro da McLaren em pistas com elevadas exigência aerodinâmica parece claro e a equipa de Woking transformou-se numa das melhores neste capítulo. No entanto, o ritmo evidenciado na…",
-   "url": "https://www.autosport.pt/formula1/gp-dos-paises-baixos-f1-andrea-stella-quer-mclaren-a-melhorar-o-ritmo-com-pneus-usados/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-22T15:32:39Z"
-  },
-  {
-   "titulo": "GP Países Baixos F1, Kimi Antonelli foi 3º: “cometi um erro na Curva 1″",
-   "resumo": "O líder do campeonato de Fórmula 1, Kimi Antonelli (Mercedes), qualificou-se em terceiro para o Grande Prémio dos Países Baixos de F1 em Zandvoort. No final da qualificação, Kimi Antonelli…",
-   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-kimi-antonelli-foi-3o-cometi-um-erro-na-curva-1/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-22T15:30:33Z"
   },
   {
    "titulo": "Este Formentor é mais do que um Golf R de calças arregaçadas",
@@ -296,16 +437,6 @@
    "data": "2026-08-22T15:27:54Z"
   },
   {
-   "titulo": "GP Países Baixos F1, George Russell satisfeito com 2º lugar: “sinto-me eu mesmo, de novo”",
-   "resumo": "George Russell qualificou-se este sábado na segunda posição para o Grande Prémio dos Países Baixos de Fórmula 1, rubricando uma volta em 1m11.265s ao volante do seu Mercedes. Após a sessão…",
-   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-george-russell-satisfeito-com-2o-lugar-sinto-me-eu-mesmo-de-novo/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-22T15:20:23Z"
-  },
-  {
    "titulo": "'Not nearly enough' - Stroll's verdict on Honda's F1 engine upgrade",
    "resumo": "Lance Stroll believes Honda’s upgraded Formula 1 engine is “not nearly enough” after Aston Martin’s double Q1 exit at the Dutch Grand Prix",
    "url": "https://www.the-race.com/formula-1/strolls-bleak-verdict-on-hondas-f1-engine-upgrade/",
@@ -314,36 +445,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-22T15:19:47Z"
-  },
-  {
-   "titulo": "F1 Dutch GP: Norris pips Russell to grab pole",
-   "resumo": "Lando Norris has pipped George Russell to pole position for the Dutch Grand Prix with Formula 1 championship leader Kimi Antonelli rounding out the top three. The reigning world champion…",
-   "url": "https://www.autosport.com/f1/news/f1-dutch-gp-qualifying-report/10848295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T15:12:51Z"
-  },
-  {
-   "titulo": "Norris takes pole in tense Dutch GP qualifying finale",
-   "resumo": "Lando Norris made it back-to-back pole positions by topping qualifying at Formula 1’s Dutch Grand Prix, beating the Mercedes duo as rain loomed",
-   "url": "https://www.the-race.com/formula-1/norris-takes-pole-in-tense-dutch-gp-qualifying-finale/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T15:10:24Z"
-  },
-  {
-   "titulo": "BTCC Donington Park: Morgan leads dominant 1-2 for Plato’s old team",
-   "resumo": "Jason Plato may be off the scene at the team he founded, but its form continued with a dominant 1-2 in the British Touring Car Championship qualifying race at Donington Park. For the second…",
-   "url": "https://www.autosport.com/btcc/news/btcc-donington-park-morgan-leads-dominant-1-2-for-platos-old-team/10848298/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T15:05:38Z"
   },
   {
    "titulo": "1988 Mazda 323 GTX on Bring a Trailer",
@@ -396,16 +497,6 @@
    "data": "2026-08-22T12:15:37Z"
   },
   {
-   "titulo": "BTCC Donington Park: Ingram leads practice from Doble",
-   "resumo": "Reigning British Touring Car champion Tom Ingram topped free practice for the seventh round of the 2026 season on the Donington Park Grand Prix circuit. Ingram, lying second in the points…",
-   "url": "https://www.autosport.com/btcc/news/btcc-donington-park-ingram-leads-practice/10848217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T11:50:50Z"
-  },
-  {
    "titulo": "How James Vowles Convinced Both Sainz and Albon To Stay at F1’s Troubled Williams Team",
    "resumo": "Carlos Sainz and Alex Albon have committed to their team despite a poor 2026 season.",
    "url": "https://www.roadandtrack.com/news/a73500840/how-james-vowles-convinced-sainz-albon-to-stay-williams/",
@@ -414,6 +505,26 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-22T11:47:36Z"
+  },
+  {
+   "titulo": "F1 – Russell controls Dutch Sprint as Leclerc passes Norris for second",
+   "resumo": "Sport news George Russell converted pole position into a commanding Sprint victory at Zandvoort, leading all 24 laps to take his third Saturday win of the 2026 FIA Formula One season. The…",
+   "url": "https://www.fia.com/news/f1-russell-controls-dutch-sprint-leclerc-passes-norris-second",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T11:43:00Z"
+  },
+  {
+   "titulo": "F1 - 2026 Dutch Grand Prix Post-Sprint Press Conference Transcript",
+   "resumo": "Sport news DRIVERS 1 – George RUSSELL (Mercedes) 2 – Charles LECLERC (Ferrari) 3 – Lando NORRIS (McLaren) TRACK INTERVIEWS (Conducted by David Coulthard) Q: Welcome to our Sprint finishers…",
+   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-post-sprint-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-22T11:41:00Z"
   },
   {
    "titulo": "Queixas sobre carros elétricos quase triplicaram em dois anos",
@@ -496,16 +607,6 @@
    "data": "2026-08-21T20:34:05Z"
   },
   {
-   "titulo": "View Interior Photos of the 2027 Aston Martin DB12 S Volante",
-   "resumo": "See the interior of the 2027 Aston Martin DB12 S Volante from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73404965/2027-aston-martin-db12-s-volante-drive-interior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T20:33:35Z"
-  },
-  {
    "titulo": "My Favorite Street-Parked Classics at Monterey Car Week 2026",
    "resumo": "Hemingway was fond of referring to 1920s Paris as “a moveable feast” for the literary set. For car people, that phrase applies to the area around the Monterey Peninsula during Car Week. The…",
    "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/my-favorite-street-parked-classics-at-monterey-car-week-2026/",
@@ -514,106 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-21T19:00:00Z"
-  },
-  {
-   "titulo": "Is Ford Considering A Cheap Rally Car? Sure Sounds Like It",
-   "resumo": "CEO Jim Farley says Ford is 'excited about our rally direction,' and he believes the brand should offer an affordable rally car.",
-   "url": "https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T18:30:00Z"
-  },
-  {
-   "titulo": "His First GMC 2500 Gave This Truck Collector a Lifelong Quest",
-   "resumo": "For decades now, John Mullen has had a 1967-72 GM “Action Line” pickup truck in his life. Or several. “As a kid, I found a GMC 2500, a Camper Special, with four-wheel drive. When I turned…",
-   "url": "https://www.hagerty.com/media/car-profiles/his-first-gmc-2500-gave-this-truck-collector-a-lifelong-quest/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-21T18:00:00Z"
-  },
-  {
-   "titulo": "Cinco carros que vão marcar o Caramulo Motorfestival 2026",
-   "resumo": "O Caramulo Motorfestival está quase a começar e já são conhecidas algumas das máquinas que vão animar a serra entre os dias 4 e 6 de setembro. Na sua 21.ª edição, o maior festival…",
-   "url": "https://www.razaoautomovel.com/noticias/cinco-carros-vao-marcar-caramulo-motorfestival-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-21T17:59:47Z"
-  },
-  {
-   "titulo": "Feds Expand Investigation Into GM's Troublesome V8 Engines",
-   "resumo": "The National Highway Traffic Safety Administration has received complaints of engine failures outside the scope of last year’s recall.",
-   "url": "https://www.motor1.com/news/805731/nhtsa-gm-l87-v8-investigation-expands/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T17:00:00Z"
-  },
-  {
-   "titulo": "Incentivos para quê? Elétricos mais caros vendem mais",
-   "resumo": "Os incentivos aos carros elétricos têm uma missão declarada: tornar uma tecnologia ainda cara acessível a mais pessoas. Há apenas um problema. Quando olhamos para as vendas, parece que quem…",
-   "url": "https://www.razaoautomovel.com/opiniao/incentivos-para-que-eletricos-mais-caros-vendem-mais/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-21T16:38:06Z"
-  },
-  {
-   "titulo": "Why Tesla's Design Chief Preserved His Model S Plaid #001",
-   "resumo": "Franz von Holzhausen sends his Model S Plaid Signature Edition chassis 001 to Unplugged Performance for preservation, prioritizing paint and interior over extra power.",
-   "url": "https://www.motor1.com/news/805705/tesla-design-boss-protects-model/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T12:46:16Z"
-  },
-  {
-   "titulo": "For Sale: A 392 Hemi V8-Powered Facel Vega FV4 Typhoon",
-   "resumo": "This is a 1958 Facel Vega FV4 Typhoon, it’s powered by the legendary 392 Hemi V8 that’s capable of 325+ bhp – a staggering... The post For Sale: A 392 Hemi V8-Powered Facel Vega FV4 Typhoon…",
-   "url": "https://silodrome.com/facel-vega-fv4-typhoon/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-21T12:30:50Z"
-  },
-  {
-   "titulo": "GM reviewing plans to relaunch Cadillac in UK",
-   "resumo": "US brand planned to launch cars in the UK this year, but is reconsidering as market \"evolves rapidly\" General Motors is reconsidering its plan to relaunch Cadillac in the UK , citing…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/gm-reviewing-plans-relaunch-cadillac-uk",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T12:00:00Z"
-  },
-  {
-   "titulo": "BMW Killed Any Hopes Of A New 8 Series: 'Not Feasible'",
-   "resumo": "According to BMW, the Vision Alpina will take the place of the 8 Series in the lineup.",
-   "url": "https://www.motor1.com/news/805697/bmw-8-series-ends-alpina/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T11:57:13Z"
-  },
-  {
-   "titulo": "A 1:3 Scale Porsche 911 Turbo Engine Kit: With Moving Internal Parts!",
-   "resumo": "This is an officially licensed Porsche 911 Turbo (930) engine kit, produced to 1:3rd scale, and designed using the original engineering drawings from the... The post A 1:3 Scale Porsche 911…",
-   "url": "https://silodrome.com/porsche-911-turbo-model-engine-kit/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-21T06:30:36Z"
   }
  ]
 }
