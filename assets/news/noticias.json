@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-08-24T01:57:38Z",
+ "atualizado": "2026-08-24T07:20:27Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,54 +18,154 @@
  ],
  "itens": [
   {
-   "titulo": "NASCAR's Chase for the Championship grid comes down to this",
-   "resumo": "With just one perilous regular season race remaining at Daytona, the race to the Chase for the Championship looks like this: Austin Cindric +44Shane Van Gisbergen +31--Ryan Preece -31Brad…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascars-chase-for-the-championship-grid-comes-down-to-this-/10848841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "Mercedes Boss Felt Like A 'Born-Again Christian' After Driving Electric AMG",
+   "resumo": "Källenius calls it the \"best V8 I’d ever driven.\"",
+   "url": "https://www.motor1.com/news/805818/mercedes-boss-felt-born-again-christian/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-24T01:44:35Z"
+   "data": "2026-08-24T07:14:37Z"
   },
   {
-   "titulo": "Bubba Wallace points to moment where shot at New Hampshire Cup win slipped away",
-   "resumo": "Bubba Wallace matched his best finish of the 2026 NASCAR Cup season at New Hampshire Motor Speedway, earning his second runner-up finish of the year. It was almost a whole lot more, though…",
-   "url": "https://www.motorsport.com/nascar-cup/news/bubba-wallace-points-to-moment-where-shot-at-new-hampshire-cup-win-slipped-away/10848837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "Porsche Denies It's Killing The Taycan, 2030 End Date Still Unclear",
+   "resumo": "Porsche says the Taycan nameplate stays for now as it streamlines variants and weighs future overlap with the Panamera lineup.",
+   "url": "https://www.motor1.com/news/805824/porsche-denies-taycan-discontinuation/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-24T01:35:37Z"
+   "data": "2026-08-24T07:07:03Z"
   },
   {
-   "titulo": "Christopher Bell explains what he saw after scary moment with tire changer",
-   "resumo": "Christopher Bell left New Hampshire with a strong fourth-place finish on Sunday, but the solid performance did not come without drama. After a two-tire pit stop, Bell went to get back to…",
-   "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-explains-what-he-saw-after-scary-moment-with-tire-changer/10848833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "A Phenomenal Ferrari F154 Cutaway Engine You Can Watch In Motion",
+   "resumo": "This is a Ferrari F154 V8 kinetic engine display, sections of the engine have been cut away to show the internal workings, and an... The post A Phenomenal Ferrari F154 Cutaway Engine You…",
+   "url": "https://silodrome.com/ferrari-f154-v8-cutaway/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
    "pt": false,
-   "data": "2026-08-24T01:26:10Z"
+   "data": "2026-08-24T06:30:33Z"
   },
   {
-   "titulo": "New Hampshire win was vintage Ryan Blaney in every way",
-   "resumo": "By Ryan Blaney standards, this wasn’t even a stereotypical radio meltdown after a pit road gaffe, but his response to it was vintage. The Team Penske No. 12 had just won the second stage on…",
-   "url": "https://www.motorsport.com/nascar-cup/news/new-hampshire-win-was-vintage-ryan-blaney-in-every-way/10848835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "VW’s Global Amarok Runs On American Bones. South America’s New One Runs On Chinese",
+   "resumo": "The next-generation Amarok is closing in for South America, reportedly built on Chinese SAIC hardware rather than the Ford Ranger platform",
+   "url": "https://www.carscoops.com/2026/08/volkswagen-amarok-next-generation/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-24T01:11:58Z"
+   "data": "2026-08-24T06:23:56Z"
   },
   {
-   "titulo": "Ross Chastain on issue that left him with last-place finish and ended Chase hopes",
-   "resumo": "Entering New Hampshire, Ross Chastain was still a longshot in the battle to make the 2027 NASCAR Cup Chase, but his chances are now officially over. Just 41 laps into the race, Chastain…",
-   "url": "https://www.motorsport.com/nascar-cup/news/ross-chastain-on-issue-that-left-him-with-last-place-finish-and-ended-chase-hopes/10848831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "US–Canada Trade Deal Collapses As Trucks Trigger 50% Tariffs Shock",
+   "resumo": "Automakers on both sides of the border now face 50% tariffs on roughly $20 billion in Canadian exports after light and heavy vehicle rules split negotiators.",
+   "url": "https://www.motor1.com/news/805809/inside-auto-tariffs-sank-canada/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-24T06:10:06Z"
+  },
+  {
+   "titulo": "Este Skoda indiano tem algo que nem o Superb oferece",
+   "resumo": "Um pouco por todo o mundo, as berlinas de três volumes parecem estar a desaparecer. Na Índia, porém, continuam a ter procura e até a Skoda tem uma especialmente pensada para aquele mercado…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-skoda-slavia-india-bancos-traseiros-massagem/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-24T06:00:00Z"
+  },
+  {
+   "titulo": "Who slept worst last night: Oscar Piastri",
+   "resumo": "On 31 August 2025, Oscar Piastri won the Dutch Grand Prix at Zandvoort, while Lando Norris retired with an oil leak. Faced with that bitter disappointment, Norris said all he wanted to do…",
+   "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-oscar-piastri-10848860/10848860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-08-24T01:01:35Z"
+   "data": "2026-08-24T05:58:13Z"
+  },
+  {
+   "titulo": "'The Situation Is More Than Critical:' VW Boss Warns Staff",
+   "resumo": "Volkswagen is undergoing massive restructuring to slash costs.",
+   "url": "https://www.motor1.com/news/805810/vw-boss-warns-situation-critical/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-24T05:55:17Z"
+  },
+  {
+   "titulo": "Who slept best last night: Liam Lawson",
+   "resumo": "Liam Lawson's third race at Red Bull was exactly what Red Bull would have wanted from Liam Lawson. Solid qualifying, right behind Max Verstappen. No big mistakes and strong pace in the…",
+   "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson/10848822/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T05:21:11Z"
+  },
+  {
+   "titulo": "'Catalyst', '16V', '800V'? Bring obscure boot badges back for the EV age",
+   "resumo": "Cars once shouted about their tech spec – in such a fast-moving era, we should return to gratuitous badging I spotted a badge on the back of a new car the other day that took me right back…",
+   "url": "https://www.autocar.co.uk/opinion/electric-cars/catalyst-16v-800v-bring-obscure-boot-badges-back-ev-age",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-24T05:00:00Z"
+  },
+  {
+   "titulo": "Reborn Toyota MR2: Full story on mid-engined sports car for 2028",
+   "resumo": "Autocar rendering shows how the new MR2, influenced by the FT-SE, could look on the road Mid-engined model primed with 2.0-litre engine that could offer as much as 600bhp Toyota is poised…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/reborn-toyota-mr2-full-story-mid-engined-sports-car-2028",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-24T05:00:00Z"
+  },
+  {
+   "titulo": "27 classic front-wheel-drive Renaults",
+   "resumo": "27 classic front-wheel-drive Renaults Lizzie Pope Mon, 24/08/2026 - 05:15",
+   "url": "https://www.classicandsportscar.com/gallery/27-classic-front-wheel-drive-renaults",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-24T04:15:20Z"
+  },
+  {
+   "titulo": "Connor Zilisch records ninth DNF of rookie NASCAR Cup season: \"What am I doing?\"",
+   "resumo": "Connor Zilisch's week started with some exciting news, as Hendrick Motorsports named him as the driver of its No. 48 Chevrolet for the 2028 NASCAR Cup season (NCS). Unfortunately, the good…",
+   "url": "https://www.motorsport.com/nascar-cup/news/connor-zilisch-records-ninth-dnf-of-rookie-season-what-am-i-doing/10848852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T03:55:56Z"
+  },
+  {
+   "titulo": "Kyle Larson explains what he liked about challenging conditions in New Hampshire",
+   "resumo": "Sunday's NASCAR race at New Hampshire Motor Speedway got off to an eventful start thanks to some wild weather. Initially, the race's start was bumped up by an hour in an attempt to avoid…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larson-explains-what-he-liked-about-challenging-conditions-in-new-hampshire/10848843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T02:11:04Z"
+  },
+  {
+   "titulo": "Josh Berry is racing for his future, and admits he was 'rougher than normal'",
+   "resumo": "Josh Berry has been very fast lately in the No. 21 Wood Brothers Racing Ford, rising with the rest of Team Penske, whom they are closely aligned with. But for Berry, it's not just about…",
+   "url": "https://www.motorsport.com/nascar-cup/news/josh-berry-is-racing-for-his-future-and-admits-he-was-rougher-than-normal/10848839/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:54:21Z"
   },
   {
    "titulo": "This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels",
@@ -177,7 +278,7 @@
    "data": "2026-08-23T18:54:15Z"
   },
   {
-   "titulo": "Range Rover’s New GT Rendered As The Sedan-Like Crossover Gaydon Knows Will Split Buyers",
+   "titulo": "Range Rover’s New GT Is The Sedan-Like Crossover Gaydon Knows Will Split Buyers: Renders",
    "resumo": "Land Rover's new Range Rover GT is a low-slung electric coupe-crossover that arrives as its own model line and replaces nothing",
    "url": "https://www.carscoops.com/2026/08/range-rover-gt-electric-suv/",
    "fonte": "Carscoops",
@@ -305,16 +406,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-23T17:03:31Z"
-  },
-  {
-   "titulo": "Even Veyron Owners Balk At $42,000 Tires, But Bugatti’s $3,600 Fix Has A Catch",
-   "resumo": "New factory wheels let Bugatti’s original hypercar ditch its ruinously expensive PAX rubber for modern Michelin tires",
-   "url": "https://www.carscoops.com/2026/08/bugatti-veyron-wheels-tires/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T16:51:00Z"
   },
   {
    "titulo": "GP Países Baixos F1, Lando Norris vence em Zandvoort: “uma das melhores vitórias”",
@@ -525,96 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-22T13:00:00Z"
-  },
-  {
-   "titulo": "1968 Cadillac Fleetwood Brougham: Blue and Bold",
-   "resumo": "When you know as many “Brougham people” as I do, you never know where the next car to write up will come from. Today’s featured vehicle is a case in point. Last February I wrote up my…",
-   "url": "https://www.hagerty.com/media/opinion/klockau-classics/1968-cadillac-fleetwood-brougham-blue-and-bold/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-22T13:00:00Z"
-  },
-  {
-   "titulo": "For Sale: Daniel Craig’s 67-Year-Old Land Rover Series II",
-   "resumo": "This is a 1959 Land Rover Series II that formerly belonged to Daniel Craig and his wife Rachel Weisz. It’s the long wheelbase 109... The post For Sale: Daniel Craig’s 67-Year-Old Land Rover…",
-   "url": "https://silodrome.com/daniel-craig-land-rover-series-2/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-22T12:30:40Z"
-  },
-  {
-   "titulo": "Primeiro Suzuki elétrico tardou a chegar mas não ficará sozinho",
-   "resumo": "A Suzuki não foi propriamente das primeiras marcas a apanhar o «comboio» dos automóveis elétricos. Quando o fez, muitos dos seus rivais já tinham vários modelos alimentados exclusivamente a…",
-   "url": "https://www.razaoautomovel.com/especial/novidades-2026-suzuki/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-22T12:15:37Z"
-  },
-  {
-   "titulo": "I kerbed a wheel – but are car designers really to blame?",
-   "resumo": "I feel bad, but I wasn't being careless - are car design trends putting wheels needlessly at risk? I have kerbed a wheel. Quite notably. This is something that deeply irritates and…",
-   "url": "https://www.autocar.co.uk/opinion/new-cars/i-kerbed-wheel-%E2%80%93-are-car-designers-really-blame",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-22T08:00:00Z"
-  },
-  {
-   "titulo": "An Incredible 1950s-Era C-11B Flight Simulator",
-   "resumo": "This is a Link Aviation Devices C-11B Instrument Flight Simulator from the 1950s, it has no screens at all, just manual controls and analog... The post An Incredible 1950s-Era C-11B Flight…",
-   "url": "https://silodrome.com/link-aviation-c11b-instrument-flight-simulator/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-22T06:30:51Z"
-  },
-  {
-   "titulo": "MOT price hike: why it's worth paying more to your mechanic",
-   "resumo": "The Independent Garage Association has called for MOT prices to rise to £95 – and it makes perfect sense I know what you’re thinking: motoring hacks get paid too much. What other credible…",
-   "url": "https://www.autocar.co.uk/opinion/consumer/mot-price-hike-why-its-worth-paying-more-your-mechanic",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-22T05:00:00Z"
-  },
-  {
-   "titulo": "NHTSA Opens Investigation into GM V-8s That Won’t Stop Imploding",
-   "resumo": "Despite General Motors issuing a remedy for its L87 6.2-liter V-8s, NHTSA has received reports that hundreds have failed after the fix.",
-   "url": "https://www.caranddriver.com/news/a73497654/nhtsa-investigation-general-motors-v8-failures/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-21T22:34:04Z"
-  },
-  {
-   "titulo": "Ayrton Senna’s NSX Hits the Block",
-   "resumo": "For the second time in two years, the late Ayrton Senna’s 1991 Honda NSX is for sale. RM Sotheby’s has consigned the Japanese supercar to its October 31 London Auction, with a presale…",
-   "url": "https://www.hagerty.com/media/news/ayrton-sennas-nsx-hits-the-block/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-21T21:03:29Z"
-  },
-  {
-   "titulo": "My Favorite Street-Parked Classics at Monterey Car Week 2026",
-   "resumo": "Hemingway was fond of referring to 1920s Paris as “a moveable feast” for the literary set. For car people, that phrase applies to the area around the Monterey Peninsula during Car Week. The…",
-   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/my-favorite-street-parked-classics-at-monterey-car-week-2026/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-21T19:00:00Z"
   }
  ]
 }
