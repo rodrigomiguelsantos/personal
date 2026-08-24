@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-23T18:48:13Z",
+ "atualizado": "2026-08-24T01:57:38Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -16,6 +16,176 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "NASCAR's Chase for the Championship grid comes down to this",
+   "resumo": "With just one perilous regular season race remaining at Daytona, the race to the Chase for the Championship looks like this: Austin Cindric +44Shane Van Gisbergen +31--Ryan Preece -31Brad…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascars-chase-for-the-championship-grid-comes-down-to-this-/10848841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:44:35Z"
+  },
+  {
+   "titulo": "Bubba Wallace points to moment where shot at New Hampshire Cup win slipped away",
+   "resumo": "Bubba Wallace matched his best finish of the 2026 NASCAR Cup season at New Hampshire Motor Speedway, earning his second runner-up finish of the year. It was almost a whole lot more, though…",
+   "url": "https://www.motorsport.com/nascar-cup/news/bubba-wallace-points-to-moment-where-shot-at-new-hampshire-cup-win-slipped-away/10848837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:35:37Z"
+  },
+  {
+   "titulo": "Christopher Bell explains what he saw after scary moment with tire changer",
+   "resumo": "Christopher Bell left New Hampshire with a strong fourth-place finish on Sunday, but the solid performance did not come without drama. After a two-tire pit stop, Bell went to get back to…",
+   "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-explains-what-he-saw-after-scary-moment-with-tire-changer/10848833/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:26:10Z"
+  },
+  {
+   "titulo": "New Hampshire win was vintage Ryan Blaney in every way",
+   "resumo": "By Ryan Blaney standards, this wasn’t even a stereotypical radio meltdown after a pit road gaffe, but his response to it was vintage. The Team Penske No. 12 had just won the second stage on…",
+   "url": "https://www.motorsport.com/nascar-cup/news/new-hampshire-win-was-vintage-ryan-blaney-in-every-way/10848835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:11:58Z"
+  },
+  {
+   "titulo": "Ross Chastain on issue that left him with last-place finish and ended Chase hopes",
+   "resumo": "Entering New Hampshire, Ross Chastain was still a longshot in the battle to make the 2027 NASCAR Cup Chase, but his chances are now officially over. Just 41 laps into the race, Chastain…",
+   "url": "https://www.motorsport.com/nascar-cup/news/ross-chastain-on-issue-that-left-him-with-last-place-finish-and-ended-chase-hopes/10848831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-24T01:01:35Z"
+  },
+  {
+   "titulo": "This One-Off Aston Martin Is Gloriously The Wedgiest Wagon On Four Wheels",
+   "resumo": "The 1987 sedan was converted to squareback form in Switzerland and could fetch over $430,000 at auction",
+   "url": "https://www.carscoops.com/2026/08/aston-martin-lagonda-shooting-brake/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-24T00:35:00Z"
+  },
+  {
+   "titulo": "Ryan Blaney Wins NASCAR New Hampshire Race with Two-Tire Call",
+   "resumo": "With just one race remaining in the NASCAR regular season, Penske continues their late season push with fourth win in six race weeks.",
+   "url": "https://www.roadandtrack.com/news/a73505643/ryan-blaney-wins-nascar-new-hampshire-race-two-tire-call/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T22:58:25Z"
+  },
+  {
+   "titulo": "America’s Cheapest New Car To Run Is The One Almost No One Wants",
+   "resumo": "A study of 50 new cars found the cheapest one to keep on the road is the little EV that almost nobody is buying",
+   "url": "https://www.carscoops.com/2026/08/new-car-ownership-costs/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T22:39:00Z"
+  },
+  {
+   "titulo": "First Lap Crash, A Blow For Verstappen at Home – But Red Bull’s Poor Performance Hurts Even More",
+   "resumo": "Local hero was out of the final Zandvoort F1 race on the very first lap.",
+   "url": "https://www.roadandtrack.com/news/a73505283/first-lap-crash-a-blow-for-verstappen-at-home--but-red-bulls-poor-performance-hurts-even-more/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T21:19:41Z"
+  },
+  {
+   "titulo": "Mercedes' extraordinary F1 title fight claim",
+   "resumo": "Mercedes says it hasn’t “got the money” to put extra developments on its car, so it can't keep up with McLaren's development",
+   "url": "https://www.the-race.com/formula-1/mercedes-extraordinary-f1-title-fight-claim/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T21:02:54Z"
+  },
+  {
+   "titulo": "FIA Hails Success of Landmark INDYCAR Freedom 250 Grand Prix as Motor Sport Takes Centre Stage in Washington D.C.",
+   "resumo": "Sport news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has hailed the successful…",
+   "url": "https://www.fia.com/news/fia-hails-success-landmark-indycar-freedom-250-grand-prix-motor-sport-takes-centre-stage",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T20:54:00Z"
+  },
+  {
+   "titulo": "Walking, Talking Factory Robots Are Here, But Humans Are Still Faster. For Now",
+   "resumo": "BMW, Hyundai, Mercedes and Tesla see humanoids as factory workers, though some experts question whether they’re worth the trouble",
+   "url": "https://www.carscoops.com/2026/08/automakers-humanoid-robots-factory/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T20:43:00Z"
+  },
+  {
+   "titulo": "Kyle Kirkwood Wins Freedom 250 to Cut into Palou’s Championship Lead",
+   "resumo": "Andretti Global sweeps IndyCar’s 2026 new street circuits with Kyle Kirkwood’s dominant win in the Freedom 250.",
+   "url": "https://www.roadandtrack.com/news/a73505119/kyle-kirkwood-wins-freedom-250-alex-palou-still-leads-championship-91-points/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T20:41:17Z"
+  },
+  {
+   "titulo": "Testei o Omoda 9 com 537 cv. Faz sentido num SUV familiar?",
+   "resumo": "O Omoda 9 não é o carro para procurar a estrada mais sinuosa no caminho para casa. É para chegar lá depressa. E, se possível, sem gastar gasolina pelo caminho. Se o nome Omoda ainda não lhe…",
+   "url": "https://www.razaoautomovel.com/testes/ensaio/omoda-9-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-23T20:12:57Z"
+  },
+  {
+   "titulo": "GP Países Baixos F1, George Russell justificou aceitação de ordens de equipa da Mercedes",
+   "resumo": "Apesar de se ter insurgido inicialmente para as ordens de equipa, George Russell considerou posteriormente justa a decisão da Mercedes de o ordenar a ceder a segunda posição ao colega Kimi…",
+   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-george-russell-justificou-aceitacao-de-ordens-de-equipa-da-mercedes/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-23T19:52:00Z"
+  },
+  {
+   "titulo": "What makes Norris say “I don't have a car to fight for the championship”?",
+   "resumo": "The 2026 Formula 1 championship finds itself at a curious intersection where nobody is willing to entertain the idea that they have the best car. Championship leader Kimi Antonelli said…",
+   "url": "https://www.autosport.com/f1/news/what-makes-norris-say-i-dont-have-a-car-to-fight-for-the-championship/10848773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-23T18:54:15Z"
+  },
+  {
+   "titulo": "Range Rover’s New GT Rendered As The Sedan-Like Crossover Gaydon Knows Will Split Buyers",
+   "resumo": "Land Rover's new Range Rover GT is a low-slung electric coupe-crossover that arrives as its own model line and replaces nothing",
+   "url": "https://www.carscoops.com/2026/08/range-rover-gt-electric-suv/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-23T18:47:00Z"
+  },
   {
    "titulo": "David Malukas Crashes Out of IndyCar’s Freedom 250, Collects Sting Ray Robb",
    "resumo": "Two of the eight American-born racers are out early in the Freedom 250 set in the nation's capital.",
@@ -37,36 +207,6 @@
    "data": "2026-08-23T18:38:28Z"
   },
   {
-   "titulo": "\"It made no sense\" – F1 drivers question safety car formation lap after early Dutch GP chaos",
-   "resumo": "The opening stages of the Formula 1 Dutch Grand Prix at Zandvoort descended into chaos after rain had started to fall during the grid procedure. Max Verstappen crashed heavily on the exit…",
-   "url": "https://www.motorsport.com/f1/news/it-made-no-sense-f1-drivers-question-safety-car-formation-lap-after-early-dutch-gp-chaos/10848751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T18:37:29Z"
-  },
-  {
-   "titulo": "David Malukas, Sting Ray Robb out of Freedom 250 after huge crash as Palou penalized",
-   "resumo": "David Malukas and Sting Ray Robb were involved in the first major crash of the Freedom 250 in Washington, D.C., with the resulting caution leading to a pitlane incident involving…",
-   "url": "https://www.motorsport.com/indycar/news/malukas-crash/10848744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T18:36:40Z"
-  },
-  {
-   "titulo": "Mercedes \"clearly\" not F1's best team anymore - Kimi Antonelli",
-   "resumo": "Formula 1 championship leader Kimi Antonelli reckons Mercedes “clearly” no longer boasts the fastest car after finishing runner-up to Lando Norris at the Dutch Grand Prix. The McLaren…",
-   "url": "https://www.motorsport.com/f1/news/mercedes-clearly-not-f1s-best-team-anymore-kimi-antonelli/10848738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T18:21:26Z"
-  },
-  {
    "titulo": "Mercedes contrast worsens Hamilton's team order frustration",
    "resumo": "Lewis Hamilton criticised Ferrari's execution of the race relative to how Mercedes played its cards",
    "url": "https://www.the-race.com/formula-1/mercedes-contrast-worsens-lewis-hamilton-team-order-frustration/",
@@ -75,16 +215,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-23T17:59:00Z"
-  },
-  {
-   "titulo": "Franco Colapinto and Mercado Libre executive hit out at FIA stewards after Dutch GP penalties",
-   "resumo": "Franco Colapinto found himself at the centre of an FIA stewards’ controversy after being penalised for an infringement under yellow flags at the start of the Formula 1 Dutch Grand Prix. The…",
-   "url": "https://www.motorsport.com/f1/news/franco-colapinto-and-mercado-libre-executive-hit-out-at-fia-stewards-after-dutch-gp-penalties/10848727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T17:51:16Z"
   },
   {
    "titulo": "Winners and losers from F1's 2026 Dutch GP",
@@ -125,16 +255,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-23T17:33:00Z"
-  },
-  {
-   "titulo": "Carlos Sainz explains \"fair\" penalty for Alex Albon contact: \"The worst possible outcome\"",
-   "resumo": "Carlos Sainz has shouldered the blame for making contact with his Williams partner Alex Albon in Zandvoort, which netted him a nominal 10-second penalty. Sainz was defending from Albon four…",
-   "url": "https://www.motorsport.com/f1/news/carlos-sainz-explains-fair-penalty-for-alex-albon-contact-the-worst-possible-outcome/10848715/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T17:32:30Z"
   },
   {
    "titulo": "BTCC Donington Park: Morgan doubles up with dominant victory",
@@ -207,16 +327,6 @@
    "data": "2026-08-23T15:56:38Z"
   },
   {
-   "titulo": "GP Países Baixos F1, Kimi Antonelli 2º alerta para ritmo da McLaren: “deu um passo gigante”",
-   "resumo": "Kimi Antonelli alcançou a segunda posição no Grande Prémio dos Países Baixos, terminando logo atrás do vencedor Lando Norris. O piloto italiano da Mercedes assumiu a liderança na fase…",
-   "url": "https://www.autosport.pt/formula1/gp-paises-baixos-f1-kimi-antonelli-2o-alerta-para-ritmo-da-mclaren-deu-um-passo-gigante/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-23T15:51:23Z"
-  },
-  {
    "titulo": "Why Russell's U-turned on Mercedes team orders angst",
    "resumo": "George Russell wasn't nearly as frustrated with the late-race team order from Mercedes by the time he'd climbed out of the car and spoke to media",
    "url": "https://www.the-race.com/formula-1/why-russell-u-turned-on-mercedes-team-orders-angst/",
@@ -225,16 +335,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-23T15:51:02Z"
-  },
-  {
-   "titulo": "Norris passes Antonelli's Mercedes to win F1's final Dutch GP",
-   "resumo": "McLaren’s Lando Norris won the 2026 Dutch Grand Prix after overhauling Mercedes’s Kimi Antonelli",
-   "url": "https://www.the-race.com/formula-1/lando-norris-passes-kimi-antonelli-mercedes-to-win-f1-final-dutch-gp/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T15:43:33Z"
   },
   {
    "titulo": "What caused Verstappen’s F1 Dutch GP crash",
@@ -257,16 +357,6 @@
    "data": "2026-08-23T15:38:51Z"
   },
   {
-   "titulo": "F1 Dutch GP: Norris overhauls Antonelli for victory, Verstappen suffers heavy crash",
-   "resumo": "Formula 1 world champion Lando Norris produced a mega drive to win the Dutch Grand Prix from pole while home hero Max Verstappen caused a red flag by crashing out. The McLaren driver…",
-   "url": "https://www.autosport.com/f1/news/f1-dutch-gp-norris-overhauls-antonelli-for-victory-verstappen-suffers-heavy-crash/10848612/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T15:24:01Z"
-  },
-  {
    "titulo": "People have been complaining about noisy cars for 115 years",
    "resumo": "\"Unsuitable devices for unnecessarily intensifying the volume\" of cars have been around for a century \"The Commissioner of Police thinks it advisable to call upon all owners and drivers of…",
    "url": "https://www.autocar.co.uk/car-news/from-the-archive/people-have-been-complaining-about-noisy-cars-115-years",
@@ -285,26 +375,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-23T15:00:00Z"
-  },
-  {
-   "titulo": "The New 2027 Jeep Compass e-Hybrid’s Rugged Looks Write A Check It Can’t Cash",
-   "resumo": "The new generation of Jeep's compact SUV brings boxier looks, a more spacious cabin, fresh tech, and multiple powertrain options, but is it enough?",
-   "url": "https://www.carscoops.com/2026/08/jeep-compass-e-hybrid-review/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T14:55:00Z"
-  },
-  {
-   "titulo": "Dutch Grand Prix Red Flagged as Verstappen Crashes Out of Final F1 Home GP",
-   "resumo": "Verstappen DNFs on lap one of his seventh and final Dutch Grand Prix.",
-   "url": "https://www.roadandtrack.com/news/a73504143/dutch-grand-prix-red-flagged-as-verstappen-crashes-out-of-final-f1-home-gp/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T13:52:17Z"
   },
   {
    "titulo": "Porsche Has High Hopes for the Future of Sonderwunsch",
@@ -327,16 +397,6 @@
    "data": "2026-08-23T13:00:00Z"
   },
   {
-   "titulo": "Infiniti’s Coolest Car Never Made Had A Tiny 3-Cylinder That Never Drove A Wheel",
-   "resumo": "The 402-hp mid-engined Emerge-e looked like a supercar but its engine only ever charged the battery",
-   "url": "https://www.carscoops.com/2026/08/infiniti-emerg-e-mid-engine/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T12:59:00Z"
-  },
-  {
    "titulo": "Estes cinco usados não deviam estar esquecidos",
    "resumo": "Já diz o ditado «mais vale cair em graça do que ser engraçado». E o mercado automóvel está cheio de modelos que lhe dão razão. Alguns ficaram aquém das expectativas comerciais. Outros até…",
    "url": "https://www.razaoautomovel.com/usados/guias-de-compra/guia-de-compra-cinco-usados-esquecidos-2026/",
@@ -355,16 +415,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-23T12:30:06Z"
-  },
-  {
-   "titulo": "Kawasaki’s New $7,899 Electric Ninja Makes Just 12 HP For 15 Seconds",
-   "resumo": "The 2027 Ninja e-1 offers just 41 miles of claimed range, while unrestricted American riders can buy much faster gas bikes for thousands less",
-   "url": "https://www.carscoops.com/2026/08/kawasaki-ninja-e1-pricing/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T11:03:00Z"
   },
   {
    "titulo": "Bugatti fecha a era W16 mas não abdica dos 16 cilindros",
@@ -397,16 +447,6 @@
    "data": "2026-08-23T06:30:47Z"
   },
   {
-   "titulo": "South America Gets A Charming Little VW Pickup You Can’t Have",
-   "resumo": "The new Tukan will be manufactured in Brazil, offering single and double-cab body styles and a mild-hybrid powertrain option",
-   "url": "https://www.carscoops.com/2026/08/vw-tukan-pickup-reveal/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-23T06:01:30Z"
-  },
-  {
    "titulo": "Why you need a used Honda Civic Type R – even if it costs £40k",
    "resumo": "It's still £40k, and for maybe the zenith of hot hatches worth every penny In 2022, jaws dropped when Honda announced the starting price of the 'FL5' Civic Type R as £46,995 - £15,000 more…",
    "url": "https://www.autocar.co.uk/car-news/used-cars/why-you-need-used-honda-civic-type-r-%E2%80%93-even-if-it-costs-%C2%A340k",
@@ -415,26 +455,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-23T05:00:00Z"
-  },
-  {
-   "titulo": "Alex Palou Will Start the Freedom 250 from the Pole, Hopes to Make Chaotic Race ‘Boring’",
-   "resumo": "The Spanish driver has the chance to lock up his fifth championship with three rounds remaining as IndyCar races their one-off East Coast race on the streets of Washington, D.C.",
-   "url": "https://www.roadandtrack.com/news/a73501961/alex-palou-wins-pole-freedom-250-dc-indycar-race/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-22T23:15:26Z"
-  },
-  {
-   "titulo": "Jeff Gordon Wins Both Historic IROC Races on D.C. Street Circuit",
-   "resumo": "Both historic IROC races around the U.S. capital city were won by four-time NASCAR Cup Series Champion Jeff Gordon.",
-   "url": "https://www.roadandtrack.com/news/a73501943/jeff-gordon-wins-historic-iroc-race-dc-street-circuit-freedom-250-weekend/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-22T19:58:45Z"
   },
   {
    "titulo": "LATVALA CLAIMS DOMINANT HOME VICTORY AT LAHTI HISTORIC RALLY",
@@ -455,16 +475,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-22T16:56:00Z"
-  },
-  {
-   "titulo": "F1 - 2026 Dutch Grand Prix Post-Qualifying Press Conference Transcript",
-   "resumo": "Sport news DRIVERS 1 – Lando NORRIS (McLaren) 2 – George RUSSELL (Mercedes) 3 – Kimi ANTONELLI (Mercedes) PARC FERMÉ INTERVIEWS (Conducted by Giedo van der Garde) Q: Lando, you are on pole…",
-   "url": "https://www.fia.com/news/f1-2026-dutch-grand-prix-post-qualifying-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-22T16:11:00Z"
   },
   {
    "titulo": "The Genesis G70 Is Losing Its Best Engine",
@@ -545,16 +555,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-22T12:15:37Z"
-  },
-  {
-   "titulo": "Queixas sobre carros elétricos quase triplicaram em dois anos",
-   "resumo": "As reclamações relacionadas com carros elétricos quase triplicaram em apenas dois anos. Entre janeiro e julho de 2026, o Portal da Queixa registou 205 reclamações, contra 75 no mesmo…",
-   "url": "https://www.razaoautomovel.com/noticias/mercado-queixas-carros-eletricos-quase-triplicam-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-22T11:18:04Z"
   },
   {
    "titulo": "I kerbed a wheel – but are car designers really to blame?",
