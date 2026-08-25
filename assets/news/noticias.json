@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-25T01:52:09Z",
+ "atualizado": "2026-08-25T07:08:27Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,7 +7,6 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
-  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -19,6 +18,76 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "1.16 Million Vehicles Now Under Probe For GM Brake Failure",
+   "resumo": "NHTSA’s upgraded engineering analysis of GM’s eBoost system now spans 1,164,820 GM, Honda and Acura models, raising stakes for EV and crossover owners.",
+   "url": "https://www.motor1.com/news/805955/gm-eboost-brake-failure-probe/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-25T06:53:40Z"
+  },
+  {
+   "titulo": "The Heimplanet Backdoor: A Tent Built For Extreme Conditions",
+   "resumo": "This is the Heimplanet Backdoor 4-Season, it’s the new four season version of the tent, built with a series of upgrades to make it... The post The Heimplanet Backdoor: A Tent Built For…",
+   "url": "https://silodrome.com/heimplanet-backdoor-tent/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-25T06:30:43Z"
+  },
+  {
+   "titulo": "UFC And Ram Team Up To Auction Off 900-HP Ram Rumble Bee For Charity",
+   "resumo": "A 2027 Ram 1500 Rumble Bee SRT and a 2005 Ram 1500 SRT-10 cross the Barrett-Jackson Las Vegas block together to raise money for charity.",
+   "url": "https://www.motor1.com/news/805950/ram-srt-trucks-charity-auction/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-25T06:05:44Z"
+  },
+  {
+   "titulo": "Bugatti resolveu um dos problemas mais caros do Veyron",
+   "resumo": "Ter um Bugatti Veyron é, por definição, estar habituado a despesas pouco razoáveis. Mas há uma que até os proprietários deste hipercarro parecem achar exagerada: os pneus. Um jogo de quatro…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-bugatti-veyron-novas-jantes-pneus-baratos/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-25T06:00:00Z"
+  },
+  {
+   "titulo": "Opinion: should it matter if you say Skoda or 'Shhhhkoda'?",
+   "resumo": "The Czech firm has been present in the UK for more than a century, and finally wants you to know how to pronounce its name. But why? My mum was watching television the other day when an…",
+   "url": "https://www.autocar.co.uk/opinion/new-cars/opinion-should-it-matter-if-you-say-skoda-or-shhhhkoda",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-25T05:00:00Z"
+  },
+  {
+   "titulo": "EVs and SUVs not to blame for pothole crisis, say experts",
+   "resumo": "Climate change and poor maintenance cited as real culprits for the UK's pockmarked roads SUVs and EVs are being unfairly blamed for being a major cause of road damage, experts say, as the…",
+   "url": "https://www.autocar.co.uk/car-news/consumer/evs-and-suvs-not-blame-pothole-crisis-say-experts",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-25T05:00:00Z"
+  },
+  {
+   "titulo": "Mercedes-Benz SL73 AMG: excess express",
+   "resumo": "Mercedes-Benz SL73 AMG: excess express Ryan Standen Tue, 25/08/2026 - 04:59",
+   "url": "https://www.classicandsportscar.com/features/mercedes-benz-sl73-amg-excess-express",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-25T03:59:15Z"
+  },
   {
    "titulo": "China’s Most Famous Brand Might Sell A Million-Dollar Sedan In Australia",
    "resumo": "Hongqi, the brand Mao Zedong favored, plans an Australian launch in 2027 with three SUVs and possibly a $1 million sedan",
@@ -420,16 +489,6 @@
    "data": "2026-08-24T14:32:43Z"
   },
   {
-   "titulo": "China obriga Tesla a chamar 3 milhões de carros à oficina",
-   "resumo": "A Tesla vai realizar a sua maior campanha de recolha de sempre na China. Em causa estão quase três milhões de automóveis cujos comandos mecânicos de abertura de emergência das portas podem…",
-   "url": "https://www.razaoautomovel.com/noticias/industria-china-obriga-tesla-chamar-3-milhoes-carros-oficina/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-24T14:27:24Z"
-  },
-  {
    "titulo": "Plenty of Owens family success during entertaining Brands Hatch Mini Festival",
    "resumo": "With the Mini 7 Racing Club celebrating its 60th anniversary and a huge crowd in attendance, there was a real party atmosphere at the annual Mini Festival at Brands Hatch last weekend and…",
    "url": "https://www.autosport.com/national/news/plenty-of-owens-family-success-during-entertaining-brands-hatch-mini-festival/10848964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -470,16 +529,6 @@
    "data": "2026-08-24T13:35:08Z"
   },
   {
-   "titulo": "Mitsubishi Pajero Is Back September 2, Returns With Ladder Frame",
-   "resumo": "Body-on-frame construction, S-AWC hardware and likely hybrid power aim to push the new Mitsubishi Pajero back into serious off-road territory.",
-   "url": "https://www.motor1.com/news/805889/mitsubishi-pajero-returns-digital-off/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-24T12:54:47Z"
-  },
-  {
    "titulo": "Mercedes \"hasn't got the money\" to keep up with rival teams' F1 upgrades",
    "resumo": "Mercedes Formula 1 team principal Toto Wolff says his squad \"hasn't got the money\" to develop its 2026 car as much as McLaren and Ferrari are doing. Both McLaren and Ferrari have made…",
    "url": "https://www.autosport.com/f1/news/mercedes-hasnt-got-the-money-to-keep-up-with-rival-teams-f1-upgrades/10848986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -498,16 +547,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-24T12:30:14Z"
-  },
-  {
-   "titulo": "The Suzuki e Sky Is A Tiny Electric Car That Does More With Less",
-   "resumo": "Suzuki's diminutive EV has a small battery to keep the car as lightweight as possible.",
-   "url": "https://www.motor1.com/news/805879/suzuki-e-sky-specs-photos-details/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-24T11:48:07Z"
   },
   {
    "titulo": "What Ferrari actually meant to do when Hamilton felt like a \"guinea pig\" in Dutch GP",
@@ -578,46 +617,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-24T05:00:00Z"
-  },
-  {
-   "titulo": "Reborn Toyota MR2: Full story on mid-engined sports car for 2028",
-   "resumo": "Autocar rendering shows how the new MR2, influenced by the FT-SE, could look on the road Mid-engined model primed with 2.0-litre engine that could offer as much as 600bhp Toyota is poised…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/reborn-toyota-mr2-full-story-mid-engined-sports-car-2028",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-24T05:00:00Z"
-  },
-  {
-   "titulo": "27 classic front-wheel-drive Renaults",
-   "resumo": "27 classic front-wheel-drive Renaults Lizzie Pope Mon, 24/08/2026 - 05:15",
-   "url": "https://www.classicandsportscar.com/gallery/27-classic-front-wheel-drive-renaults",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-24T04:15:20Z"
-  },
-  {
-   "titulo": "Mercedes' extraordinary reason for not upgrading its F1 car",
-   "resumo": "Mercedes says it hasn’t “got the money” to put extra upgrades on its 2026 F1 car, so it can't keep up with McLaren's development rate",
-   "url": "https://www.the-race.com/formula-1/mercedes-extraordinary-f1-title-fight-claim/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T21:02:54Z"
-  },
-  {
-   "titulo": "FIA Hails Success of Landmark INDYCAR Freedom 250 Grand Prix as Motor Sport Takes Centre Stage in Washington D.C.",
-   "resumo": "Sport news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has hailed the successful…",
-   "url": "https://www.fia.com/news/fia-hails-success-landmark-indycar-freedom-250-grand-prix-motor-sport-takes-centre-stage",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-23T20:54:00Z"
   }
  ]
 }
