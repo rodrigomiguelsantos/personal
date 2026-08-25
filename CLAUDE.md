@@ -206,6 +206,23 @@ discreto também na vista de lista, para leitura rápida.
 Nota de contenção: a cor manda **só** neste separador — o resto da app mantém
 o branco com o verde de assinatura.
 
+## Sistema de movimento (v1.4, 2026-08-20)
+Movimento passou de improvisado a **sistema**, com tokens no `:root`:
+**durações** `--t-fast .16s` (hover/premir/cor) · `--t-base .28s` (padrão) ·
+`--t-mid .42s` (overlays, gaveta, troca de secção) · `--t-slow .58s`
+(revelações, zoom) · `--t-xslow .9s` (barras do dashboard) — consolidadas de
+**13 durações avulsas para 5**. **Easings com papéis**: `--e-out` a entrar
+(desacelera), `--e-in` a sair (acelera), `--e-std` ida-e-volta, `--e-spring`
+leve ultrapassagem (premir botões). Zero `cubic-bezier` em bruto fora dos
+tokens; zero `transition: all` (animava layout).
+Correções de sensação: **overlays passaram a animar à saída** (`visibility`
+com atraso em vez de `display:none`, que cortava a transição — ficha, grupos e
+apresentação fechavam a estalar); **o atraso do stagger deixa de ficar colado
+ao elemento** (limpo após a entrada, senão atrasava os hovers seguintes);
+onda de revelação limitada a 6 passos de 55 ms.
+`prefers-reduced-motion` passou a **uma regra global** (`*` com duração
+0,01 ms) em vez de blocos espalhados — nada escapa.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
