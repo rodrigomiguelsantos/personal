@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-26T07:09:00Z",
+ "atualizado": "2026-08-26T13:16:35Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,24 +18,394 @@
  ],
  "itens": [
   {
-   "titulo": "Tech3 signs Luca Marini for next two MotoGP seasons",
-   "resumo": "Luca Marini will leave Honda and race for Tech3 KTM in the 2027 and 2028 MotoGP seasons, it has been announced. Unlike in the last two seasons, when Enea Bastianini and Maverick Vinales…",
-   "url": "https://www.motorsport.com/motogp/news/tech3-signs-luca-marini-for-next-two-seasons/10849451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "The Man Who Flattened Supercars With An EV Now Says Gas Is The Future Of Supercars",
+   "resumo": "Mate Rimac built his reputation on electric power, but says tomorrow’s richest enthusiasts will pay for engines, craftsmanship and character",
+   "url": "https://www.carscoops.com/2026/08/bugatti-rimac-combustion-future/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-26T07:07:13Z"
+   "data": "2026-08-26T13:04:00Z"
   },
   {
-   "titulo": "Mitsubishi Is Rebooting US Trucks And Nissan Is Building It",
-   "resumo": "Mitsubishi’s Momentum 2030 roadmap leans on Nissan hardware to relaunch a midsize pickup alongside the Eclipse Sportback EV and rugged Outlander.",
-   "url": "https://www.motor1.com/news/806094/mitsubishi-nissan-based-pickup-puts/",
+   "titulo": "Porque dizem que Leiria não existe?",
+   "resumo": "Se já passou algum tempo nas redes sociais, provavelmente já encontrou alguém a afirmar que «Leiria não existe». Não é preciso explicar a um leiriense que a cidade continua no mesmo sítio…",
+   "url": "https://www.razaoautomovel.com/cronicas/mito-porque-dizem-que-leiria-nao-existe/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-26T13:00:23Z"
+  },
+  {
+   "titulo": "2028 Dodge GLH Is a Muscular Hot Hatchback Worth Waiting For",
+   "resumo": "The upcoming GLH will serve as a successor to the Hornet SUV, with a boxy, aggressive design and a punchy 300-plus-horsepower turbo four-cylinder engine.",
+   "url": "https://www.caranddriver.com/news/a73523188/2028-dodge-glh-future-cars/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T13:00:00Z"
+  },
+  {
+   "titulo": "8 Interesting Cars from the 2026 Bonhams Laguna Seca Auction",
+   "resumo": "For almost 30 years, Bonhams held its Monterey Car Week auction at Quail Lodge, and in that time it moved some of the most expensive cars the auction house (or anyone) has ever sold…",
+   "url": "https://www.hagerty.com/media/market-trends/8-interesting-cars-from-the-2026-bonhams-laguna-seca-auction/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-26T13:00:00Z"
+  },
+  {
+   "titulo": "Watch: Fernando Alonso's Aston Martin Valkyrie Roars Through Monaco Tunnel",
+   "resumo": "Aston Martin Valkyrie roars through Monaco’s tunnel with Fernando Alonso at the wheel, underscoring this hypercar’s rare street presence and racing pedigree.",
+   "url": "https://www.motor1.com/news/806153/fernando-alonso-drives-aston-martin/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-26T06:42:27Z"
+   "data": "2026-08-26T12:58:44Z"
+  },
+  {
+   "titulo": "Mercedes searching for answers after Kimi Antonelli’s pace fell off in F1 Dutch GP",
+   "resumo": "Mercedes has launched a “deep dive” into Kimi Antonelli’s performance at the Formula 1 Dutch Grand Prix after the championship leader revealed he had a “difficult second half” of the race…",
+   "url": "https://www.motorsport.com/f1/news/mercedes-searching-for-answers-after-kimi-antonellis-pace-fell-off-in-f1-dutch-gp/10849529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T12:45:02Z"
+  },
+  {
+   "titulo": "What Happened to Two-Door Cars Like the Honda Accord Coupe?",
+   "resumo": "The two-door Accord hasn’t existed for nearly 10 years, but if you’re looking for a new coupe there are still a few alternatives to consider.",
+   "url": "https://www.caranddriver.com/shopping-advice/a73456080/honda-accord-coupe-history-alternatives/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T12:43:21Z"
+  },
+  {
+   "titulo": "McLaren denies Mercedes claim it cannot afford aggressive upgrades in F1 2026",
+   "resumo": "McLaren Formula 1 team principal Andrea Stella is sceptical about his Mercedes counterpart Toto Wolff's claims that Mercedes doesn't have the available budget to fast-track car upgrades. In…",
+   "url": "https://www.autosport.com/f1/news/mclaren-denies-mercedes-f1-2026-upgrades-claim/10849559/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T12:32:18Z"
+  },
+  {
+   "titulo": "Yuki Tsunoda pode mudar-se para a IndyCar em 2027",
+   "resumo": "Yuki Tsunoda poderá rumar aos Estados Unidos em 2027 para disputar a IndyCar, procurando garantir um programa a tempo inteiro após ter realizado no passado fim de semana uma participação…",
+   "url": "https://www.autosport.pt/velocidade/yuki-tsunoda-pode-mudar-se-para-a-indycar-em-2027/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-26T12:32:10Z"
+  },
+  {
+   "titulo": "Ever Seen One Before? This Is A Rare Evante Sports From England",
+   "resumo": "This is an Evante Sports, it’s a car you might never have seen before, it might also look strangely familiar. It’s the result of... The post Ever Seen One Before? This Is A Rare Evante…",
+   "url": "https://silodrome.com/evante-sports-car/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-26T12:30:04Z"
+  },
+  {
+   "titulo": "Toyota, Hyundai e M-Sport: o que disseram os chefes de equipa do WRC",
+   "resumo": "O Campeonato do Mundo de Ralis entra na sua fase decisiva com a realização do Rali do Paraguai, entre 27 e 30 de agosto.A 11ª prova da temporada marca o início de uma dupla jornada em piso…",
+   "url": "https://www.autosport.pt/ralis/toyota-hyundai-e-m-sport-o-que-disseram-os-chefes-de-equipa-do-wrc/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-26T12:24:45Z"
+  },
+  {
+   "titulo": "The Most Famous NSX In The World Goes Under The Hammer On October 31",
+   "resumo": "A seven-figure sum for a 271-hp Honda makes sense only when the name attached to it is Ayrton Senna",
+   "url": "https://www.carscoops.com/2026/08/honda-nsx-ayrton-senna-auction/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T12:20:00Z"
+  },
+  {
+   "titulo": "GT3-Based Porsche 911 Challenge Is Stuttgart’s New Entry Point Into Racing",
+   "resumo": "Production of the Porsche 718 ended in late 2025, which temporarily leaves the brand without an entry-level sports car on the road and on the track. We’re still waiting for the next-gen…",
+   "url": "https://www.hagerty.com/media/news/2026-porsche-911-challenge-race-car-pricing-specs/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-26T12:18:52Z"
+  },
+  {
+   "titulo": "Recall Alert: 48,000 Toyota Tacomas May Lose Shock Reservoirs",
+   "resumo": "Federal rules, campaign codes, and VIN lookup tools spell out which Toyota Tacoma TRD Off-Road and Hybrid trucks face shock reservoir failures.",
+   "url": "https://www.motor1.com/news/806151/toyota-tacoma-trd-off-road/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T12:11:41Z"
+  },
+  {
+   "titulo": "Williams brings F1 fan zone to Madrid for first time for Spanish GP",
+   "resumo": "Carlos Sainz will headline Williams' first Madrid fan zone as F1 arrives in the Spanish capital.",
+   "url": "https://www.the-race.com/all/williams-brings-f1-fan-zone-to-madrid-for-first-time-for-spanish-gp/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T12:11:29Z"
+  },
+  {
+   "titulo": "Esteban Ocon defends controversial move on Alex Albon, bemoans F1 rule",
+   "resumo": "Esteban Ocon has defended his controversial overtake on Alexander Albon in the Dutch Grand Prix and criticised the Formula 1 rule that meant he was pegged back for the second start. As Max…",
+   "url": "https://www.motorsport.com/f1/news/esteban-ocon-defends-controversial-move-on-alex-albon-bemoans-f1-rule/10849525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T12:01:53Z"
+  },
+  {
+   "titulo": "How Lotus Almost Used a Grammatical Loophole to Change Formula 1 Forever",
+   "resumo": "Or, a good way to remember that the plural of chassis is “chassis.”",
+   "url": "https://www.roadandtrack.com/car-culture/a71866220/lotus-88-chassis-plural/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T12:00:00Z"
+  },
+  {
+   "titulo": "Hyundai and Genesis to launch 41 new cars in Europe by 2030",
+   "resumo": "Big rollout will include a Europe-specific small SUV, a new i20 and much more Hyundai Motor including its premium Genesis division has promised to launch 41 new or refreshed models in…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/hyundai-and-genesis-launch-41-new-cars-europe-2030",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T11:41:29Z"
+  },
+  {
+   "titulo": "China's Knockoff Bugatti Is Dead On Arrival",
+   "resumo": "Dreame’s 0.9-second rocket car and solid-state battery claims never translated into a certifiable performance EV.",
+   "url": "https://www.motor1.com/news/806148/dreame-rocket-car-solid-battery/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T11:39:38Z"
+  },
+  {
+   "titulo": "Mitsubishi’s Toughest Triton Yet Ships With A Shovel Bolted To The Roof",
+   "resumo": "The new Brazil-only Triton honors a brutal rally-raid with skid plates, a roof rack, and recovery gear straight from the dealer",
+   "url": "https://www.carscoops.com/2026/08/mitsubishi-triton-savana-sertoes/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T11:36:00Z"
+  },
+  {
+   "titulo": "Andrea Stella casts doubt on Mercedes’ claim it can’t afford F1 upgrades: “I actually don't believe you”",
+   "resumo": "McLaren Formula 1 team principal Andrea Stella is sceptical about his Mercedes counterpart Toto Wolff's claims that Mercedes doesn't have the available budget to fast-track car upgrades. In…",
+   "url": "https://www.motorsport.com/f1/news/mclarens-andrea-stella-sceptical-about-mercedes-car-budget-claims-i-would-like-to-believe-you-but-i/10849485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T11:33:35Z"
+  },
+  {
+   "titulo": "Hyundai And Genesis Are Launching Extended-Range EVs Next Year",
+   "resumo": "The Santa Fe EREV will arrive in the United States in the first half of 2027.",
+   "url": "https://www.motor1.com/news/806144/hyundai-and-genesis-erevs/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T11:21:27Z"
+  },
+  {
+   "titulo": "GP da China pode abrir época de 2027 da Fórmula 1 devido à crise no Médio Oriente",
+   "resumo": "A Fórmula 1 está a reformular o calendário do Campeonato do Mundo de 2027 devido ao conflito no Médio Oriente. A China surge como uma alternativa viável para acolher a jornada de abertura…",
+   "url": "https://www.autosport.pt/formula1/gp-da-china-pode-abrir-epoca-de-2027-da-formula-1-devido-a-crise-no-medio-oriente/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-26T11:10:11Z"
+  },
+  {
+   "titulo": "Five things to look out for at MotoGP Aragon GP",
+   "resumo": "Following the quietest stretch of the year, with just one grand prix taking place over the last six weekends, MotoGP will burst back into life on 28-30 August as MotorLand plays host to the…",
+   "url": "https://www.motorsport.com/motogp/news/five-things-to-look-out-for-at-motogp-aragon-gp/10849346/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T11:09:43Z"
+  },
+  {
+   "titulo": "Hyundai vai com tudo. Mais de 100 novidades até 2030",
+   "resumo": "A melhor defesa é o ataque. Num momento em que a indústria automóvel tradicional enfrenta a pressão das marcas chinesas, tarifas e mudanças regulatórias, a Hyundai responde com a maior…",
+   "url": "https://www.razaoautomovel.com/noticias/industria-hyundai-mais-100-novidades-2030/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-26T11:03:07Z"
+  },
+  {
+   "titulo": "First Customer Koenigsegg Gemera Smashed Outside Luxury Hotel",
+   "resumo": "Danish police are still hunting whoever smashed the first customer Koenigsegg Gemera while it was parked outside Copenhagen's Hotel d'Angleterre.",
+   "url": "https://www.motor1.com/news/806145/first-customer-koenigsegg-gemera-vandalized/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T10:56:24Z"
+  },
+  {
+   "titulo": "Lando Norris ainda vai a tempo de lutar pelo título da Fórmula 1?",
+   "resumo": "Lando Norris somou 56 pontos nas duas últimas corridas, face aos 38 de Kimi Antonelli mas são ainda 83 os pontos que tem de atraso para o italiano da Mercedes. Será que ainda vai a tempo de…",
+   "url": "https://www.autosport.pt/formula1/lando-norris-ainda-vai-a-tempo-de-lutar-pelo-titulo-da-formula-1/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-26T10:44:56Z"
+  },
+  {
+   "titulo": "Sébastien Ogier regressa no Paraguai",
+   "resumo": "Sébastien Ogier está de volta ao Campeonato do Mundo de Ralis no ueno Rally del Paraguay. Após o despiste sofrido quando liderava o Rali da Finlândia, o octocampeão mundial regressa à…",
+   "url": "https://www.autosport.pt/ralis/sebastien-ogier-regressa-no-paraguai/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-26T10:43:24Z"
+  },
+  {
+   "titulo": "Fernando Alonso: Dutch GP strategy shows \"I'm a very good driver\"",
+   "resumo": "Fernando Alonso was full of self-praise at the Formula 1 Dutch Grand Prix, claiming that being “a very good driver” allowed him to convert a one-stop strategy into a shock points finish for…",
+   "url": "https://www.motorsport.com/f1/news/fernando-alonso-dutch-gp-shows-im-a-very-good-driver/10849497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T10:29:55Z"
+  },
+  {
+   "titulo": "The G-Wagen And The 190E EVO II Have Nothing In Common, But This Render Fused Them Anyway",
+   "resumo": "A digital artist gave the G-Wagen a 190E EVO II body kit and a roof wing, abandoning everything the SUV was built to do",
+   "url": "https://www.carscoops.com/2026/08/mercedes-g-class-evo-ii-renders/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T10:21:00Z"
+  },
+  {
+   "titulo": "Steiner's first MotoGP signing follows his F1 blueprint",
+   "resumo": "Luca Marini's announcement as a Tech3 KTM MotoGP rider from 2027 onwards marks the first signing of the team's Guenther Steiner era",
+   "url": "https://www.the-race.com/motogp/steiners-first-motogp-signing-follows-his-f1-blueprint/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T10:11:59Z"
+  },
+  {
+   "titulo": "Aldeguer joins VR46 Ducati for MotoGP 2027",
+   "resumo": "Fermin Aldeguer will join VR46 for the start of MotoGP's 850cc era in 2027, it has been confirmed. The Spaniard, who extended his contract with Ducati at the beginning of this year, will…",
+   "url": "https://www.autosport.com/motogp/news/aldeguer-joins-vr46-ducati-for-motogp-2027/10849504/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T10:04:38Z"
+  },
+  {
+   "titulo": "What settled the fight for Nissan's vacant seat",
+   "resumo": "Two old F2 rivals were head to head for Nissan's vacant 2026-27 Formula E seat - here's what swung the decision",
+   "url": "https://www.the-race.com/formula-e/what-settled-the-fight-for-nissans-vacant-seat/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T09:18:43Z"
+  },
+  {
+   "titulo": "Motorcyclists Stopped To Help One Crash, Then A GR Corolla Crashed Into Theirs",
+   "resumo": "A GR Corolla pushed hard through a fast canyon bend, lost the rear, and speared off the road toward a group of resting bikers",
+   "url": "https://www.carscoops.com/2026/08/toyota-gr-corolla-motorcycle-crash/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T09:06:00Z"
+  },
+  {
+   "titulo": "Chineses querem produzir 1,5 milhões de carros na Europa. Mas há um problema",
+   "resumo": "A indústria automóvel europeia tem fábricas subaproveitadas. As marcas chinesas têm cada vez mais carros para produzir e boas razões para o fazer no continente europeu, desde as tarifas…",
+   "url": "https://www.razaoautomovel.com/noticias/industria-producao-milhoes-carros-chineses-europa-problema/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-26T08:50:32Z"
+  },
+  {
+   "titulo": "EREV Powertrains Heading to Hyundai and Genesis Lineup in 2027",
+   "resumo": "Hyundai is also expanding its traditional hybrid offerings and launching new entries in the pickup truck and body-on-frame SUV segments.",
+   "url": "https://www.caranddriver.com/news/a73527970/hyundai-genesis-erev-powertrains-2027/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T07:33:08Z"
+  },
+  {
+   "titulo": "Tech3 signs Marini for next two MotoGP seasons",
+   "resumo": "Luca Marini will leave Honda and race for Tech3 KTM in the 2027 and 2028 MotoGP seasons, it has been announced. Unlike in the last two seasons, when Enea Bastianini and Maverick Vinales…",
+   "url": "https://www.autosport.com/motogp/news/tech3-signs-marini-for-next-two-motogp-seasons/10849454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T07:09:23Z"
+  },
+  {
+   "titulo": "New Volvos now able to warn other cars of animals, cyclists in road",
+   "resumo": "EX60, EX90 and ES90 upload hazard data to the cloud, pinging other connected cars close by A new software update has given the Volvo EX60 , EX90 and ES90 the ability to alert drivers of…",
+   "url": "https://www.autocar.co.uk/car-news/technology/new-volvos-now-able-warn-other-cars-animals-cyclists-road",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T07:00:00Z"
+  },
+  {
+   "titulo": "Every rookie to drive in FP1 in F1 2026",
+   "resumo": "All the FP1 rookie drivers in 2026 so far",
+   "url": "https://www.the-race.com/formula-1/every-rookie-to-drive-in-fp1-in-f1-2026/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T06:42:00Z"
   },
   {
    "titulo": "For Sale: A Rare 616 BHP Ford 427 SOHC “Cammer” V8 Engine",
@@ -46,16 +416,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-26T06:30:14Z"
-  },
-  {
-   "titulo": "The Porsche 911 Challenge Is An Entry-Level $275,000 Race Car",
-   "resumo": "The new racing machine is based on the 911 GT3, but stripped down to the bare essentials.",
-   "url": "https://www.motor1.com/news/806085/2027-porsche-911-challenge-specs-price-photos/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-26T06:16:53Z"
   },
   {
    "titulo": "New Porsche 911 Challenge car to be introduced to Sprint Challenge GB",
@@ -98,16 +458,6 @@
    "data": "2026-08-26T06:00:00Z"
   },
   {
-   "titulo": "You Can Buy The Mini That Beat Everyone In Monte Carlo, Sort Of",
-   "resumo": "Special-edition Mini 1965 Victory Edition adds Chili Red rally livery, three drivetrains including John Cooper Works Electric, and premium U.S. pricing.",
-   "url": "https://www.motor1.com/news/806084/mini-1965-victory-edition-honors/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-26T05:45:57Z"
-  },
-  {
    "titulo": "Are F1 teams still undervalued compared to US franchises?",
    "resumo": "F1 team personnel have been at pains to tell the world that the gap between F1 team valuations and those of American sports franchises should not exist...",
    "url": "https://www.the-race.com/business/are-f1-teams-still-undervalued-compared-to-us-franchises/",
@@ -116,16 +466,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-26T05:45:50Z"
-  },
-  {
-   "titulo": "F1 calendar latest: New back-up plan for 2027 season-opener",
-   "resumo": "The Chinese GP has emerged as a leading option to be the 2027 Formula 1 season opener if starting in Bahrain and Saudi Arabia is not possible",
-   "url": "https://www.the-race.com/formula-1/f1-calendar-latest-new-back-up-plan-for-2027-season-opener/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-26T05:31:13Z"
   },
   {
    "titulo": "ZEV mandate review could give a hybrid lifeline to UK car factories",
@@ -158,36 +498,6 @@
    "data": "2026-08-26T03:56:07Z"
   },
   {
-   "titulo": "This Ex-SEMA 1973 Camaro RS Packs 441 Cubic Inches Of V8 Fury",
-   "resumo": "A 441-cubic-inch V8, six-piston Wilwoods, and Heidt suspension make this 1973 Camaro RS one extreme second-gen build",
-   "url": "https://www.carscoops.com/2026/08/chevy-camaro-rs-sema-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-26T00:43:00Z"
-  },
-  {
-   "titulo": "Are Cadillac And Lincoln Making A Mistake By Killing Off Affordable Luxury?",
-   "resumo": "Lincoln's new entry-level crossover costs far more than rivals from Audi, BMW, and Lexus",
-   "url": "https://www.carscoops.com/2026/08/cadillac-lincoln-afforable-luxury/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T23:55:00Z"
-  },
-  {
-   "titulo": "Pedestrian Cheats Death After Being Hit By Corvette That Crashed Into Mercedes SUV",
-   "resumo": "A pedestrian was injured as the Corvette span through the air and crashed into a local bodega",
-   "url": "https://www.carscoops.com/2026/08/corvette-mercedes-new-york-crash/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T23:09:00Z"
-  },
-  {
    "titulo": "Giulia Quadrifoglio Luna Rossa driven: Ultra-rare special is a V6 ace",
    "resumo": "Sailing-themed super-saloon is a 10-off collector special from Alfa's new special projects arm What to do with Alfa Romeo ? It’s a storied and beloved brand, but due to various factors –…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/giulia-quadrifoglio-luna-rossa-driven-ultra-rare-special-v6-ace",
@@ -196,66 +506,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-25T23:01:49Z"
-  },
-  {
-   "titulo": "How to charge an electric car at an apartment or flat",
-   "resumo": "Potential EV owners shouldn't be put off because they don't have a driveway. Here are the solutions When it comes to EVs, almost every day brings fresh innovation that boosts both usability…",
-   "url": "https://www.autocar.co.uk/car-news/advice-electric-cars/how-charge-electric-car-apartment-or-flat",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T23:01:00Z"
-  },
-  {
-   "titulo": "Liam Lawson got more comfortable at Red Bull in Dutch GP outing than during his 2025 stint",
-   "resumo": "While Red Bull stand-in Liam Lawson says it is impossible to compare the current RB22 with the previous Formula 1 car he drove with the Austrian outfit, the Kiwi admits he felt much “more…",
-   "url": "https://www.motorsport.com/f1/news/liam-lawson-was-more-comfortable-at-red-bull-in-f1s-dutch-gp-than-during-his-2025-stint/10849288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T23:00:03Z"
-  },
-  {
-   "titulo": "Mercedes-AMG Appears To Be Chasing The Autonomous Nurburgring Record",
-   "resumo": "A GT 63 prototype recently completed two hands-free laps around the track, but both times were well behind the autonomous Xiaomi YU7 GT",
-   "url": "https://www.carscoops.com/2026/08/mercedes-amg-gt-autonomous/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T22:24:00Z"
-  },
-  {
-   "titulo": "Washington D.C. IndyCar saw record viewership for any non-Indy 500 race since 2008",
-   "resumo": "FOX Sports averaged 3.282 million viewers for IndyCar's Freedom 250 Grand Prix on the streets of Washington D.C. this past weekend. The viewership peaked between 2:30 and 2:45pm EST with…",
-   "url": "https://www.motorsport.com/indycar/news/washington-dc-indycar-race-hit-record-viewership-for-non-indy-500/10849428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T21:59:29Z"
-  },
-  {
-   "titulo": "William Byron crew members suspended as Hendrick names replacements",
-   "resumo": "When a left-rear wheel became disconnected in the middle of the NASCAR Cup race at New Hampshire Motor Speedway, William Byron crashed into the outside wall, derailing a top five run. He…",
-   "url": "https://www.motorsport.com/nascar-cup/news/william-byron-crew-members-suspended-hendrick-names-replacements-/10849431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T21:47:25Z"
-  },
-  {
-   "titulo": "Japan’s New Flagship $25K Note Nismo Looks Fast But Isn’t Any Faster",
-   "resumo": "Nissan has refreshed the Note, Note Aura, and Note Aura Nismo in Japan with subtle improvements to the equipment and dark-themed special editions",
-   "url": "https://www.carscoops.com/2026/08/nissan-note-japan-update/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T21:42:00Z"
   },
   {
    "titulo": "Kinardi Line #8: In Ultra Luxury Land, the Future Is for the Taking",
@@ -278,26 +528,6 @@
    "data": "2026-08-25T20:20:42Z"
   },
   {
-   "titulo": "Joey Logano's crew chief thinks the old wisdom of the Chase no longer applies",
-   "resumo": "There's just one race left to go in the NASCAR regular season before the start of the Chase. At Daytona this weekend, the drivers still on the bubble will look to secure their spots in the…",
-   "url": "https://www.motorsport.com/nascar-cup/news/joey-loganos-crew-chief-thinks-the-old-wisdom-of-the-chase-no-longer-applies/10849173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T19:35:45Z"
-  },
-  {
-   "titulo": "The 2027 Chevy Traverse High Country Gets A More Upscale Makeover",
-   "resumo": "The top trim High Country gets sharper styling, inside and out.",
-   "url": "https://www.motor1.com/news/806065/2027-chevy-traverse-high-country/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T19:29:28Z"
-  },
-  {
    "titulo": "Norris Showed Why He’s World Champion in Zandvoort. Is He Back in the Hunt for Another F1 Title?",
    "resumo": "After a disastrous start to 2026, Norris and McLaren are finally building momentum.",
    "url": "https://www.roadandtrack.com/news/a73523641/lando-norris-is-he-back-in-the-hunt-for-f1-title/",
@@ -316,16 +546,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-25T19:15:49Z"
-  },
-  {
-   "titulo": "2027 Lincoln Corsair Keeps the Compact Luxury SUV Alive",
-   "resumo": "Lincoln’s entry-level SUV will now be imported from China, with all models featuring all-wheel drive and a hybrid powertrain.",
-   "url": "https://www.caranddriver.com/news/a73522942/2027-lincoln-corsair-hybrid-details/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T19:13:04Z"
   },
   {
    "titulo": "Renault 5 ganha autonomia e nova versão de entrada",
@@ -348,46 +568,6 @@
    "data": "2026-08-25T18:57:17Z"
   },
   {
-   "titulo": "View Interior Photos of the 2027 Lincoln Corsair Hybrid",
-   "resumo": "Get an up-close look at the interior of the 2027 Lincoln Corsair Hybrid.",
-   "url": "https://www.caranddriver.com/photos/a73524108/2027-lincoln-corsair-hybrid-details-interior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T18:51:36Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Lincoln Corsair Hybrid",
-   "resumo": "See the 2027 Lincoln Corsair Hybrid exterior from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73524080/2027-lincoln-corsair-hybrid-details-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T18:46:28Z"
-  },
-  {
-   "titulo": "The Honda Fit’s Return to the U.S. May Not Be Imminent, But the Carmaker Isn’t Ruling Anything Out",
-   "resumo": "Executives believe the HR-V, Civic, and pre-owned offerings fill its role, but said ‘there’s a lot of customer interest in additional products from American Honda.’",
-   "url": "https://www.roadandtrack.com/news/a73522489/honda-fit-return-potential/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T17:58:00Z"
-  },
-  {
-   "titulo": "Melhor do que os alemães? Conduzimos o novo DS Nº7",
-   "resumo": "O DS Nº7 chega ao mercado para entrar na arena dos alemães. Não será tarefa fácil, mas argumentos não lhe faltam. Há décadas que marcas como BMW, Mercedes-Benz e Audi dominam o imaginário…",
-   "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/ds-no7-e-tense-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-25T17:37:59Z"
-  },
-  {
    "titulo": "FIA World Rally Championship – Rally del Paraguay– Event Preview",
    "resumo": "Sport news Please click here to view the PDF version. World Rally Championship WRC SEASON 2026 Sport Rallies 1SportWorld Rally ChampionshipRalliesSEASON 2026WRC00 Tuesday, August 25, 2026…",
    "url": "https://www.fia.com/news/fia-world-rally-championship-rally-del-paraguay-event-preview",
@@ -396,16 +576,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-25T17:33:00Z"
-  },
-  {
-   "titulo": "Lando Norris versão 2.0 já se vê em pista",
-   "resumo": "Lando Norris diz que está melhor do que no ano passado, quando conquistou o título de Campeão do Mundo de F1 pela McLaren. O britânico afirma que subiu o nível dentro e fora de pista, e…",
-   "url": "https://www.autosport.pt/formula1/lando-norris-versao-2-0-ja-se-ve-em-pista/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-25T17:31:07Z"
   },
   {
    "titulo": "12 Important Cars from the 2026 Broad Arrow Quail Auction",
@@ -418,16 +588,6 @@
    "data": "2026-08-25T17:00:00Z"
   },
   {
-   "titulo": "Ferrari Wants To Turn Taillights Into Active Aero",
-   "resumo": "Ferrari’s patent depicts taillights that can extend outward to increase the car’s aerodynamic load.",
-   "url": "https://www.motor1.com/news/806047/ferrari-patent-aerodynamic-taillights/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T16:30:00Z"
-  },
-  {
    "titulo": "According to You: Worst Makeshift Repairs",
    "resumo": "Not all makeshift repairs are created equal, but odds are that any one of them will make a fantastic story. That was my hope when asking Hagerty Media readers to share their worst (best?)…",
    "url": "https://www.hagerty.com/media/hagerty-community/according-to-you-worst-makeshift-repairs/",
@@ -436,56 +596,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-25T16:00:00Z"
-  },
-  {
-   "titulo": "F3 já testa em Madring e pilotos gostaram da pista",
-   "resumo": "O Circuito de Madring, em Madrid, viveu esta segunda-feira a sua primeira sessão oficial, com o circuito a acolher o primeiro dia dos testes oficiais do Campeonato FIA de Fórmula 3, menos…",
-   "url": "https://www.autosport.pt/formula1/f3-ja-testa-em-madring-e-pilotos-gostaram-da-pista/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-25T15:30:06Z"
-  },
-  {
-   "titulo": "Frontera Start: o Opel mais barato na Alemanha",
-   "resumo": "A Opel tem novidade no catálogo, que tem a particularidade de se posicionar na base da gama. Chama-se Frontera Start e, independentemente do formato (Sport Utiity Vehicle) e das dimensões…",
-   "url": "https://www.autosport.pt/automais/frontera-start-o-opel-mais-barato-na-alemanha/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-25T15:16:00Z"
-  },
-  {
-   "titulo": "Mazda MX-5 drops 181bhp 2.0-litre engine in UK",
-   "resumo": "Drop-top will remain on sale with a 1.5-litre engine, but you'll have to move quickly to get the 2.0 The range-topping 2.0-litre version of the Mazda MX-5 has been axed in the UK, Autocar…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/mazda-mx-5-drops-181bhp-20-litre-engine-uk",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T15:14:39Z"
-  },
-  {
-   "titulo": "Mini-elétrico da Suzuki revelado. Vai ser dos mais baratos?",
-   "resumo": "Antecipado sob a forma de protótipo em 2025 e já apanhado em testes, o Suzuki e SKY está praticamente pronto para chegar às estradas. A marca japonesa revelou as primeiras imagens, antes do…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-suzuki-e-sky-eletrico-primeiras-imagens/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-25T15:14:08Z"
-  },
-  {
-   "titulo": "How to Protect Your Classic Car From Extreme Weather",
-   "resumo": "Extreme weather is a fact of life. Over the last 25 years, the intensity of severe floods, storms, hurricanes, wildfires, and blizzards in the United States has only continued to climb…",
-   "url": "https://www.hagerty.com/media/advice/how-to-protect-your-classic-car-from-extreme-weather/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-25T15:00:00Z"
   },
   {
    "titulo": "Hamilton claims Dutch GP radio outbursts weren't \"the best version of me\"",
@@ -498,76 +608,6 @@
    "data": "2026-08-25T14:57:56Z"
   },
   {
-   "titulo": "Max Verstappen contra 100 pilotos amadores de kart",
-   "resumo": "A Red Bull, a Disney+ e a ESPN anunciaram “Max vs 100”, uma corrida de motorsport inédita, que colocará o tetracampeão de Fórmula 1, Max Verstappen, a tentar ultrapassar 100 pilotos numa…",
-   "url": "https://www.autosport.pt/formula1/max-verstappen-contra-100-pilotos-amadores-de-kart/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-25T14:49:57Z"
-  },
-  {
-   "titulo": "WRC seeking Chinese manufacturer with plan of \"six constructors by 2029\"",
-   "resumo": "Attracting a Chinese manufacturer to join the World Rally Championship is a “clear target” for the FIA as it looks to grow rallying’s automotive brand portfolio in the future. Increasing…",
-   "url": "https://www.autosport.com/wrc/news/wrc-seeking-chinese-manufacturer/10849321/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T14:41:29Z"
-  },
-  {
-   "titulo": "Ferrari prepara decoração em homenagem à estreia de Schumacher na equipa",
-   "resumo": "A Ferrari deverá apresentar uma decoração especial no Grande Prémio de Itália, em Monza, na próxima jornada do Campeonato do Mundo de F1, inspirada no carro de 1996, ano que marcou o início…",
-   "url": "https://www.autosport.pt/formula1/ferrari-prepara-decoracao-em-homenagem-a-estreia-de-schumacher-na-equipa/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-25T14:35:48Z"
-  },
-  {
-   "titulo": "Why Mercedes can't fast-track McLaren-matching upgrades",
-   "resumo": "What next for Mercedes, which is struggling to match its rivals' F1 upgrade progress, and why is it in this situation in the first place? Jon Noble explains",
-   "url": "https://www.the-race.com/formula-1/why-mercedes-cant-fast-track-mclaren-matching-upgrades/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T14:23:49Z"
-  },
-  {
-   "titulo": "McLaren appealing Monaco GP result \"with a double intent\"",
-   "resumo": "McLaren Formula 1 team principal Andrea Stella says its appeal against the Monaco Grand Prix result, which is being held on Tuesday, stems from its concern for \"the integrity of the sport\"…",
-   "url": "https://www.autosport.com/f1/news/mclaren-appealing-monaco-gp-result-with-double-intent/10849310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T14:18:50Z"
-  },
-  {
-   "titulo": "Nissan-Based Pickup Among New Mitsubishi Models to Arrive by 2030",
-   "resumo": "It’s not too far-fetched to argue that Mitsubishi lost its way in the United States. The brand consigned its performance DNA to the automotive attic when it axed the Lancer Evolution in…",
-   "url": "https://www.hagerty.com/media/news/new-mitsubishi-models-pickup-launch-date/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-25T14:00:00Z"
-  },
-  {
-   "titulo": "Verstappen to take on 100 rivals in world-record kart race",
-   "resumo": "The one-off Silverstone event will see the F1 champion tackle a challenge unlike any in his career: passing 100 drivers before time runs out.",
-   "url": "https://www.the-race.com/extra/verstappen-to-take-on-100-rivals-in-world-record-kart-race/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T13:49:01Z"
-  },
-  {
    "titulo": "Argentinian President to Join FIA Member Clubs at Congress to Advance Mobility and Motor Sport Across the Americas",
    "resumo": "FIA news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, will be hosted by the…",
    "url": "https://www.fia.com/news/argentinian-president-join-fia-member-clubs-congress-advance-mobility-and-motor-sport-across",
@@ -576,46 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-25T13:09:00Z"
-  },
-  {
-   "titulo": "NSX de Senna com matrícula portuguesa pode ser o mais caro de sempre",
-   "resumo": "A ligação entre Ayrton Senna e o Honda NSX é quase umbilical. O icónico piloto brasileiro ficou conhecido por «ensinar» o supercarro nipónico a curvar e é precisamente um dos NSX que Senna…",
-   "url": "https://www.razaoautomovel.com/noticias/leilao-honda-nsx-ayrton-senna-matricula-portuguesa/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-25T12:47:30Z"
-  },
-  {
-   "titulo": "The Honda CT50 Motra: Japan’s Forgotten “Two-Wheeled Pickup Truck”",
-   "resumo": "This is a Honda CT50 Motra from 1982, it’s a an unusual work-oriented motorcycle with a 3-speed gearbox and dual-range sub-transmission, giving six forward... The post The Honda CT50 Motra…",
-   "url": "https://silodrome.com/honda-ct50-motra-motorcycle/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-25T12:30:48Z"
-  },
-  {
-   "titulo": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
-   "resumo": "Formula 1's governing body the FIA condemned the online harassment directed at its race stewards following their decision to apply the rulebook and penalise Alpine driver Franco Colapinto…",
-   "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T11:18:55Z"
-  },
-  {
-   "titulo": "What's at stake for Red Bull as engine decision approaches",
-   "resumo": "Red Bull is set to find out imminently whether there will be any scope to upgrade its F1 engine before the tail-end of the season",
-   "url": "https://www.the-race.com/formula-1/red-bull-f1-engine-decision-approaches-aduo/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T09:34:58Z"
   }
  ]
 }
