@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-26T01:58:14Z",
+ "atualizado": "2026-08-26T07:09:00Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -11,7 +11,6 @@
   "Hagerty",
   "Motor1",
   "Motorsport.com",
-  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
@@ -19,14 +18,154 @@
  ],
  "itens": [
   {
-   "titulo": "Now’s Your Chance To Buy An Ex-SEMA ’73 Camaro With 680 HP",
-   "resumo": "Power is sent through the rear wheels thanks to a T-56 manual and a twin-disc clutch",
+   "titulo": "Tech3 signs Luca Marini for next two MotoGP seasons",
+   "resumo": "Luca Marini will leave Honda and race for Tech3 KTM in the 2027 and 2028 MotoGP seasons, it has been announced. Unlike in the last two seasons, when Enea Bastianini and Maverick Vinales…",
+   "url": "https://www.motorsport.com/motogp/news/tech3-signs-luca-marini-for-next-two-seasons/10849451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T07:07:13Z"
+  },
+  {
+   "titulo": "Mitsubishi Is Rebooting US Trucks And Nissan Is Building It",
+   "resumo": "Mitsubishi’s Momentum 2030 roadmap leans on Nissan hardware to relaunch a midsize pickup alongside the Eclipse Sportback EV and rugged Outlander.",
+   "url": "https://www.motor1.com/news/806094/mitsubishi-nissan-based-pickup-puts/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T06:42:27Z"
+  },
+  {
+   "titulo": "For Sale: A Rare 616 BHP Ford 427 SOHC “Cammer” V8 Engine",
+   "resumo": "This is a Ford 427 SOHC “Cammer” V8, one of the most memorable Ford engines of the 1960s, despite the fact that only 500... The post For Sale: A Rare 616 BHP Ford 427 SOHC “Cammer” V8…",
+   "url": "https://silodrome.com/ford-427-sohc-cammer-v8-engines/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-26T06:30:14Z"
+  },
+  {
+   "titulo": "The Porsche 911 Challenge Is An Entry-Level $275,000 Race Car",
+   "resumo": "The new racing machine is based on the 911 GT3, but stripped down to the bare essentials.",
+   "url": "https://www.motor1.com/news/806085/2027-porsche-911-challenge-specs-price-photos/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T06:16:53Z"
+  },
+  {
+   "titulo": "New Porsche 911 Challenge car to be introduced to Sprint Challenge GB",
+   "resumo": "A brand-new 911 Challenge car that has closer links to road-going machinery will be introduced into the Porsche Sprint Challenge GB next season. Since the British Touring Car Championship…",
+   "url": "https://www.autosport.com/national/news/new-porsche-911-challenge-car-to-be-introduced-to-sprint-challenge-gb/10849357/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T06:00:03Z"
+  },
+  {
+   "titulo": "Porsche Debuts a 911 GT3-Based ‘Entry-Level’ Race Car",
+   "resumo": "The 911 Challenge costs $275,000—which might be less than the real-world price of its street-legal counterpart.",
+   "url": "https://www.caranddriver.com/news/a73525722/porsche-911-challenge-race-car-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T06:00:00Z"
+  },
+  {
+   "titulo": "Porsche’s New 911 Challenge Aims to Open Up Track Fun to More People, Courtesy of the 911 GT3’s Powerplant",
+   "resumo": "The new entry-level GT race car costs $275,000, and will be eligible to battle it out in Porsche’s Sprint Trophy series.",
+   "url": "https://www.roadandtrack.com/news/a73523699/porsche-911-challenge/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T06:00:00Z"
+  },
+  {
+   "titulo": "Travões mais potentes de sempre da Brembo não estão num supercarro",
+   "resumo": "Quando se fala em travões de alto desempenho da Brembo, é fácil imaginar Ferrari, Lamborghini ou outro supercarro. Só que, desta vez, a estreia aconteceu num modelo com uma missão bem…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-pinca-de-travao-mais-potente-brembo-boldika/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-26T06:00:00Z"
+  },
+  {
+   "titulo": "You Can Buy The Mini That Beat Everyone In Monte Carlo, Sort Of",
+   "resumo": "Special-edition Mini 1965 Victory Edition adds Chili Red rally livery, three drivetrains including John Cooper Works Electric, and premium U.S. pricing.",
+   "url": "https://www.motor1.com/news/806084/mini-1965-victory-edition-honors/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T05:45:57Z"
+  },
+  {
+   "titulo": "Are F1 teams still undervalued compared to US franchises?",
+   "resumo": "F1 team personnel have been at pains to tell the world that the gap between F1 team valuations and those of American sports franchises should not exist...",
+   "url": "https://www.the-race.com/business/are-f1-teams-still-undervalued-compared-to-us-franchises/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T05:45:50Z"
+  },
+  {
+   "titulo": "F1 calendar latest: New back-up plan for 2027 season-opener",
+   "resumo": "The Chinese GP has emerged as a leading option to be the 2027 Formula 1 season opener if starting in Bahrain and Saudi Arabia is not possible",
+   "url": "https://www.the-race.com/formula-1/f1-calendar-latest-new-back-up-plan-for-2027-season-opener/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-26T05:31:13Z"
+  },
+  {
+   "titulo": "ZEV mandate review could give a hybrid lifeline to UK car factories",
+   "resumo": "Aggressive sales targets were meant to give the UK a head start on EVs, but that hasn't panned out What is the future for volume car manufacturing in the UK? Toyota, BMW (via Mini) and…",
+   "url": "https://www.autocar.co.uk/opinion/business-manufacturing/zev-mandate-review-could-give-hybrid-lifeline-uk-car-factories",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T05:00:00Z"
+  },
+  {
+   "titulo": "The truth about electric car holidays: 1400 miles in the BMW iX3",
+   "resumo": "It's the ultimate EV test: two weeks of autoroute-bashing with the kids and the dog. How did we do? Electric cars are ideal for short commutes, but the prospect of endless charging stops…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/truth-about-electric-car-holidays-1400-miles-bmw-ix3",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-26T05:00:00Z"
+  },
+  {
+   "titulo": "23 Mazdas that were never made",
+   "resumo": "23 Mazdas that were never made Lizzie Pope Wed, 26/08/2026 - 04:56",
+   "url": "https://www.classicandsportscar.com/gallery/23-mazdas-were-never-made",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-26T03:56:07Z"
+  },
+  {
+   "titulo": "This Ex-SEMA 1973 Camaro RS Packs 441 Cubic Inches Of V8 Fury",
+   "resumo": "A 441-cubic-inch V8, six-piston Wilwoods, and Heidt suspension make this 1973 Camaro RS one extreme second-gen build",
    "url": "https://www.carscoops.com/2026/08/chevy-camaro-rs-sema-auction/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-26T00:41:00Z"
+   "data": "2026-08-26T00:43:00Z"
   },
   {
    "titulo": "Are Cadillac And Lincoln Making A Mistake By Killing Off Affordable Luxury?",
@@ -109,14 +248,14 @@
    "data": "2026-08-25T21:47:25Z"
   },
   {
-   "titulo": "Nissan Note Aura Nismo Goes Full Stealth, But We’re Still Waiting For The Widebody RS",
+   "titulo": "Japan’s New Flagship $25K Note Nismo Looks Fast But Isn’t Any Faster",
    "resumo": "Nissan has refreshed the Note, Note Aura, and Note Aura Nismo in Japan with subtle improvements to the equipment and dark-themed special editions",
    "url": "https://www.carscoops.com/2026/08/nissan-note-japan-update/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-08-25T21:39:00Z"
+   "data": "2026-08-25T21:42:00Z"
   },
   {
    "titulo": "Kinardi Line #8: In Ultra Luxury Land, the Future Is for the Taking",
@@ -229,26 +368,6 @@
    "data": "2026-08-25T18:46:28Z"
   },
   {
-   "titulo": "NASCAR to race at Naval Base Coronado in 2027 and a new military installation in 2028",
-   "resumo": "The NASCAR Cup and NASCAR O'Reilly Auto Parts Series will be back racing on an active military base in 2027. The event is scheduled for the weekend of July 30-August 1, 2027. The NASCAR…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascar-to-race-at-naval-base-coronado-in-2027-and-a-new-military-installation-in-2028/10849405/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T18:19:39Z"
-  },
-  {
-   "titulo": "Polestar Wants Answers After Being Banned In The US",
-   "resumo": "The automaker expected approval to keep selling cars here. Then Volvo got a pass under the same Chinese ownership.",
-   "url": "https://www.motor1.com/news/806057/polestar-wants-answers-after-us-ban/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T18:00:00Z"
-  },
-  {
    "titulo": "The Honda Fit’s Return to the U.S. May Not Be Imminent, But the Carmaker Isn’t Ruling Anything Out",
    "resumo": "Executives believe the HR-V, Civic, and pre-owned offerings fill its role, but said ‘there’s a lot of customer interest in additional products from American Honda.’",
    "url": "https://www.roadandtrack.com/news/a73522489/honda-fit-return-potential/",
@@ -259,16 +378,6 @@
    "data": "2026-08-25T17:58:00Z"
   },
   {
-   "titulo": "VW Workers Boo CEO Blume, Report Claims, As Possible Plant Closures and Up to 100,000 Job Cuts Loom",
-   "resumo": "Oliver Blume’s pitch for deeper cuts at VW’s Wolfsburg headquarters allegedly drew a hostile reception as unions warn trust in leadership has been damaged.",
-   "url": "https://www.roadandtrack.com/news/a73522428/vw-workers-boo-ceo-blume-report-claims-as-possible-plant-closures-and-up-to-100000-job-cuts-loom/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T17:40:21Z"
-  },
-  {
    "titulo": "Melhor do que os alemães? Conduzimos o novo DS Nº7",
    "resumo": "O DS Nº7 chega ao mercado para entrar na arena dos alemães. Não será tarefa fácil, mas argumentos não lhe faltam. Há décadas que marcas como BMW, Mercedes-Benz e Audi dominam o imaginário…",
    "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/ds-no7-e-tense-2026/",
@@ -277,16 +386,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-25T17:37:59Z"
-  },
-  {
-   "titulo": "2028 Audi Nuvolari",
-   "resumo": "What We Know So Far",
-   "url": "https://www.caranddriver.com/audi/nuvolari",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T17:33:08Z"
   },
   {
    "titulo": "FIA World Rally Championship – Rally del Paraguay– Event Preview",
@@ -499,36 +598,6 @@
    "data": "2026-08-25T12:30:48Z"
   },
   {
-   "titulo": "Daniel Craig’s 1959 Land Rover With Handwritten Note Hits Auction",
-   "resumo": "This 1959 Land Rover 109 Series II pickup pairs Daniel Craig’s handwritten note with tasteful mechanical updates and unknown but clearly well-used mileage.",
-   "url": "https://www.motor1.com/news/806024/daniel-craig-old-land-rover/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T12:12:16Z"
-  },
-  {
-   "titulo": "Posso carregar o carro na rua com um cabo a partir de casa? PSP responde",
-   "resumo": "Num país onde muitos edifícios não têm garagem e onde a rede de carregamento, apesar de estar a crescer, ainda não responde a todas as necessidades, há quem procure soluções criativas para…",
-   "url": "https://www.razaoautomovel.com/autopedia/carregar-carro-rua-cabo-partir-casa-proibido/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-25T11:53:07Z"
-  },
-  {
-   "titulo": "Toyota Corolla 60th Anniversary Editions: US Vs Europe",
-   "resumo": "Toyota celebrates six decades of Corolla with a capped 2,500-unit US hybrid sedan and broader European Hatchback, Touring Sports, and Sedan anniversary trims.",
-   "url": "https://www.motor1.com/news/806019/toyota-corolla-60th-anniversary-editions/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T11:23:46Z"
-  },
-  {
    "titulo": "FIA condemns online abuse at F1 stewards following Colapinto's Dutch GP penalty",
    "resumo": "Formula 1's governing body the FIA condemned the online harassment directed at its race stewards following their decision to apply the rulebook and penalise Alpine driver Franco Colapinto…",
    "url": "https://www.autosport.com/f1/news/fia-condemns-online-abuse-at-f1-stewards-following-colapintos-dutch-gp-penalty/10849237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -539,26 +608,6 @@
    "data": "2026-08-25T11:18:55Z"
   },
   {
-   "titulo": "MotoGP management reshuffle as Liberty Media reaffirms Ezpeleta family’s leadership",
-   "resumo": "Liberty Media has announced Carlos Ezpeleta as the deputy CEO of MotoGP, while confirming his father, Carmelo, in the role of CEO. The move is being interpreted as a sign that the US…",
-   "url": "https://www.autosport.com/motogp/news/motogp-management-reshuffle-as-liberty-media-reaffirms-ezpeleta-family-leadership/10849229/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T11:04:00Z"
-  },
-  {
-   "titulo": "Updated Renault 5 gains extra range, red paint and Williams style",
-   "resumo": "Aero tweaks, LFP battery chemistry and fresh options for retro electric supermini's second birthday The Renault 5 has received a range boost and a choice of new colours as part of a light…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/updated-renault-5-gains-extra-range-red-paint-and-williams-style",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T10:19:53Z"
-  },
-  {
    "titulo": "What's at stake for Red Bull as engine decision approaches",
    "resumo": "Red Bull is set to find out imminently whether there will be any scope to upgrade its F1 engine before the tail-end of the season",
    "url": "https://www.the-race.com/formula-1/red-bull-f1-engine-decision-approaches-aduo/",
@@ -567,56 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-25T09:34:58Z"
-  },
-  {
-   "titulo": "Opel's new 'dream team' makes it a title dark horse",
-   "resumo": "The signing of Mitch Evans is just more fuel on the Formula E gossip fire, which points towrads new team Opel being an immediate title threat",
-   "url": "https://www.the-race.com/formula-e/opels-new-dream-team-makes-it-a-title-dark-horse/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-25T08:11:42Z"
-  },
-  {
-   "titulo": "The Heimplanet Backdoor: A Tent Built For Extreme Conditions",
-   "resumo": "This is the Heimplanet Backdoor 4-Season, it’s the new four season version of the tent, built with a series of upgrades to make it... The post The Heimplanet Backdoor: A Tent Built For…",
-   "url": "https://silodrome.com/heimplanet-backdoor-tent/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-25T06:30:43Z"
-  },
-  {
-   "titulo": "Opinion: should it matter if you say Skoda or 'Shhhhkoda'?",
-   "resumo": "The Czech firm has been present in the UK for more than a century, and finally wants you to know how to pronounce its name. But why? My mum was watching television the other day when an…",
-   "url": "https://www.autocar.co.uk/opinion/new-cars/opinion-should-it-matter-if-you-say-skoda-or-shhhhkoda",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-25T05:00:00Z"
-  },
-  {
-   "titulo": "Mercedes-Benz SL73 AMG: excess express",
-   "resumo": "Mercedes-Benz SL73 AMG: excess express Ryan Standen Tue, 25/08/2026 - 04:59",
-   "url": "https://www.classicandsportscar.com/features/mercedes-benz-sl73-amg-excess-express",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-25T03:59:15Z"
-  },
-  {
-   "titulo": "Nissan GT-R legends – R32, R33, R34 and R35 driven",
-   "resumo": "On the 25th anniversary of the legendary R34 Skyline GT-R, we drive each generation of the supercar-humbling Japanese coupé, from R32 to still-current R35.",
-   "url": "https://www.octane-magazine.com/articles/features/nissan-gt-r-legends-r32-r33-r34-and-r35-driven/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-24T19:01:26Z"
   }
  ]
 }
