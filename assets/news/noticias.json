@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-08-28T22:19:19Z",
+ "atualizado": "2026-08-29T07:04:11Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -17,6 +17,156 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "This Is The Incredible 1:64 Scale Hot Wheels x MoMA Jaguar E-Type",
+   "resumo": "This is the Hot Wheels x MoMA Jaguar E-Type Roadster, it’s a faithful 1:64 scale die cast replica of the now legendary E-Type that’s... The post This Is The Incredible 1:64 Scale Hot Wheels…",
+   "url": "https://silodrome.com/hot-wheels-x-moma-jaguar-e-type/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-08-29T06:00:48Z"
+  },
+  {
+   "titulo": "Rajah Caruth and a bittersweet night at Daytona",
+   "resumo": "At Daytona, Rajah Caruth had to make up at least 15 points to have a shot at the 2026 NASCAR O'Reilly Auto Parts Series Chase for the championship. Well, he started the day on a high note…",
+   "url": "https://www.motorsport.com/nascar-os/news/rajah-caruth-and-a-bittersweet-night-at-daytona/10850313/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-29T05:54:26Z"
+  },
+  {
+   "titulo": "Zak Brown explains why he chose to attend Washington D.C. IndyCar race over Dutch GP",
+   "resumo": "Zak Brown had his eyes on Zandvoort while in Washington D.C., but of course, the McLaren Racing CEO can't be in two places at once. Brown joined Will Buxton for a interview with SPEED this…",
+   "url": "https://www.motorsport.com/indycar/news/zak-brown-explains-why-he-chose-to-attend-washington-dc-indycar-race-over-dutch-gp/10850310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-29T05:20:56Z"
+  },
+  {
+   "titulo": "Never sell again: The top 30 used cars you can keep forever",
+   "resumo": "Dissatisfied with your various dalliances? Perhaps the time has come to settle down with a true 'lifer' Against a backdrop of global and economic uncertainty, many of us are searching for…",
+   "url": "https://www.autocar.co.uk/car-news/used-cars/never-sell-again-top-30-used-cars-you-can-keep-forever",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-29T05:00:00Z"
+  },
+  {
+   "titulo": "Dashcam policing is no match for proper traffic cops",
+   "resumo": "'Op Snap' is on the rise as drivers gather their own footage of wrongdoing - but we must proceed with caution The ubiquity of video surveillance has recently given us the glorious nickname…",
+   "url": "https://www.autocar.co.uk/opinion/features/dashcam-policing-no-match-proper-traffic-cops",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-29T04:00:00Z"
+  },
+  {
+   "titulo": "The official 2026 NASCAR O'Reilly Chase for the championship field after points reset",
+   "resumo": "Justin Allgaier's massive 229-point lead is gone, replaced with a 25-point buffer as the Chase field is reset for the final nine races of the 2026 NASCAR O'Reilly Auto Parts Series season…",
+   "url": "https://www.motorsport.com/nascar-os/news/the-official-2026-nascar-oreilly-chase-for-the-championship-field-after-points-reset/10850303/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-29T02:28:54Z"
+  },
+  {
+   "titulo": "Ryan Sieg wins first NASCAR O'Reilly race after 13 years of trying",
+   "resumo": "13 years, 424 starts, and five runner-up finishes later -- Ryan Sieg has finally won a NASCAR O'Reilly Auto Parts Series race, driving the No. 38 RSS Racing Chevrolet into victory lane at…",
+   "url": "https://www.motorsport.com/nascar-os/news/ryan-sieg-finally-wins-nascar-oreilly-daytona/10850290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-29T02:11:47Z"
+  },
+  {
+   "titulo": "Jeep Recon EV Has More Power Than Originally Announced",
+   "resumo": "The Recon has an extra 20 hp and some dealers are already offering discounts",
+   "url": "https://www.carscoops.com/2026/08/jeep-recon-updated-specs/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-29T00:44:00Z"
+  },
+  {
+   "titulo": "What was behind WRC Paraguay’s eventful Friday?",
+   "resumo": "Four-time world champion Juha Kankkunen says he can’t remember a day as eventful as a series of tyre issues and crashes headlined Friday’s action at Rally Paraguay WRC crews had predicted…",
+   "url": "https://www.autosport.com/wrc/news/what-was-behind-wrc-paraguays-eventful-friday/10850292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-28T23:59:12Z"
+  },
+  {
+   "titulo": "High tyre wear blamed for WRC Paraguay punctures and delaminations",
+   "resumo": "Four-time world champion Juha Kankkunen says he can’t remember a day as eventful as a series of tyre issues and crashes headlined Friday’s action at Rally Paraguay WRC crews had predicted…",
+   "url": "https://www.motorsport.com/wrc/news/high-tyre-wear-blamed-for-wrc-paraguay-punctures-and-delaminations/10850288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-28T23:55:26Z"
+  },
+  {
+   "titulo": "Half Of All BMW M2 Buyers In America Are Still Rowing Their Own Gears",
+   "resumo": "Strong demand for BMW M models with a manual gearbox proves enthusiasts still want to shift their own gears",
+   "url": "https://www.carscoops.com/2026/08/bmw-m2-manual-sales-usa/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-28T23:55:00Z"
+  },
+  {
+   "titulo": "WRC Paraguay: Pajari leads as spate of punctures shake up leaderboard",
+   "resumo": "Sami Pajari claimed the Rally Paraguay lead after emerging from a punishing opening day headlined by a series of punctures and crashes that shook up the World Rally Championship…",
+   "url": "https://www.autosport.com/wrc/news/wrc-paraguay-sami-pajari-leads-after-tyre-failures-reshape-order/10850285/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-28T23:42:39Z"
+  },
+  {
+   "titulo": "Next-Gen Lexus EV Arrives Soon With Gigacasting Tech",
+   "resumo": "Lexus is taking a page from Tesla and embracing a new production method to make EVs more efficient",
+   "url": "https://www.carscoops.com/2026/08/next-gen-lexus-ev-china/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-28T23:06:00Z"
+  },
+  {
+   "titulo": "Pajari leads Paddon after demanding Friday at Rally del Paraguay",
+   "resumo": "Sport news Following Thursday evening’s ceremonial start in Encarnación, crews faced eight stages on Friday, with tyre problems and incidents affecting several of the leading Rally1…",
+   "url": "https://www.fia.com/news/pajari-leads-paddon-after-demanding-friday-rally-del-paraguay",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-28T23:04:00Z"
+  },
+  {
+   "titulo": "Lucid Air Recall Has Owners Parking Outside While Software Plays Firefighter",
+   "resumo": "More than 27,000 Air sedans need an update after lighting circuits proved capable of getting far too hot",
+   "url": "https://www.carscoops.com/2026/08/lucid-air-recall-ota-update/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-28T22:17:00Z"
+  },
   {
    "titulo": "GTA VI Will Finally Let You Role Play in Traffic, Blinkers and All",
    "resumo": "After over a decade of waiting, we’ve finally gotten our first look at the streets of Vice City.",
@@ -68,26 +218,6 @@
    "data": "2026-08-28T20:56:37Z"
   },
   {
-   "titulo": "Ford Dealership Group Wants To Avoid Delays By Using Autonomous Drones To Deliver Car Parts",
-   "resumo": "The program comes as part of Michigan's efforts to accelerate the development of air mobility technologies",
-   "url": "https://www.carscoops.com/2026/08/autonomous-drones-delivering-car-parts/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T20:39:00Z"
-  },
-  {
-   "titulo": "Why WEC can’t simply replace BoP with a Formula 1-style cost cap",
-   "resumo": "In Formula 1, the budget cap has been a fixed part of the regulations since 2021. But the same model cannot simply be transferred to the FIA WEC, say sources at Toyota and Porsche. While…",
-   "url": "https://www.motorsport.com/wec/news/why-wec-cant-simply-replace-bop-with-a-formula-1-style-cost-cap/10850258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T20:13:46Z"
-  },
-  {
    "titulo": "WRC, Rali do Paraguai/PEC7: Sami Pajari é o novo líder, uma vergonha a quantidade de furos",
    "resumo": "A especial ficou marcada por uma nova espetacular reviravolta na liderança da prova, com Elfyn Evans (Toyota GR Yaris Rally1) a sofrer problemas de delaminação no pneu traseiro direito que…",
    "url": "https://www.autosport.pt/ralis/wrc-rali-do-paraguai-pec7-sami-pajari-e-o-novo-lider-uma-vergonha-a-quantidade-de-furos/",
@@ -96,16 +226,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-08-28T20:03:13Z"
-  },
-  {
-   "titulo": "Jeep Cherokee Trailhawk Proves Its Off-Road Mettle In New Teaser Video",
-   "resumo": "Jeep's redesigned Cherokee is getting some much needed off-road capability",
-   "url": "https://www.carscoops.com/2026/08/jeep-cherokee-trailhawk-teaser-video/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T19:50:00Z"
   },
   {
    "titulo": "2027 Genesis GV80 Hybrid",
@@ -118,16 +238,6 @@
    "data": "2026-08-28T19:42:04Z"
   },
   {
-   "titulo": "Austin Hill was content staying in NASCAR O'Reilly but embraces Cup role",
-   "resumo": "Austin Hill would have been content to remain in the NASCAR O’Reilly Series under a different set of circumstances. Richard Childress Racing named Hill as the full-time driver of the Cup…",
-   "url": "https://www.motorsport.com/nascar-cup/news/austin-hill-was-content-staying-in-nascar-oreilly-but-embraces-cup-role-/10850256/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T19:41:19Z"
-  },
-  {
    "titulo": "2027 Genesis Electrified GV70",
    "resumo": "Review, Pricing, and Specs",
    "url": "https://www.caranddriver.com/genesis/electrified-gv70-2027",
@@ -136,16 +246,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-28T19:23:26Z"
-  },
-  {
-   "titulo": "Hyundai’s New Mid-Size Hilux And Ranger Rival Could Skip The Plain Gas Engine",
-   "resumo": "Hyundai used its Investor Day to confirm the body-on-frame pickup it has been teasing, and the powertrain could be the headline",
-   "url": "https://www.carscoops.com/2026/08/hyundai-pickup-truck-powertrain/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T19:01:00Z"
   },
   {
    "titulo": "WRC, Rali do Paraguai/PEC6: Hayden Paddon fura, Elfyn Evans líder",
@@ -158,26 +258,6 @@
    "data": "2026-08-28T18:44:55Z"
   },
   {
-   "titulo": "IndyCar dismisses Barranquilla Mayor’s confirmation of 2028 race in Colombia",
-   "resumo": "IndyCar has poured cold water on claims made by Barranquilla Mayor Alejandro Char, who publicly announced that the Colombian city had secured an IndyCar event set for April 2028. Speaking…",
-   "url": "https://www.motorsport.com/indycar/news/indycar-dismisses-barranquilla-mayors-confirmation-of-2028-race-in-colombia/10850248/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T18:25:46Z"
-  },
-  {
-   "titulo": "eBay To Ban Airbag Sales After Counterfeits Kill Drivers",
-   "resumo": "Counterfeit airbags are a deadly problem, but eBay is working to reduce their spread",
-   "url": "https://www.carscoops.com/2026/08/ebay-airbag-sales-ban/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T18:12:00Z"
-  },
-  {
    "titulo": "WRC, Rali do Paraguai/PEC5: Elfyn Evans passa para segundo!",
    "resumo": "A especial ficou marcada por trocas de posição na frente da prova, com Josh McErlean (Ford Puma Rally1) a perder o segundo lugar para Elfyn Evans (Toyota GR Yaris Rally1) após concluir o…",
    "url": "https://www.autosport.pt/ralis/wrc-rali-do-paraguai-pec5-elfyn-evans-passa-para-segundo/",
@@ -188,16 +268,6 @@
    "data": "2026-08-28T18:04:02Z"
   },
   {
-   "titulo": "James Vowles reveals Williams' \"huge number of projects\" to fix 2026 problems",
-   "resumo": "Williams team principal James Vowles says the Grove outfit is running a \"huge number of projects\" to rectify development mistakes made last winter that are still compromising its 2026…",
-   "url": "https://www.motorsport.com/f1/news/james-vowles-reveals-williams-huge-number-of-projects-to-fix-2026-problems/10850083/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T18:00:02Z"
-  },
-  {
    "titulo": "What a 13-Month Scout Rebuild Taught Me",
    "resumo": "There’s a scene that replays in my head often, one I can’t quite let slip by. It’s from late September 2024. I was lying on my side, welding, in the back of my 1976 International Scout…",
    "url": "https://www.hagerty.com/media/opinion/what-a-13-month-scout-rebuild-taught-me/",
@@ -206,16 +276,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-28T18:00:00Z"
-  },
-  {
-   "titulo": "Francesco Bagnaia stopped on track to “calm down” after frustrating Aragón practice",
-   "resumo": "Francesco Bagnaia says he deliberately stopped on track after Aragon Grand Prix practice to calm down, becoming “frustrated with himself” over his failure to secure a berth in Q2. The…",
-   "url": "https://www.motorsport.com/motogp/news/francesco-bagnaia-stopped-on-track-to-calm-down-after-frustrating-aragon-practice/10850243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T17:52:44Z"
   },
   {
    "titulo": "Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open",
@@ -276,6 +336,16 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-28T16:43:11Z"
+  },
+  {
+   "titulo": "ETRC: Kiss the Most master for thrilling pole position",
+   "resumo": "Sport news In a session made even more enthralling by rain, Hungarian Kiss edged out Portugal’s José Eduardo Rodrigues for top spot as German driver Sascha Lenz kept up his title challenge…",
+   "url": "https://www.fia.com/news/etrc-kiss-most-master-thrilling-pole-position",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-28T16:17:00Z"
   },
   {
    "titulo": "Mitsubishi Has 7 New Models Coming Soon. Here's All Of Them",
@@ -468,14 +538,14 @@
    "data": "2026-08-28T12:22:48Z"
   },
   {
-   "titulo": "Ukraine files complaint to FIA ethics committee after Russian ban lift",
-   "resumo": "Ukraine has lodged a formal complaint to the FIA ethics committee following the lift to the ban on Russian competitors in international motorsport. The Ukrainian Automobile Federation (FAU)…",
-   "url": "https://www.autosport.com/general/news/ukraine-files-complaint-to-fia-ethics-committee-after-russian-ban-lift/10850119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
+   "titulo": "Euro RX of France Preview",
+   "resumo": "Sport news This year's event carries extra significance as Lohéac celebrates the 50th anniversary of France's most famous rallycross venue. Widely regarded as the birthplace of French…",
+   "url": "https://www.fia.com/news/euro-rx-france-preview",
+   "fonte": "FIA",
+   "dominio": "fia.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-08-28T12:10:43Z"
+   "data": "2026-08-28T12:12:00Z"
   },
   {
    "titulo": "Cinco carros usados até 5000 euros que ainda valem a pena",
@@ -546,76 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-28T09:18:44Z"
-  },
-  {
-   "titulo": "Kia EV2",
-   "resumo": "Kia has dived head first into a supermini-sized EV sector – can the EV2 take the fight to Renault, Skoda and VW? It’s already clear that Kia’s latest and smallest electric SUV, the Kia EV2…",
-   "url": "https://www.autocar.co.uk/car-review/kia/ev2",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T08:00:25Z"
-  },
-  {
-   "titulo": "New Mercedes-AMG CLA packs C63 power for £34k less",
-   "resumo": "CLA 45 goes electric with supercar-baiting pace, choice of saloon or estate and 416-mile range The new Mercedes-AMG CLA 45 is as powerful as the outgoing C63 – yet £34,000 less than the…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/new-mercedes-amg-cla-packs-c63-power-%C2%A334k-less",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T08:00:00Z"
-  },
-  {
-   "titulo": "For Sale: A Beautiful 1971 Honda Z50A “Mini Trail”",
-   "resumo": "This is a 1971 Honda Z50A Mini Trail, it’s an original “Monkey Bike” with that classic chrome fuel tank, knobby tires, and a thick... The post For Sale: A Beautiful 1971 Honda Z50A “Mini…",
-   "url": "https://silodrome.com/honda-z50a-mini-trail/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-28T06:30:30Z"
-  },
-  {
-   "titulo": "Toyota Celica set to be revived as AWD hybrid",
-   "resumo": "Long-running – and long-absent – coupé poised for a comeback as GR's new entry model Toyota is poised to bring back the Celica for an eighth generation, more than two decades after the last…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/toyota-celica-set-be-revived-awd-hybrid",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T05:00:00Z"
-  },
-  {
-   "titulo": "Motoring art: Bob Lavoie",
-   "resumo": "Motoring art: Bob Lavoie Ryan Standen Fri, 28/08/2026 - 05:31",
-   "url": "https://www.classicandsportscar.com/features/motoring-art-bob-lavoie",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-28T04:31:01Z"
-  },
-  {
-   "titulo": "Vote for your favourite classic car designers",
-   "resumo": "Vote for your favourite classic car designers Ryan Standen Fri, 28/08/2026 - 05:30",
-   "url": "https://www.classicandsportscar.com/news/vote-your-favourite-classic-car-designers",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-28T04:30:12Z"
-  },
-  {
-   "titulo": "Bizzarrini 5300 GT Strada: Giotto’s GTO",
-   "resumo": "Bizzarrini 5300 GT Strada: Giotto’s GTO Ryan Standen Fri, 28/08/2026 - 05:28",
-   "url": "https://www.classicandsportscar.com/features/bizzarrini-5300-gt-strada-giottos-gto",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-28T04:28:53Z"
   }
  ]
 }
