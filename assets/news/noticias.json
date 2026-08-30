@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-08-30T16:40:42Z",
+ "atualizado": "2026-08-30T21:05:16Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,196 @@
  ],
  "itens": [
   {
+   "titulo": "Fernando Alonso \"saved\" Aston Martin after difficult Dutch GP weekend, says Guenther Steiner",
+   "resumo": "Former Haas team principal Guenther Steiner believes Fernando Alonso is solely responsible for Aston Martin's points finish at the Dutch Grand Prix. Aston Martin arrived at Zandvoort with a…",
+   "url": "https://www.motorsport.com/f1/news/fernando-alonso-saved-aston-martin-after-difficult-dutch-gp-weekend-says-guenther-steiner/10850803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T21:00:03Z"
+  },
+  {
+   "titulo": "Pato O’Ward wins Milwaukee IndyCar Race 2 as Alex Palou denied title clinch",
+   "resumo": "Arrow McLaren’s Pato O'Ward was victorious in the second race of IndyCar’s Milwaukee Mile doubleheader. The 27-year-old Mexican recovered from an early pit-stop problem before a rapid final…",
+   "url": "https://www.motorsport.com/indycar/news/pato-oward-wins-milwaukee-indycar-race-2-as-alex-palou-denied-title-clinch/10850860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T19:41:12Z"
+  },
+  {
+   "titulo": "Pato O’Ward Wins IndyCar’s Milwaukee Mile Race 2 While Leading Race 1",
+   "resumo": "The McLaren driver has a chance to become the first IndyCar driver to win two races in the same day when Race 2 resumes with 159 laps remaining.",
+   "url": "https://www.roadandtrack.com/news/a73563398/pato-oward-wins-indycar-milwaukee-mile-race-2-while-leading-race-1/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-30T19:25:28Z"
+  },
+  {
+   "titulo": "Aragon Grand Prix 2026 MotoGP rider rankings",
+   "resumo": "Was the star Aragon performer the rider who won or the rider who made him work for it? Here's Val Khorounzhiy's judgement",
+   "url": "https://www.the-race.com/motogp/aragon-grand-prix-2026-motogp-rider-rankings/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T19:21:15Z"
+  },
+  {
+   "titulo": "21 Rich Guys Got Genesis To Launch A Bespoke Program In The Middle East, America Is Next",
+   "resumo": "The GV90 launch revealed Genesis is tailoring its ultra-luxury One of One service for U.S. buyers",
+   "url": "https://www.carscoops.com/2026/08/genesis-one-of-one-usa/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-30T19:18:00Z"
+  },
+  {
+   "titulo": "Esta caixa de relações infinitas podia ter transformado a Fórmula 1",
+   "resumo": "Antes dos motores híbridos ou do DRS, houve uma época em que a Fórmula 1 dava às equipas uma liberdade tecnológica difícil de imaginar atualmente. E no início dos anos 90 as possibilidades…",
+   "url": "https://www.razaoautomovel.com/classicos/historia-caixa-cvt-williams-formula-1/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-30T19:11:29Z"
+  },
+  {
+   "titulo": "Lia Block earns first overall ARA U.S. National Rally win",
+   "resumo": "Taking part in the Ojibwe Forests Rally, Lia Block secured her first overall win at the top level of U.S. Rallying, competing in the American Rally Association (ARA) National Championship…",
+   "url": "https://www.motorsport.com/rally/news/lia-block-earns-first-national-us-rally-win/10850850/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T18:43:43Z"
+  },
+  {
+   "titulo": "Pajari wins Rally Paraguay to strengthen WRC title challenge",
+   "resumo": "Sami Pajari made World Rally Championship history with a third consecutive victory at Rally Paraguay, cutting Elfyn Evans’ championship lead to 20 points. After taking a maiden win in…",
+   "url": "https://www.autosport.com/wrc/news/sami-pajari-makes-wrc-history-with-third-consecutive-win-in-paraguay/10850855/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T18:33:54Z"
+  },
+  {
+   "titulo": "Sami Pajari makes WRC history with third consecutive win in Paraguay",
+   "resumo": "Sami Pajari made World Rally Championship history with a third consecutive victory at Rally Paraguay, cutting Elfyn Evans’ championship lead to 20 points. After taking a maiden win in…",
+   "url": "https://www.motorsport.com/wrc/news/sami-pajari-makes-wrc-history-with-third-consecutive-win-in-paraguay/10850852/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T18:25:55Z"
+  },
+  {
+   "titulo": "WRC, Rali do Paraguai: Terceira vitória seguida de Sami Pajari",
+   "resumo": "A nona etapa do Campeonato do Mundo de Ralis, o ueno Rally del Paraguay, transformou-se numa das provas mais brutais, caóticas e imprevisíveis da história recente da modalidade, batendo…",
+   "url": "https://www.autosport.pt/ralis/wrc-rali-do-paraguai-terceira-vitoria-seguida-de-sami-pajari/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-30T18:19:13Z"
+  },
+  {
+   "titulo": "Encontrámos 16 carros reais escondidos no último vídeo de GTA 6",
+   "resumo": "Grand Theft Auto está de regresso e depois de recuperar do choque inicial provocado por 26 minutos de um vídeo que deixou milhões colados ao ecrã, decidi ir segundo a segundo investigar…",
+   "url": "https://www.razaoautomovel.com/especial/carros-gta-6-video-extended-look/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-30T18:04:39Z"
+  },
+  {
+   "titulo": "New Maserati Biopic Features an All-Star Cast and Prewar Cars",
+   "resumo": "Al Pacino and Anthony Hopkins team up as part of the story about Maserati's 1939 and ‘40 Indy 500 wins.",
+   "url": "https://www.caranddriver.com/news/a73562728/maserati-movie-trailer/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-30T18:00:00Z"
+  },
+  {
+   "titulo": "What time is F1's 2026 Italian Grand Prix? Full weekend schedule",
+   "resumo": "All the times you need to know for Formula 1's next race - the 2026 Italian Grand Prix",
+   "url": "https://www.the-race.com/promoted/what-time-is-f1s-2026-italian-grand-prix-full-weekend-schedule/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T17:50:59Z"
+  },
+  {
+   "titulo": "GTWC: Sorensen, Drudi e Thiim vencem em Nürburgring, Winward festeja o título",
+   "resumo": "A Comtoyou, com Marco Sorensen, Mattia Drudi e Nicki Thiim (Aston Martin Vantage AMR GT3 EVO), conquistou a segunda vitória da temporada na GT World Challenge Europe na Endurance Cup, que…",
+   "url": "https://www.autosport.pt/velocidade/gtwc-sorensen-drudi-e-thiim-vencem-em-nurburgring-winward-festeja-o-titulo/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-30T17:41:05Z"
+  },
+  {
+   "titulo": "Watch as Daniel Dye climbs on top of Kyle Larson's car in last-lap Daytona crash",
+   "resumo": "It was a roller coaster weekend for Daniel Dye, who announced a multi-year, full-time NASCAR O'Reilly Auto Parts Series deal with Jordan Anderson Racing on Friday. He was also pulling…",
+   "url": "https://www.motorsport.com/nascar-cup/news/watch-as-daniel-dye-climbs-on-top-of-kyle-larson-in-last-lap-daytona-crash/10850840/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T17:35:01Z"
+  },
+  {
+   "titulo": "One In Three Owners Got A Passenger Screen And Never Once Turned It On",
+   "resumo": "Tech Experience study revealed owners love useful features hiding in the background, but not passenger displays and hands-free ADAS systems",
+   "url": "https://www.carscoops.com/2026/08/jd-power-tech-study-2026/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-30T17:24:00Z"
+  },
+  {
+   "titulo": "Lamborghini Super Trofeo Europe: Miguel Cristóvão vence em Nürburgring nos Pro-Am",
+   "resumo": "Miguel Cristóvão conquistou a primeira vitória da temporada no Lamborghini Super Trofeo Europe, na quarta ronda do campeonato, disputada no exigente circuito de Nürburgring. O piloto de…",
+   "url": "https://www.autosport.pt/velocidade/lamborghini-super-trofeo-europe-miguel-cristovao-vence-em-nurburgring-nos-pro-am/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-30T17:06:28Z"
+  },
+  {
+   "titulo": "Estudo de falha no “Modo Reta” poderá levar pilotos a terem de regressar às boxes",
+   "resumo": "O Straight Line Mode (SLM), implementado este ano, poderá levar a um regresso dos pilotos às boxes, em caso de falha do sistema, como aconteceu com Fernando Alonso no fim de semana do GP…",
+   "url": "https://www.autosport.pt/formula1/estudo-de-falha-no-modo-reta-podera-levar-pilotos-a-terem-de-regressar-as-boxes/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-08-30T16:50:37Z"
+  },
+  {
+   "titulo": "Goodyear FIA ETRC Autodrom Most raceday two round-up: Calm Steffi Halm keeps champion Kiss in Czech",
+   "resumo": "Sport news Halm joined home hero Adam Lacko on the front row of the partially-reverse Race 4 grid and was able to gain an early advantage over the chasing pack as Kiss made his move from…",
+   "url": "https://www.fia.com/news/goodyear-fia-etrc-autodrom-most-raceday-two-round-calm-steffi-halm-keeps-champion-kiss-czech",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-08-30T16:37:00Z"
+  },
+  {
    "titulo": "What Acosta was missing in Aragon GP fight with Marquez",
    "resumo": "Pedro Acosta says he would have had no tyre performance left if he had kept up with Marc Marquez in their fight for victory at the Aragon Grand Prix. The factory KTM rider produced one of…",
    "url": "https://www.autosport.com/motogp/news/what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez/10850829/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -25,26 +215,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-30T16:20:48Z"
-  },
-  {
-   "titulo": "What Pedro Acosta was missing in Aragon GP win fight with Marc Marquez",
-   "resumo": "Pedro Acosta says he would have had no tyre performance left if he had kept up with Marc Marquez in their fight for victory at the Aragon Grand Prix. The factory KTM rider produced one of…",
-   "url": "https://www.motorsport.com/motogp/news/what-pedro-acosta-was-missing-in-aragon-gp-win-fight-with-marc-marquez/10850821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T16:16:54Z"
-  },
-  {
-   "titulo": "Max Garcia surges to first-ever Indy NXT win at The Milwaukee Mile",
-   "resumo": "Max Garcia stormed to his first-ever Indy NXT win at The Milwaukee Mile. Starting ninth in the #12 Abel Motorsports entry, the 17-year-old Miami native charged through the field and took…",
-   "url": "https://www.motorsport.com/indylights/news/max-garcia-surges-to-first-ever-indy-nxt-win-at-the-milwaukee-mile/10850825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T16:16:29Z"
   },
   {
    "titulo": "Ferrari Shooting Brake único vai a leilão",
@@ -67,26 +237,6 @@
    "data": "2026-08-30T16:00:01Z"
   },
   {
-   "titulo": "WRC Paraguay: Penultimate stage cancelled after violent Takamoto Katsuta crash",
-   "resumo": "Takamoto Katsuta and co-driver Aaron Johnston have been taken to hospital for precautionary checks following a violent crash that forced organisers to cancel the penultimate stage at Rally…",
-   "url": "https://www.motorsport.com/wrc/news/wrc-paraguay-penultimate-stage-cancelled-after-violent-takamoto-katsuta-crash/10850818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T15:58:04Z"
-  },
-  {
-   "titulo": "Sequela “Dias de Trovão” com estreia marcada para 2028",
-   "resumo": "A lista de filme relacionados com o motorsport vai aumentar. Tom Cruise confirmou a sequela de “Dias de Trovão”, de 1990, que chegará aos cinemas em 2028. O ator vai voltar a interpretar…",
-   "url": "https://www.autosport.pt/maismotores/sequela-dias-de-trovao-com-estreia-marcada-para-2028/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-30T15:37:36Z"
-  },
-  {
    "titulo": "Hyundai Is Coming For The Bronco, And A Patent May Have Given The SUV Away",
    "resumo": "A patent image may have revealed what Hyundai's production Bronco fighter looks like well before its official debut",
    "url": "https://www.carscoops.com/2026/08/hyundai-boulder-off-roader/",
@@ -107,16 +257,6 @@
    "data": "2026-08-30T15:19:33Z"
   },
   {
-   "titulo": "Watch: Marc Marquez and Marco Bezzecchi's slipstream battle for Aragon GP win",
-   "resumo": "MotoGP title rivals Marc Marquez and Marco Bezzecchi have described their “scary” but “amazing” slipstream battle for victory at the Aragon Grand Prix. On lap 6 of 23, reigning world…",
-   "url": "https://www.motorsport.com/motogp/news/watch-marc-marquez-and-marco-bezzecchis-slipstream-battle-for-aragon-gp-win/10850800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T15:16:49Z"
-  },
-  {
    "titulo": "So Fancy: 1964 Jeep CJ-5A Tuxedo Park on Bring a Trailer",
    "resumo": "This was a luxury Jeep, back in the day.",
    "url": "https://www.caranddriver.com/news/a73542792/1964-jeep-cj-5a-tuxedo-park-bring-a-trailer-auction/",
@@ -135,46 +275,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-30T14:59:35Z"
-  },
-  {
-   "titulo": "WRC, Rali do Paraguai/PEC21: troço cancelado, acidente de Takamoto Katsuta",
-   "resumo": "A 21ª especial do Rali do Paraguai foi interrompida com bandeira vermelha e posteriormente cancelado na sequência de um incidente envolvendo o piloto Takamota Katsuta. O Toyota do japonês…",
-   "url": "https://www.autosport.pt/ralis/wrc-rali-do-paraguai-pec21-troco-interrompido-acidente-de-takamoto-katsuta/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-30T14:55:00Z"
-  },
-  {
-   "titulo": "Instalações da Audi elogiadas por Rob Smedley",
-   "resumo": "A Audi dá os primeiros passos na F1, com as inevitáveis dores de crescimento. Mas a capacidade técnica da equipa alemã pode catapultar a estrutura para o topo. Rob Smedley elogiou…",
-   "url": "https://www.autosport.pt/formula1/instalacoes-da-audi-elogiadas-por-rob-smedley/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-30T14:52:23Z"
-  },
-  {
-   "titulo": "WRC, Rali do Paraguai/PEC20: Oliver Solberg vence, Jon Armstrong abandona",
-   "resumo": "Oliver Solberg (Toyota GR Yaris Rally1) venceu a especial, bateu Sébastien Ogier (Toyota GR Yaris Rally1) por meio segundo com Adrien Fourmaux (Hyundai i20 N Rally1) em terceiro a 2.0s…",
-   "url": "https://www.autosport.pt/ralis/wrc-rali-do-paraguai-pec20-oliver-solberg-vence-jon-armstrong-abandona/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-08-30T14:36:44Z"
-  },
-  {
-   "titulo": "Marc Marquez reveals \"big mistake\" that made Aragon GP win \"difficult\"",
-   "resumo": "Marc Marquez has revealed he dropped from first to third on the opening lap of the Aragon Grand Prix because he failed to disengage his rear ride-height device. As was the case in…",
-   "url": "https://www.motorsport.com/motogp/news/marc-marquez-reveals-big-mistake-that-made-aragon-gp-win-difficult/10850783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T14:32:54Z"
   },
   {
    "titulo": "The Completion of IndyCar’s Rain-Delayed Race 1 of the Milwaukee Mile Doubleheader Moved After Race 2",
@@ -267,16 +367,6 @@
    "data": "2026-08-30T11:42:00Z"
   },
   {
-   "titulo": "\"How can you allow this?\" – Wolff shares Lauda story behind Hamilton's iconic F1 pole",
-   "resumo": "When Toto Wolff held his annual media session with a select group of Dutch journalists at Zandvoort, one of the topics that came up was how a Formula 1 team can get the maximum out of a…",
-   "url": "https://www.autosport.com/f1/news/how-can-you-allow-this-toto-wolff-shares-niki-lauda-story-behind-lewis-hamiltons-iconic-f1-pole/10850693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T10:11:36Z"
-  },
-  {
    "titulo": "A tale of two Peugeots: How a family feud split the company",
    "resumo": "When cousin Eugène cancelled Armand Peugeot's early car-building plans, Armand quit to start his own rival firm Visitors to the 1905 Paris motor show \"who wish above all to appreciate the…",
    "url": "https://www.autocar.co.uk/car-news/from-the-archive/tale-two-peugeots-how-family-feud-split-company",
@@ -367,16 +457,6 @@
    "data": "2026-08-30T01:34:00Z"
   },
   {
-   "titulo": "An SUV Swerved At Florida Cyclists, Then A Shot Was Fired, But Police Still Won’t Say Who",
-   "resumo": "No one was hurt after cyclists clashed with an SUV, but authorities have not named the shooter",
-   "url": "https://www.carscoops.com/2026/08/cyclists-clash-with-suv-shot-gets-fired/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-30T00:32:00Z"
-  },
-  {
    "titulo": "Jimmie Johnson Unveils Paint Scheme for His Final Daytona 500 Ahead of Coke Zero 400",
    "resumo": "Lowes returns to NASCAR as a secondary sponsor for one race, joining everyone in saying goodbye to their seven-time champion.",
    "url": "https://www.roadandtrack.com/news/a73560988/lowes-returns-jimmie-johnson-coke-zero-sugar-400-unveil-paint-scheme-final-daytona-500/",
@@ -385,16 +465,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-30T00:05:43Z"
-  },
-  {
-   "titulo": "Aston Martin’s Vantage RS Roadster Is Chasing Porsche’s Most Controversial 911",
-   "resumo": "The hardcore Vantage RS is getting an open-top sibling that trades some rigidity and weight for more noise and sunshine",
-   "url": "https://www.carscoops.com/2026/08/aston-martin-vantage-rs-roadster-scoop/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-29T22:43:00Z"
   },
   {
    "titulo": "Rytkönen masters mixed conditions to lead Euro RX1 field overnight in Lohéac",
@@ -415,26 +485,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-08-29T17:30:11Z"
-  },
-  {
-   "titulo": "Pato O’Ward Inherits Milwaukee Race 1 Pole Position Following Grid Penalties, Alex Palou on Pole for Race 2",
-   "resumo": "Nine-place grid penalties for unapproved engine changes to Palou, McLaughlin and Malukas elevate O’Ward to the pole for Saturday’s race at the Milwaukee Mile.",
-   "url": "https://www.roadandtrack.com/news/a73559809/oward-inherits-milwaukee-race-1-pole-position-grid-penalties-alex-palou-on-pole-for-race-2/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-29T16:47:27Z"
-  },
-  {
-   "titulo": "Winners and losers from MotoGP's Aragon sprint",
-   "resumo": "A 2025 throwback Marquez 1-2 in the first Aragon race, but the biggest hero was further back",
-   "url": "https://www.the-race.com/motogp/winners-and-losers-from-motogps-aragon-sprint/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-29T16:38:46Z"
   },
   {
    "titulo": "Goodyear FIA ETRC Autodrom Most raceday one round-up: Lukas beats father Jochen in Hahn 1-2 after earlier Kiss win",
@@ -497,26 +547,6 @@
    "data": "2026-08-29T14:46:25Z"
   },
   {
-   "titulo": "The EPA Approves Early Sale of Winter-Blend Fuel",
-   "resumo": "To lower gas prices, the federal government sends higher-volatility fuel grades to the pumps.",
-   "url": "https://www.caranddriver.com/news/a73559564/epa-winter-blend-fuel-early-approval-lower-gas-prices/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-29T14:12:00Z"
-  },
-  {
-   "titulo": "Marquez regains MotoGP title ground with Aragon sprint win",
-   "resumo": "Defending MotoGP champion Marc Marquez dominated the Aragon sprint after overtaking title rival Marco Bezzecchi",
-   "url": "https://www.the-race.com/motogp/marquez-regains-motogp-title-ground-with-aragon-sprint-win/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-29T13:30:39Z"
-  },
-  {
    "titulo": "1965 Mercury Comet Villager: Compact Luxury Longroof",
    "resumo": "What eventually became the 1960–69 Mercury Comet had a somewhat interesting and complicated gestation. Initially, it was supposed to be a compact companion to the Edsel line, but due to the…",
    "url": "https://www.hagerty.com/media/opinion/klockau-classics/1965-mercury-comet-villager-compact-luxury-longroof/",
@@ -547,16 +577,6 @@
    "data": "2026-08-29T10:00:00Z"
   },
   {
-   "titulo": "Guerra de tarifas entre EUA e Canadá trava investimentos",
-   "resumo": "Há poucos dias, Estados Unidos e Canadá pareciam estar a centímetros — ou polegadas — de um acordo comercial. Agora estão novamente em rota de colisão. E as tarifas entre EUA e Canadá…",
-   "url": "https://www.razaoautomovel.com/noticias/industria-tarifas-50-por-cento-eua-canada/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-29T09:56:12Z"
-  },
-  {
    "titulo": "This Is The Incredible 1:64 Scale Hot Wheels x MoMA Jaguar E-Type",
    "resumo": "This is the Hot Wheels x MoMA Jaguar E-Type Roadster, it’s a faithful 1:64 scale die cast replica of the now legendary E-Type that’s... The post This Is The Incredible 1:64 Scale Hot Wheels…",
    "url": "https://silodrome.com/hot-wheels-x-moma-jaguar-e-type/",
@@ -577,16 +597,6 @@
    "data": "2026-08-29T05:00:00Z"
   },
   {
-   "titulo": "Pajari leads Paddon after demanding Friday at Rally del Paraguay",
-   "resumo": "Sport news Following Thursday evening’s ceremonial start in Encarnación, crews faced eight stages on Friday, with tyre problems and incidents affecting several of the leading Rally1…",
-   "url": "https://www.fia.com/news/pajari-leads-paddon-after-demanding-friday-rally-del-paraguay",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-28T23:04:00Z"
-  },
-  {
    "titulo": "Homegrown: Panache, an Art Deco Revival Born North of the Border",
    "resumo": "All of the builds featured in our Homegrown series thus far have proudly waved the American flag. Take your seat for a notable exception: the just-completed Panache Art Deco coupé built by…",
    "url": "https://www.hagerty.com/media/car-profiles/homegrown-panache-an-art-deco-revival-born-north-of-the-border/",
@@ -605,16 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-08-28T18:00:00Z"
-  },
-  {
-   "titulo": "Acura Said It Wouldn't Build A Sports Car. Now The Door Is Open",
-   "resumo": "American Honda President and CEO Eiji Fujimara said of the Nexera concept: 'I would like to do this car.'",
-   "url": "https://www.motor1.com/news/806427/acura-nexera-production-version-possible/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-28T17:30:00Z"
   }
  ]
 }
