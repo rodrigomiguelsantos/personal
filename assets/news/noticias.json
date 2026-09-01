@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-08-31T22:50:29Z",
+ "atualizado": "2026-09-01T05:07:30Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,116 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Panhard PL17 vs Auto Union 1000S: joyously different",
+   "resumo": "Panhard PL17 vs Auto Union 1000S: joyously different Ryan Standen Tue, 01/09/2026 - 05:12",
+   "url": "https://www.classicandsportscar.com/features/panhard-pl17-vs-auto-union-1000s-joyously-different",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-01T04:12:43Z"
+  },
+  {
+   "titulo": "Ryan Blaney furious after getting turned by Ricky Stenhouse Jr. at Daytona: 'What the f***'",
+   "resumo": "Ryan Blaney was heading towards a strong result at Daytona on Saturday. Blaney had gotten through the initial chaos that wrecked a large portion of the field during the final lap and was…",
+   "url": "https://www.motorsport.com/nascar-cup/news/ryan-blaney-furious-after-getting-turned-by-ricky-stenhouse-jr-at-daytona-what-the-f/10851226/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-01T01:02:47Z"
+  },
+  {
+   "titulo": "Callaway’s Silverado Street Truck Could Make For An Interesting Rumble Bee Rival",
+   "resumo": "The lowered pickup has a supercharged 6.2-liter V8 pumping out 602 hp and 560 lb-ft of torque",
+   "url": "https://www.carscoops.com/2026/08/callaway-waldoch-chevy-silverado/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-01T00:41:00Z"
+  },
+  {
+   "titulo": "After Ferrari And Lamborghini Movies, Maserati Is The Latest To Get Hollywood Treatment",
+   "resumo": "Maserati: The Brothers is heading to theaters soon and will tell the story of the brand's creation and racing pedigree",
+   "url": "https://www.carscoops.com/2026/08/maserati-brothers-movie/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:42:00Z"
+  },
+  {
+   "titulo": "Já conduzimos o Opel Corsa mais potente de sempre",
+   "resumo": "O Opel Corsa GSE tem tudo para ser o sucessor elétrico dos antigos GSi e OPC. Só faltava perceber se conduz como um. Para gente de uma certa idade, o Opel Corsa GSi e, mais tarde, o Corsa…",
+   "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/opel-corsa-gse-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-31T23:07:36Z"
+  },
+  {
+   "titulo": "Menos 500 kg e tração traseira. Bentley Supersports a fundo em circuito",
+   "resumo": "Tração traseira, 666 cv e quase meia tonelada a menos. Fomos a Laguna Seca descobrir até que ponto este Bentley Supersports mudou de personalidade. Pegar num automóvel e torná-lo mais…",
+   "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/bentley-continental-gt-supersports-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-08-31T23:05:53Z"
+  },
+  {
+   "titulo": "View Photos of the 2027 Bentley Supersports",
+   "resumo": "See the interior and exterior of the 2027 Bentley Supersports from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73524414/2027-bentley-supersports-drive-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:01:00Z"
+  },
+  {
+   "titulo": "The 2027 Supersports Is Bentley’s First Real Track Star",
+   "resumo": "An extensive training regimen transforms Bentley’s luxury coupe into a toned athlete.",
+   "url": "https://www.caranddriver.com/reviews/a73545475/2027-bentley-supersports-drive/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:01:00Z"
+  },
+  {
+   "titulo": "Bentley Supersports review: a luxury missile that thrills on track",
+   "resumo": "Bentley finally answers the call to make a simpler, lighter, quicker Continental – with indulgent results It’s unlikely that the latest addition to the Bentley Continental model range was…",
+   "url": "https://www.autocar.co.uk/car-review/bentley/supersports",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:00:01Z"
+  },
+  {
+   "titulo": "First Drive: The Bentley Continental Supersports Has Hit the Gym",
+   "resumo": "It’s less powerful than its hybrid siblings, but rear-wheel drive and a diet make this the most exciting Continental so far.",
+   "url": "https://www.roadandtrack.com/reviews/a73569364/bentley-continental-supersports-has-hit-the-gym/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:00:00Z"
+  },
+  {
+   "titulo": "See Every Angle of The 2027 Bentley Continental Supersports",
+   "resumo": "",
+   "url": "https://www.roadandtrack.com/photos/a73570456/see-every-angle-of-the-2027-bentley-continental-supersports/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-08-31T23:00:00Z"
+  },
   {
    "titulo": "Think You Know The Suzuki Alto? There Are Five Different Versions On Sale Right Now",
    "resumo": "Suzuki takes a fragmented global approach to city cars, simultaneously offering multiple models with the Alto nameplate including kei hatchbacks and budget-oriented urban dwellers for…",
@@ -158,16 +269,6 @@
    "data": "2026-08-31T19:55:14Z"
   },
   {
-   "titulo": "Unifor Approves GM Deal, Will Build-Next Gen Trucks In Canada",
-   "resumo": "Blue collar employees will get annual wage increases, a big bonus, and other benefits under the new contract",
-   "url": "https://www.carscoops.com/2026/08/gm-unifor-agreement-details/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T19:46:00Z"
-  },
-  {
    "titulo": "Manual Transmissions Are Coming Back to Supercars. Not All Executives Want Them",
    "resumo": "Top brass from Lamborghini, Aston Martin, Bugatti, Porsche, and more discuss the resurgence of the third pedal with Road & Track .",
    "url": "https://www.roadandtrack.com/news/a73476664/manual-transmission-next-era-of-supercars/",
@@ -208,46 +309,6 @@
    "data": "2026-08-31T18:50:11Z"
   },
   {
-   "titulo": "The Same Renault Hatch Costs $4,700 In India And $16,000 In Brazil",
-   "resumo": "A new front end and a 10.1-inch screen modernize the Kwid, though its 1.0-liter engine and 2015 platform carry over",
-   "url": "https://www.carscoops.com/2026/08/renault-kwid-facelift/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T18:48:00Z"
-  },
-  {
-   "titulo": "George Russell \"has to win\" Italian GP to keep F1 title hopes alive, says former driver",
-   "resumo": "Mercedes driver George Russell must secure a victory at the upcoming Italian Grand Prix to keep his championship ambitions alive, according to former Formula 1 driver Jolyon Palmer…",
-   "url": "https://www.motorsport.com/f1/news/george-russell-has-to-win-italian-gp-to-keep-f1-title-hopes-alive-says-former-driver/10851171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-31T18:43:52Z"
-  },
-  {
-   "titulo": "Nissan and Honda Announce Software and Electronics Partnership",
-   "resumo": "Although the Honda and Nissan merger fell apart in early 2025, the two Japanese giants plan to work together on software-defined vehicles.",
-   "url": "https://www.caranddriver.com/news/a73571919/nissan-honda-software-electronics-partnership/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T18:35:11Z"
-  },
-  {
-   "titulo": "Ford Mustang Drivers Pick the Worst Possible Place for Alleged Street Race: Next to a Cop Car",
-   "resumo": "Police say two Mustang drivers were caught racing on a California street, earning citations and DMV referrals.",
-   "url": "https://www.roadandtrack.com/news/a73570832/ford-mustang-drivers-alleged-street-race-next-to-cop-car/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T18:22:33Z"
-  },
-  {
    "titulo": "Forthing aposta nos EREV para ganhar espaço na Europa",
    "resumo": "Ao contrário de outras marcas chinesas, que conseguiram conquistar rapidamente o seu espaço na Europa, a Forthing continua numa fase de afirmação. Mas não está propriamente parada à espera…",
    "url": "https://www.razaoautomovel.com/especial/novidades-2026-forthing/",
@@ -256,16 +317,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-31T18:10:37Z"
-  },
-  {
-   "titulo": "Texas Cops Seize 60 Vehicles Worth Over $2.8 Million in Alleged Oil Theft Ring Bust",
-   "resumo": "The alleged scheme involved 2600 barrels of petroleum, cash, and luxury watches, as well as plenty of cars and trucks.",
-   "url": "https://www.roadandtrack.com/news/a73570498/texas-cops-seize-60-vehicles-worth-2-8-million-dollars-alleged-oil-theft-ring-bust/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T17:22:39Z"
   },
   {
    "titulo": "Williams preocupada com falta de peças sobressalentes",
@@ -286,16 +337,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-08-31T16:31:35Z"
-  },
-  {
-   "titulo": "2027 Lexus IS Goes Green with New Special Edition",
-   "resumo": "It’s not more efficient, but rising sales figures mean that the sports sedan that just won’t die is back for another model year.",
-   "url": "https://www.caranddriver.com/news/a73569687/2027-lexus-is-special-edition/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-08-31T16:30:00Z"
   },
   {
    "titulo": "Sami Pajari alcança hat-trick histórico no Rali do Paraguai e olha para o campeonato: está em aberto, mas não vai ser fácil”",
@@ -346,26 +387,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-08-31T16:00:14Z"
-  },
-  {
-   "titulo": "Esta cidade portuguesa foi a primeira a proibir trotinetes partilhadas",
-   "resumo": "As trotinetes elétricas partilhadas tornaram-se presença habitual nas cidades portuguesas, funcionando como uma solução de mobilidade para pequenas deslocações. Mas a sua expansão também…",
-   "url": "https://www.razaoautomovel.com/noticias/mobilidade-trotinetes-proibicao-braga-setembro-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-31T15:56:58Z"
-  },
-  {
-   "titulo": "Parece um Audi Q5 mas é um Porsche que não ia existir",
-   "resumo": "A ambição da Porsche de ser maioritariamente elétrica até 2030 ficou para trás e obrigou a mudar de planos. O Macan a combustão, que deveria ficar consignado aos livros de história, vai…",
-   "url": "https://www.razaoautomovel.com/noticias/fotos-espia-sucessor-porsche-macan-combustao/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-08-31T15:10:18Z"
   },
   {
    "titulo": "Genesis Wants To Design One-Off Cars For American Buyers",
@@ -596,26 +617,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-08-30T16:37:00Z"
-  },
-  {
-   "titulo": "2026 FIA World Rally Championship – Rally del Paraguay– Event Review",
-   "resumo": "Sport news Please click here to view the PDF version. World Rally Championship WRC SEASON 2026 Sport Rallies 1SportWorld Rally ChampionshipRalliesSEASON 2026WRC00 Sunday, August 30, 2026…",
-   "url": "https://www.fia.com/news/2026-fia-world-rally-championship-rally-del-paraguay-event-review",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-08-30T15:15:00Z"
-  },
-  {
-   "titulo": "For Sale: An Extraordinary Chevrolet Corvair With A Mid-Mounted 350 V8",
-   "resumo": "This is a 1966 Chevrolet Corvair Monza that’s been significantly modified, the original air-cooled flat six is now long gone, replaced with a mid-mounted... The post For Sale: An…",
-   "url": "https://silodrome.com/1966-chevrolet-corvair-monza/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-08-30T12:30:12Z"
   }
  ]
 }
