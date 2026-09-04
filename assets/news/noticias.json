@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-03T21:02:03Z",
+ "atualizado": "2026-09-04T04:32:26Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,106 @@
  ],
  "itens": [
   {
+   "titulo": "Future classic: Bentley Continental GT",
+   "resumo": "Future classic: Bentley Continental GT Ryan Standen Fri, 04/09/2026 - 05:19",
+   "url": "https://www.classicandsportscar.com/features/future-classic-bentley-continental-gt",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-04T04:19:35Z"
+  },
+  {
+   "titulo": "Bristol Cars is back with its V10 Fighter",
+   "resumo": "Bristol Cars is back with its V10 Fighter Ryan Standen Fri, 04/09/2026 - 05:19",
+   "url": "https://www.classicandsportscar.com/news/bristol-cars-back-its-v10-fighter",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-04T04:19:09Z"
+  },
+  {
+   "titulo": "What VW Group Models Would You Axe?",
+   "resumo": "Volkswagen's going on a killing spree and eliminating half of their lineup, which models would you drop?",
+   "url": "https://www.carscoops.com/2026/09/what-vw-group-models-would-you-axe/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-04T00:41:00Z"
+  },
+  {
+   "titulo": "Hyundai Dealer Added $5 A Minute On Top Of $5 Per kWh On Public EV Charger To Scare Off Outsiders",
+   "resumo": "The dealer set its rates sky-high to scare off outsiders but left the charger listed as public, as one driver found out the hard way paying $418",
+   "url": "https://www.carscoops.com/2026/09/ev-dealer-charger-overpricing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T23:49:00Z"
+  },
+  {
+   "titulo": "We Talk Cars and More with the New Hosts of ‘The Grand Tour’ Reboot",
+   "resumo": "We got a super-fast interview with the enthusiastic new hosts of Amazon Prime’s popular car show.",
+   "url": "https://www.caranddriver.com/news/a73584174/grand-tour-reboot-new-hosts-interview/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T23:01:00Z"
+  },
+  {
+   "titulo": "The Remarkable Long-Lost Winner of the First Pebble Beach Concours",
+   "resumo": "Over the past five years, the best-in-show winners of the Pebble Beach Concours d’Elegance have been, in order: a 1932 Duesenberg Model J, a 1937 Mercedes-Benz 540K, a 1934 Bugatti Type 59…",
+   "url": "https://www.hagerty.com/media/car-profiles/the-remarkable-long-lost-winner-of-the-first-pebble-beach-concours/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-03T23:00:00Z"
+  },
+  {
+   "titulo": "2028 Kia Sportage Drops Disguise And Looks Like A Smaller Telluride",
+   "resumo": "The redesigned Sportage adopts a boxier shape that incorporates a few cues from the Range Rover Sport",
+   "url": "https://www.carscoops.com/2026/09/2028-kia-sportage-spied-revealing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T22:57:00Z"
+  },
+  {
+   "titulo": "Mitsubishi’s New Pajero Undercuts The Toyota Land Cruiser By Thousands",
+   "resumo": "More than 3,000 Australians registered interest in the new Pajero before Mitsubishi ever confirmed what it would cost",
+   "url": "https://www.carscoops.com/2026/09/mitsubishi-pajero-pricing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T22:05:00Z"
+  },
+  {
+   "titulo": "Volkswagen Supervisory Board Approves Plan to Reduce Model Portfolio by 50%, Cut 50,000 Jobs",
+   "resumo": "The automaker says it intends to reduce the complexity of its offerings by 75 percent, with fewer variants and stronger economies of scale.",
+   "url": "https://www.roadandtrack.com/news/a73608063/volkswagen-board-approves-plan-cut-50000-jobs-model-lineup-by-half/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T21:41:10Z"
+  },
+  {
+   "titulo": "VW Group Confirms Plans To Kill Half Its Lineup And Slash 50,000 Jobs",
+   "resumo": "Four plants are on the chopping block as part of the biggest transformation in VW Group history",
+   "url": "https://www.carscoops.com/2026/09/vw-group-confirms-steep-cuts/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-03T21:17:00Z"
+  },
+  {
    "titulo": "5 Signs You Own a Project Car",
    "resumo": "Playing with cars covers a wide variety of activities. From toys to multi-million dollar driving tours, it’s possible to engage with the automotive hobby at whatever level you like. For a…",
    "url": "https://www.hagerty.com/media/maintenance-and-tech/5-signs-you-own-a-project-car/",
@@ -28,14 +128,14 @@
    "data": "2026-09-03T21:00:00Z"
   },
   {
-   "titulo": "Bugatti Says The Tourbillon’s V16 Needs To Sound A Little ‘Dirty And Raw’",
-   "resumo": "The Tourbillon’s 9,000-rpm V16 had to sound suitably wild while still passing strict homologation testing",
-   "url": "https://www.carscoops.com/2026/09/bugatti-tourbillon-v16-sound/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
+   "titulo": "Car Deals of the Week: Labor Day Savings on Tools, Tires, and More",
+   "resumo": "Labor Day is a great time to stock up on car parts, tools, accessories, and garage gear.",
+   "url": "https://www.roadandtrack.com/gear/a71051478/car-deals-of-the-week/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-09-03T20:27:00Z"
+   "data": "2026-09-03T20:59:00Z"
   },
   {
    "titulo": "IndyCar sets new driver licensing criteria for 2027",
@@ -68,16 +168,6 @@
    "data": "2026-09-03T19:39:06Z"
   },
   {
-   "titulo": "Scout’s Latest Concepts Embrace Adventure And Luxury",
-   "resumo": "The rugged Traveler Trail-Ready concept features unique bumpers, skid plates, a winch, and meaty tires",
-   "url": "https://www.carscoops.com/2026/09/scout-mountainside-trail-ready-concepts/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T19:38:00Z"
-  },
-  {
    "titulo": "Bristol Cars Is Back from the Dead with Five V-10 Fighters",
    "resumo": "The eccentric British marque is restarting production by completing supercars left unfinished when the original company collapsed in 2011.",
    "url": "https://www.caranddriver.com/news/a73607629/bristol-cars-resurrects-five-v10-fighters/",
@@ -106,16 +196,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-03T18:59:15Z"
-  },
-  {
-   "titulo": "Gran Turismo 7’s Biggest Free Update Brings Back A Track That Vanished After GT6",
-   "resumo": "Gran Turismo 7’s free Spec IV update adds 12 cars, two circuits, Shuffle Racing, Family Mode, and the return of Autumn Ring",
-   "url": "https://www.carscoops.com/2026/09/gran-turismo-7-spec-iv-update/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T18:49:00Z"
   },
   {
    "titulo": "A Surge of U.S. Car Owners Say Their Sunroofs Are Exploding: Report",
@@ -156,16 +236,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-03T18:09:41Z"
-  },
-  {
-   "titulo": "London’s First Robotaxi Is A Ford Mustang EV, And Only 15 Exist",
-   "resumo": "Uber and Wayve have begun autonomous rides across the UK's capital, although humans are still supervising them for now",
-   "url": "https://www.carscoops.com/2026/09/ford-mustang-mach-e-uk-robotaxi/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T18:00:00Z"
   },
   {
    "titulo": "Callaway Is Back in the Street Truck Game with a New Partner",
@@ -218,16 +288,6 @@
    "data": "2026-09-03T17:41:15Z"
   },
   {
-   "titulo": "How the Corvette ZR1’s Development Led Chevy to Create a Better Stingray",
-   "resumo": "GM used the tools it created to rein in the ZR1 to make the base ‘Vette a whole lot better for the 2027 model year.",
-   "url": "https://www.roadandtrack.com/news/a73606885/chevrolet-corvette-zr1-development-led-to-a-better-c8-stingray/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T17:41:05Z"
-  },
-  {
    "titulo": "Everything we learned on day one at F1's Italian GP",
    "resumo": "Monza is the engine-dominated track on the F1 calendar - so it's little wonder engine talk dominated conversations in the paddock on Thursday",
    "url": "https://www.the-race.com/formula-1/everything-we-learned-f1-2026-italian-gp-day-one/",
@@ -268,16 +328,6 @@
    "data": "2026-09-03T17:15:00Z"
   },
   {
-   "titulo": "Dodge Will Sell You A 2011 SUV In A Very Nice 2027 Shade Of Blue",
-   "resumo": "After Dark can look bright blue in sunlight and nearly black in shadow, joining eight other Durango colors",
-   "url": "https://www.carscoops.com/2026/09/dodge-durango-after-dark-color/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T17:11:00Z"
-  },
-  {
    "titulo": "What's behind Haas's uncomfortable engine upgrade split at Italian GP",
    "resumo": "Haas is in an unusual situation at the Italian GP - as only one of its drivers can use Ferrari's upgraded F1 engine",
    "url": "https://www.the-race.com/formula-1/haas-unusual-f1-engine-upgrade-split-italian-gp-ferrari-aduo/",
@@ -296,16 +346,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-03T17:06:31Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Land Rover Range Rover Sport Hybrid Battersea Edition",
-   "resumo": "See exterior photos of the Range Rover Sport Battersea Edition, named for the major district in South London.",
-   "url": "https://www.caranddriver.com/photos/a73597363/2027-land-rover-range-rover-sport-hybrid-battersea-edition-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T17:04:24Z"
   },
   {
    "titulo": "Why Monza, F1's \"Temple of Speed\", could be slower than the Hungaroring",
@@ -366,16 +406,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-03T16:30:00Z"
-  },
-  {
-   "titulo": "Analogue Automotive’s Single-Seat Lotus Elise Restomod Costs $470,000",
-   "resumo": "It may not be a bargain, but the Analogue Automotive VHPK has certainly added some lightness to the Elise.",
-   "url": "https://www.roadandtrack.com/news/a73605948/analogue-automotive-single-seat-lotus-elise-restomod-470000-dollars/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-03T16:25:59Z"
   },
   {
    "titulo": "The 1971–73 Buick Riviera Makes a Bold Statement for Medium Dollars",
@@ -488,16 +518,6 @@
    "data": "2026-09-03T13:19:38Z"
   },
   {
-   "titulo": "2027 Corvette Grand Sport and Grand Sport X Review: Best for Last",
-   "resumo": "The eighth generation of the Corvette is entering its eighth model year, and like any baseball game that is winding down, it’s time to send in the closer. Welcome the Grand Sport, a…",
-   "url": "https://www.hagerty.com/media/new-car-reviews/2027-corvette-grand-sport-and-grand-sport-x-review-best-for-last/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-03T13:01:00Z"
-  },
-  {
    "titulo": "Handling, ride, MPG... We should also rate 'smell' in new car reviews",
    "resumo": "Geely EX2: Nice enough, but why does it smell like that? Follow your nose: How an aroma can shape your entire impression of a new car In a typical Autocar review, we will discuss…",
    "url": "https://www.autocar.co.uk/opinion/new-cars/handling-ride-mpg-we-should-also-rate-smell-new-car-reviews",
@@ -508,8 +528,8 @@
    "data": "2026-09-03T13:00:00Z"
   },
   {
-   "titulo": "Forgotten American Supercar For Sale: A 1980 Manta Mirage",
-   "resumo": "This is an original 1980 Manta Mirage, it’s a largely forgotten mid-engined supercar from the 1970s and 1980s. It has a tubular steel spaceframe... The post Forgotten American Supercar For…",
+   "titulo": "The Affordable American Supercar: A Rare 1980 Manta Mirage",
+   "resumo": "This is an original 1980 Manta Mirage, it’s a largely forgotten mid-engined supercar from the 1970s and 1980s. It has a tubular steel spaceframe... The post The Affordable American…",
    "url": "https://silodrome.com/manta-mirage-supercar/",
    "fonte": "Silodrome",
    "dominio": "silodrome.com",
@@ -596,26 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-03T06:30:01Z"
-  },
-  {
-   "titulo": "10 unusual homologation specials",
-   "resumo": "10 unusual homologation specials Ryan Standen Thu, 03/09/2026 - 04:58",
-   "url": "https://www.classicandsportscar.com/gallery/10-unusual-homologation-specials",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-03T03:58:45Z"
-  },
-  {
-   "titulo": "Ford vs Ferrari: inside the October 2026 Classic & Sports Car",
-   "resumo": "Ford vs Ferrari: inside the October 2026 Classic & Sports Car Lizzie Pope Thu, 03/09/2026 - 04:58",
-   "url": "https://www.classicandsportscar.com/news/ford-vs-ferrari-inside-october-2026-classic-sports-car",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-03T03:58:10Z"
   }
  ]
 }
