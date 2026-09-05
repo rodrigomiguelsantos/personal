@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-05T04:27:52Z",
+ "atualizado": "2026-09-05T10:34:49Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,186 @@
  ],
  "itens": [
   {
+   "titulo": "FIA's Court of Appeal responds to Flavio Briatore bias allegations",
+   "resumo": "The International Court of Appeal defended and clarified the appointment of its judges in the Monaco Grand Prix appeal amid allegations by Alpine boss Flavio Briatore that one of the judges…",
+   "url": "https://www.motorsport.com/f1/news/fias-court-of-appeal-responds-flavio-briatore-bias-allegations/10852490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T10:17:26Z"
+  },
+  {
+   "titulo": "F2 reveals revised car to reflect F1 2026 changes",
+   "resumo": "F2 has revealed a heavily modified car for the coming seasons, bringing it closer to the look of F1's current machine",
+   "url": "https://www.the-race.com/junior/f2-reveals-revised-car-in-line-with-f1-2026-changes/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T09:53:34Z"
+  },
+  {
+   "titulo": "Futuro do WRC em análise: A missão de Éric Boullier",
+   "resumo": "Éric Boullier chega ao WRC com uma experiência construída sobretudo no ambiente dos circuitos e da Fórmula 1. Ao longo da sua carreira, desempenhou funções de direção em equipas como a…",
+   "url": "https://www.autosport.pt/ralis/futuro-do-wrc-em-analise-a-missao-de-eric-boullier/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T09:48:58Z"
+  },
+  {
+   "titulo": "FIA appeal court issues firm response in wake of Briatore claims",
+   "resumo": "The FIA International Court of Appeal has defended its processes in the wake of Flavio Briatore's comments that appeared to question the independence of a judge",
+   "url": "https://www.the-race.com/formula-1/fia-ica-statement-after-flavio-briatore-court-of-appeal-comments/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T09:45:58Z"
+  },
+  {
+   "titulo": "Futuro do WRC em análise: reconstruir o Mundial de Ralis como produto global",
+   "resumo": "Éric Boullier, diretor executivo do promotor do Campeonato do Mundo de Ralis, deu uma entrevista à televisão belga RTBF onde traçou várias linhas orientadoras para o futuro do WRC e o…",
+   "url": "https://www.autosport.pt/sem-categoria/futuro-do-wrc-em-analise-reconstruir-o-mundial-de-ralis-como-produto-global/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T09:37:49Z"
+  },
+  {
+   "titulo": "FIA Formula 2 unveils its new car for the 2027-2029 seasons",
+   "resumo": "FIA news Building on the success of the current generation, the F2 2027 car represents a significant evolution designed to further strengthen the Championship’s role as the final step on…",
+   "url": "https://www.fia.com/news/fia-formula-2-unveils-its-new-car-2027-2029-seasons",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T09:27:00Z"
+  },
+  {
+   "titulo": "Pol Espargaro warns 'MotoGP riders not aware of the change coming with 2027 tyres'",
+   "resumo": "Pol Espargaro, who is developing KTM's new 850cc prototype, has warned that MotoGP riders are \"not aware of the change that is coming\" next year as part of a sweeping overhaul of the…",
+   "url": "https://www.motorsport.com/motogp/news/espargaro-warns-motogps-2027-tyre-switch-will-be-wild/10851569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T09:23:24Z"
+  },
+  {
+   "titulo": "F1: Isack Hadjar fala em “pódio ainda mais doce” do Mónaco",
+   "resumo": "Isack Hadjar recuperou de forma oficial o terceiro lugar do Grande Prémio de Mónaco, depois de a Red Bull ter levado o caso ao Tribunal Internacional de Recurso da FIA e ter conseguido…",
+   "url": "https://www.autosport.pt/formula1/f1-isack-hadjar-fala-em-podio-ainda-mais-doce-do-monaco/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T09:15:00Z"
+  },
+  {
+   "titulo": "Continuidade do Rali Safari no WRC em risco por falta de financiamento",
+   "resumo": "O Safari Rally Kenya corre o risco de perder o seu lugar no calendário do Campeonato do Mundo de Ralis do próximo ano, devido à decisão do governo queniano de cessar o investimento público…",
+   "url": "https://www.autosport.pt/ralis/continuidade-do-rali-safari-no-wrc-em-risco-por-falta-de-financiamento/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T09:01:48Z"
+  },
+  {
+   "titulo": "What F1 teams' Monza deployment patterns have revealed",
+   "resumo": "The 2026 F1 cars are displaying plenty of telling differences in energy deployment at the energy-starved Monza",
+   "url": "https://www.the-race.com/formula-1/f1-teams-monza-italian-gp-early-energy-depoyment-patterns/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T08:49:34Z"
+  },
+  {
+   "titulo": "Volkswagen adia mais decisões difíceis",
+   "resumo": "O Grupo Volkswagen, depois de anunciar esta quinta-feira uma reestruturação que poderá eliminar cerca de 100.000 empregos, reduzir para metade a gama de automóveis e deixar quatro fábricas…",
+   "url": "https://www.autosport.pt/automais/volkswagen-adia-mais-decisoes-dificeis/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T08:40:04Z"
+  },
+  {
+   "titulo": "New WRC constructor begins testing 2027 car",
+   "resumo": "Project Rally One has commenced testing its all-new 2027 World Rally Championship challenger ahead of its debut next year. Founded by experienced motorsport engineer Lionel Hansen, former…",
+   "url": "https://www.motorsport.com/wrc/news/new-wrc-constructor-begins-testing-2027-car/10852434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T08:35:52Z"
+  },
+  {
+   "titulo": "Red Bull urged to keep Liam Lawson for Spanish GP as Isack Hadjar recovers from injury",
+   "resumo": "Former Formula 1 driver Juan Pablo Montoya believes Red Bull should retain Liam Lawson for next week's inaugural Spanish Grand Prix in Madrid, warning the team against prematurely rushing…",
+   "url": "https://www.motorsport.com/f1/news/red-bull-urged-to-keep-liam-lawson-for-spanish-gp-as-isack-hadjar-recovers-from-injury/10852301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T08:00:04Z"
+  },
+  {
+   "titulo": "Why Kimi Antonelli’s Italian GP recovery may be tougher than expected",
+   "resumo": "When Mercedes put sentiment to one side and made the rational decision to let Kimi Antonelli take a fifth Formula 1 power unit in his home race, landing him a back-of-the-grid start for…",
+   "url": "https://www.motorsport.com/f1/news/why-kimi-antonellis-italian-gp-recovery-may-be-tougher-than-expected/10852359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T08:00:04Z"
+  },
+  {
+   "titulo": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
+   "resumo": "Charles Leclerc is expecting to give Ferrari team-mate Lewis Hamilton a tow in Italian Grand Prix qualifying, with Kimi Antonelli ready to help Formula 1 title rival George Russell at…",
+   "url": "https://www.autosport.com/f1/news/why-charles-leclerc-is-likely-to-tow-lewis-hamilton-in-italian-gp-qualifying/10852255/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T07:12:06Z"
+  },
+  {
+   "titulo": "Why the supercar elite aren't scared of China's 1500bhp EVs",
+   "resumo": "Denza and GWM are going after European stalwarts with mega-power supercars – and it could be a good thing Denza has premium aspirations for its European launch. First to arrive is a GT…",
+   "url": "https://www.autocar.co.uk/opinion/new-cars/why-supercar-elite-arent-scared-chinas-1500bhp-evs",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T07:00:00Z"
+  },
+  {
+   "titulo": "Super-SUV showdown: Porsche Cayenne EV vs Polestar and BMW",
+   "resumo": "Porsche Cayenne has beaten all comers for decades in ICE form - let's see if the EV follows suit Can a big premium electric car really do it all? You might be pondering that question…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/super-suv-showdown-porsche-cayenne-ev-vs-polestar-and-bmw",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T07:00:00Z"
+  },
+  {
+   "titulo": "Made In England! The 2026 CCM Street Moto 600",
+   "resumo": "This is a CCM Street Moto 600, it’s a modern production motorcycle you may never have seen before, as the company that built it... The post Made In England! The 2026 CCM Street Moto 600…",
+   "url": "https://silodrome.com/ccm-street-moto-600/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-05T06:30:39Z"
+  },
+  {
    "titulo": "The UK Needs A New Military Vehicle And Land Rover Is Answering The Call",
    "resumo": "The Defender Wolf Series II is competing for a new Ministry of Defense contract and aims to succeed the original Defender Wolf",
    "url": "https://www.carscoops.com/2026/09/land-rover-defender-wolf-series-ii/",
@@ -25,16 +205,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-05T00:06:00Z"
-  },
-  {
-   "titulo": "WEC Austin FP2: Aston Martin tops both classes with Tincknell and Robichon",
-   "resumo": "Aston Martin topped both classes at the end of Free Practice 2 for the Lone Star Le Mans, as the FIA World Endurance Championship field returned to action in Austin under cloudy skies and…",
-   "url": "https://www.motorsport.com/wec/news/wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon/10852392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T23:14:41Z"
   },
   {
    "titulo": "Florida Loved Its License Plate Cameras. Now It’s Tearing Them Down",
@@ -75,16 +245,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T20:43:42Z"
-  },
-  {
-   "titulo": "\"He is full of sh*t\": Pato O’Ward blasts departing Arrow McLaren teammate Christian Lundgaard",
-   "resumo": "Tensions within Arrow McLaren have boiled over ahead of the IndyCar season finale at Laguna Seca, as Pato O’Ward issued a blistering response to departing teammate Christian Lundgaard over…",
-   "url": "https://www.motorsport.com/indycar/news/he-is-full-of-sht-pato-oward-blasts-departing-arrow-mclaren-teammate-christian-lundgaard/10852363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T20:12:59Z"
   },
   {
    "titulo": "Seat Says They’re Not Dead, But Might Not Survive Either",
@@ -137,16 +297,6 @@
    "data": "2026-09-04T19:15:46Z"
   },
   {
-   "titulo": "Ferrari leads WEC Austin FP1 with Antonio Giovinazzi ahead of Antonio Fuoco",
-   "resumo": "The 2026 FIA World Endurance Championship resumed at Austin on Friday with opening practice for the Lone Star Le Mans, as Antonio Giovinazzi set the fastest overall time in the Hypercar…",
-   "url": "https://www.motorsport.com/wec/news/ferrari-leads-wec-austin-fp1-with-antonio-giovinazzi-ahead-of-antonio-fuoco/10852351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T18:49:29Z"
-  },
-  {
    "titulo": "The Dodge Durango Gets Darker For 2027 With New Paint",
    "resumo": "Dodge keeps finding ways to upgrade its ancient V8-powered three-row SUV.",
    "url": "https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/",
@@ -157,16 +307,6 @@
    "data": "2026-09-04T18:30:00Z"
   },
   {
-   "titulo": "Carros elétricos: 36,1% do mercado nacional",
-   "resumo": "As matrículas de automóveis aumentaram 11,3% em agosto,em comparação com o mesmo período de 2025,e os carros com motorizações elétricas foram os protagonistas do mês, com um crescimento de…",
-   "url": "https://www.autosport.pt/automais/carros-eletricos-361-do-mercado-nacional-2/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-04T18:14:32Z"
-  },
-  {
    "titulo": "Gasly Loses Monaco P3 Again, Alpine Boss Briatore Slams Appeals Board Lawyer",
    "resumo": "Flavio Briatore made allegations about the process that cost Gasly his Monaco result shortly after the ruling.",
    "url": "https://www.roadandtrack.com/news/a73617727/gasly-loses-monaco-p3-again-alpine-boss-briatore-slams-appeals-board-lawyer/",
@@ -175,16 +315,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T18:07:13Z"
-  },
-  {
-   "titulo": "\"We clearly have an issue\" – Red Bull responds to Max Verstappen's radio complaints",
-   "resumo": "Friday ahead of the Formula 1 Italian Grand Prix was far from trouble-free for Red Bull. There had been hope beforehand that Monza’s layout would suit the team better than Zandvoort, but…",
-   "url": "https://www.motorsport.com/f1/news/we-clearly-have-an-issue-red-bull-responds-to-max-verstappens-radio-complaints/10852336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T18:00:11Z"
   },
   {
    "titulo": "View Exterior Photos of the 2027 Ram 2500 HD Power Wagon",
@@ -215,16 +345,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T18:00:00Z"
-  },
-  {
-   "titulo": "F1 Italian GP: Saturday schedule, weather forecast and how to watch",
-   "resumo": "Formula 1 heads into Saturday at Monza with George Russell fastest after second practice for the Italian Grand Prix. The Mercedes driver beat Ferrari’s Charles Leclerc by 0.120s in FP2…",
-   "url": "https://www.motorsport.com/f1/news/f1-italian-gp-saturday-schedule-weather-forecast-and-how-to-watch/10852320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T17:50:38Z"
   },
   {
    "titulo": "Tested: 2027 Corvette Stingray Packs a Bigger Punch",
@@ -287,26 +407,6 @@
    "data": "2026-09-04T16:41:59Z"
   },
   {
-   "titulo": "Winners and losers from Italian GP F1 practice",
-   "resumo": "The Italian GP is a big weekend for two of F1's biggest teams and their drivers. Here's where they slot into our pick of Friday winners and losers",
-   "url": "https://www.the-race.com/formula-1/winners-losers-f1-2026-italian-gp-practice/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T16:41:37Z"
-  },
-  {
-   "titulo": "Williams to sell jewellery made from F1 cars",
-   "resumo": "Williams has turned retired F1 car components into a new range of jewellery through a partnership with RESS.",
-   "url": "https://www.the-race.com/extra/williams-to-sell-jewellery-made-from-2025-cars/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T16:17:32Z"
-  },
-  {
    "titulo": "FREC: Olivieri on pole, breakthrough for Štolcermanis",
    "resumo": "Sport news Lining up in Group B, Olivieri’s effort of 1m39.227s for R-ace GP proved the time to beat as Štolcermanis (Prema Racing) headed Group A – which was shortened in the closing…",
    "url": "https://www.fia.com/news/frec-olivieri-pole-breakthrough-stolcermanis",
@@ -315,16 +415,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-04T16:17:00Z"
-  },
-  {
-   "titulo": "SEAT pode desaparecer em 2029",
-   "resumo": "Documentos internos do Grupo Volkswagen apontam para o fim da SEAT como marca de automóveis até ao final de 2029 e para a transferência de recursos para a CUPRA. Oficialmente, a subsidiária…",
-   "url": "https://www.autosport.pt/automais/seat-pode-desaparecer-em-2029/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-04T16:15:00Z"
   },
   {
    "titulo": "Subida brutal dos combustíveis pode levar gasóleo a novo recorde",
@@ -347,16 +437,6 @@
    "data": "2026-09-04T16:00:00Z"
   },
   {
-   "titulo": "Flavio Briatore e Andrea Stella trocam acusações sobre decisão do Tribunal Internacional de Recurso",
-   "resumo": "O consultor executivo da Alpine, Flavio Briatore, criticou a imparcialidade de um dos juízes do Tribunal Internacional de Recurso da FIA na sequência da decisão que retirou a Pierre Gasly o…",
-   "url": "https://www.autosport.pt/formula1/flavio-briatore-e-andrea-stella-trocam-acusacoes-sobre-decisao-do-tribunal-internacional-de-recurso/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-04T15:58:56Z"
-  },
-  {
    "titulo": "Dacia suspende novo familiar para acelerar nos elétricos",
    "resumo": "Numa altura em que a indústria automóvel hesita nos seus planos para os automóveis elétricos, a Dacia está a reforçar a aposta na eletrificação. Estão previstos quatro novos elétricos até…",
    "url": "https://www.razaoautomovel.com/noticias/industria-dacia-suspende-segmento-c-novos-eletricos-2030/",
@@ -367,16 +447,6 @@
    "data": "2026-09-04T15:42:45Z"
   },
   {
-   "titulo": "Elfyn Evans lamenta abordagem conservadora no Paraguai e vê liderança encurtar no WRC",
-   "resumo": "Elfyn Evans admitiu que adotou uma estratégia demasiado conservadora no Rali do Paraguai, após ver a sua vantagem no Campeonato do Mundo de Ralis encurtar para 20 pontos a três provas do…",
-   "url": "https://www.autosport.pt/ralis/elfyn-evans-lamenta-abordagem-conservadora-no-paraguai-e-ve-lideranca-encurtar-no-wrc/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-04T15:33:23Z"
-  },
-  {
    "titulo": "F1 – Russell tops second practice in Monza ahead of Leclerc and Antonelli",
    "resumo": "Sport news George Russell set the pace in Free Practice 2 for the 2026 FIA Formula 1 Italian Grand Prix, with the Mercedes driver finishing 0.120 seconds clear of Ferrari’s Charles Leclerc…",
    "url": "https://www.fia.com/news/f1-russell-tops-second-practice-monza-ahead-leclerc-and-antonelli",
@@ -385,26 +455,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-04T15:31:00Z"
-  },
-  {
-   "titulo": "Kia antecipa estreia do PV7",
-   "resumo": "É o segundo modelo da gama de comerciais 100% elétricos baseados na Platform Beyond Vehicle (PBV), posiciona-se acima do PV5 e propõe ainda mais espaço e versatilidade. O Kia PV7 tem…",
-   "url": "https://www.autosport.pt/automais/kia-antecipa-estreia-do-pv7/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-04T15:18:00Z"
-  },
-  {
-   "titulo": "Everything you need to know about Italian GP FP2",
-   "resumo": "George Russell disappointed the Ferrari-supporting F1 crowd by setting the pace in FP2 at the Italian GP, ahead of Charles Leclerc",
-   "url": "https://www.the-race.com/formula-1/mercedes-leads-ferrari-f1-2026-italian-gp-what-you-need-to-know/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T15:15:55Z"
   },
   {
    "titulo": "F1 Italian GP: Russell beats Leclerc to top second practice",
@@ -547,16 +597,6 @@
    "data": "2026-09-04T12:00:00Z"
   },
   {
-   "titulo": "F1 – Leclerc leads Ferrari one-two in opening practice at Monza",
-   "resumo": "Sport news Charles Leclerc set the pace in Free Practice 1 for the 2026 FIA Formula 1 Italian Grand Prix, leading team-mate Lewis Hamilton in a Ferrari one-two at Monza. In front of the…",
-   "url": "https://www.fia.com/news/f1-leclerc-leads-ferrari-one-two-opening-practice-monza",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T11:56:00Z"
-  },
-  {
    "titulo": "F1 Italian GP: Leclerc heads Ferrari 1-2 in opening practice",
    "resumo": "Charles Leclerc led a Ferrari 1-2 to set the fastest time in first free practice at Formula 1's Italian Grand Prix. Leclerc's time of 1m23.008s, set on medium tyres, was quick enough to pip…",
    "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp1-report-10852157/10852157/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -575,46 +615,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T11:11:19Z"
-  },
-  {
-   "titulo": "Gasly loses Monaco GP podium as penalties reinstated following McLaren and Red Bull appeal",
-   "resumo": "Alpine Formula 1 driver Pierre Gasly has lost his Monaco Grand Prix podium finish after all, as his penalties for pitlane speeding stand, the FIA’s International Court of Appeal (ICA) has…",
-   "url": "https://www.autosport.com/f1/news/pierre-gasly-loses-monaco-gp-podium-fias-court-of-appeal-rules/10852139/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T11:02:03Z"
-  },
-  {
-   "titulo": "Lessons in survival: Merc's Joachim Zahn showed car makers how to beat a crisis",
-   "resumo": "Joachim Zahn doubled Mercedes production during the 1970s by refusing to chase reckless growth Who would envy Ola Källenius , tasked as he is with keeping the juggernaut of Mercedes-Benz…",
-   "url": "https://www.autocar.co.uk/car-news/from-the-archive/lessons-survival-mercs-joachim-zahn-showed-car-makers-how-beat-crisis",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T11:00:00Z"
-  },
-  {
-   "titulo": "Dacia scraps plan to launch third C-segment model in 2027",
-   "resumo": "Dacia had planned to follow Bigster and Striker with a third mid-sized model but will now focus on EVs Dacia has put its plans for a third C-segment model on ice to focus on developing its…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/dacia-scraps-plan-launch-third-c-segment-model-2027",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T09:49:38Z"
-  },
-  {
-   "titulo": "Jensen, Bristol, Marcos... Brit legends are back, but will they work?",
-   "resumo": "Reanimated marques have exciting plans and real driver appeal - but can they avoid the TVR trap? Perhaps this is just where we are now: forever in a loop of car company reboots, like…",
-   "url": "https://www.autocar.co.uk/opinion/new-cars/jensen-bristol-marcos-brit-legends-are-back-will-they-work",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T08:00:00Z"
   }
  ]
 }
