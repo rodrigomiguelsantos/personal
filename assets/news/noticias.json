@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-05T10:34:49Z",
+ "atualizado": "2026-09-05T15:13:18Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,14 +17,314 @@
  ],
  "itens": [
   {
-   "titulo": "FIA's Court of Appeal responds to Flavio Briatore bias allegations",
-   "resumo": "The International Court of Appeal defended and clarified the appointment of its judges in the Monaco Grand Prix appeal amid allegations by Alpine boss Flavio Briatore that one of the judges…",
-   "url": "https://www.motorsport.com/f1/news/fias-court-of-appeal-responds-flavio-briatore-bias-allegations/10852490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "F1 2026 qualifying head-to-head: Italian GP",
+   "resumo": "After every F1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so that grid…",
+   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-italian-gp/10852506/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-05T10:17:26Z"
+   "data": "2026-09-05T15:07:41Z"
+  },
+  {
+   "titulo": "F1 2026 Italian Grand Prix qualifying results",
+   "resumo": "Results from F1 qualifying for the Italian Grand Prix at Monza",
+   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-practice-results-2/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T15:03:05Z"
+  },
+  {
+   "titulo": "BTCC Croft: Cook dominates qualifying race",
+   "resumo": "Josh Cook took Saturday glory in the British Touring Car Championship at Croft with an all-the-way victory from pole position in the qualifying race. Cook only slotted his Speedworks…",
+   "url": "https://www.autosport.com/btcc/news/btcc-croft-cook-dominates-qualifying-race/10852580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T15:00:39Z"
+  },
+  {
+   "titulo": "Say ‘I Do’ to This Wild British Wedding Car on BaT",
+   "resumo": "The 1996 Imperial Landaulette is based on an Austin taxi and powered by a Nissan diesel engine.",
+   "url": "https://www.caranddriver.com/news/a73594889/british-wedding-car-bring-a-trailer-auction/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T15:00:00Z"
+  },
+  {
+   "titulo": "GP Itália F1, Q1: Pierre Gasly foi o mais rápido",
+   "resumo": "Pierre Gasly foi o destaque na Q1, com o piloto francês a colocar o seu monolugar no primeiro lugar da grelha no final desta sessão. No extremo oposto, Yuki Tsunoda e Alex Albon…",
+   "url": "https://www.autosport.pt/formula1/gp-italia-f1-q1-pierre-gasly-foi-o-mais-rapido/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T14:25:10Z"
+  },
+  {
+   "titulo": "Two Cities Are Rewarding Slow Drivers With Green Lights, Fast Ones With Red",
+   "resumo": "Instead of mailing speeders tickets, these smart traffic lights simply make speeders wait while safer drivers get the green",
+   "url": "https://www.carscoops.com/2026/09/smart-traffic-lights/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T14:22:00Z"
+  },
+  {
+   "titulo": "Nikolas Tombazis defende validade da Fórmula 2 como ‘trampolim’ para a Fórmula 1",
+   "resumo": "O Diretor de Monolugares da FIA, Nikolas Tombazis, rejeitou a ideia de que exista uma discrepância ‘intransponível’ entre os estilos de condução da Fórmula 2 e da Fórmula 1, defendendo que…",
+   "url": "https://www.autosport.pt/velocidade/nikolas-tombazis-defende-validade-da-formula-2-como-trampolim-para-a-formula-1/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T13:59:44Z"
+  },
+  {
+   "titulo": "FREC: Olivieri secures Rookie crown* with second victory",
+   "resumo": "Sport news It was a standout performance from the R-ace GP driver, who also set the fastest lap and expertly managed four safety car restarts. MP Motorsport’s Sebastian Wheldon continued…",
+   "url": "https://www.fia.com/news/frec-olivieri-secures-rookie-crown-second-victory",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T13:53:00Z"
+  },
+  {
+   "titulo": "O que disseram Bruno Michel e Nikolas Tombazis sobre o novo monolugar da F2 para 2027",
+   "resumo": "A FIA) e a gestão da Fórmula 2 apresentaram os detalhes do novo monolugar que entrará em pista em 2027. O diretor de monolugares da FIA, Nikolas Tombazis, e o diretor executivo da F2, Bruno…",
+   "url": "https://www.autosport.pt/velocidade/o-que-disseram-bruno-michel-e-nikolas-tombazis-sobre-o-novo-monolugar-da-f2-para-2027/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T13:42:55Z"
+  },
+  {
+   "titulo": "View Photos of the EV vs. Hybrid vs. Gas Vehicle Test",
+   "resumo": "See the interior and exterior of the 2026 Tesla Model 3, Honda Accord Touring Hybrid, and Volkswagen Jetta GLI from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73571805/ev-vs-hybrid-vs-gas-best-road-trip-car-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T13:31:25Z"
+  },
+  {
+   "titulo": "EV, Hybrid, or Gas Car: What’s Best for a Road Trip?",
+   "resumo": "We take a Honda Accord Hybrid, a Tesla Model 3, and a Volkswagen Jetta on a 750-plus-mile journey to find out.",
+   "url": "https://www.caranddriver.com/features/a73522821/ev-vs-hybrid-vs-gas-best-road-trip-car/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T13:31:22Z"
+  },
+  {
+   "titulo": "Don't expect new Oscar Piastri deal after Lando Norris' extension: \"I'm good for now\"",
+   "resumo": "Oscar Piastri is adamant that \"there's no rush\" to get into contractual negotiations with McLaren despite fresh questions over his long-term position within the team. The interest has been…",
+   "url": "https://www.motorsport.com/f1/news/dont-expect-piastri-new-deal-news-after-norris-extension-im-good-for-now/10852480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T13:15:03Z"
+  },
+  {
+   "titulo": "View Photos of the 1994 Budget Sports Coupes Comparison Test",
+   "resumo": "See the interior and exterior of the 1994 Nissan 240SX SE, Toyota Celica GT, Mitsubishi Eclipse GS-T, Ford Probe GT, Honda Prelude VTEC, Eagle Talon TSi AWD, Acura Integra GS-R from every…",
+   "url": "https://www.caranddriver.com/photos/a73596234/1994-acura-eagle-ford-honda-mitsubishi-nissan-toyota-sports-coupe-archive-comparison-test-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T13:12:43Z"
+  },
+  {
+   "titulo": "$20K Hustlers: 1994 Budget Sports Coupes Compared",
+   "resumo": "Blistering performance costs less than one game’s play for Barry Bonds.",
+   "url": "https://www.caranddriver.com/reviews/comparison-test/a73542806/1994-acura-eagle-ford-honda-mitsubishi-nissan-toyota-sports-coupe-archive-comparison-test/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T13:12:39Z"
+  },
+  {
+   "titulo": "1974 Continental Mark IV: Silver Luxury Yacht",
+   "resumo": "What a run the Mark Series had. Such memorable cars, such decadent luxury. And my grandfather, Bob Klockau, was fond of them. He had three over the years, so I’ve always loved them too. Way…",
+   "url": "https://www.hagerty.com/media/opinion/klockau-classics/1974-continental-mark-iv-silver-luxury-yacht/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-05T13:00:00Z"
+  },
+  {
+   "titulo": "F1 – Russell tops FP3 in Monza ahead of Hamilton and Verstappen",
+   "resumo": "Sport news George Russell maintained Mercedes’ strong form at Monza by setting the fastest time in the final practice session for the 2026 FIA Formula 1 Italian Grand Prix, leading…",
+   "url": "https://www.fia.com/news/f1-russell-tops-fp3-monza-ahead-hamilton-and-verstappen",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T12:51:00Z"
+  },
+  {
+   "titulo": "For Sale: A Retro Mercedes G-Wagon Overland Camper",
+   "resumo": "This is a 1984 Mercedes-Benz G-Wagon that benefits from a slew of upgrades and modifications, it’s been turned into an overland camper for off-road... The post For Sale: A Retro Mercedes…",
+   "url": "https://silodrome.com/mercedes-benz-g-wagon-overland-camper/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-05T12:30:48Z"
+  },
+  {
+   "titulo": "\"I kept forgetting SM!\" – Yuki Tsunoda reveals amusing Monza challenge with F1's 2026 cars",
+   "resumo": "Two weeks after his impressive performance in Zandvoort, Yuki Tsunoda has once again made a strong start to his second 2026 Formula 1 weekend at Monza. The Japanese driver said during media…",
+   "url": "https://www.motorsport.com/f1/news/i-kept-forgetting-sm-yuki-tsunoda-reveals-amusing-monza-challenge-with-f1s-2026-cars/10852470/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T12:30:03Z"
+  },
+  {
+   "titulo": "Cinco carros usados para levar os miúdos à escola",
+   "resumo": "O regresso às aulas está aí e, para muitas famílias, setembro significa voltar à corrida entre mochilas, cadeiras de criança, atividades extracurriculares e horários apertados. Nessas…",
+   "url": "https://www.razaoautomovel.com/usados/guias-de-compra/cinco-carros-usados-para-levar-os-miudos-a-escola/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-05T12:13:35Z"
+  },
+  {
+   "titulo": "Futuro do WRC em análise: O ADN como ‘linha vermelha’",
+   "resumo": "Apesar das mudanças previstas, Eric Boullier garante que o ADN dos ralis não será alterado. Esta promessa pretende tranquilizar os adeptos, as equipas e os organizadores, numa altura em que…",
+   "url": "https://www.autosport.pt/ralis/futuro-do-wrc-em-analise-o-adn-como-linha-vermelha/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T12:07:39Z"
+  },
+  {
+   "titulo": "Fabio di Giannantonio has “major chances” of solving recent MotoGP issues in Misano",
+   "resumo": "Fabio di Giannantonio believes he and VR46 are on the verge of finding a solution to their recent MotoGP struggles ahead of their home race at Misano this month. After starting the season…",
+   "url": "https://www.motorsport.com/motogp/news/fabio-di-giannantonio-has-major-chances-of-solving-recent-motogp-issues-in-misano/10852468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T12:06:42Z"
+  },
+  {
+   "titulo": "Kia’s Next Electric Van Is A 17-Foot Box On Wheels And It’s Coming For VW",
+   "resumo": "Kia is gearing up to battle the Ford Transit and Volkswagen T7 with a larger commercial van",
+   "url": "https://www.carscoops.com/2026/09/kia-pv7-spied/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T11:59:00Z"
+  },
+  {
+   "titulo": "GP da Itália F1: George Russell foi o mais rápido, Hamilton e Verstappen quase repetem 2021",
+   "resumo": "Foi uma sessão tranquila até aos minutos finais. O Treino Livre 3 deu-nos George Russell como o piloto mais rápido, de forma clara, assumindo o rótulo de favorito à pole. Mas o duelo Max…",
+   "url": "https://www.autosport.pt/formula1/gp-da-italia-f1-george-russell-foi-o-mais-rapido-hamilton-e-verstappen-quase-repetem-2021/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T11:57:31Z"
+  },
+  {
+   "titulo": "Russell fastest in final Italian GP practice",
+   "resumo": "George Russell led former team-mate Lewis Hamilton in the final practice session at the Italian GP",
+   "url": "https://www.the-race.com/formula-1/russell-fastest-in-final-italian-gp-practice/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:52:02Z"
+  },
+  {
+   "titulo": "How F1 2026 team-mates are comparing in qualifying",
+   "resumo": "The 2026 Formula 1 season will allow each driver to compare themselves to their team-mate in full qualifying trim up to 30 times",
+   "url": "https://www.the-race.com/formula-1/how-f1-2026-team-mates-are-comparing-in-qualifying/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:49:00Z"
+  },
+  {
+   "titulo": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
+   "resumo": "Mercedes driver George Russell has beaten Ferrari's Lewis Hamilton to top spot in Formula 1's final practice session at the Italian Grand Prix. Russell comfortably held off the seven-time…",
+   "url": "https://www.autosport.com/f1/news/f1-italian-gp-russell-fastest-from-hamilton-and-verstappen-in-final-practice/10852510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:47:10Z"
+  },
+  {
+   "titulo": "F1 Italian GP: George Russell leads Lewis Hamilton in FP3",
+   "resumo": "Mercedes driver George Russell beat Ferrari's Lewis Hamilton to top spot in Formula 1's third and final practice session at the Italian Grand Prix. Russell comfortably held off the…",
+   "url": "https://www.motorsport.com/f1/news/f1-italin-gp-fp3-report/10852508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:44:53Z"
+  },
+  {
+   "titulo": "FIA Formula 2 Championship: 2027 Car Launch - Press Conference Transcript",
+   "resumo": "Sport news REPRESENTATIVES: Bruno MICHEL (FIA Formula 2 Championship), Nikolas TOMBAZIS (FIA) Q: Welcome to our FIA Formula 2 2027 car reveal press conference, following the launch a moment…",
+   "url": "https://www.fia.com/news/fia-formula-2-championship-2027-car-launch-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:05:00Z"
+  },
+  {
+   "titulo": "F1 2026 Italian Grand Prix practice results",
+   "resumo": "Results from F1 practice for the Italian Grand Prix at Monza",
+   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-practice-results/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T11:00:00Z"
+  },
+  {
+   "titulo": "Finding cars for stars: Meet the celebrity world's best car broker",
+   "resumo": "When celebs, sports icons, and movie directors need a new set of wheels, who do they turn to? Nigel Unsworth's customer list reads like a Who's Who of the rich and famous. From the world of…",
+   "url": "https://www.autocar.co.uk/car-news/features/finding-cars-stars-meet-celebrity-worlds-best-car-broker",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T11:00:00Z"
+  },
+  {
+   "titulo": "BTCC Croft: Mercedes on top again with Rowbottom",
+   "resumo": "The CPRL Mercedes team kept up its recent rich vein of form with Dan Rowbottom going quickest in free practice for the British Touring Car Championship round at Croft. The bearded Midlander…",
+   "url": "https://www.autosport.com/btcc/news/btcc-croft-mercedes-on-top-again-with-rowbottom/10852501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T10:37:17Z"
   },
   {
    "titulo": "F2 reveals revised car to reflect F1 2026 changes",
@@ -37,36 +337,6 @@
    "data": "2026-09-05T09:53:34Z"
   },
   {
-   "titulo": "Futuro do WRC em análise: A missão de Éric Boullier",
-   "resumo": "Éric Boullier chega ao WRC com uma experiência construída sobretudo no ambiente dos circuitos e da Fórmula 1. Ao longo da sua carreira, desempenhou funções de direção em equipas como a…",
-   "url": "https://www.autosport.pt/ralis/futuro-do-wrc-em-analise-a-missao-de-eric-boullier/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T09:48:58Z"
-  },
-  {
-   "titulo": "FIA appeal court issues firm response in wake of Briatore claims",
-   "resumo": "The FIA International Court of Appeal has defended its processes in the wake of Flavio Briatore's comments that appeared to question the independence of a judge",
-   "url": "https://www.the-race.com/formula-1/fia-ica-statement-after-flavio-briatore-court-of-appeal-comments/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T09:45:58Z"
-  },
-  {
-   "titulo": "Futuro do WRC em análise: reconstruir o Mundial de Ralis como produto global",
-   "resumo": "Éric Boullier, diretor executivo do promotor do Campeonato do Mundo de Ralis, deu uma entrevista à televisão belga RTBF onde traçou várias linhas orientadoras para o futuro do WRC e o…",
-   "url": "https://www.autosport.pt/sem-categoria/futuro-do-wrc-em-analise-reconstruir-o-mundial-de-ralis-como-produto-global/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T09:37:49Z"
-  },
-  {
    "titulo": "FIA Formula 2 unveils its new car for the 2027-2029 seasons",
    "resumo": "FIA news Building on the success of the current generation, the F2 2027 car represents a significant evolution designed to further strengthen the Championship’s role as the final step on…",
    "url": "https://www.fia.com/news/fia-formula-2-unveils-its-new-car-2027-2029-seasons",
@@ -77,84 +347,14 @@
    "data": "2026-09-05T09:27:00Z"
   },
   {
-   "titulo": "Pol Espargaro warns 'MotoGP riders not aware of the change coming with 2027 tyres'",
-   "resumo": "Pol Espargaro, who is developing KTM's new 850cc prototype, has warned that MotoGP riders are \"not aware of the change that is coming\" next year as part of a sweeping overhaul of the…",
-   "url": "https://www.motorsport.com/motogp/news/espargaro-warns-motogps-2027-tyre-switch-will-be-wild/10851569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T09:23:24Z"
-  },
-  {
-   "titulo": "F1: Isack Hadjar fala em “pódio ainda mais doce” do Mónaco",
-   "resumo": "Isack Hadjar recuperou de forma oficial o terceiro lugar do Grande Prémio de Mónaco, depois de a Red Bull ter levado o caso ao Tribunal Internacional de Recurso da FIA e ter conseguido…",
-   "url": "https://www.autosport.pt/formula1/f1-isack-hadjar-fala-em-podio-ainda-mais-doce-do-monaco/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T09:15:00Z"
-  },
-  {
-   "titulo": "Continuidade do Rali Safari no WRC em risco por falta de financiamento",
-   "resumo": "O Safari Rally Kenya corre o risco de perder o seu lugar no calendário do Campeonato do Mundo de Ralis do próximo ano, devido à decisão do governo queniano de cessar o investimento público…",
-   "url": "https://www.autosport.pt/ralis/continuidade-do-rali-safari-no-wrc-em-risco-por-falta-de-financiamento/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T09:01:48Z"
-  },
-  {
-   "titulo": "What F1 teams' Monza deployment patterns have revealed",
-   "resumo": "The 2026 F1 cars are displaying plenty of telling differences in energy deployment at the energy-starved Monza",
-   "url": "https://www.the-race.com/formula-1/f1-teams-monza-italian-gp-early-energy-depoyment-patterns/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T08:49:34Z"
-  },
-  {
-   "titulo": "Volkswagen adia mais decisões difíceis",
-   "resumo": "O Grupo Volkswagen, depois de anunciar esta quinta-feira uma reestruturação que poderá eliminar cerca de 100.000 empregos, reduzir para metade a gama de automóveis e deixar quatro fábricas…",
-   "url": "https://www.autosport.pt/automais/volkswagen-adia-mais-decisoes-dificeis/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T08:40:04Z"
-  },
-  {
    "titulo": "New WRC constructor begins testing 2027 car",
    "resumo": "Project Rally One has commenced testing its all-new 2027 World Rally Championship challenger ahead of its debut next year. Founded by experienced motorsport engineer Lionel Hansen, former…",
-   "url": "https://www.motorsport.com/wrc/news/new-wrc-constructor-begins-testing-2027-car/10852434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "url": "https://www.autosport.com/wrc/news/new-wrc-constructor-begins-testing-2027-car/10852444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-05T08:35:52Z"
-  },
-  {
-   "titulo": "Red Bull urged to keep Liam Lawson for Spanish GP as Isack Hadjar recovers from injury",
-   "resumo": "Former Formula 1 driver Juan Pablo Montoya believes Red Bull should retain Liam Lawson for next week's inaugural Spanish Grand Prix in Madrid, warning the team against prematurely rushing…",
-   "url": "https://www.motorsport.com/f1/news/red-bull-urged-to-keep-liam-lawson-for-spanish-gp-as-isack-hadjar-recovers-from-injury/10852301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T08:00:04Z"
-  },
-  {
-   "titulo": "Why Kimi Antonelli’s Italian GP recovery may be tougher than expected",
-   "resumo": "When Mercedes put sentiment to one side and made the rational decision to let Kimi Antonelli take a fifth Formula 1 power unit in his home race, landing him a back-of-the-grid start for…",
-   "url": "https://www.motorsport.com/f1/news/why-kimi-antonellis-italian-gp-recovery-may-be-tougher-than-expected/10852359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T08:00:04Z"
+   "data": "2026-09-05T08:35:49Z"
   },
   {
    "titulo": "Why Leclerc is likely to tow Hamilton in Italian GP qualifying",
@@ -227,16 +427,6 @@
    "data": "2026-09-04T22:00:00Z"
   },
   {
-   "titulo": "Tesla May Be About To Lose A Bet With YouTube’s Biggest Tech Creator",
-   "resumo": "MKBHD bet his hair that Tesla wouldn't start Cybercab sales before 2027. And with less than four months to go, he could be right",
-   "url": "https://www.carscoops.com/2026/09/tesla-cybercab-mkbhd/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T20:57:00Z"
-  },
-  {
    "titulo": "Pearley: Hot Wheels Built Our Automotive World",
    "resumo": "After 58 years, we're all Hot Wheels children.",
    "url": "https://www.roadandtrack.com/car-culture/a73608589/hot-wheels-built-our-automotive-world/",
@@ -247,36 +437,6 @@
    "data": "2026-09-04T20:43:42Z"
   },
   {
-   "titulo": "Seat Says They’re Not Dead, But Might Not Survive Either",
-   "resumo": "Seat isn't going away anytime soon, but their future after 2030 looks bleak",
-   "url": "https://www.carscoops.com/2026/09/seat-not-dead-but-might-not-live/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T19:38:00Z"
-  },
-  {
-   "titulo": "The early verdict on Ferrari's Italian GP engine upgrade",
-   "resumo": "Ferrari has its second engine upgrade of the F1 season in play at its home race. Here's what the team - and drivers - are saying about its impact",
-   "url": "https://www.the-race.com/formula-1/ferrari-f1-engine-upgrade-italian-gp-early-verdict/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T19:35:25Z"
-  },
-  {
-   "titulo": "VW Approves Plan to Reduce Lineup by 50 Percent and Cut 50,000 Jobs",
-   "resumo": "The automaker says it intends to reduce the complexity of its offerings by 75 percent, with fewer variants and stronger economies of scale.",
-   "url": "https://www.caranddriver.com/news/a73617309/volkswagen-board-approves-plan-cut-50000-jobs-model-lineup-by-half/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T19:21:15Z"
-  },
-  {
    "titulo": "SEAT admite que pode desaparecer depois de 2030",
    "resumo": "A marca SEAT pode mesmo desaparecer. O cenário que até ontem surgia num documento interno do Grupo Volkswagen foi agora admitido oficialmente pela própria empresa. A SEAT S.A., a empresa…",
    "url": "https://www.razaoautomovel.com/noticias/industria-seat-admite-que-pode-desaparecer-2030/",
@@ -285,16 +445,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-04T19:19:36Z"
-  },
-  {
-   "titulo": "What's next after Briatore's press conference bombshell",
-   "resumo": "Flavio Briatore went on the offensive by taking aim at one of the FIA's court of appeal judges. Can Alpine actually take its Monaco GP F1 podium case any further?",
-   "url": "https://www.the-race.com/formula-1/flavio-briatore-f1-press-conference-bombshell-alpine-mclaren-what-next/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T19:15:46Z"
   },
   {
    "titulo": "The Dodge Durango Gets Darker For 2027 With New Paint",
@@ -315,36 +465,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T18:07:13Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Ram 2500 HD Power Wagon",
-   "resumo": "See the exterior of the 2027 Ram 2500 HD Power Wagon from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73581994/2027-ram-2500-hd-power-wagon-diesel-test-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T18:00:00Z"
-  },
-  {
-   "titulo": "View Interior Photos of the 2027 Ram 2500 HD Power Wagon",
-   "resumo": "See the interior of the 2027 Ram 2500 HD Power Wagon from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73582204/2027-ram-2500-hd-power-wagon-diesel-test-interior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T18:00:00Z"
-  },
-  {
-   "titulo": "Ram 2500 Power Wagon Diesel Tested: They Said It Couldn’t Be Done",
-   "resumo": "After many years of saying no, Ram finally put its optional diesel engine in the heavy-duty off-roader.",
-   "url": "https://www.caranddriver.com/reviews/a73555680/2027-ram-2500-hd-power-wagon-diesel-test/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T18:00:00Z"
   },
   {
    "titulo": "Tested: 2027 Corvette Stingray Packs a Bigger Punch",
@@ -372,16 +492,6 @@
    "url": "https://www.motor1.com/news/807181/toyota-highlander-ev-delayed-again/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T17:00:00Z"
-  },
-  {
-   "titulo": "The Cost of Diesel in the United States Reaches a New Record High",
-   "resumo": "As gas prices have soared, so too has the cost of diesel, which is up 55 percent since the start of the war between the U.S. and Iran in February.",
-   "url": "https://www.caranddriver.com/news/a73617208/diesel-price-united-states-record-us-iran/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T17:00:00Z"
@@ -447,26 +557,6 @@
    "data": "2026-09-04T15:42:45Z"
   },
   {
-   "titulo": "F1 – Russell tops second practice in Monza ahead of Leclerc and Antonelli",
-   "resumo": "Sport news George Russell set the pace in Free Practice 2 for the 2026 FIA Formula 1 Italian Grand Prix, with the Mercedes driver finishing 0.120 seconds clear of Ferrari’s Charles Leclerc…",
-   "url": "https://www.fia.com/news/f1-russell-tops-second-practice-monza-ahead-leclerc-and-antonelli",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T15:31:00Z"
-  },
-  {
-   "titulo": "F1 Italian GP: Russell beats Leclerc to top second practice",
-   "resumo": "George Russell has topped second practice at Formula 1's Italian Grand Prix, nudging Ferrari's Charles Leclerc off the top of the timesheets. Russell set a 1m22.559s lap in the second half…",
-   "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp2-report-10852240/10852240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T15:14:01Z"
-  },
-  {
    "titulo": "Our Two Cents: One Gear Too Many?",
    "resumo": "Transmissions can make or break a car. Not just when they fail, but when they fail to inspire on a test drive. Or even before the test drive, if they lack the right specifications for…",
    "url": "https://www.hagerty.com/media/hagerty-community/our-two-cents-one-gear-too-many/",
@@ -485,26 +575,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T14:56:01Z"
-  },
-  {
-   "titulo": "Costa Rican Karting Circuit Hosts Inspiring Fundraising Event",
-   "resumo": "Members news P1 Speedway in Costa Rica brought together 213 competitors from 71 teams last month for the first edition of \"Con Motor y Corazón,\" a charity karting event held in support of…",
-   "url": "https://www.fia.com/news/costa-rican-karting-circuit-hosts-inspiring-fundraising-event",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T14:30:00Z"
-  },
-  {
-   "titulo": "Briatore questions Monaco GP appeal integrity in explosive Italian GP press conference",
-   "resumo": "Alpine Formula 1 boss Flavio Briatore has questioned the fairness of the appeal procedure against the Monaco Grand Prix results, claiming one judge has a close relationship with McLaren…",
-   "url": "https://www.autosport.com/f1/news/flavio-briatore-questions-monaco-gp-appeal-integrity-in-explosive-monza-press-conference/10852231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T14:26:28Z"
   },
   {
    "titulo": "The New Pajero Is Surprisingly Expensive Overseas. That Could Be Bad News For America",
@@ -527,16 +597,6 @@
    "data": "2026-09-04T14:00:00Z"
   },
   {
-   "titulo": "F1 - 2026 Italian Grand Prix - Friday Press Conference Transcript",
-   "resumo": "Sport news TEAM REPRESENTATIVES Flavio BRIATORE (Alpine), Frédéric VASSEUR (Ferrari), Andrea STELLA (McLaren) Q: Can we start with some breaking news from the International Court of Appeal…",
-   "url": "https://www.fia.com/news/f1-2026-italian-grand-prix-friday-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T13:31:00Z"
-  },
-  {
    "titulo": "This 240Z Asks: Restomod or Restoration?",
    "resumo": "A significant portion of the collector car market seeks out completely unrestored vehicles in pristine condition. Folks in this realm are willing to pay quite a bit to get cars just as they…",
    "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/this-240z-asks-restomod-or-restoration/",
@@ -547,16 +607,6 @@
    "data": "2026-09-04T13:06:47Z"
   },
   {
-   "titulo": "Guia completo para transportar crianças no automóvel",
-   "resumo": "O transporte de crianças em automóvel está sujeito a regras específicas. Em Portugal, a idade e a altura determinam quando é obrigatório utilizar um sistema de retenção para crianças (SRC)…",
-   "url": "https://www.razaoautomovel.com/autopedia/guia-completo-tramsporte-criancas-automovel/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-04T12:52:26Z"
-  },
-  {
    "titulo": "For Sale: A Rebodied BMW Z3 With A 3.0 Liter Straight-Six",
    "resumo": "This is a BMW Z3 from the year 2000, but you’d be forgiven for thinking it’s a far more Italian car, from a far... The post For Sale: A Rebodied BMW Z3 With A 3.0 Liter Straight-Six…",
    "url": "https://silodrome.com/bmw-z3-tribute-automotive/",
@@ -565,56 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-04T12:30:10Z"
-  },
-  {
-   "titulo": "Why Norris wanted to set up his own single-seater race team",
-   "resumo": "Lando Norris says he hopes establishing his own junior team and driver programme can help guide underfunded talent all the way to the Formula 1. On Wednesday Norris announced two separate…",
-   "url": "https://www.autosport.com/f1/news/why-norris-wanted-to-set-up-his-own-single-seater-race-team/10852117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T12:30:04Z"
-  },
-  {
-   "titulo": "Ford Won't Say If The $29,945 Fathom Can Tow Your Trailer",
-   "resumo": "Ford Fathom aims at affordable everyday use, leaving towing capacity, range, and payload questions unanswered until official specs arrive.",
-   "url": "https://www.motor1.com/news/807148/ford-fathom-electric-pickup-towing/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T12:17:28Z"
-  },
-  {
-   "titulo": "Never Stop Driving #198: The Next Epidemic",
-   "resumo": "When it comes to joining two wires, do you favor the solder joint or a crimp connector? That was the subject of a debate I incited in pit row last weekend. Yes, that is really how I choose…",
-   "url": "https://www.hagerty.com/media/never-stop-driving/never-stop-driving-198-the-next-epidemic/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-04T12:00:00Z"
-  },
-  {
-   "titulo": "F1 Italian GP: Leclerc heads Ferrari 1-2 in opening practice",
-   "resumo": "Charles Leclerc led a Ferrari 1-2 to set the fastest time in first free practice at Formula 1's Italian Grand Prix. Leclerc's time of 1m23.008s, set on medium tyres, was quick enough to pip…",
-   "url": "https://www.autosport.com/f1/news/f1-italian-gp-fp1-report-10852157/10852157/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T11:43:23Z"
-  },
-  {
-   "titulo": "Tesla Got Its Model Y L Range Wrong, EPA Gives It More Miles",
-   "resumo": "Official EPA ratings for the Tesla Model Y L Premium AWD top the configurator estimate and barely drop with the optional 20-inch wheels.",
-   "url": "https://www.motor1.com/news/807142/tesla-model-y-l-epa/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T11:11:19Z"
   }
  ]
 }
