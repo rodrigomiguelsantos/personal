@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-04T20:45:14Z",
+ "atualizado": "2026-09-05T04:27:52Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -16,6 +16,56 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "The UK Needs A New Military Vehicle And Land Rover Is Answering The Call",
+   "resumo": "The Defender Wolf Series II is competing for a new Ministry of Defense contract and aims to succeed the original Defender Wolf",
+   "url": "https://www.carscoops.com/2026/09/land-rover-defender-wolf-series-ii/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T00:06:00Z"
+  },
+  {
+   "titulo": "WEC Austin FP2: Aston Martin tops both classes with Tincknell and Robichon",
+   "resumo": "Aston Martin topped both classes at the end of Free Practice 2 for the Lone Star Le Mans, as the FIA World Endurance Championship field returned to action in Austin under cloudy skies and…",
+   "url": "https://www.motorsport.com/wec/news/wec-austin-fp2-aston-martin-tops-both-classes-with-tincknell-and-robichon/10852392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-04T23:14:41Z"
+  },
+  {
+   "titulo": "Florida Loved Its License Plate Cameras. Now It’s Tearing Them Down",
+   "resumo": "The move comes as a result of what the state calls reports of misuse, data concerns, and more",
+   "url": "https://www.carscoops.com/2026/09/florida-license-plate-reader-permits/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-04T23:03:00Z"
+  },
+  {
+   "titulo": "Lamborghini’s 907 HP Police Car Is Designed For When Every Second Counts",
+   "resumo": "The new Temerario Polizia will be used to transport organs in emergencies at high speeds",
+   "url": "https://www.carscoops.com/2026/09/lamborghini-temerario-polizia/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-04T22:00:00Z"
+  },
+  {
+   "titulo": "Tesla May Be About To Lose A Bet With YouTube’s Biggest Tech Creator",
+   "resumo": "MKBHD bet his hair that Tesla wouldn't start Cybercab sales before 2027. And with less than four months to go, he could be right",
+   "url": "https://www.carscoops.com/2026/09/tesla-cybercab-mkbhd/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-04T20:57:00Z"
+  },
   {
    "titulo": "Pearley: Hot Wheels Built Our Automotive World",
    "resumo": "After 58 years, we're all Hot Wheels children.",
@@ -85,16 +135,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-04T19:15:46Z"
-  },
-  {
-   "titulo": "Seller Called This Underwater 1991 NSX Junk, 93 Bids Disagreed",
-   "resumo": "Flood damage, 147,000 miles and an automatic gearbox weren't enough to stop this Honda NSX from commanding serious money",
-   "url": "https://www.carscoops.com/2026/09/flooded-honda-nsx-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T18:53:32Z"
   },
   {
    "titulo": "Ferrari leads WEC Austin FP1 with Antonio Giovinazzi ahead of Antonio Fuoco",
@@ -187,26 +227,6 @@
    "data": "2026-09-04T17:50:38Z"
   },
   {
-   "titulo": "Toyota’s Ancient $12,600 Wagon Gains Modern Tech That Calls The Cops On Bad Drivers",
-   "resumo": "Japan's unpretentious wagon gains standard T-Connect telematics and a modest price bump, buying time before a rumored successor arrives",
-   "url": "https://www.carscoops.com/2026/09/toyota-probox-2027-update/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T17:48:00Z"
-  },
-  {
-   "titulo": "Jimmie Johnson dismisses rumors of confrontation with John Hunter Nemechek",
-   "resumo": "This past week, Legacy Motor Club announced that John Hunter Nemechek will not return as the driver of the No. 42 Toyota in 2027, despite earlier plans to keep him as the driver through…",
-   "url": "https://www.motorsport.com/nascar-cup/news/jimmie-johnson-addresses-rumors-of-confrontation-with-john-hunter-nemechek/10852306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-04T17:47:57Z"
-  },
-  {
    "titulo": "Tested: 2027 Corvette Stingray Packs a Bigger Punch",
    "resumo": "Chevy has finally given the base Stingray a proper update with more power and lessons applied from the rest of the C8 lineup.",
    "url": "https://www.roadandtrack.com/reviews/a73579949/tested-2027-chevrolet-corvette-stingray-packs-a-bigger-punch/",
@@ -277,16 +297,6 @@
    "data": "2026-09-04T16:41:37Z"
   },
   {
-   "titulo": "Your First-Gen Rivian R1 Just Got The Same Software As A Brand-New R2",
-   "resumo": "Even first-generation Rivian R1 owners get the new RivianOS 2 experience, though newer models retain some hardware advantages",
-   "url": "https://www.carscoops.com/2026/09/rivian-r1-software-update/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T16:36:00Z"
-  },
-  {
    "titulo": "Williams to sell jewellery made from F1 cars",
    "resumo": "Williams has turned retired F1 car components into a new range of jewellery through a partnership with RESS.",
    "url": "https://www.the-race.com/extra/williams-to-sell-jewellery-made-from-2025-cars/",
@@ -355,16 +365,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-04T15:42:45Z"
-  },
-  {
-   "titulo": "Tesla Offers Rides In A Car With No Wheel Or Pedals, So Naturally The Feds Showed Up",
-   "resumo": "The EV maker says Cybercab complies with applicable federal safety standards and the NHTSA wants to know exactly how",
-   "url": "https://www.carscoops.com/2026/09/tesla-cybercab-nhtsa-audit/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T15:37:06Z"
   },
   {
    "titulo": "Elfyn Evans lamenta abordagem conservadora no Paraguai e vê liderança encurtar no WRC",
