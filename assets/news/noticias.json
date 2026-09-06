@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-09-05T20:20:16Z",
+ "atualizado": "2026-09-06T04:38:10Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -17,17 +17,137 @@
  ],
  "itens": [
   {
-   "titulo": "Loek Hartog rescues Ollie Millroy from burning Ferrari after China GT crash",
-   "resumo": "Loek Hartog stopped his Porsche and pulled Ollie Millroy from his burning Ferrari following a major crash during Saturday’s opening China GT race in Shanghai. Millroy suffered five broken…",
-   "url": "https://www.motorsport.com/gt/news/hartog-hailed-as-hero-after-rescuing-millroy-from-fiery-shanghai-crash/10852780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "Arrest made in burglary targeting retired NASCAR Cup driver Dave Marcis",
+   "resumo": "The Buncombe County (North Carolina) Sheriff's Office has made an arrest in a break-in involving retired NASCAR Cup driver Dave Marcis. He was out of town with the burglary took place, and…",
+   "url": "https://www.motorsport.com/nascar-cup/news/arrest-made-in-burglary-of-retired-nascar-cup-driver-dave-marcis/10852835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-05T20:04:25Z"
+   "data": "2026-09-06T03:16:52Z"
   },
   {
-   "titulo": "Five reasons for Gasly's shock Italian Grand Prix pole",
+   "titulo": "Sheldon Creed opens NASCAR O'Reilly Chase with Darlington win",
+   "resumo": "On a long final run at Darlington Raceway, Sheldon Creed drove off with the race win in the No. 00 Haas Factory Team Chevrolet. This is Creed's second career win, and it put him within…",
+   "url": "https://www.motorsport.com/nascar-os/news/sheldon-creed-wins-chase-opener-nascar-oreilly-darlington/10852827/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T02:05:32Z"
+  },
+  {
+   "titulo": "Josh Pierson ends 53-race wait with maiden Indy NXT win at Laguna Seca",
+   "resumo": "Josh Pierson went flag-to-flag from pole to claim his maiden Indy NXT victory in the opening race of the season finale doubleheader at WeatherTech Raceway Laguna Seca. Driving the #29…",
+   "url": "https://www.motorsport.com/indylights/news/josh-pierson-ends-53-race-wait-with-maiden-indy-nxt-win-at-laguna-seca/10852820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T23:55:11Z"
+  },
+  {
+   "titulo": "Porsche Driver Rips Panamera Off Tow Truck And Leaves Pieces Behind",
+   "resumo": "Viral video shows a Panamera ripping itself from a tow truck, but claims it was being repossessed remain unconfirmed",
+   "url": "https://www.carscoops.com/2026/09/porsche-driver-rips-panamera-off-tow-truck-and-leaves-pieces-behind/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T23:54:00Z"
+  },
+  {
+   "titulo": "Millroy Claims Fellow Driver Saved his Life Following Fiery China GT Crash",
+   "resumo": "Loek Hartog’s heroic actions will not be soon forgotten by the competitor whose life he saved.",
+   "url": "https://www.roadandtrack.com/news/a73623331/millroy-claims-fellow-driver-saved-his-life-following-fiery-china-gt-crash/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T23:43:52Z"
+  },
+  {
+   "titulo": "F1 Italian GP: Sunday schedule, weather forecast and how to watch",
+   "resumo": "Formula 1 heads into Sunday at Monza with Pierre Gasly on pole after a stunning qualifying result for Alpine at the Italian GP. Gasly beat George Russell by just 0.060s to take his first…",
+   "url": "https://www.motorsport.com/f1/news/f1-italian-gp-sunday-schedule-weather-forecast-and-how-to-watch/10852817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T23:08:46Z"
+  },
+  {
+   "titulo": "Oscar Piastri on Monza 2025 team orders: \"I wouldn’t change how I responded\"",
+   "resumo": "Exactly a year ago, Oscar Piastri arrived at Monza as the title favourite, leading team-mate Lando Norris by 34 points after the latter's retirement at Zandvoort - but it was from that…",
+   "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-monza-2025-team-orders-i-wouldnt-change-how-i-responded/10852790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T22:56:11Z"
+  },
+  {
+   "titulo": "WEC: Ferrari e Cadillac empataram na Hyperpole, Ferrari fica com a pole, Félix da Costa larga de terceiro",
+   "resumo": "Antonio Giovinazzi tornou-se o primeiro piloto a repetir uma vitória em Hyperpole nesta temporada do Campeonato Mundial de Endurance da FIA, depois de colocar o Ferrari 499P #51, da AF…",
+   "url": "https://www.autosport.pt/velocidade/wec-ferrari-e-cadillac-empataram-na-hyperpole-ferrari-fica-com-a-pole-felix-da-costa-larga-de-terceiro/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-05T22:42:58Z"
+  },
+  {
+   "titulo": "Hamilton Believes World Championship is Still a Possibility – But He Wants Support from Leclerc",
+   "resumo": "The two Ferraris will start on the second row in Monza as Hamilton is eyeing the bigger picture.",
+   "url": "https://www.roadandtrack.com/news/a73622911/hamilton-believes-world-championship-is-still-a-possibility-with-leclerc-support/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T22:06:41Z"
+  },
+  {
+   "titulo": "WEC Austin: Ferrari takes pole from Cadillac after identical qualifying times",
+   "resumo": "Ferrari driver Antonio Giovinazzi claimed his second pole of the 2026 World Endurance Championship at Austin after ending up tied at the top of the times with Cadillac’s Jack Aitken…",
+   "url": "https://www.autosport.com/wec/news/wec-austin-ferrari-takes-pole-from-cadillac-after-identical-qualifying-times/10852802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T21:48:04Z"
+  },
+  {
+   "titulo": "ERC: Mighty Meeke ahead in Wales as Suninen closes in on crown",
+   "resumo": "Sport news Starting out 0.9sec behind Suninen following Friday’s four stages, which included two run at night, Meeke charged through the day-opening 12.02-kilometre Aberffrwd test leading…",
+   "url": "https://www.fia.com/news/erc-mighty-meeke-ahead-wales-suninen-closes-crown",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T21:48:00Z"
+  },
+  {
+   "titulo": "FREC: Start-to-finish Hanna is ninth different winner",
+   "resumo": "Sport news Oleksandr Bondarev finished second on his FIA FREC debut for Van Amersfoort Racing and also claimed top Rookie honours, while CL Motorsport’s Reno Francot took third, his first…",
+   "url": "https://www.fia.com/news/frec-start-finish-hanna-ninth-different-winner",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T21:43:00Z"
+  },
+  {
+   "titulo": "Land Rover’s Baby Defender Borrows A New But Old Design Trick From Big Brother",
+   "resumo": "The compact SUV shares its bones with JLR’s sleek electric GT, but takes a much boxier route and comes with five wheels, not four",
+   "url": "https://www.carscoops.com/2026/09/baby-defender-design-trick/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-05T21:31:00Z"
+  },
+  {
+   "titulo": "What Alpine got right at Monza and everyone else got wrong",
    "resumo": "F1's Monza pole shock happened partly because Alpine got things right, but also because the 'big four' got a lot wrong",
    "url": "https://www.the-race.com/formula-1/five-reasons-for-gaslys-shock-italian-grand-prix-pole/",
    "fonte": "The Race",
@@ -47,26 +167,6 @@
    "data": "2026-09-05T19:28:49Z"
   },
   {
-   "titulo": "NASCAR expands adjustments that O'Reilly teams can make in practice",
-   "resumo": "NASCAR is expanding practice adjustments for NASCAR O’Reilly Auto Parts Series teams at Darlington Raceway this weekend by adding rear springs to the list of allowed changes during…",
-   "url": "https://www.motorsport.com/nascar-os/news/nascar-expands-adjustments-oreilly-teams-can-make-in-practice/10852760/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T19:21:12Z"
-  },
-  {
-   "titulo": "\"I did what the team asked\": Kimi Antonelli expects George Russell to return favour later in season",
-   "resumo": "After helping George Russell with a tow in Monza qualifying, Kimi Antonelli says he expects his team-mate and championship rival to act in the same way later in the season. The Italian had…",
-   "url": "https://www.motorsport.com/f1/news/i-did-what-the-team-asked-kimi-antonelli-expects-george-russell-to-return-favour-later-in-season/10852769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T19:16:40Z"
-  },
-  {
    "titulo": "At $112K, The 2026 GMC Yukon Denali Ultimate Is Very Good, And That’s The Problem",
    "resumo": "GMC’s fanciest Yukon brings a V8, Super Cruise and serious luxury, but cheaper three-row SUVs expose an uncomfortable issue",
    "url": "https://www.carscoops.com/2026/09/gmc-yukon-denali-ultimate-review/",
@@ -77,16 +177,6 @@
    "data": "2026-09-05T19:08:00Z"
   },
   {
-   "titulo": "Dreyer & Reinbold Racing returns full-time to IndyCar with Conor Daly, Honda for 2027",
-   "resumo": "Dreyer & Reinbold Racing is stepping back into full-time IndyCar Series competition for the first time in fifteen years, signing veteran driver Conor Daly to a multi-year deal to drive the…",
-   "url": "https://www.motorsport.com/indycar/news/dreyer-reinbold-racing-returns-full-time-to-indycar-with-conor-daly-honda-for-2027/10852762/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T18:57:21Z"
-  },
-  {
    "titulo": "How Gasly and Alpine Got Everything Just Right and Stunned F1 Rivals with Monza Pole",
    "resumo": "A day after losing his Monaco podium, the Alpine driver landed a shock pole.",
    "url": "https://www.roadandtrack.com/news/a73622533/gasly-alpine-everything-just-right-stunned-f1-rivals-monza-pole/",
@@ -95,16 +185,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-05T18:53:20Z"
-  },
-  {
-   "titulo": "Fence destroyed in terrifying Porsche crash at Laguna Seca corkscrew",
-   "resumo": "At WeatherTech Raceway Laguna Seca on Saturday, a massive crash halted all on-track activity for some time. During Race #1 for the Porsche Sprint Challenge North America support series that…",
-   "url": "https://www.motorsport.com/gt/news/fence-destroyed-in-terrifying-porsche-crash-at-laguna-seca-corkscrew-/10852701/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T18:28:35Z"
   },
   {
    "titulo": "How Piastri's Q3 mistake denied Norris \"half a second\" in Italian GP qualifying",
@@ -217,6 +297,16 @@
    "data": "2026-09-05T16:45:00Z"
   },
   {
+   "titulo": "F1 – Gasly takes sensational first career pole at Monza ahead of Russell and Piastri",
+   "resumo": "Sport news Pierre Gasly delivered a stunning performance to claim the first pole position of his Formula 1 career at the 2026 FIA Formula 1 Italian Grand Prix, beating Mercedes’ George…",
+   "url": "https://www.fia.com/news/f1-gasly-takes-sensational-first-career-pole-monza-ahead-russell-and-piastri",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T16:43:00Z"
+  },
+  {
    "titulo": "Fórmula 2: Joshua Duerksen vence corrida sprint em Monza",
    "resumo": "Joshua Duerksen, piloto da Invicta Racing, venceu a corrida sprint do Campeonato de Fórmula 2 em Monza, após arrancar da sétima posição na grelha de partida. O piloto paraguaio assumiu o…",
    "url": "https://www.autosport.pt/velocidade/formula-2-joshua-duerksen-vence-corrida-sprint-em-monza/",
@@ -225,6 +315,16 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-05T16:35:48Z"
+  },
+  {
+   "titulo": "F1 - 2026 Italian Grand Prix Post-Qualifying Press Conference Transcript",
+   "resumo": "Sport news DRIVERS 1 – Pierre GASLY (Alpine) 2 – George RUSSELL (Mercedes) 3 – Oscar PIASTRI (McLaren) PARC FERMÉ INTERVIEWS (Conducted by Davide Valsecchi) Q: Pierre Gasly, pole position…",
+   "url": "https://www.fia.com/news/f1-2026-italian-grand-prix-post-qualifying-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T16:30:00Z"
   },
   {
    "titulo": "Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore",
@@ -245,16 +345,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-05T16:00:00Z"
-  },
-  {
-   "titulo": "GP Itália F1: Oscar Piastri destaca terceiro lugar na qualificação, mas pode ser penalizado",
-   "resumo": "Oscar Piastri assegurou a terceira posição na grelha de partida para o Grande Prémio da Itália de Fórmula 1, em Monza, terminando a sessão de qualificação logo atrás de Pierre Gasly e…",
-   "url": "https://www.autosport.pt/formula1/gp-italia-f1-oscar-piastri-destaca-terceiro-lugar-na-qualificacao-mas-pode-ser-penalizado/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-05T15:35:31Z"
   },
   {
    "titulo": "Piastri hit with three-place Italian GP grid penalty for impeding Lawson",
@@ -287,16 +377,6 @@
    "data": "2026-09-05T15:18:24Z"
   },
   {
-   "titulo": "BTCC Croft: Cook dominates qualifying race",
-   "resumo": "Josh Cook took Saturday glory in the British Touring Car Championship at Croft with an all-the-way victory from pole position in the qualifying race. Cook only slotted his Speedworks…",
-   "url": "https://www.autosport.com/btcc/news/btcc-croft-cook-dominates-qualifying-race/10852580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T15:00:39Z"
-  },
-  {
    "titulo": "Say ‘I Do’ to This Wild British Wedding Car on BaT",
    "resumo": "The 1996 Imperial Landaulette is based on an Austin taxi and powered by a Nissan diesel engine.",
    "url": "https://www.caranddriver.com/news/a73594889/british-wedding-car-bring-a-trailer-auction/",
@@ -315,6 +395,16 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-05T14:22:00Z"
+  },
+  {
+   "titulo": "FREC: Olivieri secures Rookie crown* with second victory",
+   "resumo": "Sport news It was a standout performance from the R-ace GP driver, who also set the fastest lap and expertly managed four safety car restarts at the Autodromo Enzo e Dino Ferrari in Imola…",
+   "url": "https://www.fia.com/news/frec-olivieri-secures-rookie-crown-second-victory",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-05T13:53:00Z"
   },
   {
    "titulo": "View Photos of the EV vs. Hybrid vs. Gas Vehicle Test",
@@ -387,16 +477,6 @@
    "data": "2026-09-05T12:13:35Z"
   },
   {
-   "titulo": "Kia’s Next Electric Van Is A 17-Foot Box On Wheels And It’s Coming For VW",
-   "resumo": "Kia is gearing up to battle the Ford Transit and Volkswagen T7 with a larger commercial van",
-   "url": "https://www.carscoops.com/2026/09/kia-pv7-spied/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T11:59:00Z"
-  },
-  {
    "titulo": "Finding cars for stars: Meet the celebrity world's best car broker",
    "resumo": "When celebs, sports icons, and movie directors need a new set of wheels, who do they turn to? Nigel Unsworth's customer list reads like a Who's Who of the rich and famous. From the world of…",
    "url": "https://www.autocar.co.uk/car-news/features/finding-cars-stars-meet-celebrity-worlds-best-car-broker",
@@ -437,26 +517,6 @@
    "data": "2026-09-05T06:30:39Z"
   },
   {
-   "titulo": "The UK Needs A New Military Vehicle And Land Rover Is Answering The Call",
-   "resumo": "The Defender Wolf Series II is competing for a new Ministry of Defense contract and aims to succeed the original Defender Wolf",
-   "url": "https://www.carscoops.com/2026/09/land-rover-defender-wolf-series-ii/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T00:06:00Z"
-  },
-  {
-   "titulo": "Pearley: Hot Wheels Built Our Automotive World",
-   "resumo": "After 58 years, we're all Hot Wheels children.",
-   "url": "https://www.roadandtrack.com/car-culture/a73608589/hot-wheels-built-our-automotive-world/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T20:43:42Z"
-  },
-  {
    "titulo": "SEAT admite que pode desaparecer depois de 2030",
    "resumo": "A marca SEAT pode mesmo desaparecer. O cenário que até ontem surgia num documento interno do Grupo Volkswagen foi agora admitido oficialmente pela própria empresa. A SEAT S.A., a empresa…",
    "url": "https://www.razaoautomovel.com/noticias/industria-seat-admite-que-pode-desaparecer-2030/",
@@ -475,16 +535,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T18:30:00Z"
-  },
-  {
-   "titulo": "Gasly Loses Monaco P3 Again, Alpine Boss Briatore Slams Appeals Board Lawyer",
-   "resumo": "Flavio Briatore made allegations about the process that cost Gasly his Monaco result shortly after the ruling.",
-   "url": "https://www.roadandtrack.com/news/a73617727/gasly-loses-monaco-p3-again-alpine-boss-briatore-slams-appeals-board-lawyer/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T18:07:13Z"
   },
   {
    "titulo": "Condução semiautónoma da Tesla enfrenta votação decisiva na Europa",
@@ -565,56 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-04T14:00:00Z"
-  },
-  {
-   "titulo": "For Sale: A Rebodied BMW Z3 With A 3.0 Liter Straight-Six",
-   "resumo": "This is a BMW Z3 from the year 2000, but you’d be forgiven for thinking it’s a far more Italian car, from a far... The post For Sale: A Rebodied BMW Z3 With A 3.0 Liter Straight-Six…",
-   "url": "https://silodrome.com/bmw-z3-tribute-automotive/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-04T12:30:10Z"
-  },
-  {
-   "titulo": "Ford Won't Say If The $29,945 Fathom Can Tow Your Trailer",
-   "resumo": "Ford Fathom aims at affordable everyday use, leaving towing capacity, range, and payload questions unanswered until official specs arrive.",
-   "url": "https://www.motor1.com/news/807148/ford-fathom-electric-pickup-towing/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T12:17:28Z"
-  },
-  {
-   "titulo": "Lessons in survival: Merc's Joachim Zahn showed car makers how to beat a crisis",
-   "resumo": "Joachim Zahn doubled Mercedes production during the 1970s by refusing to chase reckless growth Who would envy Ola Källenius , tasked as he is with keeping the juggernaut of Mercedes-Benz…",
-   "url": "https://www.autocar.co.uk/car-news/from-the-archive/lessons-survival-mercs-joachim-zahn-showed-car-makers-how-beat-crisis",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T11:00:00Z"
-  },
-  {
-   "titulo": "The Perfect Workshop Centerpiece: A Rolls-Royce 6.75 Liter V8 Coffee Table",
-   "resumo": "This is a coffee table built around a 6.75 liter Rolls-Royce Silver Shadow V8, it has a glass tabletop, and it comes with an... The post The Perfect Workshop Centerpiece: A Rolls-Royce 6.75…",
-   "url": "https://silodrome.com/rolls-royce-6-75-liter-v8-coffee-table/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-04T06:30:23Z"
-  },
-  {
-   "titulo": "Future classic: Bentley Continental GT",
-   "resumo": "Future classic: Bentley Continental GT Ryan Standen Fri, 04/09/2026 - 05:19",
-   "url": "https://www.classicandsportscar.com/features/future-classic-bentley-continental-gt",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-04T04:19:35Z"
   }
  ]
 }
