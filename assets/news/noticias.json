@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-06T15:27:53Z",
+ "atualizado": "2026-09-06T20:23:45Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,54 +17,284 @@
  ],
  "itens": [
   {
-   "titulo": "All the results and standings from the 2026 F1 Italian Grand Prix",
-   "resumo": "Drivers' Championship Pos. Driver Points 1 K. AntonelliMercedes 267 18/2 29 25/1 28 31 25/1 - 15/3 8 25/1 15/3 23 25/1 2 G ... Keep reading",
-   "url": "https://www.motorsport.com/f1/news/full-results-and-standings-from-the-2026-f1-italian-grand-prix/10853054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "Audi appeals stewards' decision in Tsunoda aborted start case",
+   "resumo": "Audi has lodged an appeal against the Italian GP stewards's decision not to apply F1's sporting regulations in relation to an alleged infringement of the start procedure by Yuki Tsunoda",
+   "url": "https://www.the-race.com/formula-1/audi-appeals-fia-stewards-decision-yuki-tsunoda-aborted-start-monza/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:21:15Z"
+   "data": "2026-09-06T20:04:11Z"
   },
   {
-   "titulo": "F1 Italian GP: Antonelli stuns from 19th on the grid to win home race",
-   "resumo": "Formula 1 world championship leader Kimi Antonelli has taken a sensational home win at the Italian Grand Prix, coming from 19th on the grid to defeat Mercedes team-mate George Russell. In…",
-   "url": "https://www.autosport.com/f1/news/f1-italian-gp-antonelli-stuns-from-19th-on-the-grid-to-win-home-race/10853010/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "titulo": "Hamilton says Ferrari has left it \"too late\" to back him in F1 title fight",
+   "resumo": "The Italian Grand Prix is probably the worst venue for a spat to brew up between team-mates but that is what happened at Monza as Lewis Hamilton finished a distant sixth after Charles…",
+   "url": "https://www.autosport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-f1-title-fight/10853218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
    "fonte": "Autosport",
    "dominio": "autosport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:12:34Z"
+   "data": "2026-09-06T20:03:58Z"
   },
   {
-   "titulo": "F1 Italian GP: Kimi Antonelli takes sensational home win from 19th at Monza",
-   "resumo": "Championship leader Kimi Antonelli has taken a sensational home win at the Formula 1 Italian Grand Prix, coming form 19th on the grid to defeat Mercedes team-mate George Russell. In an…",
-   "url": "https://www.motorsport.com/f1/news/f1-italian-gp-race-report/10853006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "Lewis Hamilton says Ferrari has left it \"too late\" to back him in F1 title fight",
+   "resumo": "The Italian Grand Prix is probably the worst venue for a spat to brew up between team-mates but that is what happened at Monza as Lewis Hamilton finished a distant sixth after Charles…",
+   "url": "https://www.motorsport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-title-fight/10853210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:10:26Z"
+   "data": "2026-09-06T20:01:07Z"
   },
   {
-   "titulo": "F1 2026 Italian Grand Prix race results",
-   "resumo": "The complete race result from the 2026 1 Italian GP at Monza",
-   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-race-results/",
+   "titulo": "Audi signals appeal over Tsunoda’s Italian GP non-penalty",
+   "resumo": "The Audi Formula 1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian Grand Prix. Amid confusion over where he was supposed to line up on…",
+   "url": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T19:58:24Z"
+  },
+  {
+   "titulo": "Audi lodges intention to appeal against Yuki Tsunoda's Italian GP verdict",
+   "resumo": "The Audi F1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian GP. Amid confusion over where he was supposed to line up on a lap 6…",
+   "url": "https://www.motorsport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-f1-verdict/10853208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T19:55:34Z"
+  },
+  {
+   "titulo": "FREC: Bondarev delivers in style on debut weekend",
+   "resumo": "Sport news Making his FIA FREC debut, the Ukrainian driver, who finished second in Race 2 on Saturday from the partially-reversed grid, became the 10th driver to win in the junior…",
+   "url": "https://www.fia.com/news/frec-bondarev-delivers-style-debut-weekend",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T19:35:00Z"
+  },
+  {
+   "titulo": "Is Ferrari shooting itself in the foot? Our Italian GP verdict",
+   "resumo": "Ferrari's home F1 race always brings added pressure, but it never really got going at Monza. Did it embarrass itself - and is it fumbling a title shot?",
+   "url": "https://www.the-race.com/formula-1/ferrari-italian-gp-handling-f1-2026-title-fight-our-verdict/",
    "fonte": "The Race",
    "dominio": "the-race.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:00:15Z"
+   "data": "2026-09-06T19:27:08Z"
   },
   {
-   "titulo": "The F1 wins from the lowest grid position",
-   "resumo": "Kimi Antonelli's 2026 Italian GP victory puts him joint second in the rankings for the lowest grid positions from which a Formula 1 grand prix has been won.",
-   "url": "https://www.the-race.com/formula-1/f1-wins-from-the-lowest-grid-position-kimi-antonelli-italian-gp/",
+   "titulo": "Winners and losers from F1's memorable Italian Grand Prix",
+   "resumo": "Whether you are an adopted fan of Formula 1 2026's divisive yo-yo racing or not, you can't argue the Italian Grand Prix was short of things to pay attention to. Champion-elect - there, we…",
+   "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-memorable-italian-grand-prix/10853199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T19:15:36Z"
+  },
+  {
+   "titulo": "Chinese Brands Got So Fast At Developing New Cars Even China Thinks They Should Slow Down",
+   "resumo": "AI could cut new-car development to mere months, but regulators fear quality and safety might pay the price",
+   "url": "https://www.carscoops.com/2026/09/chinese-automakers-should-slow-down-development/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T19:09:00Z"
+  },
+  {
+   "titulo": "Fred Vasseur admits Ferrari drivers' clash in Italian GP “not good for the team”",
+   "resumo": "Fred Vasseur has admitted the incident between the Ferrari drivers on the opening lap of the Formula 1 Italian Grand Prix was “not good for the team” after a disappointing weekend for the…",
+   "url": "https://www.motorsport.com/f1/news/fred-vasseur-admits-ferrari-drivers-clash-not-good-for-the-team/10853193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T18:46:59Z"
+  },
+  {
+   "titulo": "Pedro Lago Vieira vence quarta ronda do Portugal Rally Series em Castanheira de Pera",
+   "resumo": "Pedro Lago Vieira e Paulo Lopes conquistaram a vitória na quarta ronda do Castrol Portugal Rally Series, designada O Neveiro e a Lã, disputada em Castanheira de Pera. Com este triunfo, a…",
+   "url": "https://www.autosport.pt/ralis/pedro-lago-vieira-vence-quarta-ronda-do-portugal-rally-series-em-castanheira-de-pera/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-06T18:45:00Z"
+  },
+  {
+   "titulo": "Yuki Tsunoda keeps Italian GP point after escaping sanction",
+   "resumo": "Racing Bulls driver Yuki Tsunoda has escaped punishment after an investigation into his grid position at an early restart of the Monza race. On a lap 6 restart, which followed a red flag…",
+   "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-keeps-italian-gp-point-after-escaping-sanction/10853177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T18:32:15Z"
+  },
+  {
+   "titulo": "Why Tsunoda was ruled innocent in aborted Italian GP start",
+   "resumo": "Yuki Tsunoda's first point of his stand-in F1 spell is no longer in jeopardy as the Racing Bulls driver escaped a penalty for causing an extra formation lap at Monza",
+   "url": "https://www.the-race.com/formula-1/why-yuki-tsunoda-innocent-in-aborted-italian-gp-start/",
    "fonte": "The Race",
    "dominio": "the-race.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:00:00Z"
+   "data": "2026-09-06T18:24:21Z"
+  },
+  {
+   "titulo": "GP de Itália F1: Lewis Hamilton quer regras de conduta na Ferrari",
+   "resumo": "Lewis Hamilton terminou o GP de Itália longe do pódio e desagradado com o desenrolar da corrida. O incidente da curva 2 com Charles Leclerc acabou por causar desconforto no piloto…",
+   "url": "https://www.autosport.pt/formula1/gp-de-italia-f1-lewis-hamilton-quer-regras-de-conduta-na-ferrari/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-06T18:09:30Z"
+  },
+  {
+   "titulo": "Winners and losers from F1's 2026 Italian Grand Prix",
+   "resumo": "Kimi Antonelli stole the show by winning his home F1 race from 19th (then 12th) on the grid, but who else shone in the Italian GP?",
+   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-winners-losers/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T18:04:28Z"
+  },
+  {
+   "titulo": "Why Mercedes didn't pit Russell under virtual safety car in Italian GP",
+   "resumo": "Kimi Antonelli's sensational win from the back of the grid in the Italian Grand Prix was thanks to a great drive, but perhaps also a little help from strategy and a timely virtual safety…",
+   "url": "https://www.autosport.com/f1/news/why-mercedes-didnt-pit-george-russell-under-virtual-safety-car-in-italian-gp-we-didnt-know-which-st/10853147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T17:34:16Z"
+  },
+  {
+   "titulo": "'Here there are no rules' - Hamilton calls Ferrari out",
+   "resumo": "Lewis Hamilton has hit out at a lack of rules at Ferrari, after an Italian GP compromised by an early incident with team-mate Charles Leclerc",
+   "url": "https://www.the-race.com/formula-1/here-there-are-no-rules-hamilton-calls-ferrari-out/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T17:33:41Z"
+  },
+  {
+   "titulo": "ERC: Suninen claims title as Meeke wins in Ceredigion*",
+   "resumo": "Sport news Overnight leader Meeke cemented what was his first victory on an ERC event as a registered ERC driver by setting the pace on two of Sunday’s deciding four stages aboard the…",
+   "url": "https://www.fia.com/news/erc-suninen-claims-title-meeke-wins-ceredigion",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T17:31:00Z"
+  },
+  {
+   "titulo": "BTCC Croft: Doble clear of drama in Croft crashfest",
+   "resumo": "Mikey Doble took victory in the British Touring Car Championship finale at Croft, a race in which all of the overall series contenders were involved in accidents. The Power Maxed Racing…",
+   "url": "https://www.autosport.com/btcc/news/btcc-croft-doble-wins-incident-packed-race-three-/10853130/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T17:14:51Z"
+  },
+  {
+   "titulo": "GP Itália F1: Franco Colapinto em lágrimas no final da corrida",
+   "resumo": "Franco Colapinto não conseguiu disfarçar as lágrimas no final da corrida. O piloto argentino esteve em posição privilegiada para conseguir um bom resultado, mas uma saída de pista logo nas…",
+   "url": "https://www.autosport.pt/formula1/gp-italia-f1-franco-colapinto-em-lagrimas-no-final-da-corrida/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-06T17:03:56Z"
+  },
+  {
+   "titulo": "F1 – Antonelli storms from 19th on the grid to take sensational home win at Monza ahead of Russell and Verstappen",
+   "resumo": "Sport news Kimi Antonelli claimed a remarkable victory at the 2026 FIA Formula 1 Italian Grand Prix, charging from 19th on the grid to win his home race ahead of Mercedes team mate George…",
+   "url": "https://www.fia.com/news/f1-antonelli-storms-19th-grid-take-sensational-home-win-monza-ahead-russell-and-verstappen",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T17:03:00Z"
+  },
+  {
+   "titulo": "GP Itália F1, Kimi Antonelli, de 19º para primeiro: “é um sonho tornado realidade”",
+   "resumo": "Kimi Antonelli venceu este domingo o Grande Prémio da Itália de Fórmula 1 em Monza, arrancando da 19ª posição da grelha de partida para assegurar um triunfo inédito em casa e tornar-se no…",
+   "url": "https://www.autosport.pt/formula1/gp-italia-f1-kimi-antonelli-de-19o-para-primeiro-e-um-sonho-tornado-realidade/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-06T16:56:31Z"
+  },
+  {
+   "titulo": "Kia’s 2026 K4 Turbo Hatch Is All The Small Car Most People Actually Need",
+   "resumo": "And if they're reasonable enough to buy one, it'll save them tens of thousands over the average MSRP today",
+   "url": "https://www.carscoops.com/2026/09/2026-kia-k4-hatchback-review/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T16:46:00Z"
+  },
+  {
+   "titulo": "After Antonelli’s Italian GP win, is the F1 title fight over? Our writers have their say",
+   "resumo": "Kimi Antonelli’s Italian Grand Prix win from 19th on the grid was a statement performance and extends his lead in the Formula 1 world championship to 66 points. With a maximum of 10 rounds…",
+   "url": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T16:44:21Z"
+  },
+  {
+   "titulo": "F1 - 2026 Italian Grand Prix Post-Race Press Conference Transcript",
+   "resumo": "Sport news DRIVERS 1 – Kimi ANTONELLI (Mercedes) 2 – George RUSSELL (Mercedes) 3 – Max VERSTAPPEN (Red Bull) TRACK INTERVIEWS (Conducted by David Coulthard) Q: Kimi, I’m not known for my…",
+   "url": "https://www.fia.com/news/f1-2026-italian-grand-prix-post-race-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-06T16:40:00Z"
+  },
+  {
+   "titulo": "GP Itália F1, Toto Wolff: “Estratégia de duas paragens acabou por ser a melhor”",
+   "resumo": "Toto Wolff, chefe de equipa da Mercedes, admitiu que “não havia hipótese” de alterar a estratégia de pneus de George Russell no Grande Prémio de Itália, depois de este ter perdido a corrida…",
+   "url": "https://www.autosport.pt/formula1/gp-italia-f1-toto-wolff-estrategia-de-duas-paragens-acabou-por-ser-a-melhor/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-06T16:39:59Z"
+  },
+  {
+   "titulo": "Antonelli Becomes First Italian to Win Italian Grand Prix Since ‘66 With Impressive Run from 19th",
+   "resumo": "Antonelli made up 18 positions to become the first Italian to win their home race since Ludovico Scarfiotti in 1966.",
+   "url": "https://www.roadandtrack.com/news/a73624933/antonelli-becomes-first-italian-to-win-italian-grand-prix-since-66-with-impressive-run-from-19th/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T15:47:03Z"
+  },
+  {
+   "titulo": "Novo Kia Sportage troca as curvas por linhas muito mais direitas",
+   "resumo": "O próximo Kia Sportage começa finalmente a mostrar as suas formas. Depois dos primeiros protótipos fortemente camuflados, estas novas unidades de testes revelam muito mais do futuro modelo…",
+   "url": "https://www.razaoautomovel.com/noticias/antevisao-fotos-espia-kia-sportage-2028/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-06T15:38:34Z"
   },
   {
    "titulo": "This BMW Roadster on Bring a Trailer Is Not What It Appears to Be",
@@ -75,76 +305,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-06T15:00:00Z"
-  },
-  {
-   "titulo": "Five quick takeaways from the F1 Italian GP",
-   "resumo": "Antonelli's biggest victory This was probably the biggest blow Kimi Antonelli has dealt George Russell in the championship battle so far. If it wasn't already clear, Antonelli is performing…",
-   "url": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-italian-gp/10852982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:59:41Z"
-  },
-  {
-   "titulo": "Charles Leclerc on Lewis Hamilton clash: “Who is forcing that narrative?”",
-   "resumo": "Charles Leclerc says he doesn’t understand “who is forcing that narrative” of a Ferrari rivalry, after clashing with Formula 1 team-mate Lewis Hamilton at the start of the Italian Grand…",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-on-lewis-hamilton-clash-who-is-forcing-that-narrative/10853021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:56:20Z"
-  },
-  {
-   "titulo": "Nico Rosberg: Ferrari backing Lewis Hamilton over Charles Leclerc \"doesn't make sense\"",
-   "resumo": "2016 Formula 1 champion Nico Rosberg says it is \"not feasible\" for Ferrari to prioritise Lewis Hamilton over Charles Leclerc in the 2026 title race. Ferrari entered the Italian Grand Prix…",
-   "url": "https://www.motorsport.com/f1/news/nico-rosberg-ferrari-backing-lewis-hamilton-over-charles-leclerc-doesnt-make-sense/10853017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:51:03Z"
-  },
-  {
-   "titulo": "'We went too far' - Leclerc on first-lap Hamilton fight",
-   "resumo": "Charles Leclerc admits his scrap with Ferrari team-mate Lewis Hamilton \"went too far\" during the opening corners of F1's Italian GP",
-   "url": "https://www.the-race.com/formula-1/we-went-too-far-charles-leclerc-lap-one-fight-lewis-hamilton-italian-gp/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:46:55Z"
-  },
-  {
-   "titulo": "Futuro do WRC em análise: Um novo formato para os eventos",
-   "resumo": "Uma das alterações em estudo diz respeito ao formato dos ralis. A estrutura de quinta, sexta e sábado deverá continuar a existir, mas o domingo poderá passar a concentrar-se numa única…",
-   "url": "https://www.autosport.pt/sem-categoria/futuro-do-wrc-em-analise-um-novo-formato-para-os-eventos/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-06T14:43:27Z"
-  },
-  {
-   "titulo": "Leclerc needs further health checks after heavy Italian GP crash",
-   "resumo": "Charles Leclerc says he needs “a few additional checks” following his Italian Grand Prix crash, in order to make sure he’ll be fit next weekend for Formula 1’s Madrid round. Leclerc lost…",
-   "url": "https://www.autosport.com/f1/news/leclerc-needs-further-health-checks-after-heavy-italian-gp-crash/10853016/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:41:26Z"
-  },
-  {
-   "titulo": "BTCC Croft: Sublime Sutton wins on hard tyres",
-   "resumo": "Ash Sutton put in a sublime drive at Croft to extend his British Touring Car Championship points lead in the second race – despite hard-compound tyres on a damp track. Sutton started his…",
-   "url": "https://www.autosport.com/btcc/news/btcc-croft-sublime-sutton-wins-on-hard-tyres/10853014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T14:37:59Z"
   },
   {
    "titulo": "Alpine vai quebrar todas as regras dos elétricos",
@@ -167,26 +327,6 @@
    "data": "2026-09-06T14:19:00Z"
   },
   {
-   "titulo": "GP Itália F1: Meia corrida impressionante, Mercedes na frente",
-   "resumo": "O GP de Itália tem sido repleto de ação. A corrida começou com a saída de pista de Charles Leclerc, que motivou a interrupção da corrida. Na frente, Pierre Gasly tentou defender-se de…",
-   "url": "https://www.autosport.pt/formula1/gp-italia-f1-meia-corrida-impressionante-mercedes-na-frente/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-06T14:14:39Z"
-  },
-  {
-   "titulo": "Rali Ceredigion: Kris Meeke vence e Teemu Suninen sagra-se Campeão Europeu de Ralis",
-   "resumo": "Kris Meeke venceu o JDS Machinery Rali Ceredigion, penúltima ronda do Campeonato da Europa de Ralis (ERC) de 2026, enquanto Teemu Suninen garantiu antecipadamente a conquista do título…",
-   "url": "https://www.autosport.pt/ralis/rali-ceredigion-kris-meeke-vence-e-teemu-suninen-sagra-se-campeao-europeu-de-ralis/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-06T14:12:14Z"
-  },
-  {
    "titulo": "Charles Leclerc Out of the Italian Grand Prix After Red Flag Crash",
    "resumo": "Ferrari’s home race goes from bad to worse in three laps, ending with Charles Leclerc's red-flag DNF.",
    "url": "https://www.roadandtrack.com/news/a73624753/charles-leclerc-out-italian-grand-prix-red-flag-crash/",
@@ -197,46 +337,6 @@
    "data": "2026-09-06T13:35:00Z"
   },
   {
-   "titulo": "Huge Leclerc crash brings out early Italian GP red flag",
-   "resumo": "F1's Italian GP has been red-flagged following a huge crash for Ferrari driver Charles Leclerc at the end of the second lap",
-   "url": "https://www.the-race.com/formula-1/f1-2026-italian-gp-red-flag-charles-leclerc-crash-ferrari/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T13:25:56Z"
-  },
-  {
-   "titulo": "História do Rali dos Açores: seis décadas de paixão nas estradas de São Miguel",
-   "resumo": "Há estradas que guardam segredos milenares, e depois há a terra açoriana, onde o eco dos motores desenhou, ao longo de mais de meio século, uma das páginas mais vibrantes da história do…",
-   "url": "https://www.autosport.pt/ralis/historia-do-rali-dos-acores-seis-decadas-de-paixao-nas-estradas-de-sao-miguel/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-06T13:20:19Z"
-  },
-  {
-   "titulo": "Huge crash knocks Leclerc out of F1 Italian GP",
-   "resumo": "Ferrari Formula 1 driver Charles Leclerc crashed out of the Italian Grand Prix, bringing out the red flag after two racing laps at Monza. At the end of the second lap, Leclerc was defending…",
-   "url": "https://www.autosport.com/f1/news/huge-crash-knocks-charles-leclerc-out-of-f1-italian-gp/10852998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T13:19:24Z"
-  },
-  {
-   "titulo": "GP Itália F1: Charles Leclerc fora de prova e bandeira vermelha em pista",
-   "resumo": "Charles Leclerc está fora de prova. O piloto monegasco perdeu o controlo do seu Ferrari na Parabólica e ficou fora de prova. No arranque, Pierre Gasly largou bem e manteve a liderança, mas…",
-   "url": "https://www.autosport.pt/formula1/gp-italia-f1-charles-leclerc-fora-de-prova-e-bandeira-vermelha-em-pista/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-06T13:12:59Z"
-  },
-  {
    "titulo": "Piston Slap: The DIY Friend In Need Is A Friend Indeed",
    "resumo": "Adam writes: I have a discussion topic for a Piston Slap: Don’t forget your non-automotive friends when it comes to common, simple automotive projects. While rotating my tires the other…",
    "url": "https://www.hagerty.com/media/advice/piston-slap/piston-slap-the-diy-friend-in-need-is-a-friend-indeed/",
@@ -245,16 +345,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-06T13:00:00Z"
-  },
-  {
-   "titulo": "BTCC Croft: Cook wins wet-weather thriller from Sutton",
-   "resumo": "Josh Cook took victory in the first British Touring Car Championship race at Croft after surviving a last-corner attack from Ash Sutton, despite not crossing the finish line in front. Tom…",
-   "url": "https://www.autosport.com/btcc/news/btcc-croft-cook-wins-wet-weather-thriller-from-sutton/10852956/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T12:20:03Z"
   },
   {
    "titulo": "Hyundai’s New Kona Ditches The Weird Look For A Normal Crossover Shape",
@@ -307,16 +397,6 @@
    "data": "2026-09-06T11:00:00Z"
   },
   {
-   "titulo": "Gary Anderson on F1 2026's low-drag 'Monza special' aero tweaks",
-   "resumo": "Monza has always presented a special challenge to F1 teams, thanks to its long straights, but that has taken on a new dimension with these energy-starved 2026 cars",
-   "url": "https://www.the-race.com/formula-1/gary-anderson-on-f1-2026s-low-drag-monza-special-aero-tweaks/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T08:49:16Z"
-  },
-  {
    "titulo": "'We know who we are': Small cars can make Fiat bigger than ever",
    "resumo": "Fiat is back to its roots as a maker of small cars - Europe boss Gaetano Thorel unwraps the game plan To become big again, Fiat had to embrace being small. That might sound counterintuitive…",
    "url": "https://www.autocar.co.uk/car-news/features/we-know-who-we-are-small-cars-can-make-fiat-bigger-ever",
@@ -367,36 +447,6 @@
    "data": "2026-09-05T22:06:41Z"
   },
   {
-   "titulo": "ERC: Mighty Meeke ahead in Wales as Suninen closes in on crown",
-   "resumo": "Sport news Starting out 0.9sec behind Suninen following Friday’s four stages, which included two run at night, Meeke charged through the day-opening 12.02-kilometre Aberffrwd test leading…",
-   "url": "https://www.fia.com/news/erc-mighty-meeke-ahead-wales-suninen-closes-crown",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T21:48:00Z"
-  },
-  {
-   "titulo": "FREC: Start-to-finish Hanna is ninth different winner",
-   "resumo": "Sport news Oleksandr Bondarev finished second on his FIA FREC debut for Van Amersfoort Racing and also claimed top Rookie honours, while CL Motorsport’s Reno Francot took third, his first…",
-   "url": "https://www.fia.com/news/frec-start-finish-hanna-ninth-different-winner",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T21:43:00Z"
-  },
-  {
-   "titulo": "Land Rover’s Baby Defender Borrows A New But Old Design Trick From Big Brother",
-   "resumo": "The compact SUV shares its bones with JLR’s sleek electric GT, but takes a much boxier route and comes with five wheels, not four",
-   "url": "https://www.carscoops.com/2026/09/baby-defender-design-trick/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T21:31:00Z"
-  },
-  {
    "titulo": "IndyCar Saturday Halted Following Huge Porsche Sprint Crash in Zanardi Corkscrew",
    "resumo": "Manuel Gil Del Real is awake at a local hospital following his huge crash at Laguna Seca Saturday morning.",
    "url": "https://www.roadandtrack.com/news/a73622610/indycar-saturday-halted-following-huge-porsche-sprint-crash-in-zanardi-corkscrew/",
@@ -407,26 +457,6 @@
    "data": "2026-09-05T19:28:49Z"
   },
   {
-   "titulo": "At $112K, The 2026 GMC Yukon Denali Ultimate Is Very Good, And That’s The Problem",
-   "resumo": "GMC’s fanciest Yukon brings a V8, Super Cruise and serious luxury, but cheaper three-row SUVs expose an uncomfortable issue",
-   "url": "https://www.carscoops.com/2026/09/gmc-yukon-denali-ultimate-review/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T19:08:00Z"
-  },
-  {
-   "titulo": "How Gasly and Alpine Got Everything Just Right and Stunned F1 Rivals with Monza Pole",
-   "resumo": "A day after losing his Monaco podium, the Alpine driver landed a shock pole.",
-   "url": "https://www.roadandtrack.com/news/a73622533/gasly-alpine-everything-just-right-stunned-f1-rivals-monza-pole/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T18:53:20Z"
-  },
-  {
    "titulo": "Estes são os clássicos da Citroën que Mangualde produziu",
    "resumo": "A fábrica da Stellantis em Mangualde ultrapassou recentemente a marca dos dois milhões de veículos produzidos. Um número que resume mais de seis décadas de história industrial na Região…",
    "url": "https://www.razaoautomovel.com/classicos/modelos-classicos-produzidos-stellantis-mangualde-2026/",
@@ -435,26 +465,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-05T17:16:09Z"
-  },
-  {
-   "titulo": "F1 – Gasly takes sensational first career pole at Monza ahead of Russell and Piastri",
-   "resumo": "Sport news Pierre Gasly delivered a stunning performance to claim the first pole position of his Formula 1 career at the 2026 FIA Formula 1 Italian Grand Prix, beating Mercedes’ George…",
-   "url": "https://www.fia.com/news/f1-gasly-takes-sensational-first-career-pole-monza-ahead-russell-and-piastri",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T16:43:00Z"
-  },
-  {
-   "titulo": "F1 - 2026 Italian Grand Prix Post-Qualifying Press Conference Transcript",
-   "resumo": "Sport news DRIVERS 1 – Pierre GASLY (Alpine) 2 – George RUSSELL (Mercedes) 3 – Oscar PIASTRI (McLaren) PARC FERMÉ INTERVIEWS (Conducted by Davide Valsecchi) Q: Pierre Gasly, pole position…",
-   "url": "https://www.fia.com/news/f1-2026-italian-grand-prix-post-qualifying-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-05T16:30:00Z"
   },
   {
    "titulo": "Bentley Used To Outsell Rolls-Royce By 3 To 1. Not Anymore",
@@ -585,16 +595,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-05T06:30:39Z"
-  },
-  {
-   "titulo": "SEAT admite que pode desaparecer depois de 2030",
-   "resumo": "A marca SEAT pode mesmo desaparecer. O cenário que até ontem surgia num documento interno do Grupo Volkswagen foi agora admitido oficialmente pela própria empresa. A SEAT S.A., a empresa…",
-   "url": "https://www.razaoautomovel.com/noticias/industria-seat-admite-que-pode-desaparecer-2030/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-04T19:19:36Z"
   },
   {
    "titulo": "The Dodge Durango Gets Darker For 2027 With New Paint",
