@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-06T20:23:45Z",
+ "atualizado": "2026-09-07T04:40:37Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -16,6 +17,146 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Brad Keselowski Issues Warning to Carson Hocevar Following Spin in Southern 500",
+   "resumo": "Brad Keselowski is the latest in a line of scorned drivers who have reached their wits' end with one competitor, Carson Hocevar.",
+   "url": "https://www.roadandtrack.com/news/a73627304/brad-keselowski-issues-warning-to-carson-hocevar-following-spin-in-southern-500/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T04:20:25Z"
+  },
+  {
+   "titulo": "Kyle Larson doesn't regret strategic gamble he took at Darlington despite coming up short",
+   "resumo": "Sometimes to win in the NASCAR Cup Series, you have to take a gamble. And sometimes, that gamble simply doesn't work out. Such was the case for Kyle Larson on Saturday, who made the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larson-doesnt-regret-strategic-gamble-he-took-at-darlington-despite-coming-up-short/10853273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T04:17:33Z"
+  },
+  {
+   "titulo": "Christopher Bell was in rare comedic form after winning the Southern 500",
+   "resumo": "Christopher Bell was downright effusive after winning the Southern 500. There have been big victories over the years from the Chili Bowl Midget Nationals and the World of Outlaws to wins…",
+   "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-was-in-rare-comedic-form-after-winning-the-southern-500-/10853279/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T04:14:55Z"
+  },
+  {
+   "titulo": "NASCAR pays $1,115 after drivers swore 223 times on the radio during Southern 500 race",
+   "resumo": "NASCAR is pledging $5 to a swear jar throughout the final ten races of the year for every moment when a Cup Series driver swears on the radio ... and it didn't take long for the jar start…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-pays-1115-after-drivers-swore-233-times-on-the-radio-during-southern-500-race/10853275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T04:05:22Z"
+  },
+  {
+   "titulo": "Aston Martin Halford Special: unique Brooklands winner",
+   "resumo": "Aston Martin Halford Special: unique Brooklands winner Ryan Standen Mon, 07/09/2026 - 04:43",
+   "url": "https://www.classicandsportscar.com/features/aston-martin-halford-special-unique-brooklands-winner",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-07T03:43:40Z"
+  },
+  {
+   "titulo": "Denny Hamlin reacts to Michael McDowell run-in that derailed his day",
+   "resumo": "The first race of the Chase did not go the way Denny Hamlin was hoping for on Saturday at Darlington. Heading into the Chase as the top car in the standings and the favorite to finally win…",
+   "url": "https://www.motorsport.com/nascar-cup/news/denny-hamlin-reacts-to-michael-mcdowell-run-in-that-derailed-his-day/10853271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T03:28:10Z"
+  },
+  {
+   "titulo": "How Antonelli Went From 19th on the Grid to the Top Step of the Podium in Monza",
+   "resumo": "The Italian won his home race after a superb drive from his 19th-place starting position.",
+   "url": "https://www.roadandtrack.com/news/a73627129/kimi-antonelli-went-from-19th-top-step-of-the-podium-monza/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T03:25:09Z"
+  },
+  {
+   "titulo": "Chase Elliott, Ryan Blaney rescue stalled 23XI cars at Darlington",
+   "resumo": "Late in Sunday's NASCAR Cup race at Darlington, there was a brief red flag for some light rain at the race track. When the race was ready to resume, most of the field fired back up – except…",
+   "url": "https://www.motorsport.com/nascar-cup/news/ryan-blaney-and-chase-elliott-give-23xi-cars-a-friendly-push-after-they-stall-out/10853269/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T03:23:21Z"
+  },
+  {
+   "titulo": "Christopher Bell Wins Southern 500, Breaks Nearly Year-Long Winless Streak to Start NASCAR Playoffs",
+   "resumo": "Christopher Bell finished second seven times in 2026 before securing his first win to start the NASCAR Cup Series Chase.",
+   "url": "https://www.roadandtrack.com/news/a73626985/christopher-bell-wins-southern-500-breaks-year-long-winless-streak-and-start-nascar-playoffs/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T02:39:00Z"
+  },
+  {
+   "titulo": "Heartbreaking Final Minutes for Toyota Lead to Ferrari’s First WEC Win of the Year at COTA",
+   "resumo": "The No. 50 Ferrari won the 6 Hours Lone Star Le Mans over Cadillac and Alpine following a late hydraulic failure for Toyota Racing.",
+   "url": "https://www.roadandtrack.com/news/a73626643/heartbreaking-final-minutes-for-toyota-lead-to-ferraris-first-wec-win-of-the-year-at-cota/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T00:36:30Z"
+  },
+  {
+   "titulo": "WEC Austin: Ferrari takes surprise win after late heartbreak for Toyota",
+   "resumo": "Ferrari claimed its first World Endurance Championship victory of 2026 at the Lone Star Le Mans after the race-leading Toyota suffered a late mechanical failure. Nyck de Vries, Kamui…",
+   "url": "https://www.autosport.com/wec/news/wec-austin-ferrari-takes-surprise-win-after-late-heartbreak-for-toyota/10853251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-07T00:28:51Z"
+  },
+  {
+   "titulo": "Teen Fleeing Police In Mustang Crashes Into Multimillion-Dollar Plane",
+   "resumo": "Police say an allegedly intoxicated teen drove a Mustang through an airport fence and into a parked aircraft",
+   "url": "https://www.carscoops.com/2026/09/mustang-crashes-into-plane/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T23:59:00Z"
+  },
+  {
+   "titulo": "A Nightmare Monza for Ferrari as Leclerc Crashes Out and Frustrated Hamilton Calls for Changes",
+   "resumo": "Hamilton wants ‘rules of engagement’ after teammates touched on the first lap.",
+   "url": "https://www.roadandtrack.com/news/a73626500/a-nightmare-monza-for-ferrari-as-leclerc-crashes-out-and-frustrated-hamilton-calls-for-changes/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T23:25:33Z"
+  },
+  {
+   "titulo": "Mitsubishi’s Facelifted Triton Could Steal The New Pajero’s Best Ideas",
+   "resumo": "Mitsubishi is working on a mid-lifecycle update for the midsize pickup to better compete with the new Toyota Hilux",
+   "url": "https://www.carscoops.com/2026/09/mitsubishi-triton-future-updates/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-06T21:32:00Z"
+  },
   {
    "titulo": "Audi appeals stewards' decision in Tsunoda aborted start case",
    "resumo": "Audi has lodged an appeal against the Italian GP stewards's decision not to apply F1's sporting regulations in relation to an alleged infringement of the start procedure by Yuki Tsunoda",
@@ -37,16 +178,6 @@
    "data": "2026-09-06T20:03:58Z"
   },
   {
-   "titulo": "Lewis Hamilton says Ferrari has left it \"too late\" to back him in F1 title fight",
-   "resumo": "The Italian Grand Prix is probably the worst venue for a spat to brew up between team-mates but that is what happened at Monza as Lewis Hamilton finished a distant sixth after Charles…",
-   "url": "https://www.motorsport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-title-fight/10853210/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T20:01:07Z"
-  },
-  {
    "titulo": "Audi signals appeal over Tsunoda’s Italian GP non-penalty",
    "resumo": "The Audi Formula 1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian Grand Prix. Amid confusion over where he was supposed to line up on…",
    "url": "https://www.autosport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-gp-verdict/10853215/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -55,16 +186,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-06T19:58:24Z"
-  },
-  {
-   "titulo": "Audi lodges intention to appeal against Yuki Tsunoda's Italian GP verdict",
-   "resumo": "The Audi F1 team has notified the FIA of its intention to appeal against Yuki Tsunoda's non-penalty in the Italian GP. Amid confusion over where he was supposed to line up on a lap 6…",
-   "url": "https://www.motorsport.com/f1/news/audi-lodges-intention-to-appeal-against-yuki-tsunodas-italian-f1-verdict/10853208/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T19:55:34Z"
   },
   {
    "titulo": "FREC: Bondarev delivers in style on debut weekend",
@@ -87,16 +208,6 @@
    "data": "2026-09-06T19:27:08Z"
   },
   {
-   "titulo": "Winners and losers from F1's memorable Italian Grand Prix",
-   "resumo": "Whether you are an adopted fan of Formula 1 2026's divisive yo-yo racing or not, you can't argue the Italian Grand Prix was short of things to pay attention to. Champion-elect - there, we…",
-   "url": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-memorable-italian-grand-prix/10853199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T19:15:36Z"
-  },
-  {
    "titulo": "Chinese Brands Got So Fast At Developing New Cars Even China Thinks They Should Slow Down",
    "resumo": "AI could cut new-car development to mere months, but regulators fear quality and safety might pay the price",
    "url": "https://www.carscoops.com/2026/09/chinese-automakers-should-slow-down-development/",
@@ -107,16 +218,6 @@
    "data": "2026-09-06T19:09:00Z"
   },
   {
-   "titulo": "Fred Vasseur admits Ferrari drivers' clash in Italian GP “not good for the team”",
-   "resumo": "Fred Vasseur has admitted the incident between the Ferrari drivers on the opening lap of the Formula 1 Italian Grand Prix was “not good for the team” after a disappointing weekend for the…",
-   "url": "https://www.motorsport.com/f1/news/fred-vasseur-admits-ferrari-drivers-clash-not-good-for-the-team/10853193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T18:46:59Z"
-  },
-  {
    "titulo": "Pedro Lago Vieira vence quarta ronda do Portugal Rally Series em Castanheira de Pera",
    "resumo": "Pedro Lago Vieira e Paulo Lopes conquistaram a vitória na quarta ronda do Castrol Portugal Rally Series, designada O Neveiro e a Lã, disputada em Castanheira de Pera. Com este triunfo, a…",
    "url": "https://www.autosport.pt/ralis/pedro-lago-vieira-vence-quarta-ronda-do-portugal-rally-series-em-castanheira-de-pera/",
@@ -125,16 +226,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-06T18:45:00Z"
-  },
-  {
-   "titulo": "Yuki Tsunoda keeps Italian GP point after escaping sanction",
-   "resumo": "Racing Bulls driver Yuki Tsunoda has escaped punishment after an investigation into his grid position at an early restart of the Monza race. On a lap 6 restart, which followed a red flag…",
-   "url": "https://www.motorsport.com/f1/news/yuki-tsunoda-keeps-italian-gp-point-after-escaping-sanction/10853177/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T18:32:15Z"
   },
   {
    "titulo": "Why Tsunoda was ruled innocent in aborted Italian GP start",
@@ -247,16 +338,6 @@
    "data": "2026-09-06T16:46:00Z"
   },
   {
-   "titulo": "After Antonelli’s Italian GP win, is the F1 title fight over? Our writers have their say",
-   "resumo": "Kimi Antonelli’s Italian Grand Prix win from 19th on the grid was a statement performance and extends his lead in the Formula 1 world championship to 66 points. With a maximum of 10 rounds…",
-   "url": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T16:44:21Z"
-  },
-  {
    "titulo": "F1 - 2026 Italian Grand Prix Post-Race Press Conference Transcript",
    "resumo": "Sport news DRIVERS 1 – Kimi ANTONELLI (Mercedes) 2 – George RUSSELL (Mercedes) 3 – Max VERSTAPPEN (Red Bull) TRACK INTERVIEWS (Conducted by David Coulthard) Q: Kimi, I’m not known for my…",
    "url": "https://www.fia.com/news/f1-2026-italian-grand-prix-post-race-press-conference-transcript",
@@ -275,16 +356,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-06T16:39:59Z"
-  },
-  {
-   "titulo": "Antonelli Becomes First Italian to Win Italian Grand Prix Since ‘66 With Impressive Run from 19th",
-   "resumo": "Antonelli made up 18 positions to become the first Italian to win their home race since Ludovico Scarfiotti in 1966.",
-   "url": "https://www.roadandtrack.com/news/a73624933/antonelli-becomes-first-italian-to-win-italian-grand-prix-since-66-with-impressive-run-from-19th/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-06T15:47:03Z"
   },
   {
    "titulo": "Novo Kia Sportage troca as curvas por linhas muito mais direitas",
@@ -327,16 +398,6 @@
    "data": "2026-09-06T14:19:00Z"
   },
   {
-   "titulo": "Charles Leclerc Out of the Italian Grand Prix After Red Flag Crash",
-   "resumo": "Ferrari’s home race goes from bad to worse in three laps, ending with Charles Leclerc's red-flag DNF.",
-   "url": "https://www.roadandtrack.com/news/a73624753/charles-leclerc-out-italian-grand-prix-red-flag-crash/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-06T13:35:00Z"
-  },
-  {
    "titulo": "Piston Slap: The DIY Friend In Need Is A Friend Indeed",
    "resumo": "Adam writes: I have a discussion topic for a Piston Slap: Don’t forget your non-automotive friends when it comes to common, simple automotive projects. While rotating my tires the other…",
    "url": "https://www.hagerty.com/media/advice/piston-slap/piston-slap-the-diy-friend-in-need-is-a-friend-indeed/",
@@ -345,16 +406,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-06T13:00:00Z"
-  },
-  {
-   "titulo": "Hyundai’s New Kona Ditches The Weird Look For A Normal Crossover Shape",
-   "resumo": "The redesigned 2028 Kona has been caught with less cladding, showing a softer design that walks back the model's boldest styling choices",
-   "url": "https://www.carscoops.com/2026/09/2028-hyundai-kona-spied-lightly-disguised/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-06T11:44:00Z"
   },
   {
    "titulo": "For Sale: A 1969 Ford Mustang Mach 1",
@@ -415,46 +466,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-06T06:30:07Z"
-  },
-  {
-   "titulo": "A Porsche Won Its Fight With A Tow Truck, Its $2,300 Bumper Did Not",
-   "resumo": "Viral video shows a Panamera ripping itself from a tow truck, but claims it was being repossessed remain unconfirmed",
-   "url": "https://www.carscoops.com/2026/09/porsche-driver-rips-panamera-off-tow-truck-and-leaves-pieces-behind/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T23:54:00Z"
-  },
-  {
-   "titulo": "Millroy Claims Fellow Driver Saved his Life Following Fiery China GT Crash",
-   "resumo": "Loek Hartog’s heroic actions will not be soon forgotten by the competitor whose life he saved.",
-   "url": "https://www.roadandtrack.com/news/a73623331/millroy-claims-fellow-driver-saved-his-life-following-fiery-china-gt-crash/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T23:43:52Z"
-  },
-  {
-   "titulo": "Hamilton Believes World Championship is Still a Possibility – But He Wants Support from Leclerc",
-   "resumo": "The two Ferraris will start on the second row in Monza as Hamilton is eyeing the bigger picture.",
-   "url": "https://www.roadandtrack.com/news/a73622911/hamilton-believes-world-championship-is-still-a-possibility-with-leclerc-support/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T22:06:41Z"
-  },
-  {
-   "titulo": "IndyCar Saturday Halted Following Huge Porsche Sprint Crash in Zanardi Corkscrew",
-   "resumo": "Manuel Gil Del Real is awake at a local hospital following his huge crash at Laguna Seca Saturday morning.",
-   "url": "https://www.roadandtrack.com/news/a73622610/indycar-saturday-halted-following-huge-porsche-sprint-crash-in-zanardi-corkscrew/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T19:28:49Z"
   },
   {
    "titulo": "Estes são os clássicos da Citroën que Mangualde produziu",
@@ -605,16 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-04T18:30:00Z"
-  },
-  {
-   "titulo": "Toyota Highlander EV Faces More Delays",
-   "resumo": "The automaker says the delays are due to product finalization and are not related to a soft EV market.",
-   "url": "https://www.motor1.com/news/807181/toyota-highlander-ev-delayed-again/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-04T17:00:00Z"
   }
  ]
 }
