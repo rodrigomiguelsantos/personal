@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-08T04:35:11Z",
+ "atualizado": "2026-09-08T11:18:18Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -11,6 +11,7 @@
   "Hagerty",
   "Motor1",
   "Motorsport.com",
+  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
@@ -18,6 +19,276 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Estes elétricos não têm medo da autoestrada",
+   "resumo": "Elétricos e autoestradas. Uma combinação que muitos ainda temem, sobretudo quando a viagem é longa e os quilómetros se acumulam. Mas será que essa preocupação ainda faz sentido? Hoje já…",
+   "url": "https://www.razaoautomovel.com/noticias/guia-de-compra-eletricos-maior-autonomia-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-08T11:16:48Z"
+  },
+  {
+   "titulo": "Porsche’s Next Supercar Could Be An Audi That’s Really A Lamborghini",
+   "resumo": "Its long-teased Mission X electric hypercar looks increasingly unlikely as the brand chases a more profitable gas halo",
+   "url": "https://www.carscoops.com/2026/09/porsche-supercar-plans/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T11:10:00Z"
+  },
+  {
+   "titulo": "Posso mexer no telemóvel enquanto estou parado num semáforo?",
+   "resumo": "Mexer no telemóvel durante a condução é proibido e está expressamente previsto no Código da Estrada (CE). O primeiro ponto do artigo 84.º do Código da Estrada estabelece que, durante a…",
+   "url": "https://www.razaoautomovel.com/autopedia/mexer-no-telemovel-parado-no-semaforo-da-direito-multa-ou-nao/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-08T11:00:28Z"
+  },
+  {
+   "titulo": "Joan Mir defends himself over his crashes: \"I know how to ride without crashing; it's very easy\"",
+   "resumo": "With 22 crashes last year and 16 so far this season, Joan Mir has suffered the joint-most falls of any rider on the MotoGP grid, but the Spaniard attributes his high crash count to the…",
+   "url": "https://www.motorsport.com/motogp/news/joan-mir-defends-his-mistakes-i-know-how-to-race-without-crashing-too-its-very-easy/10853487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T11:00:03Z"
+  },
+  {
+   "titulo": "ELMS: José Cautela em Silverstone para a quinta jornada",
+   "resumo": "O piloto português José Cautela regressa à pista já no próximo domingo, dia 13 de setembro, para disputar as 4 Horas de Silverstone, no Reino Unido, correspondentes à quinta jornada da…",
+   "url": "https://www.autosport.pt/velocidade/elms-jose-cautela-em-silverstone-para-a-quinta-jornada/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T10:45:00Z"
+  },
+  {
+   "titulo": "VW Polo Rear-Ends Bugatti Tourbillon Prototype, Video Shows The Moment",
+   "resumo": "Bugatti Tourbillon testing in Spain shows how fragile prototype hypercars can be when everyday traffic, heat, and elevation all collide on public roads.",
+   "url": "https://www.motor1.com/news/807500/volkswagen-polo-hits-bugatti-tourbillon/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T10:33:52Z"
+  },
+  {
+   "titulo": "Range Rover’s Boss Just Told The World What He Thinks Of China’s Temu Range Rovers",
+   "resumo": "Αs impressive as some new models from China are, they don't yet have the same kind of brand recognition as Range Rover",
+   "url": "https://www.carscoops.com/2026/09/range-rover-take-on-chinese-copies/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T10:08:00Z"
+  },
+  {
+   "titulo": "How Toyota and BMW’s Austin miseries have blown 2026 WEC title fight wide open",
+   "resumo": "The title fight in the World Endurance Championship has been blown wide open after three of the leading cars failed to score points at the Lone Star Le Mans. Heading into last weekend’s…",
+   "url": "https://www.motorsport.com/wec/news/how-toyota-and-bmw-austin-miseries-have-blown-2026-wec-title-fight-wide-open/10853484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T10:00:04Z"
+  },
+  {
+   "titulo": "Um Red Bull no Metro de Madrid",
+   "resumo": "A Oracle Red Bull Racing trocou o asfalto pelos carris, ao levar o icónico RB8 para o Metro de Madrid numa proeza inédita. Para celebrar o regresso do Grande Prémio de Espanha a Madrid…",
+   "url": "https://www.autosport.pt/formula1/um-red-bull-no-metro-de-madrid/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T10:00:00Z"
+  },
+  {
+   "titulo": "WRC ruma ao Chile para a segunda etapa sul-americana: títulos e pódios em aberto",
+   "resumo": "O Campeonato do Mundo de Ralis prossegue esta semana na América do Sul com a realização do Rali do Chile, marcado para os dias 10 a 13 de setembro, a 12ª das catorze rondas da temporada de…",
+   "url": "https://www.autosport.pt/ralis/wrc-ruma-ao-chile-para-a-segunda-etapa-sul-americana-titulos-e-podios-em-aberto/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T09:40:00Z"
+  },
+  {
+   "titulo": "BMW Turns iX3 Owners Into Real-World Safety Testers, If They Opt In",
+   "resumo": "New BMW iX3 models in EU markets capture near-miss footage and sensor data to refine driver-assistance behavior while enforcing privacy-by-design safeguards.",
+   "url": "https://www.motor1.com/news/807485/bmw-ix3-fleet-data-eu/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T09:17:17Z"
+  },
+  {
+   "titulo": "MotoGP explains why racing at Madring is not in its plans",
+   "resumo": "MotoGP deputy CEO Carlos Ezpeleta stressed that the new Madrid Formula 1 track is currently not suitable for MotoGP, while making it clear that fans should not expect to see a flood of…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-explains-why-racing-at-madring-is-not-in-its-plans/10853522/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T09:15:04Z"
+  },
+  {
+   "titulo": "Xiaomi Built An SUV Bigger Than A Model Y For Thousands Less",
+   "resumo": "With 100,000 pre-orders reported in a week, Xiaomi's range-extender SUV is off to a very fast start in China",
+   "url": "https://www.carscoops.com/2026/09/xiaomis-skynomad-n70-prices/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T08:59:00Z"
+  },
+  {
+   "titulo": "CPM: José Correia dá passo importante na luta do título",
+   "resumo": "A JC Group Racing Team viveu um dos fins de semana mais positivos da temporada na Rampa de Boticas, sexta etapa do Campeonato de Portugal de Montanha JC Group 2026, com José Correia a…",
+   "url": "https://www.autosport.pt/velocidade/cpm-jose-correia-da-passo-importante-na-luta-do-titulo/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T08:58:10Z"
+  },
+  {
+   "titulo": "Ricardo Sousa provável em mais duas provas do CPR este ano, o Algarve e (talvez) o Vidreiro",
+   "resumo": "Ricardo Sousa lançou-se este ano no desafiante mundo dos Rally2, deixando a sua marca de forma inegável. A sua estreia foi vibrante e aconteceu no Rali de Lisboa, onde, ao lado de Luís…",
+   "url": "https://www.autosport.pt/sem-categoria/ricardo-sousa-provavel-em-mais-duas-provas-do-cpr-este-ano-o-algarve-e-talvez-o-vidreiro/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T08:23:00Z"
+  },
+  {
+   "titulo": "Elétricos mais baratos do Grupo Volkswagen criam problema inesperado",
+   "resumo": "A nova geração de elétricos mais acessíveis do Grupo Volkswagen está a encontrar uma resposta forte por parte dos consumidores europeus. O Volkswagen ID. Polo já ultrapassou as 30 mil…",
+   "url": "https://www.razaoautomovel.com/noticias/mercado-procura-volkswagen-id-polo-skoda-epiq-cupra-raval-lista-espera-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-08T08:19:44Z"
+  },
+  {
+   "titulo": "Ferrari’s ADUO 2 upgrade is no “game changer” for Haas either",
+   "resumo": "Oliver Bearman says Ferrari’s ADUO 2 engine upgrade represents “a much smaller step” than Haas’ updated Formula 1 chassis. The Prancing Horse introduced its second and final power unit…",
+   "url": "https://www.motorsport.com/f1/news/ferraris-aduo-2-upgrade-is-no-game-changer-for-haas-either/10853480/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T08:18:58Z"
+  },
+  {
+   "titulo": "Mercedes' Next Off-Roader Could Literally Float, Patent Shows",
+   "resumo": "A new Mercedes-Benz patent outlines a two-axle SUV that can float using inflatable wheel-arch inserts, wheel-based propulsion, and software-controlled stability.",
+   "url": "https://www.motor1.com/news/807475/mercedes-off-roader-patent-describes/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T08:18:18Z"
+  },
+  {
+   "titulo": "The last hurrah: Bristol Fighter vs Marcos TSO",
+   "resumo": "The Bristol Fighter and Marcos TSO were bold attempts to inject new life into fading British marques. Ultimately they failed, but what a way to go.",
+   "url": "https://www.octane-magazine.com/articles/the-last-hurrah-bristol-fighter-vs-marcos-tso/",
+   "fonte": "Octane",
+   "dominio": "octane-magazine.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-08T08:06:26Z"
+  },
+  {
+   "titulo": "Juan Pablo Montoya: Mercedes should have double-stacked George Russell and Kimi Antonelli at Monza",
+   "resumo": "Former Formula 1 driver Juan Pablo Montoya believes Mercedes compromised George Russell's Italian Grand Prix by not double-stacking its drivers under the virtual safety car. Mercedes…",
+   "url": "https://www.motorsport.com/f1/news/juan-pablo-montoya-mercedes-should-have-double-stacked-george-russell-and-kimi-antonelli-at-monza/10853452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T08:00:05Z"
+  },
+  {
+   "titulo": "Honda Becomes First to Achieve FIA’s New Five-Star Road Safety Index Rating",
+   "resumo": "Mobility news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has expanded the FIA…",
+   "url": "https://www.fia.com/news/honda-becomes-first-achieve-fias-new-five-star-road-safety-index-rating",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T08:00:00Z"
+  },
+  {
+   "titulo": "New Dacia Spring EV Flees From China And Pays The Price",
+   "resumo": "The new model is manufactured in Europe, riding on an EV-dedicated, Renault-sourced architecture",
+   "url": "https://www.carscoops.com/2026/09/new-dacia-spring/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T07:57:22Z"
+  },
+  {
+   "titulo": "Amazon Cargo Jet Skids Off Runway, Stops Feet From Parked Tesla Cybercabs",
+   "resumo": "Staged beside a Miami runway, Tesla Cybercabs avoided damage in a fatal overrun that is raising questions about robotaxi depot placement.",
+   "url": "https://www.motor1.com/news/807465/tesla-cybercabs-nearly-hit-amazon/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T07:15:07Z"
+  },
+  {
+   "titulo": "Novo Dacia Spring por 17 mil euros é o elétrico mais barato em Portugal",
+   "resumo": "O Dacia Spring foi a porta de entrada na eletrificação total para muitos condutores. Desde 2021, foram vendidas mais de 210 mil unidades em toda a Europa. A receita era simples: dimensões…",
+   "url": "https://www.razaoautomovel.com/video/apresentacao-dacia-spring-2026-2/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-08T06:39:51Z"
+  },
+  {
+   "titulo": "Made In The USA: The Wolverine 1000 Mile Boot",
+   "resumo": "This is the Wolverine 1000 Mile Boot, it’s the original plain-toe variant, the one that closely matches the original 1000 Mile Boot that the... The post Made In The USA: The Wolverine 1000…",
+   "url": "https://silodrome.com/wolverine-1000-mile-boot/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-08T06:30:21Z"
+  },
+  {
+   "titulo": "The New BMW 3 Series Gets A More Powerful Six-Cylinder Engine",
+   "resumo": "It looks a lot like the fully electric i3, but it packs a beefy inline-six and a quad exhaust.",
+   "url": "https://www.motor1.com/news/807455/2027-bmw-3-series-m350-details-photos/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T06:09:06Z"
+  },
+  {
+   "titulo": "Novo Lamborghini da polícia italiana não serve para apanhar criminosos",
+   "resumo": "Há carros de polícia rápidos e depois há isto. A Polizia di Stato italiana recebeu recentemente um Lamborghini Temerario preparado para uma missão muito particular: o transporte urgente de…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-lamborghini-temerario-policia-italiana/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-08T06:00:00Z"
+  },
   {
    "titulo": "30 years of the Lotus Elise",
    "resumo": "30 years of the Lotus Elise Lizzie Pope Tue, 08/09/2026 - 05:11",
@@ -49,16 +320,6 @@
    "data": "2026-09-08T04:00:00Z"
   },
   {
-   "titulo": "New Dacia Spring Revealed: Europe's Dirt-Cheap EV Gets A Glow-Up",
-   "resumo": "Better than its predecessor in every way, the electric city car offers a lot of bang for the buck.",
-   "url": "https://www.motor1.com/news/807429/2027-dacia-spring-price-details-photos/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T04:00:00Z"
-  },
-  {
    "titulo": "Electric AMG C-Class Pops Its Wing As BMW M3 EV Battle Looms",
    "resumo": "Mercedes’ electric super sedan reveals another trick as its 2027 arrival creeps closer",
    "url": "https://www.carscoops.com/2026/09/mercedes-amg-class-ev-scoop/",
@@ -67,46 +328,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-08T01:42:00Z"
-  },
-  {
-   "titulo": "Tiny, Slow, And Super Cheap: The VinFast VF 2 Could Come To America And Europe",
-   "resumo": "The VF 2 is nearly two feet shorter than the 500e, but it could be the cheap car America needs",
-   "url": "https://www.carscoops.com/2026/09/vinfast-vf2-international-sales/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T01:00:00Z"
-  },
-  {
-   "titulo": "The New BMW M350 xDrive Has 443 HP And A Drift Mode That Makes It RWD",
-   "resumo": "BMW is finishing development of its new ICE 3-Series, complete with mild-hybrid engines, revised chassis tech, and an M350 xDrive flagship",
-   "url": "https://www.carscoops.com/2026/09/bmw-m350-drift-mode/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T00:21:20Z"
-  },
-  {
-   "titulo": "The Cheapest New VW You Can Buy Rear-Ended A Multi-Million Bugatti Tourbillon Prototype",
-   "resumo": "Video captures the moment a VW Polo runs into a Bugatti Tourbillon prototype on a mountain road in Spain",
-   "url": "https://www.carscoops.com/2026/09/vw-polo-bugatti-tourbillon-crash/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T23:27:58Z"
-  },
-  {
-   "titulo": "Skoda CEO Hints At New Fabia, But It Could Be A Long Wait",
-   "resumo": "Rumors of the Fabia's death appear to have been overblown as the company's CEO revealed plans for an electric successor",
-   "url": "https://www.carscoops.com/2026/09/skoda-fabia-ev-successor/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T22:52:00Z"
   },
   {
    "titulo": "BMW 3 Series M350 brings 437bhp straight six – and drift mode",
@@ -129,16 +350,6 @@
    "data": "2026-09-07T22:01:00Z"
   },
   {
-   "titulo": "Bernie Ecclestone ‘travado’ em Tires com arma vinda da Suíça: “Não tenho livrete, era para tiro aos pratos”",
-   "resumo": "Na sequência da detenção no Aeródromo de Tires, em Cascais, por transporte ilegal de arma, de Bernie Ecclestone, o antigo patrão da Fórmula 1 prestou declarações ao Daily Mail Sport…",
-   "url": "https://www.autosport.pt/maismotores/bernie-ecclestone-travado-em-tires-com-arma-vinda-da-suica-nao-tenho-livrete-era-para-tiro-aos-pratos/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-07T20:44:15Z"
-  },
-  {
    "titulo": "The pivotal choices Ferrari is now facing",
    "resumo": "If the Italian GP result was disappointing for Ferrari, the fallout from the rest of the weekend amounts to a crisis. What next for F1 team and leader?",
    "url": "https://www.the-race.com/formula-1/ferrari-now-facing-pivotal-f1-choices/",
@@ -149,26 +360,6 @@
    "data": "2026-09-07T20:38:39Z"
   },
   {
-   "titulo": "Kris Meeke pode vir ao 39º Rally Six Cities North of Portugal",
-   "resumo": "Depois do Rali da Madeira, Kris Meeke, vencedor do Rali Ceredigion, está a tentar assegurar a participação na derradeira etapa do Campeonato da Europa de Ralis (ERC) em Portugal, após ter…",
-   "url": "https://www.autosport.pt/ralis/kris-meeke-pode-vir-ao-39o-rally-six-cities-north-of-portugal/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-07T19:17:09Z"
-  },
-  {
-   "titulo": "Novo CEO da Apple corre de Porsche nos tempos livres",
-   "resumo": "A Apple tem nova liderança. Desde 1 de setembro, John Ternus tem pela frente a difícil missão de suceder a Tim Cook, que durante o seu «mandato» fez com que o valor da gigante tecnológica…",
-   "url": "https://www.razaoautomovel.com/especial/john-ternus-ceo-apple-tempos-livres-correr-porsche/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-07T18:18:23Z"
-  },
-  {
    "titulo": "Gilles Villeneuve Biopic Charts the Rise of a Legend",
    "resumo": "“If someone said to me that you can have three wishes, my first would have been to get into racing, my second to be in Formula 1, my third to drive for Ferrari…” These words from Canada’s…",
    "url": "https://www.hagerty.com/media/news/gilles-villeneuve-biopic-charts-the-rise-of-a-legend/",
@@ -177,16 +368,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-07T18:00:00Z"
-  },
-  {
-   "titulo": "Dennis Hauger caps rookie title run with hopes on 2027 IndyCar return",
-   "resumo": "Despite opening lap contact that sent him crashing out in the season finale, Dennis Hauger officially secured the 2026 IndyCar Rookie of the Year title. Driving the #19 Dale Coyne Racing…",
-   "url": "https://www.motorsport.com/indycar/news/dennis-hauger-caps-rookie-title-run-with-hopes-on-2027-indycar-return/10853543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T17:55:48Z"
   },
   {
    "titulo": "Hadjar to miss third F1 race due to injury",
@@ -209,26 +390,6 @@
    "data": "2026-09-07T17:13:30Z"
   },
   {
-   "titulo": "Isack Hadjar to sit out third F1 race in Madrid as Yuki Tsunoda returns",
-   "resumo": "Red Bull has confirmed Isack Hadjar will require more time to recover from his wrist injury, which will see the Frenchman sit out his third consecutive grand prix at this weekend's Formula…",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-to-sit-out-third-f1-race-in-madrid-as-yuki-tsunoda-returns/10853531/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T17:13:12Z"
-  },
-  {
-   "titulo": "Winners and losers from NASCAR's difficult Southern 500 at Darlington",
-   "resumo": "The ten-week battle for the NASCAR Cup Series championship has begun, and there are now just 12 points between Denny Hamlin and Christopher Bell for the points lead after Bell's impressive…",
-   "url": "https://www.motorsport.com/nascar-cup/news/winners-and-losers-from-nascars-difficult-southern-500-at-darlington/10853517/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T17:03:40Z"
-  },
-  {
    "titulo": "Keith’s Blog: Fakes and Awards, Continued",
    "resumo": "Last week we talked about the 25th annual Collector Car and Boat Show in Lake Oswego, OR. There were 200 cars and boats and 5,000 spectators. Best Open Car was awarded to a beautifully…",
    "url": "https://www.sportscarmarket.com/blogs/keith-martin/keiths-blog-fakes-and-awards-continued",
@@ -237,26 +398,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-07T17:00:00Z"
-  },
-  {
-   "titulo": "Mitsubishi Pajero vs Toyota Land Cruiser. Como se comparam?",
-   "resumo": "O Mitsubishi Pajero está de volta, depois de cinco anos ausente e não regressou propriamente para fazer número. À sua espera está um velho conhecido, o Toyota Land Cruiser. O Land Cruiser…",
-   "url": "https://www.razaoautomovel.com/noticias/comparativo-mitsubishi-pajero-toyota-land-cruiser-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-07T16:30:25Z"
-  },
-  {
-   "titulo": "Ai Ogura to undergo radiological check to assess Misano MotoGP return",
-   "resumo": "Ai Ogura will undergo a radiological check on Tuesday to assess his left thumb, which he injured during the summer and subsequently underwent surgery on 27 August, as he hopes to return to…",
-   "url": "https://www.motorsport.com/motogp/news/ai-ogura-set-for-scan-to-assess-misano-motogp-return/10853512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T16:30:24Z"
   },
   {
    "titulo": "This Six-Wheeled Ford Ranger Is Built for Military Duty",
@@ -269,16 +410,6 @@
    "data": "2026-09-07T16:30:00Z"
   },
   {
-   "titulo": "Ferrari “didn’t expect” #50 to win Austin WEC as #51 pitstop issue revealed",
-   "resumo": "Ferrari returned to the top step of the podium in the World Endurance Championship at Austin on Sunday, but it was a race of mixed fortunes for the Italian manufacturer as its other factory…",
-   "url": "https://www.motorsport.com/wec/news/wec-ferrari-makes-its-luck-at-cota-proof-we-never-give-up/10853495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T16:22:50Z"
-  },
-  {
    "titulo": "This 2JZ-Powered 1971 El Camino Has Our Curiosity—and Our Attention",
    "resumo": "Listen, we get it. If you’re clicking on a story about a third-generation Chevrolet El Camino, you’re probably at least somewhat curious to see what’s beneath the hood. Is it a 396? Maybe…",
    "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/this-2jz-powered-1971-el-camino-has-our-curiosity-and-our-attention/",
@@ -287,16 +418,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-07T16:00:00Z"
-  },
-  {
-   "titulo": "Ex-patrão da Fórmula 1 foi detido em Portugal",
-   "resumo": "Bernie Ecclestone, antigo patrão da Fórmula 1, foi detido esta segunda-feira no Aeródromo de Tires, em Cascais, por suspeita de posse ilegal de uma arma de fogo. Segundo avançou…",
-   "url": "https://www.razaoautomovel.com/noticias/atualidade-bernie-ecclestone-detido-aerodromo-tires-arma-ilegal/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-07T15:04:04Z"
   },
   {
    "titulo": "Edd Straw's 2026 Italian Grand Prix F1 driver rankings",
@@ -309,16 +430,6 @@
    "data": "2026-09-07T14:55:34Z"
   },
   {
-   "titulo": "Teemu Suninen é o novo Campeão Europeu de Ralis: “A competição do ERC é muito elevada, mas o meu objetivo continua a ser o WRC”",
-   "resumo": "O finlandês Teemu Suninen conquistou este domingo o título do Campeonato da Europa de Ralis (ERC) de 2026, com uma prova ainda por disputar, ao terminar o JDS Machinery Rali Ceredigion no…",
-   "url": "https://www.autosport.pt/ralis/teemu-suninen-e-o-novo-campeao-europeu-de-ralis-a-competicao-do-erc-e-muito-elevada-mas-o-meu-objetivo-continua-a-ser-o-wrc/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-07T14:39:00Z"
-  },
-  {
    "titulo": "This Elise Restomod Promises the Ultimate Lotus Experience for a Price",
    "resumo": "The Analogue Automotive VHPK is a featherweight roadster with a heavyweight price tag.",
    "url": "https://www.caranddriver.com/news/a73620957/analogue-automotive-vhpk-lotus-elise-restomod/",
@@ -327,16 +438,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-07T14:30:00Z"
-  },
-  {
-   "titulo": "Bernie Ecclestone detido em Tires devido a arma ilegal encontrada no seu jato privado",
-   "resumo": "Bernie Ecclestone, antigo responsável máximo da Fórmula 1, foi detido esta segunda-feira de manhã, 7 de setembro, no Aeródromo de Tires, em Cascais. O ex-dirigente britânico foi intercetado…",
-   "url": "https://www.autosport.pt/maismotores/bernie-ecclestone-detido-em-tires-devido-a-arma-ilegal-encontrada-no-seu-jato-privado/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-07T14:18:41Z"
   },
   {
    "titulo": "The Lamborghini Cheetah Is the Forgotten Prototype That Spawned the LM002",
@@ -349,16 +450,6 @@
    "data": "2026-09-07T14:00:00Z"
   },
   {
-   "titulo": "António Félix da Costa alcança primeiro pódio pela Alpine no WEC, em Austin: “um bom dia para a equipa”",
-   "resumo": "António Félix da Costa conquistou este fim de semana o terceiro lugar nas 6 Horas de Austin, no Circuito das Américas, nos Estados Unidos, alcançando assim o seu primeiro pódio ao serviço…",
-   "url": "https://www.autosport.pt/velocidade/antonio-felix-da-costa-alcanca-primeiro-podio-pela-alpine-no-wec-em-austin-um-bom-dia-para-a-equipa/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-07T13:46:42Z"
-  },
-  {
    "titulo": "Is It Finally Time to Sell the Clown Shoe? (This Time I Mean It!)",
    "resumo": "Within the past year, I’ve dropped the number of cars I own down from the nosebleed-inducing 14 to the only slightly less insane-sounding 11. This action came largely from the revelation…",
    "url": "https://www.hagerty.com/media/opinion/the-hack-mechanic/is-it-finally-time-to-sell-the-clown-shoe-this-time-i-mean-it/",
@@ -367,26 +458,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-07T13:00:00Z"
-  },
-  {
-   "titulo": "Preço do gasóleo e gasolina dão salto enorme esta semana",
-   "resumo": "Como previsto no final da semana passada, esta segunda-feira, 7 de setembro, começou com um novo aumento substancial no preço dos combustíveis, que foi mais expressivo no preço do gasóleo…",
-   "url": "https://www.razaoautomovel.com/noticias/preco-combustiveis-semana-37-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-07T12:48:26Z"
-  },
-  {
-   "titulo": "Polestar Has A New Look, And It Won’t Scare Buyers, Designer Says",
-   "resumo": "Formula 2030 shows how Polestar will evolve its Dual Blade headlights and clean surfacing across the next Polestar 2 and Polestar 7.",
-   "url": "https://www.motor1.com/news/807391/polestar-formula-2030-concept-previews/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T12:43:50Z"
   },
   {
    "titulo": "Everything we learned from F1's Italian Grand Prix",
@@ -409,16 +480,6 @@
    "data": "2026-09-07T12:28:41Z"
   },
   {
-   "titulo": "Novo UMM elétrico com mais de 200 cv de potência",
-   "resumo": "O futuro da UMM deixou de ser uma “página em branco”, como afirmou recentemente Filipe Baptista da Silva, administrador da UMM, no podcast AutoRádio da Razão Automóvel. A marca portuguesa…",
-   "url": "https://www.razaoautomovel.com/noticias/antevisao-novo-umm-eletrico-mais-200-cv-potencia/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-07T12:18:26Z"
-  },
-  {
    "titulo": "Skoda CEO: \"We will have to find\" an electric Fabia",
    "resumo": "\"This is an area we need to cover\" says Klaus Zellmer of a future electric supermini Skoda boss Klauz Zellmer says the firm “needs” to launch an electric successor to the Fabia hatchback as…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/skoda-ceo-we-will-have-find-electric-fabia",
@@ -427,16 +488,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-07T12:00:00Z"
-  },
-  {
-   "titulo": "Mitsubishi Shows Ralliart Pajero Concept, Then Says It Won't Be Built",
-   "resumo": "Pajero Rally Concept leans on Ralliart-inspired livery and bolt-on accessories while Mitsubishi stops short of confirming any high-performance production model.",
-   "url": "https://www.motor1.com/news/807380/mitsubishi-pajero-rally-concept-ralliart/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T11:47:39Z"
   },
   {
    "titulo": "How Monza introduced oval-like slipstream racing to F1",
@@ -469,16 +520,6 @@
    "data": "2026-09-07T10:53:40Z"
   },
   {
-   "titulo": "Italy’s Police Get a 907-HP Lamborghini Temerario",
-   "resumo": "The new supercar from Sant’Agata Bolognese will be used for services of high social value, such as urgent organ transport.",
-   "url": "https://www.motor1.com/news/807362/lamborghini-temerario-police-car/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T10:44:11Z"
-  },
-  {
    "titulo": "What doesn't make sense about Hamilton and Leclerc's Italian GP clash",
    "resumo": "There is nothing particularly new in the way Charles Leclerc and Lewis Hamilton conducted themselves on and off the track on Sunday, either in the history of Formula 1 or motorsport more…",
    "url": "https://www.autosport.com/f1/news/what-doesnt-make-sense-about-hamilton-and-leclercs-italian-gp-clash/10853389/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -507,16 +548,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-07T10:29:46Z"
-  },
-  {
-   "titulo": "NHTSA Opens Audit Into Tesla Cybercab Hours After Austin Ride Launch",
-   "resumo": "NHTSA is auditing how Tesla self-certified the steering-wheel-free Cybercab under existing US safety standards for automated robotaxis.",
-   "url": "https://www.motor1.com/news/807353/tesla-cybercab-under-nhtsa-probe/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T10:21:31Z"
   },
   {
    "titulo": "I love my original Audi A2 - will the new EV do it justice?",
@@ -587,36 +618,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-07T00:36:30Z"
-  },
-  {
-   "titulo": "A Nightmare Monza for Ferrari as Leclerc Crashes Out and Frustrated Hamilton Calls for Changes",
-   "resumo": "Hamilton wants ‘rules of engagement’ after teammates touched on the first lap.",
-   "url": "https://www.roadandtrack.com/news/a73626500/a-nightmare-monza-for-ferrari-as-leclerc-crashes-out-and-frustrated-hamilton-calls-for-changes/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-06T23:25:33Z"
-  },
-  {
-   "titulo": "FREC: Bondarev delivers in style on debut weekend",
-   "resumo": "Sport news Making his FIA FREC debut, the Ukrainian driver, who finished second in Race 2 on Saturday from the partially-reversed grid, became the 10th driver to win in the junior…",
-   "url": "https://www.fia.com/news/frec-bondarev-delivers-style-debut-weekend",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T19:35:00Z"
-  },
-  {
-   "titulo": "ERC: Suninen claims title as Meeke wins in Ceredigion*",
-   "resumo": "Sport news Overnight leader Meeke cemented what was his first victory on an ERC event as a registered ERC driver by setting the pace on two of Sunday’s deciding four stages aboard the…",
-   "url": "https://www.fia.com/news/erc-suninen-claims-title-meeke-wins-ceredigion",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-06T17:31:00Z"
   }
  ]
 }
