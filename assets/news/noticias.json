@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-07T21:30:59Z",
+ "atualizado": "2026-09-08T04:35:11Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,6 +7,7 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -18,14 +19,114 @@
  ],
  "itens": [
   {
-   "titulo": "The Most Extreme Lexus Crossover Could Borrow Even More Cues From The GR Corolla",
-   "resumo": "Lexus is working on an even more extreme version of the LBX Morizo RR, and it appears to have a carbon fiber roof and rear bumper",
-   "url": "https://www.carscoops.com/2026/09/lexus-lbx-morizo-rr-extreme-spied/",
+   "titulo": "30 years of the Lotus Elise",
+   "resumo": "30 years of the Lotus Elise Lizzie Pope Tue, 08/09/2026 - 05:11",
+   "url": "https://www.classicandsportscar.com/gallery/30-years-lotus-elise",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-08T04:11:40Z"
+  },
+  {
+   "titulo": "Your classic: Ford Capri II 3.0 S",
+   "resumo": "Your classic: Ford Capri II 3.0 S Ryan Standen Tue, 08/09/2026 - 05:11",
+   "url": "https://www.classicandsportscar.com/features/your-classic-ford-capri-ii-30-s",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-08T04:11:12Z"
+  },
+  {
+   "titulo": "Dacia Spring reinvented as sub-£18k EV with 155-mile range",
+   "resumo": "Second-generation Spring leads new model push that will also bring an electric Sandero Dacia has reinvented its Spring city car as a value-focused Renault Twingo sibling with four seats, a…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/dacia-spring-reinvented-sub-%C2%A318k-ev-155-mile-range",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T04:00:00Z"
+  },
+  {
+   "titulo": "New Dacia Spring Revealed: Europe's Dirt-Cheap EV Gets A Glow-Up",
+   "resumo": "Better than its predecessor in every way, the electric city car offers a lot of bang for the buck.",
+   "url": "https://www.motor1.com/news/807429/2027-dacia-spring-price-details-photos/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T04:00:00Z"
+  },
+  {
+   "titulo": "Electric AMG C-Class Pops Its Wing As BMW M3 EV Battle Looms",
+   "resumo": "Mercedes’ electric super sedan reveals another trick as its 2027 arrival creeps closer",
+   "url": "https://www.carscoops.com/2026/09/mercedes-amg-class-ev-scoop/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-09-07T21:14:00Z"
+   "data": "2026-09-08T01:42:00Z"
+  },
+  {
+   "titulo": "Tiny, Slow, And Super Cheap: The VinFast VF 2 Could Come To America And Europe",
+   "resumo": "The VF 2 is nearly two feet shorter than the 500e, but it could be the cheap car America needs",
+   "url": "https://www.carscoops.com/2026/09/vinfast-vf2-international-sales/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T01:00:00Z"
+  },
+  {
+   "titulo": "The New BMW M350 xDrive Has 443 HP And A Drift Mode That Makes It RWD",
+   "resumo": "BMW is finishing development of its new ICE 3-Series, complete with mild-hybrid engines, revised chassis tech, and an M350 xDrive flagship",
+   "url": "https://www.carscoops.com/2026/09/bmw-m350-drift-mode/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T00:21:20Z"
+  },
+  {
+   "titulo": "The Cheapest New VW You Can Buy Rear-Ended A Multi-Million Bugatti Tourbillon Prototype",
+   "resumo": "Video captures the moment a VW Polo runs into a Bugatti Tourbillon prototype on a mountain road in Spain",
+   "url": "https://www.carscoops.com/2026/09/vw-polo-bugatti-tourbillon-crash/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T23:27:58Z"
+  },
+  {
+   "titulo": "Skoda CEO Hints At New Fabia, But It Could Be A Long Wait",
+   "resumo": "Rumors of the Fabia's death appear to have been overblown as the company's CEO revealed plans for an electric successor",
+   "url": "https://www.carscoops.com/2026/09/skoda-fabia-ev-successor/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T22:52:00Z"
+  },
+  {
+   "titulo": "BMW 3 Series M350 brings 437bhp straight six – and drift mode",
+   "resumo": "Replacement for the M340i keeps its 3.0-litre straight six but puts out 50bhp and 30lb ft more The range-topping M350 derivative of the next-generation BMW 3 Series will be significantly…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-3-series-m350-brings-437bhp-straight-six-%E2%80%93-and-drift-mode",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T22:01:00Z"
+  },
+  {
+   "titulo": "2027 BMW M350 Prototype Drive: Neue Klasse Is a Gas",
+   "resumo": "The upcoming not-quite-M3 model treads closer than ever to full M status.",
+   "url": "https://www.caranddriver.com/reviews/a73584051/2027-bmw-m350-prototype-drive/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-07T22:01:00Z"
   },
   {
    "titulo": "Bernie Ecclestone ‘travado’ em Tires com arma vinda da Suíça: “Não tenho livrete, era para tiro aos pratos”",
@@ -48,26 +149,6 @@
    "data": "2026-09-07T20:38:39Z"
   },
   {
-   "titulo": "One German Sedan Beat Every Tesla On Battery Health After 93,000 Miles",
-   "resumo": "If you're on the fence about buying an EV, fears about battery degradation shouldn't dissuade you",
-   "url": "https://www.carscoops.com/2026/09/battery-ev-degradation-study/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T20:36:54Z"
-  },
-  {
-   "titulo": "VW Plant To Switch From Convertibles To Air Defense Systems",
-   "resumo": "Aurelius Capital and the State of Lower Saxony will takeover the Osnabrück plant, and transform it into a military production hub with Rafael Advanced Defense Systems",
-   "url": "https://www.carscoops.com/2026/09/vw-osnabruck-sale/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T19:50:00Z"
-  },
-  {
    "titulo": "Kris Meeke pode vir ao 39º Rally Six Cities North of Portugal",
    "resumo": "Depois do Rali da Madeira, Kris Meeke, vencedor do Rali Ceredigion, está a tentar assegurar a participação na derradeira etapa do Campeonato da Europa de Ralis (ERC) em Portugal, após ter…",
    "url": "https://www.autosport.pt/ralis/kris-meeke-pode-vir-ao-39o-rally-six-cities-north-of-portugal/",
@@ -76,26 +157,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-07T19:17:09Z"
-  },
-  {
-   "titulo": "With Diesel At An All-Time High, Everything Is Getting More Expensive",
-   "resumo": "Diesel fuels the transport industry, so when it goes up, so does everything else.",
-   "url": "https://www.carscoops.com/2026/09/with-diesel-at-an-all-time-high-everything-is-getting-more-expensive/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T19:08:00Z"
-  },
-  {
-   "titulo": "The Aftermarket Already Has Plans For Ferrari’s $639K Luce EV",
-   "resumo": "Several aftermarket tweaks make the Luce's look even more radical",
-   "url": "https://www.carscoops.com/2026/09/ferrari-luce-vossen-wheels/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T18:26:00Z"
   },
   {
    "titulo": "Novo CEO da Apple corre de Porsche nos tempos livres",
@@ -458,16 +519,6 @@
    "data": "2026-09-07T10:21:31Z"
   },
   {
-   "titulo": "Jaguar Land Rover Opens Voluntary Layoffs, Are 4,000 Jobs Really At Risk?",
-   "resumo": "JLR pursues £1.7 billion in savings, voluntary redundancies, and a lower 300,000-vehicle break-even point as tariffs and Chinese rivals reshape demand.",
-   "url": "https://www.motor1.com/news/807337/jaguar-land-rover-voluntary-job/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T09:11:11Z"
-  },
-  {
    "titulo": "I love my original Audi A2 - will the new EV do it justice?",
    "resumo": "It's similar in shape and maintains the focus on efficiency - but there are some big differences to consider I have an Audi A2 and I love it . I love it so much that I just spent four times…",
    "url": "https://www.autocar.co.uk/opinion/electric-cars/i-love-my-original-audi-a2-will-new-ev-do-it-justice",
@@ -476,26 +527,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-07T09:00:00Z"
-  },
-  {
-   "titulo": "New Audi A2 revealed as ultra-efficient EV with 400-mile range",
-   "resumo": "New EV follows trail blazed by 1990s supermini with big range and wind-cheating design Audi has revived its seminal A2 supermini as a radically styled electric family hatchback which majors…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/new-audi-a2-revealed-ultra-efficient-ev-400-mile-range",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T09:00:00Z"
-  },
-  {
-   "titulo": "Skoda Superb in line for retirement as brand shapes future line-up",
-   "resumo": "Skoda is considering whether the production version of Vision O concept could replace both Octavia and Superb The Skoda Superb is set to be phased out due to shrinking demand for saloons…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/skoda-superb-line-retirement-brand-shapes-future-line",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T07:19:28Z"
   },
   {
    "titulo": "The Dreaded Silodrome Logo Update Of 2026",
@@ -568,54 +599,24 @@
    "data": "2026-09-06T23:25:33Z"
   },
   {
-   "titulo": "This BMW Roadster on Bring a Trailer Is Not What It Appears to Be",
-   "resumo": "It’s the perfect car for those with Z8 tastes but a Z4 budget.",
-   "url": "https://www.caranddriver.com/news/a73593901/2003-bmw-z4-bring-a-trailer-auction/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
+   "titulo": "FREC: Bondarev delivers in style on debut weekend",
+   "resumo": "Sport news Making his FIA FREC debut, the Ukrainian driver, who finished second in Race 2 on Saturday from the partially-reversed grid, became the 10th driver to win in the junior…",
+   "url": "https://www.fia.com/news/frec-bondarev-delivers-style-debut-weekend",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T15:00:00Z"
+   "data": "2026-09-06T19:35:00Z"
   },
   {
-   "titulo": "Piston Slap: The DIY Friend In Need Is A Friend Indeed",
-   "resumo": "Adam writes: I have a discussion topic for a Piston Slap: Don’t forget your non-automotive friends when it comes to common, simple automotive projects. While rotating my tires the other…",
-   "url": "https://www.hagerty.com/media/advice/piston-slap/piston-slap-the-diy-friend-in-need-is-a-friend-indeed/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
+   "titulo": "ERC: Suninen claims title as Meeke wins in Ceredigion*",
+   "resumo": "Sport news Overnight leader Meeke cemented what was his first victory on an ERC event as a registered ERC driver by setting the pace on two of Sunday’s deciding four stages aboard the…",
+   "url": "https://www.fia.com/news/erc-suninen-claims-title-meeke-wins-ceredigion",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-06T13:00:00Z"
-  },
-  {
-   "titulo": "For Sale: A 1969 Ford Mustang Mach 1",
-   "resumo": "This is a 1969 Ford Mustang Mach 1 that came from the factory with the more powerful 390 cubic inch FE V8. It’s been... The post For Sale: A 1969 Ford Mustang Mach 1 appeared first on…",
-   "url": "https://silodrome.com/1969-ford-mustang-mach-1-classic-car/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-06T11:30:15Z"
-  },
-  {
-   "titulo": "The Ridge Power Bank: A 10,000 mAh Portable Power Station",
-   "resumo": "This is the Ridge Power Bank, it’s a portable power supply with 10,000 mAh of capacity, and it can charge both wirelessly and via... The post The Ridge Power Bank: A 10,000 mAh Portable…",
-   "url": "https://silodrome.com/ridge-power-bank/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-06T06:30:07Z"
-  },
-  {
-   "titulo": "Say ‘I Do’ to This Wild British Wedding Car on BaT",
-   "resumo": "The 1996 Imperial Landaulette is based on an Austin taxi and powered by a Nissan diesel engine.",
-   "url": "https://www.caranddriver.com/news/a73594889/british-wedding-car-bring-a-trailer-auction/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-05T15:00:00Z"
+   "data": "2026-09-06T17:31:00Z"
   }
  ]
 }
