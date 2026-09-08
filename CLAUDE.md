@@ -223,6 +223,32 @@ onda de revelação limitada a 6 passos de 55 ms.
 `prefers-reduced-motion` passou a **uma regra global** (`*` com duração
 0,01 ms) em vez de blocos espalhados — nada escapa.
 
+## Higiene do código (v1.5, 2026-09-08)
+Ronda de polimento sem alterar o aspeto — arrumar a casa por dentro, para as
+próximas mudanças serem seguras. **Seletores CSS declarados duas vezes: 10 → 0.**
+Vinham de eu ir acrescentando regras no fim em vez de editar a original; o
+travão real era `.lrow`, cuja segunda regra anulava em silêncio a transição da
+primeira. Consolidados: `:root` (tokens de cor + movimento numa só declaração),
+`.top nav a/button`, as quatro linhas do herói (a animação passou a viver junto
+da tipografia), `.sortsel`, `.present .p-img img`, `.lrow`, `.chip`,
+`.ovl.open .scrim-bg`, `.f-thumbs button`, `.f-rows .row`.
+**`prefers-reduced-motion`: 5 blocos → 1** (a regra global de v1.4 já os cobria).
+**Estúdio removido** (~200 linhas): separador inalcançável desde v0.7 — sem
+entrada no menu nem na gaveta —, porque o nível grátis do Gemini dá zero quota
+de imagens. O `gerar_carro.py` e o workflow ficam no repo, adormecidos; se um
+dia houver gerador, o separador volta a partir da história do git.
+**Hierarquia de títulos:** o Dashboard saltava de `h2` para `h4` (nivelado em
+`h3`) — importa para quem usa leitor de ecrã. **Imagens:** foto em destaque do
+ecrã inicial passou a `loading="lazy"`; as de primeiro plano (ficha e
+apresentação) ficam imediatas mas com `decoding="async"`, para descodificar sem
+travar o toque. Verificado: 0 `transition: all`, 0 `cubic-bezier` fora dos
+tokens, 7 `!important` (todos na regra de movimento reduzido), 234 classes CSS
+sem nenhuma morta, chaves equilibradas (438/438), JS sem erros de sintaxe.
+**Aprendizagem de método:** as fatias por comentário são perigosas — havia
+dois comentários `/* Galeria de estúdio */` (CSS e JS) e a primeira tentativa
+apagou o CSS do Mapa de cores e das Notícias. Detetado pelo `git diff`,
+revertido, refeito com verificação do conteúdo removido antes de gravar.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar

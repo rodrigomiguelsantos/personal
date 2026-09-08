@@ -35,11 +35,6 @@
     --brass: #8A6D3B;
     --shadow: 0 1px 2px rgba(19,22,18,.04), 0 18px 40px -20px rgba(19,22,18,.10);
     --maxw: 1240px;
-  }
-
-  * { box-sizing: border-box; }
-  img { max-width: 100%; }
-  :root {
     /* Movimento — escala de durações e easings com papéis distintos.
        Entrada desacelera (--e-out), saída acelera (--e-in). */
     --t-fast: .16s;     /* micro: hover, premir, cor */
@@ -56,13 +51,16 @@
     --ring: 0 0 0 3px color-mix(in srgb, var(--accent) 30%, transparent);
   }
 
+  * { box-sizing: border-box; }
+  img { max-width: 100%; }
+
   /* Foco visível apenas para teclado (não polui o rato/toque) */
   :where(a, button, input, select, [tabindex]):focus { outline: none; }
   :where(a, button, input, select, [tabindex]):focus-visible {
     outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 8px;
   }
   /* Toque: sem flash cinzento do iOS; feedback próprio */
-  button, .card, .lrow, .chip, .g-car, .tl li, .studio-card {
+  button, .card, .lrow, .chip, .g-car, .tl li {
     -webkit-tap-highlight-color: transparent;
   }
   button, .chip, .g-car, .viewtog button, .f-thumbs button { touch-action: manipulation; }
@@ -109,10 +107,10 @@
   .top nav a, .top nav button {
     font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .1em; text-transform: uppercase;
     color: var(--muted); padding: 8px 12px; border-radius: 9px; cursor: pointer; white-space: nowrap;
-    background: none; border: 0; transition: color var(--t-fast), background var(--t-fast);
+    background: none; border: 0; position: relative;
+    transition: color var(--t-fast), background var(--t-fast);
   }
   .top nav a:hover, .top nav button:hover { color: var(--text); background: var(--surface-2); }
-  .top nav a, .top nav button { position: relative; }
   .top nav button[aria-current="true"] { color: var(--text); background: none; }
   .top nav button[aria-current="true"]::after {
     content: ""; position: absolute; left: 12px; right: 12px; bottom: 2px; height: 2px;
@@ -185,7 +183,6 @@
   .dlink .dnote { margin-left: auto; font-family: var(--font-mono); font-size: 10px; color: var(--faint); }
   .drawer-foot { margin-top: auto; padding: 18px 22px 4px; border-top: 1px solid var(--border);
     font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--faint); }
-  @media (prefers-reduced-motion: reduce) { #drawer, .drawer-scrim { transition: none; } }
 
   /* tabs inline só em ecrãs largos — no resto, o menu deslizante manda */
   @media (max-width: 1000px) { .top nav { display: none; } }
@@ -230,11 +227,6 @@
   .tabsec.on { display: block; animation: secfade .45s var(--e-out); }
   @keyframes secfade { from { opacity: 0; transform: translateY(10px); } }
   @keyframes rise { from { opacity: 0; transform: translateY(16px); } }
-  .hero .eyebrow { animation: rise .6s var(--e-out) both; }
-  .hero h1 { animation: rise .7s .06s var(--e-out) both; }
-  .hero .lead { animation: rise .7s .14s var(--e-out) both; }
-  .hero .stats { animation: rise .7s .22s var(--e-out) both; }
-  @media (prefers-reduced-motion: reduce) { .tabsec.on, .hero .eyebrow, .hero h1, .hero .lead, .hero .stats { animation: none; } }
 
   /* ---------- Cronologia ---------- */
   .tl-wrap { max-width: 780px; margin: 0 auto; padding: 34px 0 20px; }
@@ -282,14 +274,13 @@
   .dash-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
   @media (max-width: 760px) { .dash-grid { grid-template-columns: 1fr; } .tile.hero-tile { grid-column: span 2; } }
   .dcard { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 20px; }
-  .dcard h4 { margin: 0 0 16px; font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .dcard h3 { margin: 0 0 16px; font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
   .bar-row { display: grid; grid-template-columns: 92px 1fr 44px; align-items: center; gap: 10px; margin-bottom: 10px; font-size: 13.5px; }
   .bar-row .bl { color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .bar-row .bt { position: relative; height: 8px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
   .bar-row .bf { position: absolute; inset: 0 auto 0 0; border-radius: 99px; background: linear-gradient(90deg, var(--accent), var(--accent-soft));
     width: 0; transition: width var(--t-xslow) var(--e-out); }
   .dcard.in .bar-row .bf { width: var(--w); }
-  @media (prefers-reduced-motion: reduce) { .bar-row .bf { transition: none; } }
   .bar-row .bv { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
   .rec-row { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; padding: 9px 0; border-top: 1px solid var(--border); font-size: 15px; }
   .rec-row:first-of-type { border-top: 0; }
@@ -298,15 +289,6 @@
   .rec-row .rv2 small { color: var(--muted); font-weight: 400; font-family: var(--font-mono); font-size: 11.5px; margin-left: 5px; }
   .dash-note { margin-top: 18px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
 
-  /* ---------- Galeria de estúdio ---------- */
-  .studio-sec { padding: 34px 0 20px; }
-  .studio-sec h2 { font-family: var(--font-serif); font-size: clamp(28px,4.6vw,42px); letter-spacing: -.01em; margin: 0 0 8px; }
-  .studio-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin-top: 24px; }
-  .studio-card { position: relative; border-radius: 16px; overflow: hidden; border: 1px solid var(--border); background: var(--surface); box-shadow: var(--shadow); aspect-ratio: 4/5; display: block; }
-  .studio-card img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform var(--t-slow) var(--e-out); }
-  .studio-card:hover img { transform: scale(1.04); }
-  .studio-empty { color: var(--muted); font-size: 15px; padding: 40px 0; border: 1px dashed var(--border-strong); border-radius: 14px; text-align: center; margin-top: 20px; }
-  .studio-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 10px 13px; }
 
   /* ---------- Mapa de cores ---------- */
   .cores-sec { padding: 34px 0 20px; }
@@ -433,8 +415,8 @@
     font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .04em; color: var(--muted);
     background: var(--surface) url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="%238B958D" fill="none" stroke-width="1.6" stroke-linecap="round"/></svg>') no-repeat right 11px center;
     border: 1px solid var(--border); border-radius: 10px; padding: 8px 30px 8px 12px;
+    transition: border-color var(--t-fast) var(--e-out), background-color var(--t-fast) var(--e-out);
   }
-  .sortsel { transition: border-color var(--t-fast) var(--e-out), background-color var(--t-fast) var(--e-out); }
   .sortsel:hover { border-color: var(--border-strong); }
   .sortsel:focus { outline: none; border-color: var(--accent); }
 
@@ -443,11 +425,10 @@
     visibility: hidden; opacity: 0; transition: opacity var(--t-base) var(--e-in), visibility 0s linear var(--t-base); }
   .present.on { visibility: visible; opacity: 1; transition: opacity var(--t-base) var(--e-out), visibility 0s; }
   .present .p-img { position: absolute; inset: 0; }
-  .present .p-img img { width: 100%; height: 100%; object-fit: cover; }
+  .present .p-img img { width: 100%; height: 100%; object-fit: cover; animation: kenburns 9s ease-out forwards; }
   .present .p-img .p-studio { position: absolute; inset: 0; }
   .present .p-img::after { content: ""; position: absolute; inset: 0; background: linear-gradient(200deg, rgba(251,251,249,0) 40%, rgba(251,251,249,.92) 88%); }
   @keyframes kenburns { from { transform: scale(1); } to { transform: scale(1.07); } }
-  .present .p-img img { animation: kenburns 9s ease-out forwards; }
   .present .p-cap { position: absolute; left: clamp(20px,5vw,64px); right: clamp(20px,5vw,64px); bottom: clamp(28px,7vh,72px); z-index: 2; }
   .present .p-brand { font-family: var(--font-mono); font-size: 13.5px; letter-spacing: .26em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
   .present .p-name { font-family: var(--font-serif); font-size: clamp(40px,8vw,82px); font-weight: 600; letter-spacing: -.01em; line-height: .98; color: var(--text); }
@@ -465,7 +446,6 @@
   .present .p-zone.prev { left: 0; } .present .p-zone.next { right: 0; }
   .p-fade { animation: pfade .5s ease; }
   @keyframes pfade { from { opacity: 0; } }
-  @media (prefers-reduced-motion: reduce) { .present .p-img img { animation: none; } .p-fade { animation: none; } }
 
   /* ---------- Toggle de vista ---------- */
   .listbar { display: flex; align-items: center; gap: 10px; margin: 0 0 20px; flex-wrap: wrap; }
@@ -479,13 +459,12 @@
   .lrow {
     display: flex; align-items: center; gap: 16px; padding: 10px 16px 10px 10px;
     background: var(--surface); border: 1px solid var(--border); border-radius: 14px; cursor: pointer;
-    transition: transform var(--t-fast) var(--e-out), border-color var(--t-fast);
+    transition: transform var(--t-mid) var(--e-out), border-color var(--t-fast), opacity var(--t-mid) var(--e-out);
     opacity: 0; transform: translateY(10px);
   }
   .lrow.in { opacity: 1; transform: none; }
   .lrow:hover { transform: translateX(3px); border-color: var(--border-strong); }
   .lrow.in:active { transform: scale(.994); transition-duration: var(--t-fast); }
-  .lrow { transition: transform var(--t-mid) var(--e-out), border-color var(--t-fast), opacity var(--t-mid) var(--e-out); }
   .lrow .lthumb { flex: none; width: 96px; aspect-ratio: 16/10; border-radius: 9px; overflow: hidden; position: relative; }
   .lrow .lthumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .lrow .lmain { flex: 1; min-width: 0; }
@@ -535,16 +514,21 @@
 
   /* ---------- Hero ---------- */
   .hero { padding: clamp(48px, 9vw, 104px) 0 clamp(28px, 5vw, 52px); will-change: transform, opacity; }
+  /* Entrada em cascata: cada linha do herói sobe com um ligeiro atraso. */
   .hero .eyebrow {
     font-family: var(--font-mono); font-size: 12.5px; letter-spacing: .28em; text-transform: uppercase;
     color: var(--accent-soft); margin: 0 0 20px;
+    animation: rise .6s var(--e-out) both;
   }
   .hero h1 {
     margin: 0; font-family: var(--font-serif); font-size: clamp(38px, 7.6vw, 86px);
     line-height: 1.02; letter-spacing: -.02em; font-weight: 600; text-wrap: balance;
+    animation: rise .7s .06s var(--e-out) both;
   }
-  .hero .lead { color: var(--muted); font-size: clamp(15px, 2vw, 19px); max-width: 52ch; margin: 26px 0 0; line-height: 1.6; text-wrap: pretty; }
-  .hero .stats { display: flex; flex-wrap: wrap; gap: clamp(20px, 5vw, 54px); margin-top: 40px; }
+  .hero .lead { color: var(--muted); font-size: clamp(15px, 2vw, 19px); max-width: 52ch; margin: 26px 0 0; line-height: 1.6; text-wrap: pretty;
+    animation: rise .7s .14s var(--e-out) both; }
+  .hero .stats { display: flex; flex-wrap: wrap; gap: clamp(20px, 5vw, 54px); margin-top: 40px;
+    animation: rise .7s .22s var(--e-out) both; }
   .hero .stat .n { font-size: clamp(26px, 4vw, 38px); font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
   .hero .stat .l { font-family: var(--font-mono); font-size: 11.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); margin-top: 4px; }
 
@@ -565,11 +549,11 @@
   .chip {
     flex: none; cursor: pointer; font-size: 13.5px; font-weight: 550; padding: 8px 15px; border-radius: 999px;
     background: var(--surface); border: 1px solid var(--border); color: var(--muted);
-    transition: background var(--t-fast) var(--e-out), color var(--t-fast) var(--e-out), border-color var(--t-fast) var(--e-out), transform var(--t-fast) var(--e-spring); white-space: nowrap;
+    white-space: nowrap;
+    transition: background var(--t-fast) var(--e-out), color var(--t-fast) var(--e-out), border-color var(--t-fast) var(--e-out), transform var(--t-fast) var(--e-spring);
   }
   .chip:hover { border-color: var(--border-strong); color: var(--text); }
   .chip:active { transform: scale(.96); }
-  .chip { transition: background var(--t-fast) var(--e-out), border-color var(--t-fast) var(--e-out), color var(--t-fast) var(--e-out), transform var(--t-fast) var(--e-out); }
   .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #FFFFFF; font-weight: 650; }
 
   /* ---------- Grid ---------- */
@@ -659,8 +643,7 @@
   .ovl { position: fixed; inset: 0; z-index: 100; visibility: hidden; transition: visibility 0s linear var(--t-mid); }
   .ovl.open { visibility: visible; transition-delay: 0s; }
   .ovl .scrim-bg { position: absolute; inset: 0; background: rgba(19,22,18,.30); backdrop-filter: blur(14px); opacity: 0; transition: opacity var(--t-mid) var(--e-in); }
-  .ovl.open .scrim-bg { transition-timing-function: var(--e-out); }
-  .ovl.open .scrim-bg { opacity: 1; }
+  .ovl.open .scrim-bg { opacity: 1; transition-timing-function: var(--e-out); }
   .ficha {
     position: relative; max-width: 980px; margin: 3.5vh auto; max-height: 93vh; overflow-y: auto;
     background: var(--bg-2); border: 1px solid var(--border-strong); border-radius: 24px;
@@ -684,12 +667,12 @@
   .f-hero .name { font-family: var(--font-serif); position: relative; z-index: 1; font-weight: 600; letter-spacing: -.01em; font-size: clamp(40px,6.5vw,64px); color: var(--text); }
   .f-thumbs { display: flex; gap: 8px; padding: 12px 22px 0; overflow-x: auto; scrollbar-width: none; }
   .f-thumbs::-webkit-scrollbar { display: none; }
-  .f-thumbs button { flex: none; width: 86px; aspect-ratio: 4/3; border-radius: 10px; overflow: hidden; border: 2px solid var(--border); padding: 0; cursor: pointer; background: var(--surface); opacity: .7; transition: opacity var(--t-fast), border-color var(--t-fast); }
+  .f-thumbs button { flex: none; width: 86px; aspect-ratio: 4/3; border-radius: 10px; overflow: hidden; border: 2px solid var(--border); padding: 0; cursor: pointer; background: var(--surface); opacity: .7;
+    transition: opacity var(--t-fast) var(--e-out), border-color var(--t-fast) var(--e-out), transform var(--t-fast) var(--e-spring); }
   .f-thumbs button img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .f-thumbs button[aria-current="true"] { border-color: var(--accent); opacity: 1; }
   .f-thumbs button:hover { opacity: 1; }
   .f-thumbs button:active { transform: scale(.95); }
-  .f-thumbs button { transition: opacity var(--t-fast) var(--e-out), border-color var(--t-fast) var(--e-out), transform var(--t-fast) var(--e-spring); }
   .f-body { padding: 20px clamp(18px, 4vw, 34px) 34px; }
   .f-head { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; flex-wrap: wrap; }
   .f-head .bn { font-family: var(--font-mono); font-size: 12.5px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent-soft); }
@@ -704,9 +687,9 @@
   .f-curios li { display: flex; gap: 11px; font-size: 15px; color: var(--text); }
   .f-curios li::before { content: "—"; color: var(--accent-soft); flex: none; }
   .f-rows { border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
-  .f-rows .row { padding: 11px 16px; border-top: 1px solid var(--border); margin: 0; }
+  .f-rows .row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+    padding: 11px 16px; border-top: 1px solid var(--border); margin: 0; }
   .f-rows .row:first-child { border-top: 0; }
-  .f-rows .row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; }
   .f-rows .rk { color: var(--muted); font-size: 15px; }
   .f-rows .rv { text-align: right; font-weight: 550; overflow-wrap: anywhere; min-width: 0; }
   .f-curator { margin-top: 26px; border: 1px solid color-mix(in srgb, var(--brass) 36%, var(--border)); border-radius: 16px; padding: 20px 22px; position: relative; overflow: hidden; background: color-mix(in srgb, var(--brass) 5%, transparent); }
@@ -718,7 +701,6 @@
   .f-curator p { margin: 0; font-size: 15px; line-height: 1.7; }
   .f-note { margin-top: 16px; font-size: 12.5px; color: var(--brass); border: 1px dashed color-mix(in srgb, var(--brass) 34%, transparent); border-radius: 10px; padding: 9px 12px; }
   body.locked { overflow: hidden; }
-  @media (prefers-reduced-motion: reduce) { .ovl .scrim-bg, .ficha { transition: none; } }
 
   /* ---------- Archive (não adicionados) ---------- */
   .archive { margin-top: 64px; padding-top: 40px; border-top: 1px solid var(--border); }
@@ -797,7 +779,7 @@
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
     <button class="iconbtn home" id="btn-home" type="button" aria-label="Ecrã inicial" title="Início"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg></button>
-    <span class="wip">WIP · v1.4</span>
+    <span class="wip">WIP · v1.5</span>
   </div>
 </header>
 
@@ -923,18 +905,6 @@
 <section class="tabsec" data-sec="dashboard">
   <div class="wrap">
     <div class="dash" id="dash"></div>
-  </div>
-</section>
-
-<section class="tabsec" data-sec="estudio">
-  <div class="wrap">
-    <div class="studio-sec">
-      <h2>Estúdio</h2>
-      <p class="dsub">Imagens de estúdio geradas por IA a partir de fotos reais de cada modelo — apresentação editorial, não fotografia do exemplar do Dr. Rodrigo.</p>
-      <div class="studio-grid" id="studio-grid"></div>
-      <div class="studio-empty" id="studio-empty" hidden>Ainda não há imagens de estúdio. Gera-se uma no GitHub em <b>Actions → “Gerar imagem showroom” → Run workflow</b>, indicando o modelo (e, se quiser, o link de uma foto).</div>
-      <div class="studio-note">◈ Estas imagens são geradas por IA para fins de apresentação. As fotografias reais do exemplar continuam a ter prioridade na ficha de cada carro.</div>
-    </div>
   </div>
 </section>
 
@@ -1382,7 +1352,7 @@ function fichaHTML(c) {
   const photos = PHOTOS[slug] || [];
   const meta = PHOTO_META[slug] || {};
   const hero = photos.length
-    ? `<img id="f-main" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand+' '+c.name)}"><div class="f-scrim"></div>`
+    ? `<img id="f-main" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand+' '+c.name)}" decoding="async"><div class="f-scrim"></div>`
     : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
   const thumbs = photos.length > 1
     ? `<div class="f-thumbs">${photos.map((p,i) =>
@@ -1586,7 +1556,6 @@ function switchTab(name) {
   if (name === 'dashboard') renderDash();
   if (name === 'cores') renderCores();
   if (name === 'noticias') loadNews();
-  if (name === 'estudio') loadStudio();
 }
 navBtns.forEach(b => b.addEventListener('click', () => switchTab(b.dataset.tab)));
 btnHome.addEventListener('click', () => switchTab('inicio'));
@@ -1650,7 +1619,7 @@ function renderHome() {
   const fp = (PHOTOS[fs] || [])[0];
   document.getElementById('home-feat').innerHTML = `
     <div class="hfeat" data-car="${esc(feat.name)}">
-      <div class="hfimg">${fp ? `<img src="${photoSrc(fs, fp)}" alt="">`
+      <div class="hfimg">${fp ? `<img src="${photoSrc(fs, fp)}" alt="" loading="lazy" decoding="async">`
         : `<div style="position:absolute;inset:0;background:${studioBg(feat.paint)}"></div>`}</div>
       <div>
         <div class="hfn">${esc(feat.hero)}</div>
@@ -1771,7 +1740,7 @@ function renderDash() {
       <div class="tile"><div class="tv">${Math.max(...CARS.map(c=>c.year)) - Math.min(...CARS.map(c=>c.year))}<small> anos</small></div><div class="tk">Amplitude histórica</div></div>
     </div>
     <div class="dash-grid">
-      <div class="dcard"><h4>Recordes da garagem</h4>
+      <div class="dcard"><h3>Recordes da garagem</h3>
         <div class="rec-row"><span class="rk2">Mais rápido</span><span class="rv2">${esc(fastest.name)}<small>${fastest.vmax} ${fastest.vmaxU}</small></span></div>
         <div class="rec-row"><span class="rk2">Mais potente</span><span class="rv2">${esc(powerful.name)}<small>${powerful.power} ${powerful.powerU}</small></span></div>
         <div class="rec-row"><span class="rk2">0–100 mais rápido</span><span class="rv2">${esc(quickest.name)}<small>${quickest.accel} s</small></span></div>
@@ -1779,9 +1748,9 @@ function renderDash() {
         <div class="rec-row"><span class="rk2">Mais antigo</span><span class="rv2">${esc(oldest.name)}<small>${oldest.year}</small></span></div>
         <div class="rec-row"><span class="rk2">Mais raro</span><span class="rv2">${esc(rarest.name)}<small>${esc(rarest.production)}</small></span></div>
       </div>
-      <div class="dcard"><h4>Nacionalidades</h4>${barRows(byCountry)}
-        <h4 style="margin-top:22px">Motorizações</h4>${barRows(byEng)}</div>
-      <div class="dcard" style="grid-column:1/-1"><h4>Distribuição por década</h4>${barRows(byDecade)}</div>
+      <div class="dcard"><h3>Nacionalidades</h3>${barRows(byCountry)}
+        <h3 style="margin-top:22px">Motorizações</h3>${barRows(byEng)}</div>
+      <div class="dcard" style="grid-column:1/-1"><h3>Distribuição por década</h3>${barRows(byDecade)}</div>
     </div>
     <div class="dash-note">⚑ Valores de mercado são <b>estimativas do curador</b> (Gervásio) para dar ordem de grandeza — a validar com avaliações reais, que registaremos por carro. O 917 domina o total: peças únicas não têm preço de tabela.</div>`;
   revealAll(el.querySelectorAll('.tile, .dcard'));
@@ -1932,29 +1901,6 @@ async function loadNews() {
   }
 }
 
-/* ---------- Galeria de estúdio ---------- */
-let studioLoaded = false;
-async function loadStudio() {
-  if (studioLoaded) return;
-  const grid = document.getElementById('studio-grid');
-  const empty = document.getElementById('studio-empty');
-  try {
-    const res = await fetch('assets/generated/manifest.json', { cache: 'no-store' });
-    if (!res.ok) throw new Error('sem manifest');
-    const items = await res.json();
-    if (!Array.isArray(items) || !items.length) { empty.hidden = false; studioLoaded = true; return; }
-    grid.innerHTML = items.slice().reverse().map(it =>
-      `<a class="studio-card" href="assets/generated/${encodeURIComponent(it.ficheiro)}" target="_blank" rel="noopener" title="${esc(it.modelo)}">
-         <img src="assets/generated/${encodeURIComponent(it.ficheiro)}" alt="${esc(it.modelo)}" loading="lazy">
-       </a>`).join('');
-    empty.hidden = true;
-    studioLoaded = true;
-  } catch (e) {
-    empty.hidden = false;
-    studioLoaded = true;
-  }
-}
-
 /* ---------- Modo apresentação ---------- */
 const presEl = document.getElementById('present');
 let presIdx = 0, presTimer = null, presList = [];
@@ -1964,7 +1910,7 @@ function presSlide() {
   const photos = PHOTOS[slug] || [];
   const meta = PHOTO_META[slug] || {};
   const img = photos.length
-    ? `<img src="${photoSrc(slug, photos[0])}" alt="">`
+    ? `<img src="${photoSrc(slug, photos[0])}" alt="" decoding="async">`
     : `<div class="p-studio" style="background:${studioBg(c.paint)}"></div>`;
   presEl.innerHTML = `
     <div class="p-img p-fade">${img}</div>
