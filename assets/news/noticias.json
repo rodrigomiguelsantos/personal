@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-09T16:38:16Z",
+ "atualizado": "2026-09-09T20:55:51Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,226 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Homegrown: Hot Rat Rod",
+   "resumo": "What’s the difference between a hot rod and a rat rod? Nothing meaningful, at least according to John Jasinski, 50, of Taylor, Michigan, who created this ’31 Ford coupe. The wizard explains…",
+   "url": "https://www.hagerty.com/media/car-profiles/homegrown-hot-rat-rod/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T20:00:00Z"
+  },
+  {
+   "titulo": "View Interior Photos of the 2026 Honda HR-V EX-L",
+   "resumo": "Get an up-close look at the 2026 Honda HR-V interior.",
+   "url": "https://www.caranddriver.com/photos/a73655792/2026-honda-hr-v-ex-l-interior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T19:27:53Z"
+  },
+  {
+   "titulo": "View Exterior Photos of the 2026 Honda HR-V EX-L",
+   "resumo": "See the 2026 Honda HR-V from every exterior angle.",
+   "url": "https://www.caranddriver.com/photos/a73655791/2026-honda-hr-v-exterior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T19:22:29Z"
+  },
+  {
+   "titulo": "Ford Wants You To Sleep In Your Bronco",
+   "resumo": "New patent images show Ford prepping serious overland and camping upgrades for the Bronco.",
+   "url": "https://www.motor1.com/news/807713/ford-bronco-overland-camping-patents/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T18:30:00Z"
+  },
+  {
+   "titulo": "Cinco carros que podem comprar pelo preço do iPhone Duo",
+   "resumo": "A Apple acaba de apresentar o iPhone Duo, o primeiro smartphone dobrável da sua história, que na versão mais barata custa uns notáveis 2399 euros. O mais caro, com 2 TB de capacidade…",
+   "url": "https://www.razaoautomovel.com/usados/cinco-carros-usados-mais-baratos-iphone-duo/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-09T18:26:50Z"
+  },
+  {
+   "titulo": "E se o Dakar de 2027 ‘cobrasse a dívida’ do Lisboa-Dakar de 2008?",
+   "resumo": "Há quase duas décadas, um grito de desilusão ecoou pelo mundo do Todo-o-Terreno: “Jarbas, leva-nos para casa!”. O Lisboa-Dakar de 2008, o maior rali do planeta, foi silenciado antes mesmo…",
+   "url": "https://www.autosport.pt/todooterreno/e-se-o-dakar-de-2027-cobrasse-a-divida-do-lisboa-dakar-de-2008/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-09T17:59:45Z"
+  },
+  {
+   "titulo": "The driver handling lessons Ferrari can take from two big rivals",
+   "resumo": "As Ferrari grapples with the Leclerc/Hamilton dynamic, what can it learn from McLaren and Mercedes' policies?",
+   "url": "https://www.the-race.com/formula-1/the-driver-handling-lessons-ferrari-can-take-from-two-big-rivals/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T17:41:14Z"
+  },
+  {
+   "titulo": "Madrid’s New Street Circuit Will Be a Big Test for Formula 1 and Its Drivers",
+   "resumo": "The new high-speed home of the Spanish Grand Prix leaves little margin for error.",
+   "url": "https://www.roadandtrack.com/news/a73653947/spanish-grand-prix-madrid-new-street-circuit/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:37:47Z"
+  },
+  {
+   "titulo": "O que aconteceu ao Adamastor Furia no Caramulo Motorfestival?",
+   "resumo": "A Razão Automóvel chegou ao Caramulo Motorfestival 2026 com uma estreia marcada: colocar Guilherme Costa ao volante do Adamastor Furia, tornando-se no primeiro meio de comunicação a…",
+   "url": "https://www.razaoautomovel.com/podcasts/auto-radio/episodio-147-adamastor-furia-caramulo-motorfestival-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-09T17:35:19Z"
+  },
+  {
+   "titulo": "Audi's first F1 protege is on the brink of extending his title streak",
+   "resumo": "As Formula 1 debuts in Madrid, Audi's first F1 protege will be vying to maintain his 100% title-winning streak on the undercard in the Formula 3 title-decider",
+   "url": "https://www.the-race.com/formula-1/audis-first-f1-protege-is-on-the-brink-of-extending-his-title-streak/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T17:32:46Z"
+  },
+  {
+   "titulo": "The 2027 Honda Passport TrailSport Just Got A Lot More Capable",
+   "resumo": "The Passport TrailSport has a revised suspension that increases its ride height and off-road capability.",
+   "url": "https://www.motor1.com/news/807701/2027-honda-passport-trailsport-suspension-updates-specs/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:30:00Z"
+  },
+  {
+   "titulo": "Estes elétricos baratos são diferentes mas usam a mesma receita",
+   "resumo": "O Renault Twingo já chegou e nós já tivemos oportunidade de o conduzir, o novo Dacia Spring foi apresentado esta semana e falta pouco para ficarmos a conhecer o terceiro elemento desta…",
+   "url": "https://www.razaoautomovel.com/noticias/estes-eletricos-baratos-diferentes-usam-mesma-receita/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-09T17:26:48Z"
+  },
+  {
+   "titulo": "Waymo’s Robotaxis Are Now Driving for Lyft, At Least in One U.S. City",
+   "resumo": "Lyft is managing the behind-the-scenes operations of Waymo’s Nashville fleet, creating a partnership that could prove more durable than the self-driving car company has with Uber.",
+   "url": "https://www.roadandtrack.com/news/a73652899/waymo-lyft-self-driving-cars/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:23:29Z"
+  },
+  {
+   "titulo": "Afinal qual é o desconto do Governo sobre os combustíveis?",
+   "resumo": "O preço dos combustíveis voltou a disparar esta semana e levou o Governo a reforçar, novamente, o apoio fiscal. De acordo com a Portaria n.º 404-A/2026/1, de 4 de setembro, o desconto…",
+   "url": "https://www.razaoautomovel.com/noticias/desconto-combustiveis-semana-37-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-09T17:21:57Z"
+  },
+  {
+   "titulo": "Carson Hocevar basically has a very unique, polarizing honor code",
+   "resumo": "Carson Hocevar is having fun but that doesn’t mean he doesn’t care. At the same time, when someone like Brad Keselowski gets mad at him for what happened between them early in the Southern…",
+   "url": "https://www.motorsport.com/nascar-cup/news/carson-hocevar-basically-has-a-very-unique-polarizing-honor-code/10853952/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T17:17:44Z"
+  },
+  {
+   "titulo": "Aston Martin’s First Street-Legal Motorcycle Collab Looks Like an Extraterrestrial Machine",
+   "resumo": "The AMB 002 Roadster, built in partnership with Brough Superior, will be limited to just 300 units.",
+   "url": "https://www.roadandtrack.com/news/a73653653/aston-martin-street-legal-motorcycle-amb-002/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:11:57Z"
+  },
+  {
+   "titulo": "Think You Know Cars? Play Motor1's New 1-On-1 Trivia Game",
+   "resumo": "Test your automotive knowledge in Motor1's new daily head-to-head trivia game.",
+   "url": "https://www.motor1.com/news/807678/motor1-car-trivia-game/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:00:00Z"
+  },
+  {
+   "titulo": "10,000 Toyota C-HR EVs Recalled Due to Overcharged Batteries",
+   "resumo": "When the C-HR’s battery has a high state of charge, a software issue can cause the regenerative braking to overcharge the battery, causing power loss.",
+   "url": "https://www.caranddriver.com/news/a73653352/toyota-c-hr-ev-overcharged-battery-recall/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T17:00:00Z"
+  },
+  {
+   "titulo": "Picture Car Confidential #47: Used Cars and Doubles",
+   "resumo": "As touched on previously in this space, TV and film productions sometimes say they want to “double” a car—that is, find an exact or very close match. The reasons for doing so vary. On some…",
+   "url": "https://www.hagerty.com/media/opinion/picture-car-confidential/picture-car-confidential-47-used-cars/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T17:00:00Z"
+  },
+  {
+   "titulo": "Driver Loses His License for Speeding, Police Say, Gets Caught Speeding Again 10 Minutes Later",
+   "resumo": "The 23-year-old Australian driver racked up more than $2000 in fines and was given a six-month license suspension.",
+   "url": "https://www.roadandtrack.com/news/a73653491/driver-loses-license-for-speeding-caught-speeding-again-10-minutes-later/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T16:57:04Z"
+  },
+  {
+   "titulo": "Trackhouse to enter just one bike for San Marino GP as Ogura withdraws",
+   "resumo": "MotoGP title contender Ai Ogura has withdrawn from the San Marino Grand Prix, with his fractured thumb still recovering. The Trackhouse rider got injured in a motocross training crash near…",
+   "url": "https://www.autosport.com/motogp/news/ogura-withdraws-from-san-marino-gp/10853943/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T16:48:39Z"
+  },
+  {
+   "titulo": "Ai Ogura withdraws from San Marino GP, can’t be replaced",
+   "resumo": "MotoGP title contender Ai Ogura has withdrawn from the San Marino Grand Prix, with his fractured thumb still recovering. The Trackhouse rider got injured in a motocross training crash near…",
+   "url": "https://www.motorsport.com/motogp/news/ai-ogura-withdraws-from-motogp-san-marino-gp-cant-be-replaced/10853940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T16:46:34Z"
+  },
   {
    "titulo": "Ogura's MotoGP title bid all but over with another withdrawal",
    "resumo": "Trackhouse MotoGP rider Ai Ogura will miss a second successive round of the championship through injury, withdrawing from the San Marino GP",
@@ -38,6 +258,16 @@
    "data": "2026-09-09T16:32:12Z"
   },
   {
+   "titulo": "Armindo Araújo quer vitória no Rali d’Água para encurtar distância no CPR",
+   "resumo": "Armindo Araújo e Luís Ramalho, em Skoda Fabia RS Rally 2, disputam este fim de semana o Rali d’Água, em Chaves, com o objetivo de conquistar a vitória e reduzir a desvantagem para os atuais…",
+   "url": "https://www.autosport.pt/ralis/armindo-araujo-quer-vitoria-no-rali-dagua-para-encurtar-distancia-no-cpr/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-09T16:30:22Z"
+  },
+  {
    "titulo": "WRC: Rali da Arábia Saudita deve ser cancelado, amanhã há decisão",
    "resumo": "Uma névoa de incerteza paira como uma espada de Dâmocles sobre o destino do Rali da Arábia Saudita, mas o veredito final é iminente. A derradeira ronda do Campeonato do Mundo de Ralis…",
    "url": "https://www.autosport.pt/ralis/wrc-rali-da-arabia-saudita-deve-ser-cancelado-amanha-ha-decisao/",
@@ -46,6 +276,16 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-09T16:20:52Z"
+  },
+  {
+   "titulo": "WRC: FIA aumenta limite de pneus no Rali do Chile",
+   "resumo": "A FIA autorizou o uso de oito pneus adicionais para as equipas Rally1 no Rally Chile, que decorre esta semana. Esta alteração regulamentar excecional resulta de uma reunião urgente entre a…",
+   "url": "https://www.autosport.pt/ralis/wrc-fia-aumenta-limite-de-pneus-no-rali-do-chile/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-09T16:17:00Z"
   },
   {
    "titulo": "Five things to look out for at the F1 Spanish GP",
@@ -88,16 +328,6 @@
    "data": "2026-09-09T16:00:00Z"
   },
   {
-   "titulo": "2027 Honda Passport TrailSport Adds Much-Appreciated Ground Clearance",
-   "resumo": "Honda completely reengineered the TrailSport’s suspension for better off-road and on-road performance.",
-   "url": "https://www.roadandtrack.com/news/a73653334/2027-honda-passport-trailsport-lift/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T15:56:44Z"
-  },
-  {
    "titulo": "Aston Martin AMB 002 Is the Brand’s First Road-Legal Motorcycle",
    "resumo": "Designed and built in collaboration with Brough Superior, the new bike follows the track-only AMB 001 and AMB 001 Pro built by the two brands.",
    "url": "https://www.caranddriver.com/news/a73652373/aston-martin-amb-002-motorcycle-revealed/",
@@ -106,16 +336,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-09T15:40:35Z"
-  },
-  {
-   "titulo": "Mercedes-Benz Customer Acquitted on Charge of Kidnapping Dealer Employee During Test Drive",
-   "resumo": "The man spent more than one year in jail leading up to the trial, before the jury came back with its verdict of not guilty.",
-   "url": "https://www.roadandtrack.com/news/a73652389/mercedes-customer-acquitted-charge-of-kidnapping-dealer-employee/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T15:37:58Z"
   },
   {
    "titulo": "Testei o Changan Deepal S05 que faz mais de 1000 km sem parar",
@@ -128,26 +348,6 @@
    "data": "2026-09-09T15:37:33Z"
   },
   {
-   "titulo": "2026 Jeep Recon EV",
-   "resumo": "Review, Pricing, and Specs",
-   "url": "https://www.caranddriver.com/jeep/recon-ev",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T14:59:18Z"
-  },
-  {
-   "titulo": "McLaren Is Adding 1000 Jobs As Part of $610 Million Investment: Report",
-   "resumo": "The British supercar maker is investing heavily in its Woking operations as it attempts to engineer a dramatic turnaround, according to a new report.",
-   "url": "https://www.roadandtrack.com/news/a73652086/mclaren-adding-1000-jobs-610-million-dollar-investment/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T14:58:43Z"
-  },
-  {
    "titulo": "CPR, Rali da Água, Ricardo Teodósio: “Temos evoluído com o carro…”",
    "resumo": "Ricardo Teodósio e o navegador José Teixeira disputam o Rali da Água – Transibérico Eurocidade Chaves-Verín com o objetivo de lutar por um lugar no pódio, apostando num ritmo forte desde as…",
    "url": "https://www.autosport.pt/ralis/cpr-rali-da-agua-ricardo-teodosio-temos-evoluido-com-o-carro/",
@@ -156,26 +356,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-09T14:55:31Z"
-  },
-  {
-   "titulo": "Rúben Rodrigues lidera o Campeonato de Portugal de Ralis: “prontos para entrar num duelo exigente”",
-   "resumo": "Rúben Rodrigues lidera o Campeonato de Portugal de Ralis com 100 pontos, preparando-se para competir nas exigentes especiais da região de Chaves ao volante do Toyota GR Yaris Rally2 da ARC…",
-   "url": "https://www.autosport.pt/ralis/ruben-rodrigues-lidera-o-campeonato-de-portugal-de-ralis-prontos-para-entrar-num-duelo-exigente/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-09T14:43:01Z"
-  },
-  {
-   "titulo": "Laurin Heinrich replaces Laurens Vanthoor at Porsche Penske for IMSA Indy round",
-   "resumo": "Porsche Penske Motorsport (PPM) has restructured its driver lineup for the upcoming IMSA WeatherTech SportsCar Championship round at the Indianapolis Motor Speedway road course, drafting…",
-   "url": "https://www.motorsport.com/imsa/news/laurin-heinrich-replaces-laurens-vanthoor-at-porsche-penske-for-imsa-indy-round/10853909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T14:34:56Z"
   },
   {
    "titulo": "Stellantis Plans for a Big Performance Offensive and More Affordable Models",
@@ -188,36 +368,6 @@
    "data": "2026-09-09T14:30:00Z"
   },
   {
-   "titulo": "Paulo Neto e os troços do Rali da Água: “troços muito rápidos, técnicos e que se sujam bastante”",
-   "resumo": "Paulo Neto e o navegador Carlos Magalhães disputam o Rali da Água – Transibérico – Eurocidade Chaves Verín, sexta prova do Campeonato de Portugal de Ralis, que se realiza nos dias 11 e 12…",
-   "url": "https://www.autosport.pt/ralis/paulo-neto-e-os-trocos-do-rali-da-agua-trocos-muito-rapidos-tecnicos-e-que-se-sujam-bastante/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-09T14:28:56Z"
-  },
-  {
-   "titulo": "WRC: FIA aumenta limite de pneus no Rali do Chile",
-   "resumo": "A FIA autorizou o uso de oito pneus adicionais para as equipas Rally1 no Rally Chile, que decorre esta semana. Esta alteração regulamentar excecional resulta de uma reunião urgente entre a…",
-   "url": "https://www.autosport.pt/sem-categoria/wrc-fia-aumenta-limite-de-pneus-no-rali-do-chile/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-09T14:17:16Z"
-  },
-  {
-   "titulo": "What Jacques Villeneuve really learned from Gilles: \"I can do this, you can’t\"",
-   "resumo": "When stars die young, they inevitably become trapped in the popular consciousness in a state of eternal youth, embodying romanticised notions of heroic nobility and sacrifice. For motor…",
-   "url": "https://www.motorsport.com/f1/news/what-jacques-villeneuve-really-learned-from-gilles-i-can-do-this-you-cant/10853862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T14:01:13Z"
-  },
-  {
    "titulo": "The learnings Jacques Villeneuve still carries from father Gilles",
    "resumo": "When stars die young, they inevitably become trapped in the popular consciousness in a state of eternal youth, embodying romanticised notions of heroic nobility and sacrifice. For motor…",
    "url": "https://www.autosport.com/f1/news/the-learnings-jacques-villeneuve-still-carries-from-father-gilles/10853895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -226,16 +376,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-09T14:00:07Z"
-  },
-  {
-   "titulo": "Hyundai Patents a Control Method That Understands Pointing",
-   "resumo": "Your finger, combined with voice commands, could become a powerful tool.",
-   "url": "https://www.caranddriver.com/news/a73647399/hyundai-voice-control-with-pointing-patent/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T14:00:00Z"
   },
   {
    "titulo": "Why F1's new Madrid track is a 'car killer'",
@@ -258,16 +398,6 @@
    "data": "2026-09-09T13:03:00Z"
   },
   {
-   "titulo": "2027 Honda Passport TrailSport Doubles Down on Off-Road Readiness",
-   "resumo": "Adding a 1.38-inch lift required a major reengineering of the TrailSport’s suspension.",
-   "url": "https://www.caranddriver.com/news/a73650584/2027-honda-passport-trailsport-details/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T13:00:00Z"
-  },
-  {
    "titulo": "The SLK Was a Mercedes Like None Before It",
    "resumo": "Cast your mind back to 1996. The Bayside Boys remix of “Macarena” is all the rage, the dot-com bubble is inflating at a terrifying rate, and a pint of lager still leaves change from a…",
    "url": "https://www.hagerty.com/media/market-trends/the-slk-was-a-mercedes-like-none-before-it/",
@@ -276,16 +406,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-09T13:00:00Z"
-  },
-  {
-   "titulo": "ID. Polo acerta onde os primeiros elétricos da Volkswagen falharam",
-   "resumo": "Mais espaço, botões físicos e consumos convincentes. O novo ID. Polo mostra uma Volkswagen diferente da que criou os primeiros elétricos ID. Depois de uma partida em falso na…",
-   "url": "https://www.razaoautomovel.com/testes/volkswagen-id-polo-155-kw-211-cv-52-kwh-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-09T12:46:42Z"
   },
   {
    "titulo": "For Sale: A Rare 1990 RMA “Amphi-Ranger” Amphibious 4×4",
@@ -308,16 +428,6 @@
    "data": "2026-09-09T12:05:02Z"
   },
   {
-   "titulo": "Grupo Volkswagen sem mãos a medir para tantas encomendas",
-   "resumo": "É de loucos, eu sei. Num dia noticiamos que o Grupo Volkswagen está a fechar fábricas e a cortar 50 mil postos de trabalho e, no dia seguinte, noticiamos que o gigante alemão não tem mãos a…",
-   "url": "https://www.razaoautomovel.com/opiniao/grupo-volkswagen-sem-maos-a-medir-para-tantas-encomendas-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-09T11:47:44Z"
-  },
-  {
    "titulo": "Ferrari's Controversial EV Gets A Wild Aftermarket Makeover",
    "resumo": "Vossen Wheels takes on the Ferrari Luce with new wheels and a rear wing.",
    "url": "https://www.motor1.com/news/807653/ferrari-luce-new-look/",
@@ -326,16 +436,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-09T11:44:21Z"
-  },
-  {
-   "titulo": "Aston Martin Made Its First Street-Legal Bike, And Collectors Will Fight For 300",
-   "resumo": "The AMB 002 Roadster, built with Brough Superior in a 300-unit run, brings Aston Martin design and engineering to a road-legal superbike.",
-   "url": "https://www.motor1.com/news/807651/aston-martin-amb-002-roadster/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T11:16:17Z"
   },
   {
    "titulo": "Bulega to make MotoGP return with VR46",
@@ -358,16 +458,6 @@
    "data": "2026-09-09T10:31:42Z"
   },
   {
-   "titulo": "Tesla FSD’s New Safety Trick: It Can Grab Control To Dodge A Crash",
-   "resumo": "Automatic Collision Evasion in Tesla FSD v14.3.9 can briefly steer, brake, and accelerate on its own to avoid crashes during manual driving.",
-   "url": "https://www.motor1.com/news/807647/tesla-fsd-automatic-collision-evasion/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T10:30:06Z"
-  },
-  {
    "titulo": "Kimi Raikkonen's son joins Red Bull",
    "resumo": "The son of the 2007 F1 world champion Kimi Raikkonen will join Red Bull's driver development programme next year",
    "url": "https://www.the-race.com/formula-1/2007-f1-champion-kimi-raikkonen-son-robin-joins-red-bull/",
@@ -376,16 +466,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-09T10:28:38Z"
-  },
-  {
-   "titulo": "There's A New Gas Engine That Doesn't Mind Deep Water",
-   "resumo": "Geely and Renault have developed a combustion engine capable of deep-water wading.",
-   "url": "https://www.motor1.com/news/807646/waterproof-gas-engine-revealed/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T10:20:08Z"
   },
   {
    "titulo": "F1 - 2026 Spanish GP Schedule of Press Conferences",
@@ -398,16 +478,6 @@
    "data": "2026-09-09T09:40:00Z"
   },
   {
-   "titulo": "Chineses sem medo das novas regras impressionam no Euro NCAP",
-   "resumo": "O Euro NCAP divulgou os resultados dos mais recentes de testes de segurança, realizados ao abrigo dos protocolos mais exigentes de 2026, e se há algo em comum entre os três modelos que mais…",
-   "url": "https://www.razaoautomovel.com/noticias/seguranca-rodoviaria-euro-ncap-setembro-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-09T09:30:05Z"
-  },
-  {
    "titulo": "FREC: Four to the fore in Hockenheim FIA title decider",
    "resumo": "Sport news After seven rounds of on-track learning and development, Emanuele Olivieri (200 points), Sebastian Wheldon (180 points), Kean Nakamura-Berta (175 points) and Rashid Al Dhaheri…",
    "url": "https://www.fia.com/news/frec-four-fore-hockenheim-fia-title-decider",
@@ -416,16 +486,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-09T09:12:00Z"
-  },
-  {
-   "titulo": "Everything you need to know about WSBK dominator's MotoGP move",
-   "resumo": "World Superbike championship leader Nicolo Bulega will officially move to MotoGP in 2027",
-   "url": "https://www.the-race.com/motogp/everything-you-need-to-know-about-wsbk-dominators-motogp-move/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T09:01:22Z"
   },
   {
    "titulo": "Hankook makes tyre rule changes for Rally Chile",
@@ -468,16 +528,6 @@
    "data": "2026-09-09T07:46:00Z"
   },
   {
-   "titulo": "Tested: 2026 Jeep Recon Moab Is Flawed But Fun",
-   "resumo": "The Recon is great at being a Jeep, but sadly mediocre as an EV.",
-   "url": "https://www.roadandtrack.com/reviews/a73641316/tested-2026-jeep-recon-moab-is-flawed-but-fun/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T07:04:30Z"
-  },
-  {
    "titulo": "The ultimate EV bargain? Grab a Nissan Leaf from just £3500",
    "resumo": "The Nissan Leaf may not tug at the heartstrings but it is a dependable and practical family hatchback The second-generation Nissan Leaf had big boots to fill. Not literally, being a…",
    "url": "https://www.autocar.co.uk/car-news/used-cars/ultimate-ev-bargain-grab-nissan-leaf-just-%C2%A33500",
@@ -485,16 +535,6 @@
    "dominio": "autocar.co.uk",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-09-09T06:00:00Z"
-  },
-  {
-   "titulo": "Mercedes quer carros que sabem nadar yo",
-   "resumo": "Os mais novos talvez não reconheçam à primeira vista a referência à canção “Nadar” dos Black Company, que se popularizou entre os outrora jovens dos anos 90, mas a verdade é que a «Mercedes…",
-   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-mercedes-benz-patente-suv-flutuador/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
    "data": "2026-09-09T06:00:00Z"
   },
   {
@@ -516,16 +556,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-09T04:30:40Z"
-  },
-  {
-   "titulo": "Mercedes' new engine upgrade plan is terrible news for Ferrari",
-   "resumo": "Mercedes is working on what could be a killer blow to rival Ferrari's fading title chances with an ADUO-assisted engine upgrade",
-   "url": "https://www.the-race.com/formula-1/mercedes-new-engine-upgrade-plan-is-terrible-news-for-ferrari/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T04:12:09Z"
   },
   {
    "titulo": "SUV sales soar as cheap Chinese crossovers fuel growth",
@@ -586,36 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-08T23:22:00Z"
-  },
-  {
-   "titulo": "PSA: Don’t Play Chicken With A Tesla Cybercab By Jumping In Front Of It",
-   "resumo": "A man was filmed repeatedly messing with a Cybercab and seeing if it would stop",
-   "url": "https://www.carscoops.com/2026/09/tesla-cybercab-chicken/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T22:40:00Z"
-  },
-  {
-   "titulo": "South Carolina Street Takeover Ends With 80 Arrests And 38 Cars Impounded",
-   "resumo": "A massive Greenville County street takeover ended with more than 80 arrests, 38 impounded vehicles, and 10 seized firearms",
-   "url": "https://www.carscoops.com/2026/09/south-carolina-street-takeover/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T21:58:00Z"
-  },
-  {
-   "titulo": "After Sitting Idle for Decades, This Rare 427-Powered Caprice Is Back on the Streets",
-   "resumo": "In the 1960s, America’s automakers offered all kinds of cars with performance-oriented V-8s. Ford let buyers check a box to get a 428 Cobra Jet in the sporty Torino and Cobra, but also in…",
-   "url": "https://www.hagerty.com/media/car-profiles/after-sitting-idle-for-decades-this-rare-427-powered-caprice-is-back-on-the-streets/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-08T21:30:00Z"
   }
  ]
 }
