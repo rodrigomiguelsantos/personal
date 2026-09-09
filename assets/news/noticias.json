@@ -1,8 +1,7 @@
 {
- "atualizado": "2026-09-08T21:09:20Z",
+ "atualizado": "2026-09-09T04:41:14Z",
  "fontes": [
   "AutoSport",
-  "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
@@ -18,6 +17,146 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Mercedes' new engine upgrade plan is terrible news for Ferrari",
+   "resumo": "Mercedes is working on what could be a killer blow to rival Ferrari's fading title chances with an ADUO-assisted engine upgrade",
+   "url": "https://www.the-race.com/formula-1/mercedes-new-engine-upgrade-plan-is-terrible-news-for-ferrari/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-09T04:12:09Z"
+  },
+  {
+   "titulo": "View Interior Photos of the 2026 Jeep Recon",
+   "resumo": "See the interior of the 2026 Jeep Recon from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73640240/2026-jeep-recon-ev-drive-interior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T04:01:00Z"
+  },
+  {
+   "titulo": "View Exterior Photos of the 2026 Jeep Recon",
+   "resumo": "See the exterior of the 2026 Jeep Recon from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73640221/2026-jeep-recon-ev-drive-exterior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T04:01:00Z"
+  },
+  {
+   "titulo": "The Obstacles of Low Range and High Price: 2026 Jeep Recon EV Driven",
+   "resumo": "Quick and trail-rated, the Recon offers a Wrangler-adjacent lifestyle with some EV benefits—and some EV baggage.",
+   "url": "https://www.caranddriver.com/reviews/a73642665/2026-jeep-recon-ev-drive/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T04:01:00Z"
+  },
+  {
+   "titulo": "Also in my garage: Van’s RV-7 light aircraft",
+   "resumo": "Also in my garage: Van’s RV-7 light aircraft Ryan Standen Wed, 09/09/2026 - 04:47",
+   "url": "https://www.classicandsportscar.com/features/also-my-garage-vans-rv-7-light-aircraft",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T03:47:28Z"
+  },
+  {
+   "titulo": "BMW 3.0 CSL ‘Batmobile’ vs Porsche 911 Carrera RS 2.7: the speed of light",
+   "resumo": "BMW 3.0 CSL ‘Batmobile’ vs Porsche 911 Carrera RS 2.7: the speed of light Ryan Standen Wed, 09/09/2026 - 04:47",
+   "url": "https://www.classicandsportscar.com/features/bmw-30-csl-batmobile-vs-porsche-911-carrera-rs-27-speed-light",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T03:47:04Z"
+  },
+  {
+   "titulo": "Which Car Has The Greatest Rear Wing Of All Time?",
+   "resumo": "From tiny lips to giant tables and tilting aero, pick your rear-end aero champion",
+   "url": "https://www.carscoops.com/2026/09/which-car-has-the-greatest-rear-wing-ever/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T00:46:00Z"
+  },
+  {
+   "titulo": "Bronco Basecamp Breaks Out Of China And Heads Down Under",
+   "resumo": "The latest member of the Bronco family has a pop top and a range-extended powertrain",
+   "url": "https://www.carscoops.com/2026/09/bronco-basecamp-australia/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T00:04:00Z"
+  },
+  {
+   "titulo": "Ford’s 6X6 Ranger Super Duty Is Bidding To Arm The British Army",
+   "resumo": "Ford has partnered with General Dynamics Land Systems UK and Ricardo to offer militarized pickups to the British Army",
+   "url": "https://www.carscoops.com/2026/09/ford-ranger-military-6x6/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T23:22:00Z"
+  },
+  {
+   "titulo": "PSA: Don’t Play Chicken With A Tesla Cybercab By Jumping In Front Of It",
+   "resumo": "A man was filmed repeatedly messing with a Cybercab and seeing if it would stop",
+   "url": "https://www.carscoops.com/2026/09/tesla-cybercab-chicken/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T22:40:00Z"
+  },
+  {
+   "titulo": "South Carolina Street Takeover Ends With 80 Arrests And 38 Cars Impounded",
+   "resumo": "A massive Greenville County street takeover ended with more than 80 arrests, 38 impounded vehicles, and 10 seized firearms",
+   "url": "https://www.carscoops.com/2026/09/south-carolina-street-takeover/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T21:58:00Z"
+  },
+  {
+   "titulo": "Polestar Teases Low-Slung Concept to Hit Us While We’re Down",
+   "resumo": "The striking design elements of the ‘Formula 2030’ are set to debut on the next-gen Polestar 2, though the brand is still banned in the U.S.",
+   "url": "https://www.caranddriver.com/news/a73644729/polestar-formula-2030-concept-teaser/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-08T21:47:54Z"
+  },
+  {
+   "titulo": "After Sitting Idle for Decades, This Rare 427-Powered Caprice Is Back on the Streets",
+   "resumo": "In the 1960s, America’s automakers offered all kinds of cars with performance-oriented V-8s. Ford let buyers check a box to get a 428 Cobra Jet in the sporty Torino and Cobra, but also in…",
+   "url": "https://www.hagerty.com/media/car-profiles/after-sitting-idle-for-decades-this-rare-427-powered-caprice-is-back-on-the-streets/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-08T21:30:00Z"
+  },
+  {
+   "titulo": "FIA Middle East Rally Championship (MERC) continues with 48th Rally of Lebanon",
+   "resumo": "Sport news The 2026 FIA Middle East Rally Championship (MERC) resumes after a near four-month lay-off with the 48th Rally of Lebanon on September 11th-13th. The fourth round of the regional…",
+   "url": "https://www.fia.com/news/fia-middle-east-rally-championship-merc-continues-48th-rally-lebanon",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-08T21:07:00Z"
+  },
   {
    "titulo": "Hyundai's Next Elantra Hybrid Will Be Even More Efficient",
    "resumo": "The eight-generation sedan will be larger and more powerful than the outgoing model, while returning similar fuel economy ratings.",
@@ -49,34 +188,14 @@
    "data": "2026-09-08T20:59:01Z"
   },
   {
-   "titulo": "Toyota’s Answer To Rising Land Cruiser Thefts Will Cost You $1,249 And Five Hours",
-   "resumo": "The secondary immobilizer works alongside the primary system and includes a siren",
-   "url": "https://www.carscoops.com/2026/09/toyota-land-cruiser-secondary-immobilizer/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T20:47:07Z"
-  },
-  {
-   "titulo": "Ford Patents May Have Accidentally Revealed the Next-Gen Bronco",
-   "resumo": "A pair of patents filed by Ford may have just given us our first look at the future Bronco that’s expected to arrive in 2030.",
-   "url": "https://www.caranddriver.com/news/a73642098/next-gen-ford-bronco-patents/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T20:18:08Z"
-  },
-  {
-   "titulo": "2027 McLaren GTS",
-   "resumo": "Review, Pricing, and Specs",
-   "url": "https://www.caranddriver.com/mclaren/mclaren-gts-2027",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T20:10:12Z"
+   "titulo": "Caramulo Motorfestival bate mais um recorde de participação: 60 mil visitantes e estreia de F1 na rampa histórica",
+   "resumo": "O Caramulo Motorfestival, o maior festival motorizado em Portugal, atraiu mais de 60 mil pessoas à Serra do Caramulo, onde mais de dois mil automóveis, motos e aviões marcaram presença ao…",
+   "url": "https://www.autosport.pt/maismotores/caramulo-motorfestival-bate-mais-um-recorde-de-participacao-60-mil-visitantes-e-estreia-de-f1-na-rampa-historica/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-08T20:45:11Z"
   },
   {
    "titulo": "'Search Is Dead:' TrueCar's CEO Thinks Car Shopping Is About To Change In A Major Way",
@@ -87,16 +206,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-08T20:00:00Z"
-  },
-  {
-   "titulo": "Ducati Could Be Put Up For Sale As Part Of VW Group Overhaul",
-   "resumo": "The motorcycle maker was acquired in 2012 and could be worth around $1.5 billion",
-   "url": "https://www.carscoops.com/2026/09/ducati-could-be-sold/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T19:52:00Z"
   },
   {
    "titulo": "Josh Berry signs with Legacy Motor Club for 2027 NASCAR Cup season",
@@ -119,16 +228,6 @@
    "data": "2026-09-08T19:23:00Z"
   },
   {
-   "titulo": "This Gemballa Porsche 928 Is What Happens When Subtlety Calls In Sick",
-   "resumo": "A yellow Wide Version II conversion turns Porsche’s V8 grand tourer from stealthy to showstopper",
-   "url": "https://www.carscoops.com/2026/09/gemballa-porsche-921-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T19:10:00Z"
-  },
-  {
    "titulo": "The wider significance of Vettel's Schumacher run",
    "resumo": "There was something emotional about Sebastian Vettel driving Michael Schumacher's 2002 title-winning Ferrari, of course. But it carried another message too",
    "url": "https://www.the-race.com/formula-1/sebastian-vettel-michael-schumacher-ferrari-f1-demo-wider-significance/",
@@ -137,36 +236,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-08T19:01:38Z"
-  },
-  {
-   "titulo": "Audi Is Relaunching the A2 Hatchback as Part of Its e-tron Range",
-   "resumo": "The A2 EV has a small footprint, practical layout, and over 400 miles of range.",
-   "url": "https://www.caranddriver.com/news/a73643820/audi-a2-e-tron-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T18:39:32Z"
-  },
-  {
-   "titulo": "The Land Baron’s Choice: 1976 Jaguar XJ-S Tested",
-   "resumo": "The cat comes back.",
-   "url": "https://www.caranddriver.com/reviews/a73596195/1976-jaguar-xj-s-archive-test/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T18:38:01Z"
-  },
-  {
-   "titulo": "Mercedes’ New E-Class Electric Is Washing Bad Memories Of The Soap-Bar EQE Clean Away",
-   "resumo": "Fresh spy shots of the mid-size EV reveal production lights and a far more conventional body shape than the slow-selling EQE had",
-   "url": "https://www.carscoops.com/2026/09/mercedes-benz-e-class-electric-scoop/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T18:28:00Z"
   },
   {
    "titulo": "According To You: The Money You Saved By Going DIY",
@@ -187,16 +256,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-08T17:51:00Z"
-  },
-  {
-   "titulo": "Ford Cut 7,000 Jobs, Now It’s Paying To Get That Experience Back",
-   "resumo": "After a disastrous run of defects, Ford says it's turned a corner thanks to hiring experts to catch problems before they enter production",
-   "url": "https://www.carscoops.com/2026/09/when-ai-wasnt-good-enough-ford-rehired-the-kind-of-experts-it-fired/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T17:46:00Z"
   },
   {
    "titulo": "Kelvin Fu set to takeover president of Honda Racing Corporation USA, succeeding David Salters",
@@ -319,16 +378,6 @@
    "data": "2026-09-08T15:42:06Z"
   },
   {
-   "titulo": "Veja o trailer do documentário Schumacher ’94: The Birth of a Legend",
-   "resumo": "A Netflix divulgou o trailer oficial de Schumacher ’94: The Birth of a Legend (o nascimento de uma Lenda), documentário dedicado à temporada de Fórmula 1 de 1994 e ao primeiro dos sete…",
-   "url": "https://www.autosport.pt/formula1/veja-o-trailer-do-documentario-schumacher-94-the-birth-of-a-legend/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-08T15:30:19Z"
-  },
-  {
    "titulo": "Why Wolff compared Antonelli to an “AI agent\" after Italian GP win",
    "resumo": "Mercedes boss Toto Wolff admits that even he has been surprised by the rapid growth shown by Kimi Antonelli over the course of the 2026 Formula 1 season, likening him to an \"AI agent\" that…",
    "url": "https://www.autosport.com/f1/news/why-wolff-compared-antonelli-to-an-ai-agent-after-italian-gp-win/10853713/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -439,8 +488,8 @@
    "data": "2026-09-08T12:35:32Z"
   },
   {
-   "titulo": "For Sale: A Low-Mile 1977 Pontiac Firebird Trans Am",
-   "resumo": "This is a one-owner Pontiac Firebird Trans Am from 1977, it has just 8,000 miles from new, and it’s remained in the same town... The post For Sale: A Low-Mile 1977 Pontiac Firebird Trans Am…",
+   "titulo": "For Sale: A 1977 Pontiac Firebird Trans Am",
+   "resumo": "This is a one-owner Pontiac Firebird Trans Am from 1977, it has just 8,000 miles from new, and it’s remained in the same town... The post For Sale: A 1977 Pontiac Firebird Trans Am appeared…",
    "url": "https://silodrome.com/1977-pontiac-firebird-trans-am-car/",
    "fonte": "Silodrome",
    "dominio": "silodrome.com",
@@ -467,16 +516,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-08T12:08:39Z"
-  },
-  {
-   "titulo": "New 2027 BMW 3 Series Previewed With 443-HP Straight-Six",
-   "resumo": "BMW dusted off the i3 name earlier in 2026 to use it on the electric version of the new 3 Series, but the sedan isn’t going EV-only. The gasoline-powered 2027 BMW 3 Series is coming soon…",
-   "url": "https://www.hagerty.com/media/news/2027-bmw-3-series-m350-specs-performance/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-08T12:00:00Z"
   },
   {
    "titulo": "Russell to get his own grandstand at the 2027 British GP",
@@ -577,46 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-08T04:11:40Z"
-  },
-  {
-   "titulo": "Your classic: Ford Capri II 3.0 S",
-   "resumo": "Your classic: Ford Capri II 3.0 S Ryan Standen Tue, 08/09/2026 - 05:11",
-   "url": "https://www.classicandsportscar.com/features/your-classic-ford-capri-ii-30-s",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-08T04:11:12Z"
-  },
-  {
-   "titulo": "Dacia Spring reinvented as sub-£18k EV with 155-mile range",
-   "resumo": "Second-generation Spring leads new model push that will also bring an electric Sandero Dacia has reinvented its Spring city car as a value-focused Renault Twingo sibling with four seats, a…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/dacia-spring-reinvented-sub-%C2%A318k-ev-155-mile-range",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T04:00:00Z"
-  },
-  {
-   "titulo": "BMW 3 Series M350 brings 437bhp straight six – and drift mode",
-   "resumo": "Replacement for the M340i keeps its 3.0-litre straight six but puts out 50bhp and 30lb ft more The range-topping M350 derivative of the next-generation BMW 3 Series will be significantly…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-3-series-m350-brings-437bhp-straight-six-%E2%80%93-and-drift-mode",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-07T22:01:00Z"
-  },
-  {
-   "titulo": "The pivotal choices Ferrari is now facing",
-   "resumo": "If the Italian GP result was disappointing for Ferrari, the fallout from the rest of the weekend amounts to a crisis. What next for F1 team and leader?",
-   "url": "https://www.the-race.com/formula-1/ferrari-now-facing-pivotal-f1-choices/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-07T20:38:39Z"
   }
  ]
 }
