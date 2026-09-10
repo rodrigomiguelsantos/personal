@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-09T20:55:51Z",
+ "atualizado": "2026-09-10T04:41:58Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,56 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "26 memorable six-cylinder Italian classic cars",
+   "resumo": "26 memorable six-cylinder Italian classic cars Lizzie Pope Thu, 10/09/2026 - 05:10",
+   "url": "https://www.classicandsportscar.com/gallery/26-memorable-six-cylinder-italian-classic-cars",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-10T04:10:37Z"
+  },
+  {
+   "titulo": "What’s the Right Number of Cars for You?",
+   "resumo": "If you’re like us—and if you’ve found this, then you probably are—you could debate the finer points of automotive design and engineering for an eternity. What just about every car fanatic…",
+   "url": "https://www.hagerty.com/media/lists/whats-the-right-number-of-cars-for-you/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T23:35:45Z"
+  },
+  {
+   "titulo": "Hyundai Could Turn Its Best Seller Into A 350-HP Performance SUV",
+   "resumo": "It will allegedly feature a hybrid powertrain focused on power delivery.",
+   "url": "https://www.motor1.com/news/807726/hyundai-tucson-n-hybrid-powertrain-rumor/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-09T23:00:00Z"
+  },
+  {
+   "titulo": "The Things We Wear—and Wear Out",
+   "resumo": "One of my favorite hats is starting to show its age. Things like hats aren’t meant to last forever, and especially not if they serve their purpose. This one certainly has—and it’s got the…",
+   "url": "https://www.hagerty.com/media/opinion/mechanical-sympathy/the-things-we-wear-and-wear-out/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-09T21:00:00Z"
+  },
+  {
+   "titulo": "Henrique Moniz estreia o Skoda Fabia RS Rally2 no Rali da Água",
+   "resumo": "Henrique Moniz vai competir no Rali da Água – Transibérico Eurocidade Chaves-Verín aos comandos de um Škoda Fabia RS Rally2, subindo de categoria após utilizar o modelo Evo nas primeiras…",
+   "url": "https://www.autosport.pt/ralis/henrique-moniz-estreia-o-skoda-fabia-rs-rally2-no-rali-da-agua/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-09T20:59:35Z"
+  },
   {
    "titulo": "Homegrown: Hot Rat Rod",
    "resumo": "What’s the difference between a hot rod and a rat rod? Nothing meaningful, at least according to John Jasinski, 50, of Taylor, Michigan, who created this ’31 Ford coupe. The wizard explains…",
@@ -348,16 +398,6 @@
    "data": "2026-09-09T15:37:33Z"
   },
   {
-   "titulo": "CPR, Rali da Água, Ricardo Teodósio: “Temos evoluído com o carro…”",
-   "resumo": "Ricardo Teodósio e o navegador José Teixeira disputam o Rali da Água – Transibérico Eurocidade Chaves-Verín com o objetivo de lutar por um lugar no pódio, apostando num ritmo forte desde as…",
-   "url": "https://www.autosport.pt/ralis/cpr-rali-da-agua-ricardo-teodosio-temos-evoluido-com-o-carro/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-09T14:55:31Z"
-  },
-  {
    "titulo": "Stellantis Plans for a Big Performance Offensive and More Affordable Models",
    "resumo": "Stellantis is investing $25 billion to bring 11 new models to the North American market in the coming years. The product offensive is part of a global, $70-billion investment announced…",
    "url": "https://www.hagerty.com/media/news/stellantis-new-model-pipeline-srt-jeep-dodge-ram/",
@@ -398,16 +438,6 @@
    "data": "2026-09-09T13:03:00Z"
   },
   {
-   "titulo": "The SLK Was a Mercedes Like None Before It",
-   "resumo": "Cast your mind back to 1996. The Bayside Boys remix of “Macarena” is all the rage, the dot-com bubble is inflating at a terrifying rate, and a pint of lager still leaves change from a…",
-   "url": "https://www.hagerty.com/media/market-trends/the-slk-was-a-mercedes-like-none-before-it/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-09T13:00:00Z"
-  },
-  {
    "titulo": "For Sale: A Rare 1990 RMA “Amphi-Ranger” Amphibious 4×4",
    "resumo": "This is a 1990 RMA Amphi-Ranger 2800 SR, it’s a very rare though highly-capable amphibious four-wheel drive built in Germany from the mid-80s to... The post For Sale: A Rare 1990 RMA…",
    "url": "https://silodrome.com/rma-amphi-ranger/",
@@ -426,16 +456,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-09T12:05:02Z"
-  },
-  {
-   "titulo": "Ferrari's Controversial EV Gets A Wild Aftermarket Makeover",
-   "resumo": "Vossen Wheels takes on the Ferrari Luce with new wheels and a rear wing.",
-   "url": "https://www.motor1.com/news/807653/ferrari-luce-new-look/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T11:44:21Z"
   },
   {
    "titulo": "Bulega to make MotoGP return with VR46",
@@ -596,26 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-09T00:46:00Z"
-  },
-  {
-   "titulo": "Bronco Basecamp Breaks Out Of China And Heads Down Under",
-   "resumo": "The latest member of the Bronco family has a pop top and a range-extended powertrain",
-   "url": "https://www.carscoops.com/2026/09/bronco-basecamp-australia/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-09T00:04:00Z"
-  },
-  {
-   "titulo": "Ford’s 6X6 Ranger Super Duty Is Bidding To Arm The British Army",
-   "resumo": "Ford has partnered with General Dynamics Land Systems UK and Ricardo to offer militarized pickups to the British Army",
-   "url": "https://www.carscoops.com/2026/09/ford-ranger-military-6x6/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-08T23:22:00Z"
   }
  ]
 }
