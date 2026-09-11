@@ -1,10 +1,11 @@
 {
- "atualizado": "2026-09-10T20:51:58Z",
+ "atualizado": "2026-09-11T04:39:46Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
+  "Carscoops",
   "Classic & Sports Car",
   "FIA",
   "Hagerty",
@@ -18,6 +19,136 @@
  ],
  "itens": [
   {
+   "titulo": "The specialist: AGV Bodywork",
+   "resumo": "The specialist: AGV Bodywork Ryan Standen Fri, 11/09/2026 - 05:22",
+   "url": "https://www.classicandsportscar.com/features/specialist-agv-bodywork",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-11T04:22:17Z"
+  },
+  {
+   "titulo": "Triumph TR8s: missed opportunity",
+   "resumo": "Triumph TR8s: missed opportunity Ryan Standen Fri, 11/09/2026 - 05:21",
+   "url": "https://www.classicandsportscar.com/features/triumph-tr8s-missed-opportunity",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-11T04:21:50Z"
+  },
+  {
+   "titulo": "The Mercedes-AMG CLE 646 Will Demolish An M4, But You Can’t Buy One",
+   "resumo": "The CLE 646 is slower than a four-cylinder C63 but it's much more extreme",
+   "url": "https://www.carscoops.com/2026/09/the-mercedes-amg-cle-646-will-demolish-an-m4-but-you-cant-buy-one/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-11T04:09:58Z"
+  },
+  {
+   "titulo": "How Josh Berry navigated impossible odds to stay in NASCAR Cup",
+   "resumo": "Legacy Motor Club hasn’t reached its full potential yet but it views Josh Berry as a catalyst to get it there and that’s a tremendous point of pride for a driver that has spent all summer…",
+   "url": "https://www.motorsport.com/nascar-cup/news/how-josh-berry-navigated-impossible-odds-to-stay-in-nascar-cup-/10854356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-10T22:27:00Z"
+  },
+  {
+   "titulo": "Palou concludes successful IR-28 oval validation test for IndyCar at Indy",
+   "resumo": "Five-time IndyCar Series champion and 2025 Indianapolis 500 winner Alex Palou completed the second day of IndyCar’s IR-28 oval validation test Thursday at Indianapolis Motor Speedway…",
+   "url": "https://www.motorsport.com/indycar/news/alex-palou-concludes-successful-ir-28-oval-validation-test-for-indycar-at-indianapolis/10854358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-10T22:26:00Z"
+  },
+  {
+   "titulo": "How to watch NASCAR at Gateway: Weekend schedule, start time, TV",
+   "resumo": "NASCAR Cup and O'Reilly drivers will compete at WWT Raceway (Gateway) this weekend for the second round of the 2026 Chase for the championship. Denny Hamlin is the defending winner of the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-gateway-weekend-schedule-start-time-tv/10853985/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-10T22:23:42Z"
+  },
+  {
+   "titulo": "Flock Cameras Are Under Fire, But The Private Networks You Can’t See May Be Worse",
+   "resumo": "Private license plate cameras can reveal where you are with zero public accountability",
+   "url": "https://www.carscoops.com/2026/09/flock-cameras-are-under-fire-but-the-private-networks-you-cant-see-may-be-worse/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-10T22:15:00Z"
+  },
+  {
+   "titulo": "Oscar Piastri shoots down Lando Norris sabotage theory",
+   "resumo": "In the fraught final moments of qualifying for the Italian Grand Prix last weekend, McLaren's plan was for Oscar Piastri to run ahead of team-mate Lando Norris on-track, giving him the…",
+   "url": "https://www.motorsport.com/f1/news/oscar-piastri-shoots-down-lando-norris-sabotage-theory/10854309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-10T22:12:08Z"
+  },
+  {
+   "titulo": "F1 drivers unveil striking one-off helmet designs for first Madrid Spanish GP",
+   "resumo": "Formula 1's arrival in Madrid for the Spanish Grand Prix has prompted several drivers to introduce special helmet designs for the inaugural event. Set around the IFEMA exhibition centre…",
+   "url": "https://www.motorsport.com/f1/news/f1-drivers-unveil-striking-one-off-helmets-for-first-madrid-spanish-gp/10854347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-10T21:51:10Z"
+  },
+  {
+   "titulo": "5 Things I Learned Deep Cleaning My Garage",
+   "resumo": "The garage serves many purposes for old car lovers. A sanctuary, storage unit, and a skunkworks all wrapped into one, the four walls and big door house objects of our affection and also our…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/5-things-i-learned-deep-cleaning-my-garage/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-10T21:30:00Z"
+  },
+  {
+   "titulo": "Mercedes-AMG Brings Back the V-8 Sports Coupe with the CLE 646",
+   "resumo": "Only 30 units of the CLE 646 Spezialanfertigung, which features extreme aerodynamics and is rear-wheel drive, will be built.",
+   "url": "https://www.caranddriver.com/news/a73674190/mercedes-amg-cle-646-spezialanfertigung-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-10T21:00:09Z"
+  },
+  {
+   "titulo": "Spanish Brand Returns From The Dead With Rebadged Nissans Built In China",
+   "resumo": "The Ayanet pickup and the Gredos SUV revive Spain's Galloper brand with a mix of Japanese components for the European market",
+   "url": "https://www.carscoops.com/2026/09/galloper-iberica/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-10T20:55:12Z"
+  },
+  {
+   "titulo": "Volvo Cancels EX40 Electric SUV Amid Falling Sales",
+   "resumo": "The Swedish brand is leaving the compact luxury EV behind at the same time it supplies a facelift to the identical gas-powered XC40.",
+   "url": "https://www.caranddriver.com/news/a73670980/volvo-ex40-canceled/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-10T20:54:27Z"
+  },
+  {
    "titulo": "Evans: Extra tyres critical to make it through WRC Rally Chile",
    "resumo": "World Rally Championship leader Elfyn Evans says the increased tyre allocation for Rally Chile is necessary to reduce the risk of failures on the abrasive gravel stages. Ahead of the rally…",
    "url": "https://www.autosport.com/wrc/news/elfyn-evans-extra-tyres-essential-to-avoid-wrc-rally-chile-failures/10854340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -26,16 +157,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-10T20:42:04Z"
-  },
-  {
-   "titulo": "Elfyn Evans: Extra tyres essential to avoid WRC Rally Chile failures",
-   "resumo": "World Rally Championship leader Elfyn Evans says the increased tyre allocation for Rally Chile is necessary to reduce the risk of failures on the abrasive gravel stages. Ahead of the rally…",
-   "url": "https://www.motorsport.com/wrc/news/elfyn-evans-extra-tyres-essential-to-avoid-wrc-rally-chile-failures/10854338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-10T20:40:31Z"
   },
   {
    "titulo": "Mercedes-AMG's New Super Coupe Is A 637-HP Track Car For The Road",
@@ -118,26 +239,6 @@
    "data": "2026-09-10T19:08:15Z"
   },
   {
-   "titulo": "2026 MotoGP San Marino Grand Prix – How to watch, session times & more",
-   "resumo": "The battle between Aprilia and Ducati remains as tight as ever ahead of this weekend's San Marino GP. Aprilia dealt a decisive blow by winning the first MotoGP race after the summer break…",
-   "url": "https://www.motorsport.com/motogp/news/2026-motogp-san-marino-grand-prix-how-to-watch-session-times/10854167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-10T19:05:03Z"
-  },
-  {
-   "titulo": "Hendrick announces Corey Day to run limited NASCAR Cup schedule in 2027",
-   "resumo": "Corey Day has signed a long-term contract extension with Hendrick Motorsports, which will see him continue as the full-time driver of the HMS No. 17 in the NASCAR O'Reilly Auto Parts…",
-   "url": "https://www.motorsport.com/nascar-cup/news/hendrick-announces-corey-day-to-run-limited-nascar-cup-schedule-in-2027/10854331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-10T19:00:23Z"
-  },
-  {
    "titulo": "An Ariel Nomad Traveled Through Over 1,700 Miles Of Moroccan Desert",
    "resumo": "The modified off-roader completed the 2026 Morocco Desert Challenge and only required routine maintenance.",
    "url": "https://www.motor1.com/news/807873/ariel-nomad-morocco-desert-challenge/",
@@ -176,16 +277,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-10T18:45:00Z"
-  },
-  {
-   "titulo": "Porsche Penske leadership speaks out on IMSA performance struggles",
-   "resumo": "Porsche Penske Motorsport (PPM) leadership voiced strong frustrations over ongoing performance deficits during a media call on Thursday, targeting how the severe adjustments have hampered…",
-   "url": "https://www.motorsport.com/imsa/news/porsche-penske-leadership-speaks-out-on-IMSA-performance-struggles/10854325/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-10T18:31:57Z"
   },
   {
    "titulo": "Volkswagen Is Reportedly Planning ‘Rugged Vehicles,’ Like New SUVs and Pickup Trucks, for America",
@@ -236,16 +327,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-10T17:20:36Z"
-  },
-  {
-   "titulo": "Why Max Verstappen isn’t buying the hype over a Red Bull surprise in Madrid",
-   "resumo": "When Max Verstappen was asked during the Dutch media session in Monza whether he now thinks he might not win a single race this Formula 1 season – which would be the first time since his…",
-   "url": "https://www.motorsport.com/f1/news/why-max-verstappen-isnt-buying-the-hype-over-a-red-bull-surprise-in-madrid/10854300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-10T17:11:25Z"
   },
   {
    "titulo": "These Are The Cars Most Likely To Reach 250,000 Miles",
@@ -358,16 +439,6 @@
    "data": "2026-09-10T15:30:47Z"
   },
   {
-   "titulo": "Champagne Wishes and Caviar Dreams: 1992 Mercedes-Benz 400SE Tested",
-   "resumo": "Robin Leach will approve.",
-   "url": "https://www.caranddriver.com/reviews/a73605670/1992-mercedes-benz-400se-archive-test/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-10T15:21:32Z"
-  },
-  {
    "titulo": "Leclerc accepts blame for Italian GP clash with Hamilton: \"I went too far\"",
    "resumo": "Charles Leclerc admitted that he went \"too far\" when battling against Lewis Hamilton in the opening chicane of Formula 1's Italian Grand Prix, and said he and Hamilton have since buried the…",
    "url": "https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -406,16 +477,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-10T14:56:31Z"
-  },
-  {
-   "titulo": "Gas, Brake, Honk: Tesla Cybercab Has a Hidden Driving Joystick",
-   "resumo": "The Cybercab's screen-based manual controls are more video game than real life.",
-   "url": "https://www.caranddriver.com/news/a73667574/tesla-cybercab-joystick-screen-controls/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-10T14:53:59Z"
   },
   {
    "titulo": "F1 - 2026 Spanish Grand Prix - Thursday Press Conference Transcript",
@@ -556,66 +617,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-10T07:00:00Z"
-  },
-  {
-   "titulo": "1,200 BHP On Pump Gas! The NRE Twin-Turbo Intercooled Outlaw 427 Crate Engine",
-   "resumo": "This is the Twin-Turbo Intercooled Outlaw 427 from Nelson Racing Engines (NRE), it’s good for 1,400 bhp on high-octane race gas, or 1,200 bhp... The post 1,200 BHP On Pump Gas! The NRE…",
-   "url": "https://silodrome.com/nre-twin-turbo-intercooled-outlaw-427/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-10T06:30:22Z"
-  },
-  {
-   "titulo": "26 memorable six-cylinder Italian classic cars",
-   "resumo": "26 memorable six-cylinder Italian classic cars Lizzie Pope Thu, 10/09/2026 - 05:10",
-   "url": "https://www.classicandsportscar.com/gallery/26-memorable-six-cylinder-italian-classic-cars",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-10T04:10:37Z"
-  },
-  {
-   "titulo": "What’s the Right Number of Cars for You?",
-   "resumo": "If you’re like us—and if you’ve found this, then you probably are—you could debate the finer points of automotive design and engineering for an eternity. What just about every car fanatic…",
-   "url": "https://www.hagerty.com/media/lists/whats-the-right-number-of-cars-for-you/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-09T23:35:45Z"
-  },
-  {
-   "titulo": "F1 - 2026 Spanish Grand Prix Preview",
-   "resumo": "Sport news FIA Formula One World Championship Formula 1 SEASON 2026 Sport Circuit 1SportFIA Formula One World ChampionshipCircuitSEASON 2026Formula 100 Wednesday, September 9, 2026 - 3:03pm…",
-   "url": "https://www.fia.com/news/f1-2026-spanish-grand-prix-preview",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T13:03:00Z"
-  },
-  {
-   "titulo": "For Sale: A Rare 1990 RMA “Amphi-Ranger” Amphibious 4×4",
-   "resumo": "This is a 1990 RMA Amphi-Ranger 2800 SR, it’s a very rare though highly-capable amphibious four-wheel drive built in Germany from the mid-80s to... The post For Sale: A Rare 1990 RMA…",
-   "url": "https://silodrome.com/rma-amphi-ranger/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-09T12:30:50Z"
-  },
-  {
-   "titulo": "F1 - 2026 Spanish GP Schedule of Press Conferences",
-   "resumo": "Sport news DATE TIME DRIVER / TEAM MEMBER Thursday, 10 September 1430hrs 1500hrs Franco Colapinto (Alpine) Fernando Alonso (Aston Martin) Esteban Ocon (Haas) Gabriel Bortoleto (Audi)…",
-   "url": "https://www.fia.com/news/f1-2026-spanish-gp-schedule-press-conferences",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-09T09:40:00Z"
   }
  ]
 }
