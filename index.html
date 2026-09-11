@@ -65,6 +65,13 @@
   }
   button, .chip, .g-car, .viewtog button, .f-thumbs button { touch-action: manipulation; }
   ::selection { background: color-mix(in srgb, var(--accent) 22%, transparent); color: var(--text); }
+  /* Primeira paragem do tabulador: salta o cabeçalho e vai ao conteúdo. */
+  .skip {
+    position: fixed; top: 10px; left: 10px; z-index: 300; padding: 10px 16px;
+    background: var(--accent); color: #FFFFFF; border-radius: 10px; font-size: 13.5px; font-weight: 600;
+    transform: translateY(-160%); transition: transform var(--t-base) var(--e-out);
+  }
+  .skip:focus { transform: none; }
   #bg3d { position: fixed; inset: 0; z-index: -1; pointer-events: none; }
   html { scroll-behavior: smooth; }
   [data-sec] { scroll-margin-top: 84px; }
@@ -638,6 +645,24 @@
   .empty .e-txt { font-size: 15px; }
 
   /* ---------- Ficha (overlay de detalhe) ---------- */
+/* Quem abriu o painel? Para lhe devolver o foco ao fechar. */
+let focoAnterior = null;
+/* Enquanto um painel está aberto, o resto da página fica `inert`: não recebe
+   foco, cliques nem leitores de ecrã. É a forma moderna de dizer "isto agora
+   não existe" — evita que quem usa teclado saia do painel sem perceber. */
+function atualizarIsolamento() {
+  const topo = drawer.classList.contains('on') ? drawer
+             : govl.classList.contains('open') ? govl
+             : ovl.classList.contains('open') ? ovl
+             : presEl.classList.contains('on') ? presEl : null;
+  [...document.body.children].forEach(el => {
+    el.inert = !!topo && el !== topo && el.tagName !== 'SCRIPT';
+  });
+}
+function devolverFoco() {
+  if (focoAnterior) { try { focoAnterior.focus({ preventScroll: true }); } catch (e) {} }
+  focoAnterior = null;
+}
   /* visibility em vez de display para a saída também ser animada:
      ao abrir é imediata; ao fechar espera que os filhos desapareçam */
   .ovl { position: fixed; inset: 0; z-index: 100; visibility: hidden; transition: visibility 0s linear var(--t-mid); }
@@ -757,6 +782,7 @@
   <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
 </button>
 
+<a class="skip" href="#conteudo">Saltar para o conteúdo</a>
 <header class="top">
   <div class="wrap">
     <button class="iconbtn" id="menu-open" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="drawer">
@@ -779,9 +805,11 @@
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
     <button class="iconbtn home" id="btn-home" type="button" aria-label="Ecrã inicial" title="Início"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg></button>
-    <span class="wip">WIP · v1.5</span>
+    <span class="wip">WIP · v1.6</span>
   </div>
 </header>
+
+<div id="conteudo" tabindex="-1"></div>
 
 <section class="hero tabsec on" data-sec="inicio">
   <div class="wrap">
@@ -851,7 +879,7 @@
   <div class="wrap">
     <div class="search">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-      <input id="q" type="search" placeholder="Pesquisar por marca, modelo, motor…" autocomplete="off">
+      <input id="q" type="search" placeholder="Pesquisar por marca, modelo, motor…" autocomplete="off" aria-label="Pesquisar na coleção">
     </div>
     <div class="chips" id="chips"></div>
   </div>
@@ -860,7 +888,7 @@
 <main id="colecao" class="tabsec" data-sec="colecao">
   <div class="wrap">
     <div class="listbar">
-      <p class="count" id="count" style="margin:0"></p>
+      <p class="count" id="count" style="margin:0" role="status" aria-live="polite"></p>
       <select class="sortsel" id="sortsel" aria-label="Ordenar por">
         <option value="curator">Ordem · curadoria</option>
         <option value="year-asc">Ano · antigo→novo</option>
@@ -1356,7 +1384,7 @@ function fichaHTML(c) {
     : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
   const thumbs = photos.length > 1
     ? `<div class="f-thumbs">${photos.map((p,i) =>
-        `<button data-src="${photoSrc(slug, p)}" aria-current="${i===0}"><img src="${photoSrc(slug, p)}" alt="" loading="lazy"></button>`).join('')}</div>`
+        `<button data-src="${photoSrc(slug, p)}" aria-current="${i===0}" aria-label="Fotografia ${i+1} de ${photos.length}"><img src="${photoSrc(slug, p)}" alt="" loading="lazy"></button>`).join('')}</div>`
     : '';
   const curios = (c.curios||[]).map(x => `<li>${esc(x)}</li>`).join('');
   return `
@@ -1399,24 +1427,55 @@ function fichaHTML(c) {
 }
 
 function openFicha(c) {
+  focoAnterior = document.activeElement;
   fichaEl.innerHTML = fichaHTML(c);
   ovl.classList.add('open');
+  ovl.setAttribute('aria-label', 'Ficha · ' + c.brand + ' ' + c.name);
   document.body.classList.add('locked');
+  atualizarIsolamento();
   fichaEl.scrollTop = 0;
-  document.getElementById('f-close').addEventListener('click', closeFicha);
+  const fechar = document.getElementById('f-close');
+  fechar.addEventListener('click', closeFicha);
+  setTimeout(() => fechar.focus(), 60);
   const main = document.getElementById('f-main');
-  fichaEl.querySelectorAll('.f-thumbs button').forEach(b => {
-    b.addEventListener('click', () => {
-      if (main) main.src = b.dataset.src;
-      fichaEl.querySelectorAll('.f-thumbs button').forEach(x => x.setAttribute('aria-current', x === b));
-    });
-  });
+  const minis = [...fichaEl.querySelectorAll('.f-thumbs button')];
+  fotoIdx = 0;
+  fotoMostrar = i => {
+    if (!minis.length || !main) return;
+    fotoIdx = (i + minis.length) % minis.length;
+    main.src = minis[fotoIdx].dataset.src;
+    minis.forEach((x, n) => x.setAttribute('aria-current', n === fotoIdx));
+    minis[fotoIdx].scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+  };
+  minis.forEach((b, i) => b.addEventListener('click', () => fotoMostrar(i)));
 }
 function closeFicha() {
+  if (!ovl.classList.contains('open')) return;
   ovl.classList.remove('open');
-  document.body.classList.remove('locked');
+  if (!govl.classList.contains('open') && !drawer.classList.contains('on')) document.body.classList.remove('locked');
+  fotoMostrar = null;
+  atualizarIsolamento();
+  devolverFoco();
 }
 document.getElementById('ovl-bg').addEventListener('click', closeFicha);
+
+/* Galeria da ficha: setas do teclado e deslize com o dedo — como se espera
+   de uma galeria no iPhone, sem ter de acertar nas miniaturas. */
+let fotoIdx = 0, fotoMostrar = null;
+document.addEventListener('keydown', e => {
+  if (!ovl.classList.contains('open') || !fotoMostrar) return;
+  if (e.key === 'ArrowRight') { e.preventDefault(); fotoMostrar(fotoIdx + 1); }
+  if (e.key === 'ArrowLeft') { e.preventDefault(); fotoMostrar(fotoIdx - 1); }
+});
+let tX = 0, tY = 0;
+fichaEl.addEventListener('touchstart', e => {
+  tX = e.changedTouches[0].clientX; tY = e.changedTouches[0].clientY;
+}, { passive: true });
+fichaEl.addEventListener('touchend', e => {
+  if (!fotoMostrar || !e.target.closest('.f-hero, .f-thumbs')) return;
+  const dx = e.changedTouches[0].clientX - tX, dy = e.changedTouches[0].clientY - tY;
+  if (Math.abs(dx) > 44 && Math.abs(dx) > Math.abs(dy) * 1.6) fotoMostrar(fotoIdx + (dx < 0 ? 1 : -1));
+}, { passive: true });
 document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeFicha(); closeGroups(); } });
 
 grid.addEventListener('click', e => {
@@ -1489,8 +1548,19 @@ function groupFormHTML(g, idx) {
     </div>`;
 }
 
-function openGroups() { govl.classList.add('open'); document.body.classList.add('locked'); showGroupsList(); }
-function closeGroups() { govl.classList.remove('open'); document.body.classList.remove('locked'); }
+function openGroups() {
+  focoAnterior = document.activeElement;
+  govl.classList.add('open'); document.body.classList.add('locked'); showGroupsList();
+  atualizarIsolamento();
+  setTimeout(() => { const b = document.getElementById('g-close'); if (b) b.focus(); }, 60);
+}
+function closeGroups() {
+  if (!govl.classList.contains('open')) return;
+  govl.classList.remove('open');
+  if (!ovl.classList.contains('open') && !drawer.classList.contains('on')) document.body.classList.remove('locked');
+  atualizarIsolamento();
+  devolverFoco();
+}
 function showGroupsList() { gsheet.innerHTML = groupsListHTML(); }
 function showGroupForm(g, idx) { gsheet.innerHTML = groupFormHTML(g, idx); document.getElementById('g-name').focus(); }
 
@@ -1564,14 +1634,14 @@ btnHome.addEventListener('click', () => switchTab('inicio'));
 const drawer = document.getElementById('drawer');
 const drawerScrim = document.getElementById('drawer-scrim');
 const btnMenu = document.getElementById('menu-open');
-let lastFocus = null;
 
 function openDrawer() {
-  lastFocus = document.activeElement;
+  focoAnterior = document.activeElement;
   drawer.classList.add('on'); drawerScrim.classList.add('on');
   drawer.setAttribute('aria-hidden', 'false');
   btnMenu.setAttribute('aria-expanded', 'true');
   document.body.classList.add('locked');
+  atualizarIsolamento();
   setTimeout(() => document.getElementById('menu-close').focus(), 60);
 }
 function closeDrawer() {
@@ -1579,22 +1649,29 @@ function closeDrawer() {
   drawer.setAttribute('aria-hidden', 'true');
   btnMenu.setAttribute('aria-expanded', 'false');
   if (!ovl.classList.contains('open') && !govl.classList.contains('open')) document.body.classList.remove('locked');
-  if (lastFocus) { try { lastFocus.focus(); } catch (e) {} }
+  atualizarIsolamento();
+  devolverFoco();
 }
 btnMenu.addEventListener('click', openDrawer);
 document.getElementById('menu-close').addEventListener('click', closeDrawer);
 drawerScrim.addEventListener('click', closeDrawer);
 document.addEventListener('keydown', e => { if (e.key === 'Escape' && drawer.classList.contains('on')) closeDrawer(); });
 
-/* manter o foco dentro da gaveta (acessibilidade) */
-drawer.addEventListener('keydown', e => {
-  if (e.key !== 'Tab') return;
-  const f = [...drawer.querySelectorAll('button')].filter(el => el.offsetParent !== null);
-  if (!f.length) return;
-  const first = f[0], last = f[f.length - 1];
-  if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
-  else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
-});
+/* Foco preso dentro do painel aberto (gaveta, ficha, grupos).
+   Sem isto, quem navega por teclado sai do painel sem dar por ela e fica a
+   percorrer a página por baixo — e, ao fechar, o foco caía no início. */
+const FOCAVEIS = 'button, a[href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+function prenderFoco(painel) {
+  painel.addEventListener('keydown', e => {
+    if (e.key !== 'Tab') return;
+    const f = [...painel.querySelectorAll(FOCAVEIS)].filter(el => el.offsetParent !== null);
+    if (!f.length) return;
+    const first = f[0], last = f[f.length - 1];
+    if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+    else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+  });
+}
+[drawer, ovl, govl].forEach(prenderFoco);
 
 /* navegar a partir da gaveta e dos tiles do início */
 function runAction(act) {
@@ -1938,12 +2015,16 @@ function presArm() {
 function openPresent() {
   presList = visibleCars().length ? visibleCars() : CARS;
   presIdx = 0;
+  focoAnterior = document.activeElement;
   presEl.classList.add('on'); document.body.classList.add('locked');
+  atualizarIsolamento();
   presSlide(); presArm();
 }
 function closePresent() {
   presEl.classList.remove('on'); document.body.classList.remove('locked');
   clearInterval(presTimer); presTimer = null;
+  atualizarIsolamento();
+  devolverFoco();
 }
 presEl.addEventListener('click', e => {
   if (e.target.closest('.p-close')) return closePresent();

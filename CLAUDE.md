@@ -249,6 +249,28 @@ dois comentários `/* Galeria de estúdio */` (CSS e JS) e a primeira tentativa
 apagou o CSS do Mapa de cores e das Notícias. Detetado pelo `git diff`,
 revertido, refeito com verificação do conteúdo removido antes de gravar.
 
+## Acessibilidade e galeria (v1.6, 2026-09-11)
+Varrimento da acessibilidade — a área que ainda não tinha sido auditada. O que
+estava mal: a **gaveta** tinha gestão de foco, mas a **ficha**, os **grupos** e
+a **apresentação** não. Quem navega por teclado abria a ficha e o foco ficava
+para trás, na página por baixo; ao fechar, voltava ao topo em vez de voltar ao
+carro que tinha aberto. Corrigido com **um só mecanismo** partilhado pelos
+quatro painéis: guardar quem abriu → levar o foco ao botão de fechar → prender
+o Tab dentro do painel → devolver o foco ao fechar. O `trap` deixou de olhar
+só para `button` e passa a incluir links, campos e `select`.
+Juntou-se **`inert`** no resto da página enquanto um painel está aberto — a
+forma moderna de dizer "isto agora não existe" (sem foco, sem cliques, sem
+leitor de ecrã); quando há painéis empilhados, isola-se só o de cima.
+Mais: miniaturas da galeria passaram a ter nome ("Fotografia 2 de 5"), a
+contagem de resultados é anunciada (`role="status"`), o campo de pesquisa tem
+nome, a ficha identifica-se pelo carro aberto, e há **ligação "Saltar para o
+conteúdo"** (primeiro tabulador, invisível até receber foco).
+**Galeria da ficha:** setas ← → no teclado e **deslize do dedo** sobre a foto
+(limiar 44 px, e só se o gesto for mais horizontal que vertical, para não
+roubar o scroll). A miniatura ativa acompanha, deslizando para o centro.
+Referência: sequência canónica de diálogo acessível (guardar invocador, entrar,
+prender, devolver) — WAI-ARIA APG.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
