@@ -33,3 +33,12 @@ Cada veículo tem a sua pasta, com o nome (`slug`) correspondente ao definido em
 | Porsche 917 (versão de estrada) | `917-stradale` |
 | Lancia Delta Integrale | `delta-integrale` |
 | DS Automobiles N°8 | `ds-n8` |
+| Koenigsegg Gemera | `gemera` |
+
+## Depois de juntar fotos
+
+Correr `python otimizar_fotos.py` na raiz do repositório. Gera, ao lado de cada
+`foto.jpg`, um `foto-480.jpg` e um `foto-960.jpg` — as medidas que a app serve
+aos cards e às miniaturas, para o telemóvel não descarregar 1600 px quando só
+mostra 400. O original nunca é alterado: continua a ser a foto da ficha.
+Os ficheiros `-480`/`-960` são gerados, não se editam à mão.

@@ -645,24 +645,6 @@
   .empty .e-txt { font-size: 15px; }
 
   /* ---------- Ficha (overlay de detalhe) ---------- */
-/* Quem abriu o painel? Para lhe devolver o foco ao fechar. */
-let focoAnterior = null;
-/* Enquanto um painel está aberto, o resto da página fica `inert`: não recebe
-   foco, cliques nem leitores de ecrã. É a forma moderna de dizer "isto agora
-   não existe" — evita que quem usa teclado saia do painel sem perceber. */
-function atualizarIsolamento() {
-  const topo = drawer.classList.contains('on') ? drawer
-             : govl.classList.contains('open') ? govl
-             : ovl.classList.contains('open') ? ovl
-             : presEl.classList.contains('on') ? presEl : null;
-  [...document.body.children].forEach(el => {
-    el.inert = !!topo && el !== topo && el.tagName !== 'SCRIPT';
-  });
-}
-function devolverFoco() {
-  if (focoAnterior) { try { focoAnterior.focus({ preventScroll: true }); } catch (e) {} }
-  focoAnterior = null;
-}
   /* visibility em vez de display para a saída também ser animada:
      ao abrir é imediata; ao fechar espera que os filhos desapareçam */
   .ovl { position: fixed; inset: 0; z-index: 100; visibility: hidden; transition: visibility 0s linear var(--t-mid); }
@@ -805,7 +787,7 @@ function devolverFoco() {
       <button id="nav-present" type="button" class="play">▶ Apresentação</button>
     </nav>
     <button class="iconbtn home" id="btn-home" type="button" aria-label="Ecrã inicial" title="Início"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/></svg></button>
-    <span class="wip">WIP · v1.6</span>
+    <span class="wip">WIP · v1.7</span>
   </div>
 </header>
 
@@ -1207,6 +1189,18 @@ function esc(s){ return String(s).replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt
 /* Resolve o caminho de uma foto (suporta data-URIs na pré-visualização) */
 function photoSrc(slug, p) { return p.startsWith('data:') ? p : `assets/cars/${slug}/${p}`; }
 
+/* Várias medidas da mesma foto — o browser escolhe a mais pequena que chega
+   para o espaço que vai ocupar. Um card na grelha não precisa de 1600 px.
+   `sizes` diz-lhe quanto do ecrã a imagem vai ocupar; sem isso ele assume o
+   ecrã inteiro e escolhe sempre a maior. A foto grande fica reservada para a
+   ficha e para a apresentação, onde é vista em tamanho real. */
+function imgSet(slug, p, sizes) {
+  const src = photoSrc(slug, p);
+  if (p.startsWith('data:')) return `src="${src}"`;
+  const base = `assets/cars/${slug}/${p.replace(/\.jpg$/i, '')}`;
+  return `src="${base}-960.jpg" srcset="${base}-480.jpg 480w, ${base}-960.jpg 960w" sizes="${sizes}"`;
+}
+
 function studioBg(paint) {
   return `radial-gradient(75% 90% at 50% 30%, ${paint}2e, transparent 64%),`
        + `radial-gradient(120% 80% at 50% 118%, ${paint}1a, transparent 60%),`
@@ -1229,7 +1223,7 @@ function cardHTML(c) {
   const cap = `<div class="cap"><div class="name">${esc(c.hero)}</div>${c.sub ? `<div class="sub">${esc(c.sub)}</div>` : ''}</div>`;
   const capC = `<div class="cap center"><div class="name">${esc(c.hero)}</div>${c.sub ? `<div class="sub">${esc(c.sub)}</div>` : ''}</div>`;
   const shot = photos.length
-    ? `<img class="carimg" src="${photoSrc(slug, photos[0])}" alt="${esc(c.brand + ' ' + c.name)}" loading="lazy">
+    ? `<img class="carimg" ${imgSet(slug, photos[0], '(max-width: 460px) 92vw, (max-width: 900px) 46vw, 400px')} alt="${esc(c.brand + ' ' + c.name)}" loading="lazy" decoding="async">
        <div class="scrim"></div>
        ${refTag}
        ${cap}`
@@ -1238,7 +1232,7 @@ function cardHTML(c) {
        <span class="photo-tag">◎ foto do exemplar a enviar</span>
        ${capC}`;
   return `
-  <article class="card" data-name="${esc((c.brand+' '+c.name+' '+c.engine).toLowerCase())}" data-cols="${esc(c.collections.join('|'))}">
+  <article class="card" tabindex="0" role="button" aria-label="${esc(c.brand + ' ' + c.name + ' — abrir ficha')}" data-name="${esc((c.brand+' '+c.name+' '+c.engine).toLowerCase())}" data-cols="${esc(c.collections.join('|'))}">
     <div class="shot">
       ${shot}
       <span class="state ${c.rare?'rare':''}"><span class="dot"></span>${c.rare?'Raro · na coleção':esc(c.state)}</span>
@@ -1264,7 +1258,7 @@ function rowHTML(c) {
   const photos = PHOTOS[slug] || [];
   const meta = PHOTO_META[slug] || {};
   const thumb = photos.length
-    ? `<img src="${photoSrc(slug, photos[0])}" alt="" loading="lazy">`
+    ? `<img ${imgSet(slug, photos[0], '96px')} alt="" loading="lazy" decoding="async">`
     : `<div style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div>`;
   return `
   <article class="lrow" tabindex="0" role="button" aria-label="${esc(c.brand+' '+c.name)}">
@@ -1372,6 +1366,24 @@ vList.addEventListener('click', () => setView('list'));
 if (viewMode !== 'grid') setView(viewMode);
 
 /* ---------- Ficha (detalhe) ---------- */
+/* Quem abriu o painel? Para lhe devolver o foco ao fechar. */
+let focoAnterior = null;
+/* Enquanto um painel está aberto, o resto da página fica `inert`: não recebe
+   foco, cliques nem leitores de ecrã. É a forma moderna de dizer "isto agora
+   não existe" — evita que quem usa teclado saia do painel sem perceber. */
+function atualizarIsolamento() {
+  const topo = drawer.classList.contains('on') ? drawer
+             : govl.classList.contains('open') ? govl
+             : ovl.classList.contains('open') ? ovl
+             : presEl.classList.contains('on') ? presEl : null;
+  [...document.body.children].forEach(el => {
+    el.inert = !!topo && el !== topo && el.tagName !== 'SCRIPT';
+  });
+}
+function devolverFoco() {
+  if (focoAnterior) { try { focoAnterior.focus({ preventScroll: true }); } catch (e) {} }
+  focoAnterior = null;
+}
 const ovl = document.getElementById('ovl');
 const fichaEl = document.getElementById('ficha');
 
@@ -1384,7 +1396,7 @@ function fichaHTML(c) {
     : `<div class="studio" style="position:absolute;inset:0;background:${studioBg(c.paint)}"></div><div class="name">${esc(c.hero)}</div>`;
   const thumbs = photos.length > 1
     ? `<div class="f-thumbs">${photos.map((p,i) =>
-        `<button data-src="${photoSrc(slug, p)}" aria-current="${i===0}" aria-label="Fotografia ${i+1} de ${photos.length}"><img src="${photoSrc(slug, p)}" alt="" loading="lazy"></button>`).join('')}</div>`
+        `<button data-src="${photoSrc(slug, p)}" aria-current="${i===0}" aria-label="Fotografia ${i+1} de ${photos.length}"><img ${imgSet(slug, p, '86px')} alt="" loading="lazy" decoding="async"></button>`).join('')}</div>`
     : '';
   const curios = (c.curios||[]).map(x => `<li>${esc(x)}</li>`).join('');
   return `
@@ -1486,7 +1498,7 @@ grid.addEventListener('click', e => {
 });
 grid.addEventListener('keydown', e => {
   if (e.key !== 'Enter' && e.key !== ' ') return;
-  const card = e.target.closest('.lrow'); if (!card) return;
+  const card = e.target.closest('.card, .lrow'); if (!card) return;
   e.preventDefault();
   const visible = visibleCars();
   const idx = [...grid.children].indexOf(card);
@@ -1696,7 +1708,7 @@ function renderHome() {
   const fp = (PHOTOS[fs] || [])[0];
   document.getElementById('home-feat').innerHTML = `
     <div class="hfeat" data-car="${esc(feat.name)}">
-      <div class="hfimg">${fp ? `<img src="${photoSrc(fs, fp)}" alt="" loading="lazy" decoding="async">`
+      <div class="hfimg">${fp ? `<img ${imgSet(fs, fp, '116px')} alt="" loading="lazy" decoding="async">`
         : `<div style="position:absolute;inset:0;background:${studioBg(feat.paint)}"></div>`}</div>
       <div>
         <div class="hfn">${esc(feat.hero)}</div>
@@ -2047,42 +2059,66 @@ renderChips();
 render();
 switchTab('inicio');
 </script>
-<script type="module">
-(async () => {
-  try {
-    if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-    const canvas = document.getElementById('bg3d');
-    if (!canvas) return;
-    const THREE = await import('./assets/vendor/three.module.js');
-    const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
-    renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
-    const scene = new THREE.Scene();
-    const cam = new THREE.PerspectiveCamera(60, innerWidth / innerHeight, 0.1, 100);
-    cam.position.z = 14;
-    const c = document.createElement('canvas'); c.width = c.height = 128;
-    const g = c.getContext('2d');
-    const rg = g.createRadialGradient(64, 64, 0, 64, 64, 64);
-    rg.addColorStop(0, 'rgba(31,90,59,0.9)'); rg.addColorStop(1, 'rgba(31,90,59,0)');
-    g.fillStyle = rg; g.fillRect(0, 0, 128, 128);
-    const tex = new THREE.CanvasTexture(c);
-    const N = innerWidth < 760 ? 7 : 12;
-    const geo = new THREE.BufferGeometry();
-    const pos = new Float32Array(N * 3);
-    for (let i = 0; i < N; i++) { pos[i*3] = (Math.random()-0.5)*24; pos[i*3+1] = (Math.random()-0.5)*16; pos[i*3+2] = (Math.random()-0.5)*6; }
-    geo.setAttribute('position', new THREE.BufferAttribute(pos, 3));
-    const mat = new THREE.PointsMaterial({ map: tex, size: 8, sizeAttenuation: true, transparent: true, opacity: 0.10, depthWrite: false });
-    const pts = new THREE.Points(geo, mat); scene.add(pts);
-    let mx = 0, my = 0, tx = 0, ty = 0;
-    addEventListener('pointermove', e => { tx = e.clientX/innerWidth - 0.5; ty = e.clientY/innerHeight - 0.5; }, { passive: true });
-    function resize() { renderer.setSize(innerWidth, innerHeight); cam.aspect = innerWidth/innerHeight; cam.updateProjectionMatrix(); }
-    addEventListener('resize', resize); resize();
-    let raf, t = 0, running = true;
-    function loop() { if (!running) return; t += 0.0016; mx += (tx-mx)*0.03; my += (ty-my)*0.03;
-      pts.rotation.z = t * 0.4; pts.position.x = mx*2.2; pts.position.y = -my*1.6;
-      renderer.render(scene, cam); raf = requestAnimationFrame(loop); }
-    document.addEventListener('visibilitychange', () => { running = !document.hidden; if (running) loop(); else cancelAnimationFrame(raf); });
-    loop();
-  } catch (e) { /* fallback: fundo em gradiente CSS */ }
+<script>
+/* Luz ambiente: manchas verdes suaves que derivam devagar e reagem ao ponteiro.
+   Estava feito com a Three.js (1,27 MB) para desenhar o que afinal é um
+   gradiente radial — o mesmo resultado sai de um canvas 2D em poucas linhas,
+   sem nada para descarregar e sem depender de WebGL. A Three.js continua no
+   repositório, guardada para o que é mesmo trabalho dela: o visualizador 3D
+   dos automóveis, quando houver modelos. */
+(() => {
+  const canvas = document.getElementById('bg3d');
+  if (!canvas || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const g = canvas.getContext('2d');
+  if (!g) return;
+  const N = innerWidth < 760 ? 7 : 12;
+  const manchas = Array.from({ length: N }, () => ({
+    x: Math.random(), y: Math.random(),
+    r: 0.18 + Math.random() * 0.22,
+    vx: (Math.random() - 0.5) * 0.00008,
+    vy: (Math.random() - 0.5) * 0.00008,
+  }));
+  let dpr = 1, L = 0, A = 0;
+  function medir() {
+    dpr = Math.min(devicePixelRatio || 1, 2);
+    L = innerWidth; A = innerHeight;
+    canvas.width = L * dpr; canvas.height = A * dpr;
+    canvas.style.width = L + 'px'; canvas.style.height = A + 'px';
+    g.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  addEventListener('resize', medir, { passive: true }); medir();
+
+  let alvoX = 0, alvoY = 0, px = 0, py = 0;
+  addEventListener('pointermove', e => {
+    alvoX = e.clientX / innerWidth - 0.5; alvoY = e.clientY / innerHeight - 0.5;
+  }, { passive: true });
+
+  let raf = 0, ativo = true;
+  function desenhar(agora) {
+    if (!ativo) return;
+    px += (alvoX - px) * 0.03; py += (alvoY - py) * 0.03;   // segue o rato com inércia
+    g.clearRect(0, 0, L, A);
+    const base = Math.min(L, A);
+    for (const m of manchas) {
+      m.x += m.vx; m.y += m.vy;
+      if (m.x < -0.3 || m.x > 1.3) m.vx *= -1;
+      if (m.y < -0.3 || m.y > 1.3) m.vy *= -1;
+      const cx = m.x * L + px * 44 + Math.sin(agora / 9000 + m.r * 20) * 16;
+      const cy = m.y * A - py * 32 + Math.cos(agora / 11000 + m.r * 20) * 14;
+      const raio = m.r * base;
+      const lum = g.createRadialGradient(cx, cy, 0, cx, cy, raio);
+      lum.addColorStop(0, 'rgba(31,90,59,0.10)');
+      lum.addColorStop(1, 'rgba(31,90,59,0)');
+      g.fillStyle = lum;
+      g.beginPath(); g.arc(cx, cy, raio, 0, Math.PI * 2); g.fill();
+    }
+    raf = requestAnimationFrame(desenhar);
+  }
+  document.addEventListener('visibilitychange', () => {
+    ativo = !document.hidden;
+    if (ativo) raf = requestAnimationFrame(desenhar); else cancelAnimationFrame(raf);
+  });
+  raf = requestAnimationFrame(desenhar);
 })();
 </script>
 </body>

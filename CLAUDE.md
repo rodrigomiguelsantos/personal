@@ -271,6 +271,38 @@ roubar o scroll). A miniatura ativa acompanha, deslizando para o centro.
 Referência: sequência canónica de diálogo acessível (guardar invocador, entrar,
 prender, devolver) — WAI-ARIA APG.
 
+## Peso da app (v1.7, 2026-09-11)
+Medido num browser real (Playwright, ecrã de iPhone): o primeiro carregamento
+pedia **~6 MB**. Passou a **204 kB em 3 pedidos**. Duas causas, duas decisões:
+
+**1. Fotos à medida.** Estavam guardadas a 1600 px e servidas assim a um card
+de 400 px e a miniaturas de 96 px. `otimizar_fotos.py` gera agora `-480` e
+`-960` ao lado de cada original (que **nunca é tocado** — é a foto da ficha e
+da apresentação), e a app usa `srcset`/`sizes` para o browser escolher. No
+iPhone escolhe a de 480 nas miniaturas e a de 960 nos cards. Correr o script
+sempre que se juntam fotos (documentado em `assets/cars/README.md`).
+
+**2. Three.js saiu do carregamento.** 1,27 MB descarregados em cada visita
+para desenhar **manchas de luz** — que são gradientes radiais. Reescrito num
+canvas 2D de ~40 linhas com o mesmo aspeto (mesma cor, mesma deriva, mesmo
+parallax com inércia), sem download e sem depender de WebGL. **A three.module.js
+fica no repositório**, guardada para o trabalho que é mesmo dela: o visualizador
+3D dos automóveis, quando houver modelos GLB. Não é abandonar o pedido do
+Dr. Rodrigo — é pô-la onde se justifica.
+
+**Teclado:** o card da grelha não era alcançável por teclado (a linha da lista
+já era) — passou a ter `tabindex`/`role`/nome, e o Enter/Espaço abre a ficha.
+
+**`verificar.py`** — verificações antes de cada commit, criado porque o mesmo
+erro já apareceu **três vezes**: inserir código procurando um comentário que
+existe no CSS *e* no JS, e o bloco cair no sítio errado (desta vez a função de
+isolamento foi parar ao `<style>`; a página abria, mas rebentava ao abrir
+qualquer painel). Testa: JS dentro do `<style>`, chavetas, seletores
+duplicados, ids inexistentes, imagens sem `alt`, botões sem nome, classes
+mortas. **Regra nova: nunca inserir por comentário sem confirmar que só existe
+um; e passar sempre um browser pela app depois de mexer no JavaScript** — foi
+o Playwright, não a leitura do código, que apanhou este erro.
+
 ## Ritual por prompt
 A cada prompt de desenvolvimento, fazer **uma pesquisa de design** (UI de
 showrooms/marcas/leiloeiras, animações fluidas, micro-interações) e aplicar
