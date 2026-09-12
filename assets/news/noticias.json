@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-12T04:33:55Z",
+ "atualizado": "2026-09-12T10:45:25Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -16,6 +16,156 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "MotoGP San Marino GP: Bezzecchi beats Marquez for record-breaking pole",
+   "resumo": "Marco Bezzecchi smashed the Misano circuit record to claim his second consecutive pole position of the 2026 MotoGP season at the San Marino Grand Prix. The factory Aprilia rider posted an…",
+   "url": "https://www.autosport.com/motogp/news/motogp-san-marino-gp-bezzecchi-pole/10854862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:52:18Z"
+  },
+  {
+   "titulo": "DTM Sachsenring: BMW takes pole as Auer crash sparks chaos",
+   "resumo": "Dramatic Saturday qualifying at the Sachsenring: with 2:40 minutes remaining, Mercedes-AMG title contender Lucas Auer spun off the track at Turn 8 and hit the tyre barrier hard with the…",
+   "url": "https://www.motorsport.com/dtm/news/dtm-sachsenring-qualifying-bmw-takes-pole-as-auer-crash-sparks-chaos/10854859/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:51:22Z"
+  },
+  {
+   "titulo": "MotoGP San Marino GP: Marco Bezzecchi stuns Ducati with record-breaking pole",
+   "resumo": "Marco Bezzecchi smashed the Misano circuit record to claim his second consecutive pole position of the 2026 MotoGP season at the San Marino Grand Prix. The factory Aprilia rider posted an…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-san-marino-gp-marco-bezzecchi-stuns-ducatis-with-record-breaking-pole/10854853/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:49:22Z"
+  },
+  {
+   "titulo": "New Misano lap record from Bezzecchi as he beats Marquez to pole",
+   "resumo": "MotoGP title hopeful Marco Bezzecchi dominated San Marino GP qualifying at Misano, seeing off his main rival this weekend Marc Marquez",
+   "url": "https://www.the-race.com/motogp/marco-bezzecchi-new-misano-motogp-lap-record-san-marino-gp-pole/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:46:57Z"
+  },
+  {
+   "titulo": "Aston Martin lança primeira moto de estrada",
+   "resumo": "A Aston Martin e a Brough Superior apresentaram a AMB 002 Roadster, a primeira moto homologada para utilização em estrada desenvolvida no âmbito da parceria entre as duas marcas britânicas…",
+   "url": "https://www.autosport.pt/automais/aston-martin-lanca-primeira-moto-de-estrada/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T09:31:00Z"
+  },
+  {
+   "titulo": "Charles Leclerc: Madrid qualifying to be \"one of the most challenging\" in F1 2026",
+   "resumo": "Charles Leclerc reckons qualifying at this weekend’s Spanish Grand Prix will be “one of the most challenging” of the 2026 Formula 1 season as drivers adapt to the new Madrid circuit. The…",
+   "url": "https://www.motorsport.com/f1/news/charles-leclerc-madrid-qualifying-to-be-one-of-the-most-challenging-in-f1-2026/10854841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:30:07Z"
+  },
+  {
+   "titulo": "Full throttle or not? Why Pirelli calls Madrid's La Monumental F1’s toughest corner",
+   "resumo": "The latest addition to the Formula 1 calendar had already sparked plenty of discussion in the paddock before the weekend. Most of the conversations centred on safety and whether the track…",
+   "url": "https://www.motorsport.com/f1/news/full-throttle-or-not-why-pirelli-calls-madrids-la-monumental-f1s-toughest-corner/10854838/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:28:23Z"
+  },
+  {
+   "titulo": "F1's TV visuals are letting its Madrid track down",
+   "resumo": "F1's newest track Madring looks truly impressive on-site - but bland on TV",
+   "url": "https://www.the-race.com/formula-1/f1-madrid-spanish-gp-tv-coverage-madring/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T09:13:49Z"
+  },
+  {
+   "titulo": "GP de Espanha F1: Elevada degradação aponta os duros como melhor opção",
+   "resumo": "O primeiro dia de testes em Madring permitiu finalmente obter as primeiras provas da exigência do novo traçado madrileno. E se o desenho da pista já deu muito trabalho aos pilotos, os pneus…",
+   "url": "https://www.autosport.pt/formula1/gp-de-espanha-f1-elevada-degradacao-aponta-os-duros-como-melhor-opcao/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T09:01:20Z"
+  },
+  {
+   "titulo": "F1 teams face big Madring strategy dilemma",
+   "resumo": "High tyre degradation and a big pitstop time cost will make Madring strategy a huge headache for F1 teams",
+   "url": "https://www.the-race.com/formula-1/f1-teams-face-big-madring-strategy-dilemma/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T08:52:45Z"
+  },
+  {
+   "titulo": "Pain in Spain goes mainly down the drain, explains Permane",
+   "resumo": "Racing Bulls boss Alan Permane hailed his team's Friday efforts at the Spanish Grand Prix as an \"excellent day\", despite Arvid Lindblad's Turn 13 crash in FP2 bringing an early end to his…",
+   "url": "https://www.motorsport.com/f1/news/pain-in-spain-goes-mainly-down-the-drain-explains-permane/10854817/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T08:41:40Z"
+  },
+  {
+   "titulo": "This Toyota Patent Turns Your Car into a Hands-Free Camera",
+   "resumo": "A potential new use for all those cameras dotted around modern vehicles.",
+   "url": "https://www.caranddriver.com/news/a73675194/toyota-eye-tracking-roadside-photo-patent/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-12T08:00:00Z"
+  },
+  {
+   "titulo": "Renault 4 Plein Sud: Should you spec this SUV as a 'convertible'?",
+   "resumo": "Long hot summer comes to an end just in time for convertible's arrival - but is it the one to have? You simply couldn’t write it. It hadn’t rained in nearly nine weeks, but naturally the…",
+   "url": "https://www.autocar.co.uk/car-news/features/renault-4-plein-sud-should-you-spec-suv-convertible",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-12T07:00:00Z"
+  },
+  {
+   "titulo": "Audi RS5: Full test of the V6 hyper-wagon that beats physics",
+   "resumo": "RS4 replacement is a 2.4-tonne plug-in hybrid, yet the engineers promise it’s much more fun to drive Preconceptions can be awfully sticky. Think ‘fast Audi’ and you might still think of…",
+   "url": "https://www.autocar.co.uk/car-review/audi/rs5",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-12T07:00:00Z"
+  },
+  {
+   "titulo": "Vintage Home-On-Wheels: A 1965 Ford F-250 + Mitchell & Sons Camper",
+   "resumo": "This is a 1965 Ford F-250 Custom Camper Special fitted with a period correct Mitchell & Sons Camper. Both the truck and the camper... The post Vintage Home-On-Wheels: A 1965 Ford F-250 +…",
+   "url": "https://silodrome.com/ford-f-250-mitchell-sons-camper/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-12T06:30:43Z"
+  },
   {
    "titulo": "Man Clings On To Moving Tesla While Allegedly Fleeing Knife-Wielding Driver",
    "resumo": "Wild video shows a man desperately clinging to a moving Tesla as another man allegedly pursues him carrying a knife",
@@ -67,16 +217,6 @@
    "data": "2026-09-12T00:05:57Z"
   },
   {
-   "titulo": "WRC Chile: Oliver Solberg urges “clever” approach as tyre fears grow for Saturday",
-   "resumo": "Rally Chile leader Oliver Solberg has stressed the need to drive “clever” as World Rally Championship crews expect tyre-punishing stages on Saturday. The Toyota driver enjoyed an issue free…",
-   "url": "https://www.motorsport.com/wrc/news/wrc-chile-oliver-solberg-urges-clever-approach-as-tyre-fears-grow-for-saturday/10854769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T00:01:02Z"
-  },
-  {
    "titulo": "Solberg leads Rally Chile Biobío after challenging opening day",
    "resumo": "Sport news Making his first Rally Chile Biobío start in Rally1 machinery, Solberg claimed two stage victories as crews faced wet and slippery roads during the morning before increasingly…",
    "url": "https://www.fia.com/news/solberg-leads-rally-chile-biobio-after-challenging-opening-day",
@@ -107,6 +247,16 @@
    "data": "2026-09-11T23:23:08Z"
   },
   {
+   "titulo": "Oliver Solberg lidera Rali do Chile sob condições variáveis no 1º dia",
+   "resumo": "Oliver Solberg assumiu a liderança do Rali do Chile BIOBÍO na sexta-feira, com uma vantagem de 10,1 segundos sobre o líder do campeonato, Elfyn Evans, após uma prestação controlada em…",
+   "url": "https://www.autosport.pt/ralis/oliver-solberg-lidera-rali-do-chile-sob-condicoes-variaveis-no-1o-dia/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-11T23:10:00Z"
+  },
+  {
    "titulo": "Nissan’s New Electric City Car Is Called The Pixo",
    "resumo": "The electric hatchback debuts later this month and will slot beneath the Micra",
    "url": "https://www.carscoops.com/2026/09/nissan-pixo-ev/",
@@ -127,16 +277,6 @@
    "data": "2026-09-11T22:48:45Z"
   },
   {
-   "titulo": "Max Verstappen reveals laid-back approach to 100-driver Silverstone challenge",
-   "resumo": "Four-time Formula 1 champion Max Verstappen has admitted that he has done zero preparation ahead of a 30-lap challenge against 100 go-karters at Silverstone next week. The Dutchman will be…",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-laid-back-approach-to-100-driver-silverstone-challenge/10854765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T22:26:37Z"
-  },
-  {
    "titulo": "Diesel Tops $6 A Gallon As Fuel Prices Smash A New Record",
    "resumo": "Record diesel prices are hitting truckers and businesses as tight global supplies push America's average",
    "url": "https://www.carscoops.com/2026/09/diesel-tops-6-a-gallon-as-fuel-prices-smash-a-new-record/",
@@ -145,16 +285,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-11T22:21:00Z"
-  },
-  {
-   "titulo": "George Russell shares childhood Silverstone connection and why he rejected bigger grandstand",
-   "resumo": "George Russell has opened up about launching his own dedicated grandstand for his supporters at Silverstone. It was announced this week that the British driver would have the George Russell…",
-   "url": "https://www.motorsport.com/f1/news/george-russell-shares-childhood-silverstone-connection-and-why-he-rejected-bigger-grandstand/10854755/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T21:55:17Z"
   },
   {
    "titulo": "WRC Chile: Solberg stars on drying stages to extend lead over Evans",
@@ -167,16 +297,6 @@
    "data": "2026-09-11T21:54:52Z"
   },
   {
-   "titulo": "WRC Chile: Oliver Solberg extends rally lead as Evans pays road-order price",
-   "resumo": "Oliver Solberg pulled further clear of World Rally Championship leader Elfyn Evans to head into Saturday’s leg of Rally Chile with a 10.1s lead. The Monte Carlo winner thrived in the…",
-   "url": "https://www.motorsport.com/wrc/news/wrc-chile-oliver-solberg-extends-rally-lead-as-evans-pays-road-order-price/10854752/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T21:52:29Z"
-  },
-  {
    "titulo": "Original Owner: Once A Social Climber, This 1969 Mercedes 280SL Became a Hill Climber",
    "resumo": "The pale blue Mercedes sits at the starting line; its owner, Jim Siegel, eagerly anticipates the green flag. Plenty of models that wear the three-pointed star enjoy rich racing histories…",
    "url": "https://www.hagerty.com/media/car-profiles/original-owner-once-a-social-climber-this-1969-mercedes-280sl-became-a-hill-climber/",
@@ -185,36 +305,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-11T21:30:00Z"
-  },
-  {
-   "titulo": "David Coulthard says Kimi Antonelli proved he is an F1 \"phenomenon\" at Monza",
-   "resumo": "Former Formula 1 driver David Coulthard says Kimi Antonelli's charge from 19th on the grid to win the Italian Grand Prix was a career-defining performance that sits alongside drives from…",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-says-kimi-antonelli-proved-he-is-an-f1-phenomenon-at-monza/10854748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T21:24:20Z"
-  },
-  {
-   "titulo": "CPR, Rali da Água/PEC4: Rúben Rodrigues líder, razia entre os homens da frente",
-   "resumo": "A super especial Rota Termal, que marcou a quarta Prova Especial de Classificação (PEC4) do Rali da Água, viu João Barros e Jorge Henriques, no seu Škoda Fabia RS Rally2, brilhar…",
-   "url": "https://www.autosport.pt/ralis/cpr-rali-da-agua-pec4-ruben-rodrigues-lider-razia-entre-os-homens-da-frente/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-11T21:14:00Z"
-  },
-  {
-   "titulo": "WRC, Rali do Chile/PEC6: Oliver Solberg termina o dia com 10 segundos de vantagem",
-   "resumo": "Oliver Solberg / Elliott Edmondson (Toyota GR Yaris Rally1) venceram a PEC6, que concluiu este segundo dia do Rali do Chile. A dupla da Toyota instalou-se na liderança na PEC 3 e nunca mais…",
-   "url": "https://www.autosport.pt/ralis/wrc-rali-do-chile-pec6-oliver-solberg-termina-o-dia-com-10-segundos-de-vantagem/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-11T21:03:27Z"
   },
   {
    "titulo": "Ram's Small Work Van Is Back For 2027 At Under $40,000",
@@ -287,16 +377,6 @@
    "data": "2026-09-11T20:07:57Z"
   },
   {
-   "titulo": "WRC, Rali do Chile/PEC5: Ogier vence, top 5 coube em 2 segundos",
-   "resumo": "A segunda passagem por Nuevo Rere (10,76 km) revelou-se novamente rápida e decidida nos pormenores. Sébastien Ogier / Vincent Landais (Toyota GR Yaris Rally1), com o tempo de 5:10.3 foi o…",
-   "url": "https://www.autosport.pt/sem-categoria/wrc-rali-do-chile-pec5-ogier-vence-top-5-coube-em-2-segundos/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-11T19:48:55Z"
-  },
-  {
    "titulo": "The 2027 Mini 1998 GT Offers a JCW Suspension At a Sub-$40,000 Price",
    "resumo": "Mini’s latest special edition is something like a hot hatch without the heat.",
    "url": "https://www.roadandtrack.com/news/a73689438/2027-mini-1998-gt-jcw-suspension/",
@@ -305,16 +385,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-11T19:11:11Z"
-  },
-  {
-   "titulo": "2027 Porsche Cayenne Electric / Cayenne Coupe Electric",
-   "resumo": "Review, Pricing, and Specs",
-   "url": "https://www.caranddriver.com/porsche/cayenne-ev-2027",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T19:08:58Z"
   },
   {
    "titulo": "Winners and losers from F1 Madring practice",
@@ -427,26 +497,6 @@
    "data": "2026-09-11T16:23:47Z"
   },
   {
-   "titulo": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes",
-   "resumo": "Kimi Antonelli has topped second practice at Formula 1's Spanish Grand Prix, pipping Ferrari's Charles Leclerc on Friday afternoon at the new Madring circuit, while Arvid Lindblad crashed…",
-   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-fp2-report-10854602/10854602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T16:14:44Z"
-  },
-  {
-   "titulo": "All that happened in second Madring F1 practice",
-   "resumo": "Championship leader Kimi Antonelli topped the times in Madring's second practice session",
-   "url": "https://www.the-race.com/formula-1/all-that-happened-in-second-madring-f1-practice/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T16:12:58Z"
-  },
-  {
    "titulo": "Bovensiepen Spider Brings the BMW Z4 Back, Complete With 429 HP and a 6-Figure Price Tag",
    "resumo": "If you want a new droptop from the former Alpina folks, be prepared to pay up.",
    "url": "https://www.roadandtrack.com/news/a73686798/bovensiepen-spider-bmw-z4/",
@@ -497,16 +547,6 @@
    "data": "2026-09-11T14:32:00Z"
   },
   {
-   "titulo": "Misano Friday: Who made Q2 and who missed out",
-   "resumo": "Aprilia MotoGP rider Marco Bezzecchi outpaced the Marquez brothers to set the Friday pace at Misano",
-   "url": "https://www.the-race.com/motogp/bezzecchi-beats-marquez-brothers-to-lead-misano-friday/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T14:07:42Z"
-  },
-  {
    "titulo": "This Twin-Turbo V8 Crate Engine Makes 1,200 HP Without Race Fuel",
    "resumo": "Nelson Racing’s new 427-cubic-inch twin-turbo V8 makes 1,200 horsepower on 91-octane pump gas, or up to 1,500 hp on race fuel.",
    "url": "https://www.motor1.com/news/807987/nelson-racing-1200-horsepower-crate-v8/",
@@ -547,16 +587,6 @@
    "data": "2026-09-11T13:00:00Z"
   },
   {
-   "titulo": "What happened in F1's first-ever Madring practice session",
-   "resumo": "George Russell led his Mercedes F1 team-mate Kimi Antonelli in first practice for the Spanish GP at the Madring",
-   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-madring-first-practice-what-happened/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T12:55:03Z"
-  },
-  {
    "titulo": "Gold-Plated 1953 Cadillac Sells For $1,275,000, Sets Auction Record",
    "resumo": "A one-off 1953 Cadillac Elegante with 24-karat gold coachwork and just 4,331 miles now defines the ceiling for bespoke American luxury.",
    "url": "https://www.motor1.com/news/807968/gold-plated-1953-cadillac-elegante/",
@@ -585,36 +615,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-11T10:00:00Z"
-  },
-  {
-   "titulo": "Chery aims for 'German feeling' with new UK-bound Tiggo X SUVs",
-   "resumo": "Major product roll-out and new British R&D base for Chinese brand as it puts VW in its sights Chery is priming the next phase in its plan to conquer the British market with four new models…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/chery-aims-german-feeling-new-uk-bound-tiggo-x-suvs",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T08:00:00Z"
-  },
-  {
-   "titulo": "New Bovensiepen Spider revealed as £99k BMW Z4 with 429bhp",
-   "resumo": "Alpina founders turn retired roadster into a 183mph ’bahnstormer with lashings of leather Bovensiepen, the new marque set up by the founders of Alpina, has turned the BMW Z4 into a 429bhp…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/new-bovensiepen-spider-revealed-%C2%A399k-bmw-z4-429bhp",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T07:45:48Z"
-  },
-  {
-   "titulo": "The Überleben Kräftig Grip Ferro Rod Survival Fire Starter",
-   "resumo": "This is the Kräftig Grip, it’s a ferro rod fire starter from Idaho-based company Überleben, and each one lasts 20,000+ strikes. Ferro rods (short... The post The Überleben Kräftig Grip…",
-   "url": "https://silodrome.com/uberleben-kraftig-grip-ferro-rod-survival-fire-starter/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-11T06:30:09Z"
   }
  ]
 }
