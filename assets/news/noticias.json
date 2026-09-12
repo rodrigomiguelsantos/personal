@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-09-12T15:31:25Z",
+ "atualizado": "2026-09-12T20:33:04Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "FIA",
+  "Classic & Sports Car",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -17,14 +17,184 @@
  ],
  "itens": [
   {
-   "titulo": "F1 2026 qualifying head-to-head: Spanish GP",
-   "resumo": "After every Formula 1 qualifying session, Motorsport.com publishes each team's qualifying record in terms of team-mate battles. This record is based exclusively on qualifying results so…",
-   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-spanish-gp/10855013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "Two car chiefs ejected from Gateway after NASCAR Cup inspection failures",
+   "resumo": "In pre-race inspection at WWT Raceway (Gateway), the No. 17 RFK Racing Ford of Chris Buescher and the No. 51 Rick Ware Racing Chevrolet of Cody Ware failed twice, resulting in some at-track…",
+   "url": "https://www.motorsport.com/nascar-cup/news/two-car-chiefs-ejected-from-gateway-after-nascar-cup-inspection-failures/10855195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-12T15:24:21Z"
+   "data": "2026-09-12T20:06:48Z"
+  },
+  {
+   "titulo": "\"Bring it\" -- Calculated Brad Keselowski is still frustrated with Carson Hocevar",
+   "resumo": "It was always very unlikely that Brad Keselowski was going to walk into his press conference on Saturday at World Wide Technology Raceway and remain adamant that there would be retaliation…",
+   "url": "https://www.motorsport.com/nascar-cup/news/calculated-brad-keselowski-is-still-frustrated-with-carson-hocevar/10855187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T19:57:19Z"
+  },
+  {
+   "titulo": "Leclerc says old Ferrari engine cost him in Madrid qualifying",
+   "resumo": "Charles Leclerc reckons being without Ferrari’s latest ADUO 2 power unit specification was a key factor in him slipping down the order in qualifying for the Spanish Grand Prix",
+   "url": "https://www.the-race.com/formula-1/leclerc-says-old-ferrari-engine-cost-him-in-madrid-qualifying/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T19:26:01Z"
+  },
+  {
+   "titulo": "WRC, Rali do Chile, PEC10: Sébastien Ogier volta a vencer",
+   "resumo": "Os pilotos do WRC estão de regresso aos troços do Chile depois da pausa que marcou o meio do terceiro dia de prova. Com uma tarde a contar com três PEC’s, contemplando as segundas passagens…",
+   "url": "https://www.autosport.pt/ralis/wrc-rali-do-chile-pec10-sebastien-ogier-volta-a-vencer/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T18:57:21Z"
+  },
+  {
+   "titulo": "Lando Norris lost “three tenths” on way to shock Madring F1 pole",
+   "resumo": "“That’s a masterpiece.” After Lando Norris snatched pole position away from Kimi Antonelli by a mere 0.011s at the Spanish Grand Prix, McLaren team principal Andrea Stella was both ecstatic…",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-lost-three-tenths-on-way-to-shock-madring-f1-pole/10855155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T18:27:41Z"
+  },
+  {
+   "titulo": "Lando Norris hailed for \"sensational\" Spanish GP pole after FP2 setback: \"Found his beast mode\"",
+   "resumo": "Lando Norris's pole position for the Spanish Grand Prix has received widespread praise from Formula 1 fans, with his performance branded \"sensational\". The McLaren driver secured the front…",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-hailed-for-sensational-spanish-gp-pole-after-fp2-setback-found-his-beast-mode/10855160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T18:23:52Z"
+  },
+  {
+   "titulo": "Hendrick Motorsports details 'The Corey Day Plan'",
+   "resumo": "It’s not entirely apples-to-apples but there is a proven model similar to what Jeff Andrews is calling ‘The Corey Day Plan’ at Hendrick Motorsports. Corey Heim already has two Cup Series…",
+   "url": "https://www.motorsport.com/nascar-cup/news/hendrick-motorsports-details-the-corey-day-plan-/10855106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T18:23:29Z"
+  },
+  {
+   "titulo": "F1 drivers criticise Madrid circuit, Verstappen laughs: \"I'll sort it out\"",
+   "resumo": "While the Formula 2 and Formula 3 races around the IFEMA complex in Madrid have produced several crashes, the chaos in Formula 1 has so far remained limited. Nevertheless, criticism from…",
+   "url": "https://www.autosport.com/f1/news/as-drivers-criticise-madring-max-verstappen-calls-for-input-on-new-f1-circuits-ill-sort-it-out/10855154/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T18:18:50Z"
+  },
+  {
+   "titulo": "Buick’s 2006 Envista ST Is A Love Letter To Buick Loyalists | Review",
+   "resumo": "PROS ›› Attractive pricing, Comfortable cabin, Easy to park CONS ›› Tough",
+   "url": "https://www.carscoops.com/2026/09/buick-2006-envista-st-review/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-12T18:04:00Z"
+  },
+  {
+   "titulo": "Winners and losers from Spanish GP F1 qualifying at the Madring",
+   "resumo": "Fears of a Sunday procession mean it was ultra-important for F1 drivers to nail Spanish GP qualifying. Who maximised the opportunity?",
+   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-qualifying-winners-losers/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T17:22:24Z"
+  },
+  {
+   "titulo": "CPR, Rali da Água – Rúben Rodrigues: “Demos mais um passo importante, rumo ao nosso objetivo”",
+   "resumo": "Rúben Rodrigues e Rui Raimundo conquistaram o Rali da Água, ao volante de um Toyota GR Yaris Rally2, somando o quarto triunfo da temporada no Campeonato de Portugal de Ralis. A dupla…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-da-agua-ruben-rodrigues-demos-mais-um-passo-importante-rumo-ao-nosso-objetivo/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T17:21:33Z"
+  },
+  {
+   "titulo": "F1 2026 Spanish GP starting grid after two penalties",
+   "resumo": "The provisional starting grid for the F1 2026 Spanish Grand Prix in Madrid, after two grid penalties applied",
+   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-gp-starting-grid-after-two-penalties/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T17:09:39Z"
+  },
+  {
+   "titulo": "Winners and losers from MotoGP’s Misano sprint",
+   "resumo": "Marc Marquez ran riot in the Misano MotoGP sprint - but who made up our winners and losers from the 13-lap dress rehearsal race?",
+   "url": "https://www.the-race.com/motogp/winners-and-losers-from-motogps-misano-sprint/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T16:34:55Z"
+  },
+  {
+   "titulo": "WRC Chile: Solberg maintains lead as Neuville and Armstrong suffer rolls",
+   "resumo": "Oliver Solberg maintained his Rally Chile lead over Elfyn Evans after a wild Saturday morning that included rolls for Hyundai’s Thierry Neuville and M-Sport-Ford’s Jon Armstrong. Solberg…",
+   "url": "https://www.autosport.com/wrc/news/wrc-chile-solberg-maintains-lead-as-neuville-and-armstrong-suffer-rolls/10855066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T16:01:51Z"
+  },
+  {
+   "titulo": "This Green E55 AMG Torqued Its Way To An Outstanding Payday",
+   "resumo": "Power-hungry Americans are no strangers to the appeal of superchargers. Centrifugal Paxton superchargers made a splash on cars like the original Ford Thunderbird, while Eaton roots-type…",
+   "url": "https://www.hagerty.com/media/market-trends/this-green-e55-amg-torqued-its-way-to-an-outstanding-payday/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-12T16:00:00Z"
+  },
+  {
+   "titulo": "Why Marquez opted for an offset strategy in MotoGP San Marino GP sprint",
+   "resumo": "Marc Marquez revealed he made a last-minute decision to switch to Michelin’s medium rear tyre, which ultimately proved decisive in his victory in MotoGP's San Marino Grand Prix sprint…",
+   "url": "https://www.autosport.com/motogp/news/why-marquez-opted-for-offset-strategy-in-motogp-san-marino-sprint/10855046/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-12T15:46:37Z"
+  },
+  {
+   "titulo": "Mini 1998 GT Edition Costs More Than A Cooper S But Has Less Power",
+   "resumo": "The latest special edition pays homage to the classic Mini 1275 GT from 1969, dressing the base Cooper C with orange decals and JCW parts",
+   "url": "https://www.carscoops.com/2026/09/mini-1998-gt-edition/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-12T15:42:00Z"
+  },
+  {
+   "titulo": "GP de Espanha F1, Max Verstappen: “Terceiro é um grande resultado”",
+   "resumo": "Max Verstappen vai arrancar da terceira posição para o Grande Prémio de Espanha, depois de terminar a qualificação no Madring a 0,140 segundos da pole position conquistada por Lando Norris…",
+   "url": "https://www.autosport.pt/formula1/gp-de-espanha-f1-max-verstappen-terceiro-e-um-grande-resultado/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T15:26:49Z"
   },
   {
    "titulo": "Bezzecchi defends start after Marquez passes him again in Misano sprint",
@@ -37,6 +207,16 @@
    "data": "2026-09-12T15:21:43Z"
   },
   {
+   "titulo": "GP de Espanha F1, Kimi Antonelli: “Acho que fizemos um bom trabalho”",
+   "resumo": "Kimi Antonelli vai partir da segunda posição para o Grande Prémio de Espanha, depois de ter ficado a apenas 0,011 segundos da pole position conquistada por Lando Norris. O piloto da…",
+   "url": "https://www.autosport.pt/formula1/gp-de-espanha-f1-kimi-antonelli-acho-que-fizemos-um-bom-trabalho/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-12T15:21:09Z"
+  },
+  {
    "titulo": "Norris snatches first Madring Spanish GP pole from Antonelli",
    "resumo": "Lando Norris recovered from a gearbox failure on Friday to deny F1 championship leader Kimi Antonelli pole for the Spanish GP at the Madring",
    "url": "https://www.the-race.com/formula-1/f1-spanish-grand-prix-qualifying-norris-beats-antonelli-pole/",
@@ -47,14 +227,14 @@
    "data": "2026-09-12T15:18:42Z"
   },
   {
-   "titulo": "Marco Bezzecchi defends start after Marc Marquez passes him again in Misano sprint",
-   "resumo": "Marco Bezzecchi insists he “did everything right” at the start of the San Marino Grand Prix sprint after Marc Marquez pulled off yet another overtake on him into Turn 1. Bezzecchi smashed…",
-   "url": "https://www.motorsport.com/motogp/news/marco-bezzecchi-defends-start-after-marc-marquez-passes-him-again-in-misano-sprint/10855007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "GP Espanha F1, Lando Norris: “Provavelmente uma das melhores voltas da minha carreira”",
+   "resumo": "Lando Norris conquistou uma pole position inesperada para o Grande Prémio de Espanha, batendo Kimi Antonelli por apenas 0,011 segundos no Madring. Depois de ter perdido tempo de pista na…",
+   "url": "https://www.autosport.pt/formula1/gp-espanha-f1-lando-norris-provavelmente-uma-das-melhores-voltas-da-minha-carreira/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
    "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T15:15:09Z"
+   "pt": true,
+   "data": "2026-09-12T15:17:35Z"
   },
   {
    "titulo": "Lando Norris Continues His Hot Qualifying Streak with Spanish Grand Prix Pole",
@@ -65,26 +245,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-12T15:13:06Z"
-  },
-  {
-   "titulo": "Spanish Grand Prix 2026 Madring F1 qualifying results",
-   "resumo": "All the times from the first-ever F1 qualifying session at new Spanish GP host venue the Madring",
-   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-qualifying-results/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T15:05:42Z"
-  },
-  {
-   "titulo": "F1 Spanish GP: Lando Norris takes stunning pole at Madring",
-   "resumo": "Reigning world champion Lando Norris claimed his third pole of the season at Formula 1's Spanish Grand Prix, beating series leader Kimi Antonelli on F1's first-ever visit to the Madring…",
-   "url": "https://www.motorsport.com/f1/news/f1-spanish-gp-10854999/10854999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T15:04:40Z"
   },
   {
    "titulo": "F1 Spanish GP: Norris snatches last-gasp pole from Antonelli",
@@ -107,36 +267,6 @@
    "data": "2026-09-12T15:00:00Z"
   },
   {
-   "titulo": "GP Espanha Q2: Audi e Pierre Gasly eliminados",
-   "resumo": "A Q2 começou a todo o gás, com os carros a seguir imediatamente para a pista para fazer os primeiros tempos, desta vez com todos os pilotos a escolher os pneus macios. Antonelli começou no…",
-   "url": "https://www.autosport.pt/sem-categoria/gp-espanha-q2-audi-e-pierre-gasly-eliminados/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-12T14:45:56Z"
-  },
-  {
-   "titulo": "GP Espanha Q1: Alonso e Sainz eliminados",
-   "resumo": "A Q1 do GP de Espanha decorreu sem problemas e com a Mercedes a impor-se à concorrência, apesar da Red Bull e McLaren estarem por perto. Na zona de eliminação, os homens da casa terminaram…",
-   "url": "https://www.autosport.pt/formula1/gp-espanha-q1-alonso-e-sainz-eliminados/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-12T14:25:46Z"
-  },
-  {
-   "titulo": "MotoGP San Marino GP: Full starting grid",
-   "resumo": "Marco Bezzecchi will start MotoGP's San Marino Grand Prix from pole position after setting a new lap record in Saturday's qualifying session. The factory Aprilia rider smashed the Misano…",
-   "url": "https://www.motorsport.com/motogp/news/motogp-san-marino-gp-full-starting-grid/10854945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T14:12:43Z"
-  },
-  {
    "titulo": "China quer elétricos e híbridos plug-in em 70% das vendas até 2030",
    "resumo": "A China quer continuar a transformar a sua indústria automóvel. O novo plano para o setor, elaborado por nove organismos governamentais, estabelece vários objetivos a atingir até ao final…",
    "url": "https://www.razaoautomovel.com/noticias/industria-china-vendas-eletricos-hibridos-plug-in-70-por-cento-2030/",
@@ -145,76 +275,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-12T14:06:10Z"
-  },
-  {
-   "titulo": "MotoGP San Marino GP: Marquez beats Bezzecchi to another sprint win",
-   "resumo": "Marc Marquez claimed his sixth sprint win of the 2026 MotoGP season at the San Marino Grand Prix to close the gap to Jorge Martin in the championship. The Ducati star passed polesitter…",
-   "url": "https://www.autosport.com/motogp/news/motogp-san-marino-gp-marc-marquez-wins/10854980/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T13:43:35Z"
-  },
-  {
-   "titulo": "DTM Sachsenring Race 1: Wittmann wins to keep title hopes alive",
-   "resumo": "Schubert BMW driver Marco Wittmann picked up where he left off in the last race at the Nürburgring: the two-time champion celebrates his second win of the season on Saturday at the…",
-   "url": "https://www.motorsport.com/dtm/news/dtm-sachsenring-race-1-wittmann-wins-to-keep-title-hopes-alive/10854969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T13:43:30Z"
-  },
-  {
-   "titulo": "What it's like watching an F1 crash unfolding in front of you",
-   "resumo": "The Race was at the scene of the accident as Ollie Bearman crashed his Haas F1 car in Spanish GP FP3. Here's what Jon Noble made of it",
-   "url": "https://www.the-race.com/formula-1/what-it-is-like-watching-f1-crash-unfold-ollie-bearman-haas/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T13:43:01Z"
-  },
-  {
-   "titulo": "ERX: O desafio do Europeu para os portugueses em Lousada",
-   "resumo": "Duas jornadas, duas provas completas e muito pouco tempo para recuperar. A ronda dupla que este fim de semana encerra o Campeonato da Europa FIA de Ralicross em Lousada representa um…",
-   "url": "https://www.autosport.pt/maismotores/erx-o-desafio-do-europeu-para-os-portugueses-em-lousada/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-12T13:37:27Z"
-  },
-  {
-   "titulo": "Marquez outfoxes Bezzecchi to take crucial Misano sprint win",
-   "resumo": "Defending MotoGP champion Marc Marquez defeated title rival Marco Bezzecchi to win the sprint race at Misano",
-   "url": "https://www.the-race.com/motogp/marquez-outfoxes-bezzecchi-to-take-crucial-misano-sprint-win/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T13:27:47Z"
-  },
-  {
-   "titulo": "ERX Lousada: Depois das primeiras voltas noturnas, a primeira grande final",
-   "resumo": "O Circuito Internacional de Lousada recebe este sábado a primeira das duas jornadas decisivas do Campeonato da Europa FIA de Ralicross, num programa com mais de nove horas de competição. O…",
-   "url": "https://www.autosport.pt/maismotores/erx-lousada-depois-das-primeiras-voltas-noturnas-a-primeira-grande-final/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-12T13:23:35Z"
-  },
-  {
-   "titulo": "GP de Espanha F1: Lance Stroll com penalização à vista",
-   "resumo": "Lance Stroll vai receber uma penalização na grelha de partida para o Grande Prémio de Espanha, depois de a Aston Martin ter instalado vários novos elementos da unidade motriz no AMR26. O…",
-   "url": "https://www.autosport.pt/formula1/gp-de-espanha-f1-lance-stroll-com-penalizacao-a-vista/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-12T13:11:32Z"
   },
   {
    "titulo": "La Cinquecento Is The Cutest Restomod You Didn’t Know You Wanted",
@@ -237,36 +297,6 @@
    "data": "2026-09-12T13:00:00Z"
   },
   {
-   "titulo": "F1 – Antonelli tops final practice as Hamilton and Bearman crash at Madring",
-   "resumo": "Sport news Kimi Antonelli set the fastest time in Free Practice 3 for the 2026 FIA Formula 1 Spanish Grand Prix, leading Charles Leclerc and Oscar Piastri in the final practice session at…",
-   "url": "https://www.fia.com/news/f1-antonelli-tops-final-practice-hamilton-and-bearman-crash-madring",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T12:44:00Z"
-  },
-  {
-   "titulo": "Hamilton, Bearman crash in final Madrid F1 practice",
-   "resumo": "Formula 1 championship leader Kimi Antonelli headed a final Spanish Grand Prix practice session at the Madring featuring two red flags, including one for a Lewis Hamilton crash at the final…",
-   "url": "https://www.the-race.com/formula-1/hamilton-bearman-crash-in-final-madrid-f1-practice/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T12:11:06Z"
-  },
-  {
-   "titulo": "F1 Spanish GP: Antonelli tops FP3 after Hamilton and Bearman cause red flags",
-   "resumo": "Formula 1 championship leader Kimi Antonelli will head into qualifying at the Spanish Grand Prix’s challenging Madring circuit with the fastest time - following a final practice session…",
-   "url": "https://www.autosport.com/f1/news/f1-spanish-gp-antonelli-tops-fp3-as-hamilton-and-bearman-crash/10854923/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T12:05:22Z"
-  },
-  {
    "titulo": "Dacia quer recuperar o tempo perdido e já tem um plano",
    "resumo": "A Dacia tem feito praticamente tudo bem nos últimos anos. Fez crescer a gama, melhorou significativamente a qualidade dos seus produtos e entrou em segmentos mais elevados, ajudando a…",
    "url": "https://www.razaoautomovel.com/noticias/antevisao-mercado-dacia-quatro-novos-eletricos-2030/",
@@ -275,26 +305,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-12T11:02:37Z"
-  },
-  {
-   "titulo": "FREC: Wheldon stakes title claim with Race 1 pole",
-   "resumo": "Sport news Driving for MP Motorsport, American driver Wheldon was quickest among the Group A contenders to set the overall best time of 1m34.353s on the 4.574-kilometre layout. However…",
-   "url": "https://www.fia.com/news/frec-wheldon-stakes-title-claim-race-1-pole",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T10:39:00Z"
-  },
-  {
-   "titulo": "MotoGP San Marino GP: Bezzecchi beats Marquez for record-breaking pole",
-   "resumo": "Marco Bezzecchi smashed the Misano circuit record to claim his second consecutive pole position of the 2026 MotoGP season at the San Marino Grand Prix. The factory Aprilia rider posted an…",
-   "url": "https://www.autosport.com/motogp/news/motogp-san-marino-gp-bezzecchi-pole/10854862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-12T09:52:18Z"
   },
   {
    "titulo": "This Toyota Patent Turns Your Car into a Hands-Free Camera",
@@ -377,36 +387,6 @@
    "data": "2026-09-12T00:10:00Z"
   },
   {
-   "titulo": "Solberg leads Rally Chile Biobío after challenging opening day",
-   "resumo": "Sport news Making his first Rally Chile Biobío start in Rally1 machinery, Solberg claimed two stage victories as crews faced wet and slippery roads during the morning before increasingly…",
-   "url": "https://www.fia.com/news/solberg-leads-rally-chile-biobio-after-challenging-opening-day",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T23:50:00Z"
-  },
-  {
-   "titulo": "300 Classic Cars Are Going To Auction, Some Starting At Just 50 Cents",
-   "resumo": "From Model Ts to NAPCO pickups, hundreds of classics from one family collection are looking for new homes",
-   "url": "https://www.carscoops.com/2026/09/300-classic-cars-are-going-to-auction-some-starting-at-just-50-cents/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T23:37:00Z"
-  },
-  {
-   "titulo": "Nissan’s New Electric City Car Is Called The Pixo",
-   "resumo": "The electric hatchback debuts later this month and will slot beneath the Micra",
-   "url": "https://www.carscoops.com/2026/09/nissan-pixo-ev/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T23:00:00Z"
-  },
-  {
    "titulo": "Original Owner: Once A Social Climber, This 1969 Mercedes 280SL Became a Hill Climber",
    "resumo": "The pale blue Mercedes sits at the starting line; its owner, Jim Siegel, eagerly anticipates the green flag. Plenty of models that wear the three-pointed star enjoy rich racing histories…",
    "url": "https://www.hagerty.com/media/car-profiles/original-owner-once-a-social-climber-this-1969-mercedes-280sl-became-a-hill-climber/",
@@ -487,16 +467,6 @@
    "data": "2026-09-11T18:00:00Z"
   },
   {
-   "titulo": "Euro RX of Portugal Preview",
-   "resumo": "Sport news Following five thrilling rounds across Latvia, Hungary, Sweden, Ireland and France, every championship remains undecided heading into the final weekend. For the first time this…",
-   "url": "https://www.fia.com/news/euro-rx-portugal-preview",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T17:49:00Z"
-  },
-  {
    "titulo": "Toyota Yaris Cross 2027 mudou pouco e ainda bem",
    "resumo": "A Toyota parece ter seguido à risca o ditado “em equipa que ganha não se mexe” e limitou-se a limar algumas arestas do seu modelo mais vendido. Há atualizações destinadas a corrigir…",
    "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/toyota-yaris-cross-2027/",
@@ -515,16 +485,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-11T17:30:00Z"
-  },
-  {
-   "titulo": "F1 – Antonelli leads Ferrari duo in second practice in Madrid",
-   "resumo": "Sport news Mercedes driver Kimi Antonelli set the pace in Free Practice 2 for the 2026 FIA Formula 1 Spanish Grand Prix, edging Ferrari’s Charles Leclerc and Lewis Hamilton in the second…",
-   "url": "https://www.fia.com/news/f1-antonelli-leads-ferrari-duo-second-practice-madrid",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-11T16:48:00Z"
   },
   {
    "titulo": "Revendedores de combustíveis acusam Governo de “mentir aos portugueses”",
@@ -577,16 +537,6 @@
    "data": "2026-09-11T14:05:14Z"
   },
   {
-   "titulo": "This Is It: 2027 Porsche Boxster EV, Spied Camo-Free",
-   "resumo": "Porsche stopped taking orders for the 982-generation 718 Boxster and 718 Cayman in September 2025, 14 months after announcing that both gas-powered models would be replaced by EVs. Those…",
-   "url": "https://www.hagerty.com/media/news/2027-porsche-boxster-ev-spy-shots-styling/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-11T14:00:00Z"
-  },
-  {
    "titulo": "Gold-Plated 1953 Cadillac Sells For $1,275,000, Sets Auction Record",
    "resumo": "A one-off 1953 Cadillac Elegante with 24-karat gold coachwork and just 4,331 miles now defines the ceiling for bespoke American luxury.",
    "url": "https://www.motor1.com/news/807968/gold-plated-1953-cadillac-elegante/",
@@ -615,6 +565,56 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-11T10:00:00Z"
+  },
+  {
+   "titulo": "Chery aims for 'German feeling' with new UK-bound Tiggo X SUVs",
+   "resumo": "Major product roll-out and new British R&D base for Chinese brand as it puts VW in its sights Chery is priming the next phase in its plan to conquer the British market with four new models…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/chery-aims-german-feeling-new-uk-bound-tiggo-x-suvs",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-11T08:00:00Z"
+  },
+  {
+   "titulo": "New Bovensiepen Spider revealed as £99k BMW Z4 with 429bhp",
+   "resumo": "Alpina founders turn retired roadster into a 183mph ’bahnstormer with lashings of leather Bovensiepen, the new marque set up by the founders of Alpina, has turned the BMW Z4 into a 429bhp…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/new-bovensiepen-spider-revealed-%C2%A399k-bmw-z4-429bhp",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-11T07:45:48Z"
+  },
+  {
+   "titulo": "The Überleben Kräftig Grip Ferro Rod Survival Fire Starter",
+   "resumo": "This is the Kräftig Grip, it’s a ferro rod fire starter from Idaho-based company Überleben, and each one lasts 20,000+ strikes. Ferro rods (short... The post The Überleben Kräftig Grip…",
+   "url": "https://silodrome.com/uberleben-kraftig-grip-ferro-rod-survival-fire-starter/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-11T06:30:09Z"
+  },
+  {
+   "titulo": "The specialist: AGV Bodywork",
+   "resumo": "The specialist: AGV Bodywork Ryan Standen Fri, 11/09/2026 - 05:22",
+   "url": "https://www.classicandsportscar.com/features/specialist-agv-bodywork",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-11T04:22:17Z"
+  },
+  {
+   "titulo": "Triumph TR8s: missed opportunity",
+   "resumo": "Triumph TR8s: missed opportunity Ryan Standen Fri, 11/09/2026 - 05:21",
+   "url": "https://www.classicandsportscar.com/features/triumph-tr8s-missed-opportunity",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-11T04:21:50Z"
   }
  ]
 }
