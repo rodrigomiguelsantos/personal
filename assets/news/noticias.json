@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-13T20:50:11Z",
+ "atualizado": "2026-09-14T04:55:39Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,14 +18,144 @@
  ],
  "itens": [
   {
-   "titulo": "Lewis Hamilton “lucky to make it round” after Spanish GP brake failure",
-   "resumo": "Ferrari driver Lewis Hamilton says he was \"lucky to make it round\" to the garage after suffering a brake failure in the opening stages of Madrid's Spanish GP. Hamilton had been battling Max…",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-lucky-to-make-it-round-after-spanish-gp-brake-failure/10855642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "Grosjean apologises for 'misunderstanding' Brown's Piastri comments",
+   "resumo": "Romain Grosjean has apologised for how he represented McLaren boss Zak Brown's comments about Oscar Piastri in Madrid",
+   "url": "https://www.the-race.com/formula-1/grosjean-apologises-for-misunderstanding-browns-piastri-comments/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T04:25:40Z"
+  },
+  {
+   "titulo": "10 head-turning Japanese classic cars for sale at Goodwood Revival 2026",
+   "resumo": "10 head-turning Japanese classic cars for sale at Goodwood Revival 2026 Ryan Standen Mon, 14/09/2026 - 04:58",
+   "url": "https://www.classicandsportscar.com/gallery/10-head-turning-japanese-classic-cars-sale-goodwood-revival-2026",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-14T03:58:27Z"
+  },
+  {
+   "titulo": "The NASCAR Cup Series Chase comes into focus after chaotic Gateway",
+   "resumo": "Ultimately, the beauty of the new Chase for the Championship format is that is that with enough wins and stage points, no deficit is ultimately insurmountable and no points lead is safe…",
+   "url": "https://www.motorsport.com/nascar-cup/news/the-cup-series-chase-comes-into-focus-after-chaotic-gateway-/10855701/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-13T20:21:18Z"
+   "data": "2026-09-14T03:37:52Z"
+  },
+  {
+   "titulo": "NASCAR swear jar fines double after 245 curses caught on the radio at Gateway",
+   "resumo": "245 swear words were picked up on NASCAR Cup radios during Sunday's wild race at WWT Raceway, and with the Sanctioning Body paying a self-imposed $5 fine for each one, that's a total of…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-swear-jar-fine-doubles-after-245-curses-caught-on-the-radio-at-gateway/10855696/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T03:19:50Z"
+  },
+  {
+   "titulo": "Kyle Larson's winless drought was a bigger deal to you than him",
+   "resumo": "16 months51 races If it wasn’t for the fact that the punditry has made a big deal out of this, Kyle Larson wouldn’t know or wouldn’t care how long it’s been since he had won a NASCAR Cup…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larsons-winless-drought-was-a-bigger-deal-to-you-than-him/10855692/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T02:15:40Z"
+  },
+  {
+   "titulo": "Carson Hocevar spent 20 minutes signing for fans after Gateway finish: 'Some of us are still fans at heart'",
+   "resumo": "It's safe to say that everyone had something to say about Carson Hocevar this week. After Hocevar made contact with Brad Keselowski at Darlington, and then seemed pretty nonplussed when…",
+   "url": "https://www.motorsport.com/nascar-cup/news/carson-hocevar-spent-20-minutes-signing-for-fans-after-gateway-finish-some-of-us-are-still-fans-at-/10855687/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T01:35:59Z"
+  },
+  {
+   "titulo": "Complete NASCAR Cup points standings after 2026 Gateway",
+   "resumo": "After a dizzying NASCAR Cup race at WWT Raceway with a track record 18 cautions, Denny Hamlin still holds onto the championship lead, but he's just nine points ahead. Kyle Larson was the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/complete-nascar-cup-points-standings-after-2026-gateway/10855676/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T01:21:20Z"
+  },
+  {
+   "titulo": "How Cutting Corners and an Unlucky VSC Added Intrigue to an Uneventful Madrid F1 Race",
+   "resumo": "What-ifs seperate the winner from the losers at Madring’s first F1 Grand Prix.",
+   "url": "https://www.roadandtrack.com/news/a73712261/how-cutting-corners-and-an-unlucky-vsc-added-intrigue-to-an-uneventful-madrid-f1-race/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-14T00:33:39Z"
+  },
+  {
+   "titulo": "FIA World Rally Championship – Rally Chile Biobío - Event Review",
+   "resumo": "Sport news Please click here to view the PDF version. World Rally Championship WRC SEASON 2026 Sport Rallies 1SportWorld Rally ChampionshipRalliesSEASON 2026WRC00 Monday, September 14, 2026…",
+   "url": "https://www.fia.com/news/fia-world-rally-championship-rally-chile-biobio-event-review",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-14T00:03:00Z"
+  },
+  {
+   "titulo": "Kyle Larson Ends Winless Streak at Record-Breaking Caution-Filled Race at Gateway",
+   "resumo": "Larson breaks his 51-race winless streak at one of his worst tracks to skyrocket to second in the Chase standings.",
+   "url": "https://www.roadandtrack.com/news/a73708102/kyle-larson-breaks-winless-streak-record-breaking-caution-filled-race-at-gateway/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-13T23:58:36Z"
+  },
+  {
+   "titulo": "Skoda Epiq",
+   "resumo": "It's Skoda's turn to introduce an affordable small EV – and this one will have its rivals worried Umbrellas hidden in the doors? Check. Ice scraper in the charging port cover? Check. Little…",
+   "url": "https://www.autocar.co.uk/car-review/skoda/epiq",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-13T21:59:00Z"
+  },
+  {
+   "titulo": "Copart’s $1.9 Billion Bet Is About Controlling the Used-Car Pipeline",
+   "resumo": "Copart is buying ACV Auctions to handle dealer trade-ins, wholesale vehicles, salvage cars, and more",
+   "url": "https://www.carscoops.com/2026/09/coparts-1-9-billion-bet-is-about-controlling-the-used-car-pipeline/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-13T21:20:00Z"
+  },
+  {
+   "titulo": "João Ferreira and Filipe Palmeiro win Baja Spain Aragón for second successive year",
+   "resumo": "Sport news The Toyota Gazoo Racing SA Hilux Evo crew were the class of the 58-car field on the fifth round of both the FIA World and European Baja Cups. They won the first two selective…",
+   "url": "https://www.fia.com/news/joao-ferreira-and-filipe-palmeiro-win-baja-spain-aragon-second-successive-year",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-13T21:19:00Z"
+  },
+  {
+   "titulo": "Evans: Late puncture was “harsh” but WRC title position is still \"okay”",
+   "resumo": "Elfyn Evans believes he’s still in an “okay” position in the World Rally Championship title race despite a late puncture that robbed him of a valuable Rally Chile podium. The championship…",
+   "url": "https://www.autosport.com/wrc/news/elfyn-evans-says-rally-chile-puncture-was-harsh-as-wrc-lead-shrinks-to-17-points/10855647/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-13T21:07:44Z"
   },
   {
    "titulo": "Goodyear FIA ETRC Zolder raceday two round-up: Kiss shines in the Belgian rain with epic victory double",
@@ -37,54 +168,14 @@
    "data": "2026-09-13T19:50:00Z"
   },
   {
-   "titulo": "FREC: Olivieri is inaugural FREC champion*",
+   "titulo": "FREC: Olivieri is inaugural FIA FR European champion*",
    "resumo": "Sport news After eight events and 19 races, Italian Olivieri, driving for the French R-ace GP squad, beat American Sebastian Wheldon, who won the deciding contest in Germany by finishing…",
-   "url": "https://www.fia.com/news/frec-olivieri-inaugural-frec-champion",
+   "url": "https://www.fia.com/news/frec-olivieri-inaugural-fia-fr-european-champion",
    "fonte": "FIA",
    "dominio": "fia.com",
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-13T19:43:00Z"
-  },
-  {
-   "titulo": "Lando Norris to test McLaren MCL-HY hypercar ahead of Azerbaijan GP",
-   "resumo": "Lando Norris will test McLaren's new MCL-HY hypercar at the Algarve International Circuit ahead of the Azerbaijan Grand Prix. The test at the Portimao circuit is set to take place on Monday…",
-   "url": "https://www.motorsport.com/f1/news/lando-norris-to-test-mclaren-mcl-hy-hypercar-ahead-of-azerbaijan-gp/10855632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T19:40:23Z"
-  },
-  {
-   "titulo": "Winners and losers from F1's underwhelming Spanish Grand Prix",
-   "resumo": "Formula 1's first visit to Madrid in 45 years went off to a smooth enough start off the track, but its inaugural race at the Madring left plenty to be desired. Starting from a relatively…",
-   "url": "https://www.motorsport.com/f1/news/winners-and-losers-f1-underwhelming-spanish-gp/10855625/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T19:32:52Z"
-  },
-  {
-   "titulo": "\"Simply too many mistakes\": Will Engel's 15-second penalty cost him the DTM title?",
-   "resumo": "Will the bitter penalty for Maro Engel after the collision with Kelvin van der Linde cost him the DTM title? The Winward Mercedes driver, who had started from pole position at the DTM race…",
-   "url": "https://www.motorsport.com/dtm/news/simply-too-many-mistakes-will-engels-15-second-penalty-cost-him-the-dtm-title/10855621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T19:21:19Z"
-  },
-  {
-   "titulo": "Carlos Sainz accuses Fernando Alonso of provoking a penalty \"like always\"",
-   "resumo": "As if complaints about the track layout weren't enough, the first Formula 1 Spanish Grand Prix at the new Madring circuit provoked an unseemly spat between the two home heroes. Fernando…",
-   "url": "https://www.motorsport.com/f1/news/sainz-accuses-alonso-of-provoking-a-penalty-like-always/10855613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T19:04:47Z"
   },
   {
    "titulo": "Toyota iguala recorde histórico da Lancia: 10º título do WRC",
@@ -237,16 +328,6 @@
    "data": "2026-09-13T16:25:19Z"
   },
   {
-   "titulo": "F1 - 2026 Spanish Grand Prix Post-Race Press Conference Transcript",
-   "resumo": "Sport news DRIVERS 1 – Kimi ANTONELLI (Mercedes) 2 – Max VERSTAPPEN (Red Bull Racing) 3 – Lando NORRIS (McLaren) TRACK INTERVIEWS (Conducted by James Hinchcliffe) Q: We’re here with the…",
-   "url": "https://www.fia.com/news/f1-2026-spanish-grand-prix-post-race-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T16:14:00Z"
-  },
-  {
    "titulo": "Red Bull defends decision to force Verstappen to give back two positions",
    "resumo": "Max Verstappen finished second in the Formula 1 Spanish Grand Prix in Madrid, losing out only to Kimi Antonelli - yet could he have won had Red Bull not instructed him to concede two…",
    "url": "https://www.autosport.com/f1/news/red-bull-defends-decision-to-force-verstappen-to-give-back-two-positions/10855497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -277,16 +358,6 @@
    "data": "2026-09-13T15:51:58Z"
   },
   {
-   "titulo": "WRC Chile: Penultimate stage puncture dashes Evans’ Chile podium bid",
-   "resumo": "A penultimate stage puncture has cost World Rally Championship leader Elfyn Evans valuable points as the Welshman dropped from second to fifth at Rally Chile. The Toyota driver appeared on…",
-   "url": "https://www.autosport.com/wrc/news/wrc-chile-penultimate-stage-puncture-dashes-evans-chile-podium-bid-/10855482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T15:35:20Z"
-  },
-  {
    "titulo": "Antonelli Wins Inaugural Spanish Grand Prix at Madring Following Norris’ Untimely Pit",
    "resumo": "Lando Norris went to pit at the end of the race’s only VSC costing him what could’ve been a win the Spanish Grand Prix, instead Kimi Antonelli extends his lead in the WDC.",
    "url": "https://www.roadandtrack.com/news/a73707069/antonelli-wins-inaugural-spanish-grand-prix-madring-norris-untimely-pit/",
@@ -305,16 +376,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-13T15:00:00Z"
-  },
-  {
-   "titulo": "F1 2026 Spanish Grand Prix race results at Madrid",
-   "resumo": "Mercedes's Kimi Antonelli took advantage of a VSC pitstop to win the inaugural 2026 Spanish Grand Prix at Madrid's Madring.",
-   "url": "https://www.the-race.com/formula-1/f1-2026-italian-grand-prix-race-results-2/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T14:47:33Z"
   },
   {
    "titulo": "The Mitsubishi Eclipse Cross You Can’t Have Just Got Way Cheaper",
@@ -365,16 +426,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-13T12:13:34Z"
-  },
-  {
-   "titulo": "FREC: Wheldon to start four-way title decider from pole",
-   "resumo": "Sport news Although American Wheldon will head into final race of the inaugural FIA FREC season this afternoon 16 points behind Emanuele Olivieri following his non-score in Race 1 on…",
-   "url": "https://www.fia.com/news/frec-wheldon-start-four-way-title-decider-pole",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-13T11:30:00Z"
   },
   {
    "titulo": "Testei o Skoda Kodiaq que mais faz sentido",
@@ -447,16 +498,6 @@
    "data": "2026-09-12T21:00:03Z"
   },
   {
-   "titulo": "Buick’s 2006 Envista ST Is A Love Letter To Buick Loyalists | Review",
-   "resumo": "PROS ›› Attractive pricing, Comfortable cabin, Easy to park CONS ›› Tough",
-   "url": "https://www.carscoops.com/2026/09/buick-2006-envista-st-review/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-12T18:04:00Z"
-  },
-  {
    "titulo": "This Green E55 AMG Torqued Its Way To An Outstanding Payday",
    "resumo": "Power-hungry Americans are no strangers to the appeal of superchargers. Centrifugal Paxton superchargers made a splash on cars like the original Ford Thunderbird, while Eaton roots-type…",
    "url": "https://www.hagerty.com/media/market-trends/this-green-e55-amg-torqued-its-way-to-an-outstanding-payday/",
@@ -465,16 +506,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-12T16:00:00Z"
-  },
-  {
-   "titulo": "Lando Norris Continues His Hot Qualifying Streak with Spanish Grand Prix Pole",
-   "resumo": "The defending champion secured his third pole in four Grand Prix at F1’s newest track.",
-   "url": "https://www.roadandtrack.com/news/a73698791/lando-norris-continues-hot-qualifying-streak-with-spanish-grand-prix-pole/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-12T15:13:06Z"
   },
   {
    "titulo": "This Porsche 911 Turbo S Is a Near-Twin to Michael Jordan’s Car",
@@ -537,16 +568,6 @@
    "data": "2026-09-12T07:00:00Z"
   },
   {
-   "titulo": "Audi RS5: Full test of the V6 hyper-wagon that beats physics",
-   "resumo": "RS4 replacement is a 2.4-tonne plug-in hybrid, yet the engineers promise it’s much more fun to drive Preconceptions can be awfully sticky. Think ‘fast Audi’ and you might still think of…",
-   "url": "https://www.autocar.co.uk/car-review/audi/rs5",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-12T07:00:00Z"
-  },
-  {
    "titulo": "Vintage Home-On-Wheels: A 1965 Ford F-250 + Mitchell & Sons Camper",
    "resumo": "This is a 1965 Ford F-250 Custom Camper Special fitted with a period correct Mitchell & Sons Camper. Both the truck and the camper... The post Vintage Home-On-Wheels: A 1965 Ford F-250 +…",
    "url": "https://silodrome.com/ford-f-250-mitchell-sons-camper/",
@@ -587,16 +608,6 @@
    "data": "2026-09-11T21:00:00Z"
   },
   {
-   "titulo": "This Fiat Topolino Barchetta Looks Like Happiness on 4 Wheels",
-   "resumo": "The Fiat-based Top. L and Top. J concepts were just revealed by Giugiaro’s design house.",
-   "url": "https://www.roadandtrack.com/news/a73690704/fiat-topolino-barchetta/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T20:45:35Z"
-  },
-  {
    "titulo": "The Mercedes-AMG CLE 646 Spezialanfertigung Is a Long-Named Track Monster",
    "resumo": "The folks at Mercedes-AMG have been quite busy, it seems. Meet the new Mercedes‑AMG CLE 646 Spezialanfertigung (gesundheit!), a limited-run, track-melting weapon. This menacing mouthful…",
    "url": "https://www.hagerty.com/media/news/the-mercedes-amg-cle-646-spezialanfertigung-is-a-limited-run-637-hp-track-monster/",
@@ -605,16 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-11T20:30:00Z"
-  },
-  {
-   "titulo": "Ford's Most Extreme Mustang Is Even Rarer Than You Think",
-   "resumo": "A breakdown of Ford’s production numbers reveals the GTD accounts for just 1.0 percent of Mustang production.",
-   "url": "https://www.motor1.com/news/808007/ford-mustang-gtd-production-numbers/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-11T18:00:00Z"
   }
  ]
 }
