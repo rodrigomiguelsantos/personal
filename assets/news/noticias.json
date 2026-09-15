@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-15T16:58:49Z",
+ "atualizado": "2026-09-15T21:20:38Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,156 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Gateway was a race of opportunity for drivers with several posting season-best results",
+   "resumo": "In a dramatic race with a track record and season-high 18 cautions, a handful of drivers found themselves in position to score their best finish of the year, or at least their strongest…",
+   "url": "https://www.motorsport.com/nascar-cup/news/gateway-was-a-race-of-opportunity-for-drivers-with-several-posting-season-best-results/10856217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T20:21:27Z"
+  },
+  {
+   "titulo": "The Adorable Porsche 550 Spyder J Is an 80%-Scale Electric Replica of a Legend",
+   "resumo": "Porsche Motorsport is marking 75 years of the 550 Spyder with a limited-edition collector's piece.",
+   "url": "https://www.roadandtrack.com/news/a73746430/hedley-electric-porsche-550-spyder-replica/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T19:58:04Z"
+  },
+  {
+   "titulo": "The Ford Crown Victoria Is Now a Popular Secret Handshake",
+   "resumo": "Great cars can occasionally take time to make their presence known. Sure, there are immediate hits that become cultural icons from day one, but most of the cars that have made the strongest…",
+   "url": "https://www.hagerty.com/media/automotive-history/the-ford-crown-victoria-is-now-a-popular-secret-handshake/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T19:30:00Z"
+  },
+  {
+   "titulo": "Complicated Infotainment Screens Are Involved in 25% of New Vehicle Problems, Study Suggests",
+   "resumo": "Infotainment issues represent the top five most common problems reported by buyers of 2026 model year vehicles, JD Power says.",
+   "url": "https://www.roadandtrack.com/news/a73745551/complicated-screen-interfaces-25-percent-new-vehicle-problems-study/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T19:24:54Z"
+  },
+  {
+   "titulo": "Christian Rasmussen reunites with Era Motorsport for IMSA’s Indianapolis sprint round",
+   "resumo": "Fresh off his second full-time IndyCar Series campaign with ECR, Christian Rasmussen is reuniting with Era Motorsport for this weekend’s Battle on the Bricks at Indianapolis Motor Speedway…",
+   "url": "https://www.motorsport.com/imsa/news/christian-rasmussen-reunites-with-era-motorsport-for-imsas-indianapolis-sprint-round/10856212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T19:19:58Z"
+  },
+  {
+   "titulo": "Dealer Admits Trafficking Fake Honda Airbags Shipped As Night Lights",
+   "resumo": "Federal agents found fake Honda airbags at an Ohio dealership, including several covered by a towel inside a clothes hamper",
+   "url": "https://www.carscoops.com/2026/09/dealer-admits-trafficking-fake-honda-airbags-shipped-as-night-lights/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T19:06:00Z"
+  },
+  {
+   "titulo": "Qual o Toyota bZ4X que faz mais sentido comprar?",
+   "resumo": "Elétricos que gostam de sair de estrada. Este conceito ainda parece algo estranho, mas há uma família de modelos 100% elétricos da Toyota que está como peixe na água quando o alcatrão…",
+   "url": "https://www.razaoautomovel.com/branded-content/guia-de-compra-toyota-bz4x-touring-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-15T18:39:19Z"
+  },
+  {
+   "titulo": "Stellantis’ BOW Concept Has No Driver, No Cab, And No Specs",
+   "resumo": "Stellantis and UQI Robotics unveiled BOW, a driverless electric box designed for urban deliveries",
+   "url": "https://www.carscoops.com/2026/09/stellantis-bow-concept-has-no-driver-no-cab-and-no-specs/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T18:19:00Z"
+  },
+  {
+   "titulo": "Land Rover and Stellantis Aim to Build a Defender Truck in the U.S.",
+   "resumo": "A Defender truck could be the first U.S.-built vehicle to come out of the new partnership between Jaguar Land Rover and Stellantis.",
+   "url": "https://www.caranddriver.com/news/a73745451/land-rover-stellantis-defender-truck-us-production/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T18:16:48Z"
+  },
+  {
+   "titulo": "GM Keeps Apple CarPlay And Android Auto On Its New Truck Interface",
+   "resumo": "A new user interface in the 2027 Silverado and Sierra continues to support smartphone mirroring, and it could come to other vehicles.",
+   "url": "https://www.motor1.com/news/808403/general-motors-apple-carplay-new-ui/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T18:00:00Z"
+  },
+  {
+   "titulo": "The Best Sleeper Cars You Can Buy",
+   "resumo": "These sedans, hatchbacks, SUVs, and pickup trucks offer surprising performance while flying under the radar, and that’s the point.",
+   "url": "https://www.roadandtrack.com/rankings/g13100206/best-sleeper-cars/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T17:56:31Z"
+  },
+  {
+   "titulo": "F1: GP do Azerbaijão será no sábado",
+   "resumo": "O Grande Prémio do Azerbaijão de 2026 será disputado excecionalmente num sábado, 26 de setembro, em vez do habitual domingo. A alteração do formato do fim de semana em Baku pretende evitar…",
+   "url": "https://www.autosport.pt/formula1/f1-gp-do-azerbaijao-sera-no-sabado/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T17:19:29Z"
+  },
+  {
+   "titulo": "Best Car Scratch Removers, Tested",
+   "resumo": "From quick fixes to pro-grade polishers, I got hands-on with the year’s best scratch removers to see which really restore your finish.",
+   "url": "https://www.roadandtrack.com/gear/a65173575/best-car-scratch-remover-tested/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T17:18:24Z"
+  },
+  {
+   "titulo": "The 2027 Ford F-150 Gets More Muscle, Hands-Free Towing And A Carhartt Wardrobe",
+   "resumo": "Ford has upgraded the base truck’s 2.7 to 3.0 liters and will soon offer a BlueCruise towing option",
+   "url": "https://www.carscoops.com/2026/09/the-2027-ford-f-150-gets-more-muscle-hands-free-towing-and-a-carhartt-wardrobe/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T17:15:00Z"
+  },
+  {
+   "titulo": "Tips for Buying an Old Car Sight-Unseen, Without Getting Torched",
+   "resumo": "Late at night, deep in the recesses of some dark corner of the internet, I’ll spy a vintage vehicle many states away and gasp. A diamond in the rough! I’ve done it. I’ve found it. I’m wise…",
+   "url": "https://www.hagerty.com/media/buying-and-selling/tips-for-buying-an-old-car-sight-unseen-without-getting-torched/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T17:00:00Z"
+  },
   {
    "titulo": "From Värnamo to victory lane: Hometown hero Felix Rosenqvist set for Sweden celebration",
    "resumo": "Fresh off his victory at the 2026 Indianapolis 500 presented by Gainbridge, Felix Rosenqvist will return to his Swedish hometown of Värnamo for a free, family-friendly public celebration on…",
@@ -67,16 +217,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-15T16:16:00Z"
-  },
-  {
-   "titulo": "These Are the 20 Longest-Lasting Cars, Trucks, and SUVs in 2026: Report",
-   "resumo": "Piling on the miles is no problem for this collection of vehicles.",
-   "url": "https://www.roadandtrack.com/news/a73741744/20-longest-lasting-cars-trucks-suvs-2026/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T16:11:56Z"
   },
   {
    "titulo": "Mario Andretti headlines first batch of Sebring’s 75 all-time greatest drivers",
@@ -129,16 +269,6 @@
    "data": "2026-09-15T15:52:06Z"
   },
   {
-   "titulo": "Why Ferrari won't switch focus to 2027 F1 car yet",
-   "resumo": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances. After Lewis Hamilton retired from the Spanish…",
-   "url": "https://www.motorsport.com/f1/news/why-ferrari-wont-switch-focus-to-2027-f1-car-yet/10856168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T15:49:53Z"
-  },
-  {
    "titulo": "One-Off Rolls-Royce Phantom Hummingbird Is The First To Use Abalone Shells",
    "resumo": "Rolls-Royce spent over nine months trying to master the new material, used to replicate the iridescent feathers of a hummingbird",
    "url": "https://www.carscoops.com/2026/09/rolls-royce-phantom-hummingbird/",
@@ -157,16 +287,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-15T15:40:21Z"
-  },
-  {
-   "titulo": "JLR-Stellantis Partnership Will Reportedly Result in a U.S.-Made Land Rover Defender Pickup",
-   "resumo": "A tie-up with Ram would seem to be the obvious way about it, but details regarding size and platform remain a mystery for now.",
-   "url": "https://www.roadandtrack.com/news/a73742344/jlr-stellantis-partnership-us-made-land-rover-defender-pickup-report/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T15:32:11Z"
   },
   {
    "titulo": "F1: Arvid Lindblad continua a impressionar",
@@ -189,31 +309,11 @@
    "data": "2026-09-15T15:30:00Z"
   },
   {
-   "titulo": "17-Year-Old Driving C7-Gen Chevy Corvette Caught Doing 123 MPH in a 55, Cops Say",
-   "resumo": "As if being caught doing 68 mph over the speed limit wasn't bad enough, the CHP officer then called the teen driver's parent.",
-   "url": "https://www.roadandtrack.com/news/a73742034/17-year-old-teenager-chevrolet-c7-corvette-123-mph-speeding/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T15:19:58Z"
-  },
-  {
    "titulo": "These Cars Are Most Likely To Reach 250,000 Miles",
    "resumo": "From Honda to Toyota, these cars have more than a 25 percent chance of reaching a quarter-million miles.",
    "url": "https://www.motor1.com/news/808362/car-models-most-likely-reach-250000-miles/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T15:00:00Z"
-  },
-  {
-   "titulo": "$95k Buys One Of These Official Porsche Licensed 550 Spyders, But There’s One Small Problem",
-   "resumo": "80% scale electric 550 A replica is more affordable than the $3 million real thing but only gets 11 hp as standard",
-   "url": "https://www.carscoops.com/2026/09/embargo-sep-15-11-am-est95k-buys-one-of-these-official-porsche-licensed-550-spyders-but-theres-one-small-problem/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-15T15:00:00Z"
@@ -239,16 +339,6 @@
    "data": "2026-09-15T14:59:16Z"
   },
   {
-   "titulo": "Kankkunen: Toyota’s record-equalling WRC title “quite incredible”",
-   "resumo": "Toyota’s record-equalling World Rally Championship manufacturers' title is “quite incredible”, according to deputy team principal Juha Kankkunen. The Japanese brand created more history in…",
-   "url": "https://www.motorsport.com/wrc/news/kankkunen-toyotas-record-equalling-wrc-title-quite-incredible/10856152/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T14:58:36Z"
-  },
-  {
    "titulo": "F1: Laurent Mekies elogiou Liam Lawson",
    "resumo": "Laurent Mekies elogiou o desempenho de Liam Lawson no regresso temporário à Red Bull, considerando-o “muito forte” após três fins de semana em que substituiu o lesionado Isack Hadjar. O…",
    "url": "https://www.autosport.pt/formula1/f1-laurent-mekies-elogiou-liam-lawson/",
@@ -269,16 +359,6 @@
    "data": "2026-09-15T14:30:00Z"
   },
   {
-   "titulo": "After Trump Blasted Ford, GM Goes All-In On The US For Its Next-Gen Batteries",
-   "resumo": "GM is working to establish US supply chains for energy storage systems and electric vehicles",
-   "url": "https://www.carscoops.com/2026/09/gm-battery-production-usa/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T14:23:00Z"
-  },
-  {
    "titulo": "Next World Champion to be Crowned During Unmissable Weekend of Karting Action in Le Mans",
    "resumo": "Sport news Le Mans will this weekend (17-20 September) host what will be a gripping showdown to decide some of the most coveted titles in karting when the Mondokart.com FIA Karting World…",
    "url": "https://www.fia.com/news/next-world-champion-be-crowned-during-unmissable-weekend-karting-action-le-mans",
@@ -287,26 +367,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-15T14:07:00Z"
-  },
-  {
-   "titulo": "Porsche Sprint Challenge: Kika Queiroz voltou a subir ao pódio, agora em Jerez",
-   "resumo": "Kika Queiroz voltou a subir ao pódio no Circuito de Jerez de la Frontera e reforçou a liderança da Ladies Cup na Porsche Sprint Challenge Ibérica. A piloto portuguesa encerrou a ronda…",
-   "url": "https://www.autosport.pt/velocidade/porsche-sprint-challenge-kika-queiroz-voltou-a-subir-ao-podio-agora-em-jerez/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T13:58:44Z"
-  },
-  {
-   "titulo": "AMG’s GLC Is Getting A New Look, But Not The CLE 646’s V8",
-   "resumo": "The compact 53-baged SUV will hang on to the 3.0-liter mild hybrid introduced when AMG axed the four-cylinder GLC 63",
-   "url": "https://www.carscoops.com/2026/09/amgs-glc-is-getting-a-new-look-but-not-the-cle-646s-v8/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T13:50:00Z"
   },
   {
    "titulo": "This 'fix' wouldn't have saved F1's Spanish GP",
@@ -337,16 +397,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-15T13:00:03Z"
-  },
-  {
-   "titulo": "Final Parking Space: 1988 Mercedes-Benz 300 TE",
-   "resumo": "We haven’t seen a German vehicle in this series for nearly six months, so I decided it was time for an all-time Legendäre deutsche Maschine. I found this W124 wagon a couple of years ago at…",
-   "url": "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1988-mercedes-benz-300-te/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T13:00:00Z"
   },
   {
    "titulo": "A 7.2 Liter V8-Powered 1968 Chevrolet C10 “Rat Rod”",
@@ -459,16 +509,6 @@
    "data": "2026-09-15T10:04:46Z"
   },
   {
-   "titulo": "Ford F-150 Raptor And Tremor Get Major Price Cuts For 2027",
-   "resumo": "The automaker is launching new Tremor and Raptor trims with less content at a lower price, without compromising off-road capability.",
-   "url": "https://www.motor1.com/news/808263/ford-f150-tremor-raptor-cheaper-2027/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T10:00:00Z"
-  },
-  {
    "titulo": "2027 Ford F-150 Gains a New Engine and a Carhartt-Branded Model",
    "resumo": "The twin-turbo 2.7-liter V-6 has been replaced by a twin-turbo 3.0-liter V-6, and several models feature new grille designs.",
    "url": "https://www.caranddriver.com/news/a73729393/2027-ford-f-150-carhartt-revealed/",
@@ -487,26 +527,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-15T10:00:00Z"
-  },
-  {
-   "titulo": "2027 Ford F-150: Engine Shuffle, Entry-Level Off-Roaders, a New Way to Tow",
-   "resumo": "In the last six years, Ford has been content to change its cash-cow F-150 in ways that are evolutionary, not revolutionary. The updates for the 2027 model year are similarly incremental…",
-   "url": "https://www.hagerty.com/media/news/2027-ford-f-150-engine-shuffle-entry-level-off-roaders-a-new-way-to-tow/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T10:00:00Z"
-  },
-  {
-   "titulo": "Audi A3 foi atualizado e tem novos preços em Portugal",
-   "resumo": "O Audi A3 foi atualizado no início de verão, numa revisão bem mais discreta do que a profunda atualização que aconteceu em 2024. Desta vez, as principais novidades encontram-se no interior…",
-   "url": "https://www.razaoautomovel.com/noticias/lancamento-precos-audi-a3-sportback-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-15T09:34:48Z"
   },
   {
    "titulo": "Dacia CEO: Relax small car rules to reduce prices in Europe",
@@ -534,26 +554,6 @@
    "url": "https://www.autocar.co.uk/car-news/new-cars/new-look-volvo-xc60-phev-brings-124-miles-electric-range",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T07:00:00Z"
-  },
-  {
-   "titulo": "2028 Volvo XC60 Has a Prettier Face and a Lot More Electric-Only Range",
-   "resumo": "Volvo has once again refreshed its all-time bestseller, and the updates bring an enhanced plug-in hybrid powertrain.",
-   "url": "https://www.caranddriver.com/news/a73698809/2028-volvo-xc60-hybrid-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T07:00:00Z"
-  },
-  {
-   "titulo": "The 2028 Volvo XC60 T8 Plug-In Hybrid Gains Monster EV Range",
-   "resumo": "A new 37.9-kWh battery pack means the PHEV will be able to travel up to 78 miles on electric power.",
-   "url": "https://www.roadandtrack.com/news/a73722278/2028-volvo-xc60-t8-plug-in-monster-ev-range/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-15T07:00:00Z"
