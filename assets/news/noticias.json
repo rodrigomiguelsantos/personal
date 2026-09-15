@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-15T11:43:40Z",
+ "atualizado": "2026-09-15T16:58:49Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -11,7 +11,6 @@
   "Hagerty",
   "Motor1",
   "Motorsport.com",
-  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
@@ -19,6 +18,366 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "From Värnamo to victory lane: Hometown hero Felix Rosenqvist set for Sweden celebration",
+   "resumo": "Fresh off his victory at the 2026 Indianapolis 500 presented by Gainbridge, Felix Rosenqvist will return to his Swedish hometown of Värnamo for a free, family-friendly public celebration on…",
+   "url": "https://www.motorsport.com/indycar/news/from-varnamo-to-victory-lane-hometown-hero-felix-rosenqvist-set-for-sweden-celebration/10856184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T16:37:26Z"
+  },
+  {
+   "titulo": "2028 Volvo XC90’s New Plug-in Hybrid Powertrain Will Save You Money",
+   "resumo": "Volvo calls it a ‘long-range’ plug-in hybrid, and with 73 miles of pure-electric range, it should mean fewer fill-ups.",
+   "url": "https://www.caranddriver.com/news/a73742218/2028-volvo-xc90-phev-update/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T16:34:56Z"
+  },
+  {
+   "titulo": "This Rolls-Royce Phantom One-Off Has Abalone Shell Hummingbird Inlays",
+   "resumo": "The custom-ordered Phantom’s signature birds each integrate 53 pieces of abalone shell and mother-of-pearl.",
+   "url": "https://www.roadandtrack.com/news/a73742304/rolls-royce-one-off-phantom-hummingbird-abalone-shell/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T16:34:30Z"
+  },
+  {
+   "titulo": "Kia’s EV9 Fire Sale Could Save You $16,000 Off MSRP",
+   "resumo": "With sales down 33% compared to a year ago, Kia and dealers are stepping up with big discounts",
+   "url": "https://www.carscoops.com/2026/09/kia-ev9-fire-sale/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T16:32:00Z"
+  },
+  {
+   "titulo": "Este motor híbrido é à prova de água",
+   "resumo": "A Horse Powertrain apresentou novo motor, o B20, mecânica de 4 cilindros em linha e 2 litros com injeção direta e sobrealimentação turbo que se destaca por ser “à prova de água”. Capaz de…",
+   "url": "https://www.autosport.pt/automais/este-motor-hibrido-e-a-prova-de-agua/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T16:16:00Z"
+  },
+  {
+   "titulo": "These Are the 20 Longest-Lasting Cars, Trucks, and SUVs in 2026: Report",
+   "resumo": "Piling on the miles is no problem for this collection of vehicles.",
+   "url": "https://www.roadandtrack.com/news/a73741744/20-longest-lasting-cars-trucks-suvs-2026/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T16:11:56Z"
+  },
+  {
+   "titulo": "Mario Andretti headlines first batch of Sebring’s 75 all-time greatest drivers",
+   "resumo": "Racing legend Mario Andretti headlines the first group of inductees selected to the \"Class of 75,\" an elite list honoring the most successful drivers in the history of the Mobil 1 Twelve…",
+   "url": "https://www.motorsport.com/imsa/news/mario-andretti-headlines-first-batch-of-sebrings-75-all-time-greatest-drivers/10856180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T16:11:54Z"
+  },
+  {
+   "titulo": "F1: Toto Wolff concorda com ideia de ajudar a Honda",
+   "resumo": "Toto Wolff admitiu que a Fórmula 1 poderá ter de ajustar os regulamentos das unidades motrizes para permitir que a Honda reduza a diferença competitiva para os seus rivais. A posição do…",
+   "url": "https://www.autosport.pt/formula1/f1-toto-wolff-concorda-com-ideia-de-ajudar-a-honda/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T16:09:39Z"
+  },
+  {
+   "titulo": "Jules Gounon suffers only minor hand injury in DTM crash",
+   "resumo": "Relief for Mercedes-AMG works driver Jules Gounon: An examination this morning in his native Andorra found that he suffered only a minor injury to his left hand in the DTM Sunday race at…",
+   "url": "https://www.motorsport.com/dtm/news/jules-gounon-suffers-only-minor-hand-injury-in-dtm-crash/10856171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T15:55:18Z"
+  },
+  {
+   "titulo": "Ferrari not yet switching focus to 2027 F1 car",
+   "resumo": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances. After Lewis Hamilton retired from the Spanish…",
+   "url": "https://www.autosport.com/f1/news/ferrari-not-switching-focus-to-f1-2027-car/10856173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T15:55:15Z"
+  },
+  {
+   "titulo": "View Photos of the 2028 Volvo XC90 Hybrid",
+   "resumo": "See interior and exterior photos of the 2028 Volvo XC90 PHEV, which gets over 70 miles per charge.",
+   "url": "https://www.caranddriver.com/photos/a73743058/2028-volvo-xc90-hybrid-details-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:52:06Z"
+  },
+  {
+   "titulo": "Why Ferrari won't switch focus to 2027 F1 car yet",
+   "resumo": "Ferrari team principal Fred Vasseur says the Scuderia will keep developing its SF-26 Formula 1 car, despite its diminishing title chances. After Lewis Hamilton retired from the Spanish…",
+   "url": "https://www.motorsport.com/f1/news/why-ferrari-wont-switch-focus-to-2027-f1-car-yet/10856168/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T15:49:53Z"
+  },
+  {
+   "titulo": "One-Off Rolls-Royce Phantom Hummingbird Is The First To Use Abalone Shells",
+   "resumo": "Rolls-Royce spent over nine months trying to master the new material, used to replicate the iridescent feathers of a hummingbird",
+   "url": "https://www.carscoops.com/2026/09/rolls-royce-phantom-hummingbird/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:43:00Z"
+  },
+  {
+   "titulo": "Governo vai atrás dos lucros das petrolíferas",
+   "resumo": "Debaixo de fogo pela resposta à escalada dos preços dos combustíveis, o Governo avança agora com a contribuição extraordinária sobre os lucros das petrolíferas. A proposta já chegou à…",
+   "url": "https://www.razaoautomovel.com/noticias/governo-vai-atras-dos-lucros-extraordinarios-das-petroliferas/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-15T15:40:21Z"
+  },
+  {
+   "titulo": "JLR-Stellantis Partnership Will Reportedly Result in a U.S.-Made Land Rover Defender Pickup",
+   "resumo": "A tie-up with Ram would seem to be the obvious way about it, but details regarding size and platform remain a mystery for now.",
+   "url": "https://www.roadandtrack.com/news/a73742344/jlr-stellantis-partnership-us-made-land-rover-defender-pickup-report/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:32:11Z"
+  },
+  {
+   "titulo": "F1: Arvid Lindblad continua a impressionar",
+   "resumo": "Arvid Lindblad é o único estreante desta temporada de 2026 e tem aproveitado a oportunidade dada pela Racing Bulls para deixar uma marca que lhe poderá abrir portas para outros voos no…",
+   "url": "https://www.autosport.pt/formula1/f1-arvid-lindblad-continua-a-impressionar/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T15:30:36Z"
+  },
+  {
+   "titulo": "What Was Your Longest Road Trip?",
+   "resumo": "Feelings aren’t necessarily grounded in facts, but they do a great job motivating us to take action. Or at least it “feels” that way sometimes, and I am going through such a moment as we…",
+   "url": "https://www.hagerty.com/media/hagerty-community/what-was-your-longest-road-trip/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T15:30:00Z"
+  },
+  {
+   "titulo": "17-Year-Old Driving C7-Gen Chevy Corvette Caught Doing 123 MPH in a 55, Cops Say",
+   "resumo": "As if being caught doing 68 mph over the speed limit wasn't bad enough, the CHP officer then called the teen driver's parent.",
+   "url": "https://www.roadandtrack.com/news/a73742034/17-year-old-teenager-chevrolet-c7-corvette-123-mph-speeding/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:19:58Z"
+  },
+  {
+   "titulo": "These Cars Are Most Likely To Reach 250,000 Miles",
+   "resumo": "From Honda to Toyota, these cars have more than a 25 percent chance of reaching a quarter-million miles.",
+   "url": "https://www.motor1.com/news/808362/car-models-most-likely-reach-250000-miles/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:00:00Z"
+  },
+  {
+   "titulo": "$95k Buys One Of These Official Porsche Licensed 550 Spyders, But There’s One Small Problem",
+   "resumo": "80% scale electric 550 A replica is more affordable than the $3 million real thing but only gets 11 hp as standard",
+   "url": "https://www.carscoops.com/2026/09/embargo-sep-15-11-am-est95k-buys-one-of-these-official-porsche-licensed-550-spyders-but-theres-one-small-problem/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T15:00:00Z"
+  },
+  {
+   "titulo": "You Could Be 80 Percent James Dean in This Shrunken Porsche 550 Spyder",
+   "resumo": "Hedley Studios, the British company that’s famed for its scaled-down classic cars, has partnered with Porsche on a 550 Spyder replica. The legendary 1953 Porsche has been recreated at 80…",
+   "url": "https://www.hagerty.com/media/news/you-could-be-80-percent-james-dean-in-this-shrunken-porsche-550-spyder/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T15:00:00Z"
+  },
+  {
+   "titulo": "Report: JLR collaborating with Stellantis on Defender pick-up",
+   "resumo": "Autocar's artist rendering imagines a Defender pick-up based on the current 110 model New Land Rover truck designed for and built in the US could be vital to JLR's ambitious growth plans…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/report-jlr-collaborating-stellantis-defender-pick",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T14:59:16Z"
+  },
+  {
+   "titulo": "Kankkunen: Toyota’s record-equalling WRC title “quite incredible”",
+   "resumo": "Toyota’s record-equalling World Rally Championship manufacturers' title is “quite incredible”, according to deputy team principal Juha Kankkunen. The Japanese brand created more history in…",
+   "url": "https://www.motorsport.com/wrc/news/kankkunen-toyotas-record-equalling-wrc-title-quite-incredible/10856152/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T14:58:36Z"
+  },
+  {
+   "titulo": "F1: Laurent Mekies elogiou Liam Lawson",
+   "resumo": "Laurent Mekies elogiou o desempenho de Liam Lawson no regresso temporário à Red Bull, considerando-o “muito forte” após três fins de semana em que substituiu o lesionado Isack Hadjar. O…",
+   "url": "https://www.autosport.pt/formula1/f1-laurent-mekies-elogiou-liam-lawson/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T14:30:17Z"
+  },
+  {
+   "titulo": "Volkswagen Mission Efficiency Concept Is a Near-Production EV Follow-up to the XL1",
+   "resumo": "In 2013, Volkswagen launched a limited-production model called XL1 that was celebrated as the world’s most efficient street-legal car. Fast-forward to 2026, and the Volkswagen Mission…",
+   "url": "https://www.hagerty.com/media/news/volkswagen-mission-efficiency-concept-specs-pictures/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T14:30:00Z"
+  },
+  {
+   "titulo": "After Trump Blasted Ford, GM Goes All-In On The US For Its Next-Gen Batteries",
+   "resumo": "GM is working to establish US supply chains for energy storage systems and electric vehicles",
+   "url": "https://www.carscoops.com/2026/09/gm-battery-production-usa/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T14:23:00Z"
+  },
+  {
+   "titulo": "Next World Champion to be Crowned During Unmissable Weekend of Karting Action in Le Mans",
+   "resumo": "Sport news Le Mans will this weekend (17-20 September) host what will be a gripping showdown to decide some of the most coveted titles in karting when the Mondokart.com FIA Karting World…",
+   "url": "https://www.fia.com/news/next-world-champion-be-crowned-during-unmissable-weekend-karting-action-le-mans",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T14:07:00Z"
+  },
+  {
+   "titulo": "Porsche Sprint Challenge: Kika Queiroz voltou a subir ao pódio, agora em Jerez",
+   "resumo": "Kika Queiroz voltou a subir ao pódio no Circuito de Jerez de la Frontera e reforçou a liderança da Ladies Cup na Porsche Sprint Challenge Ibérica. A piloto portuguesa encerrou a ronda…",
+   "url": "https://www.autosport.pt/velocidade/porsche-sprint-challenge-kika-queiroz-voltou-a-subir-ao-podio-agora-em-jerez/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-15T13:58:44Z"
+  },
+  {
+   "titulo": "AMG’s GLC Is Getting A New Look, But Not The CLE 646’s V8",
+   "resumo": "The compact 53-baged SUV will hang on to the 3.0-liter mild hybrid introduced when AMG axed the four-cylinder GLC 63",
+   "url": "https://www.carscoops.com/2026/09/amgs-glc-is-getting-a-new-look-but-not-the-cle-646s-v8/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T13:50:00Z"
+  },
+  {
+   "titulo": "This 'fix' wouldn't have saved F1's Spanish GP",
+   "resumo": "The focus is on a lack of passing places for F1 cars at the Madring in the wake of a tepid Spanish GP. But another contributing factor is being overlooked",
+   "url": "https://www.the-race.com/formula-1/suggested-fix-would-not-have-saved-f1-spanish-gp-madring/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T13:49:11Z"
+  },
+  {
+   "titulo": "Top five roles on Motorsport Jobs this week",
+   "resumo": "Racing Bulls F1 Team - Industrial Placement Programme, 2027/28 - Milton Keynes The Racing Bulls Formula 1 Team has the opportunity for Industrial Placement Programmes in 2027/28. This 13…",
+   "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10856112/10856112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T13:22:22Z"
+  },
+  {
+   "titulo": "Quartararo explains why Yamaha relationship has strained ahead of Honda move",
+   "resumo": "Fabio Quartararo has opened up on his relationship with Yamaha which is coming to a toxic end in the 2026 MotoGP campaign. The 27-year-old has ridden with the Japanese marque ever since his…",
+   "url": "https://www.autosport.com/motogp/news/quartararo-explains-why-yamaha-relationship-has-strained-ahead-of-honda-move/10856091/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T13:00:03Z"
+  },
+  {
+   "titulo": "Final Parking Space: 1988 Mercedes-Benz 300 TE",
+   "resumo": "We haven’t seen a German vehicle in this series for nearly six months, so I decided it was time for an all-time Legendäre deutsche Maschine. I found this W124 wagon a couple of years ago at…",
+   "url": "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1988-mercedes-benz-300-te/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T13:00:00Z"
+  },
+  {
+   "titulo": "A 7.2 Liter V8-Powered 1968 Chevrolet C10 “Rat Rod”",
+   "resumo": "This is a 1968 Chevrolet C10 that’s been turned into a rat rod-style custom, now with a folding convertible roof, and power provided by... The post A 7.2 Liter V8-Powered 1968 Chevrolet C10…",
+   "url": "https://silodrome.com/chevrolet-c10-rat-rod/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T12:30:49Z"
+  },
+  {
+   "titulo": "Fiat Topolino Upgraded By Two Italian Tuning Legends",
+   "resumo": "Fabrizio Giugiaro and Lapo Elkann turn the Fiat Topolino into dramatic Top.L and Top.J concepts, pushing emotional design on a budget city EV.",
+   "url": "https://www.motor1.com/news/808338/giugiaro-elkann-reimagine-fiat-topolino/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T12:29:07Z"
+  },
+  {
+   "titulo": "Rain stops play at Santa Pod European Drag Racing Finals",
+   "resumo": "Rain dictated the outcome of the FIA European Pro Modified Championship at Santa Pod Raceway last weekend. After a summer of unparalleled dryness, drag racing’s mortal enemy chose decision…",
+   "url": "https://www.autosport.com/national/news/rain-stops-play-at-santa-pod-european-drag-racing-finals/10856006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T12:27:17Z"
+  },
   {
    "titulo": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
    "resumo": "Strange things can happen in Formula 1. Just ask Max Verstappen, who couldn't believe his luck when McLaren handed him a way into the 2025 title fight on a silver platter. Although he…",
@@ -28,16 +387,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-15T11:40:46Z"
-  },
-  {
-   "titulo": "Mercedes explains George Russell’s two-stop strategy in F1 Spanish GP",
-   "resumo": "Mercedes deputy team principal Bradley Lord has explained why George Russell pitted under the virtual safety car despite starting on hard tyres in Formula 1’s Spanish Grand Prix. Russell…",
-   "url": "https://www.motorsport.com/f1/news/mercedes-explains-george-russells-two-stop-strategy-in-f1-spanish-gp/10856094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T11:37:11Z"
   },
   {
    "titulo": "Camiões fora da VCI a partir de hoje. Mas há exceções",
@@ -50,16 +399,6 @@
    "data": "2026-09-15T11:35:09Z"
   },
   {
-   "titulo": "F1: Romain Grosjean pede desculpa a Zak Brown, após erro de interpretação",
-   "resumo": "Um desentendimento que foi rapidamente resolvido. Romain Grosjean pediu desculpa depois de ter interpretado de forma errada declarações de Zak Brown sobre Oscar Piastri e Lando Norris…",
-   "url": "https://www.autosport.pt/formula1/f1-romain-grosjean-pede-desculpa-a-zak-brown-apos-erro-de-interpretacao/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T11:30:00Z"
-  },
-  {
    "titulo": "Todos os preços do Mercedes-AMG CLA 45 mais potente de sempre",
    "resumo": "A chegada de um Mercedes-AMG 100% elétrico era, há uns anos a esta parte, impensável. Hoje começa a tornar-se mais regra do que exceção. O primeiro AMG movido totalmente a eletrões foi o…",
    "url": "https://www.razaoautomovel.com/noticias/lancamento-precos-mercedes-amg-cla-45-4matic/",
@@ -68,46 +407,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-15T11:14:24Z"
-  },
-  {
-   "titulo": "Porsche abandona Bugatti Rimac por 1000 milhões",
-   "resumo": "Por Pedro Junceiro A Porsche concluiu a saída da estrutura acionista da Bugatti Rimac e do Rimac Group, depois de receber as necessárias aprovações regulamentares. A operação, acordada em…",
-   "url": "https://www.autosport.pt/automais/porsche-abandona-bugatti-rimac-por-1000-milhoes/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T11:12:49Z"
-  },
-  {
-   "titulo": "Vinales still injured as Espargaro replaces him for MotoGP Austrian GP",
-   "resumo": "Tech3 announced on Tuesday that Pol Espargaro will replace the injured Maverick Vinales, who has not competed in a MotoGP race since 12 July, when he retired in the closing stages of the…",
-   "url": "https://www.autosport.com/motogp/news/espargaro-replaces-vinales-for-austrian-gp/10856084/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T11:03:35Z"
-  },
-  {
-   "titulo": "Volvo’s New PHEVs Drives So Far On Electric You Might Not Use The Gas Engine For Months",
-   "resumo": "The faclifted XC60 plug-in is rated at 124 WLTP miles, and the updated XC90 102 miles",
-   "url": "https://www.carscoops.com/2026/09/volvos-new-phevs-drives-so-far-on-electric-you-might-not-use-the-gas-engine-for-months/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T11:00:33Z"
-  },
-  {
-   "titulo": "Tech3 confirms Pol Espargaro for Austrian GP as Vinales' replacement",
-   "resumo": "Tech3 announced on Tuesday that Pol Espargaro will replace the injured Maverick Vinales, who has not competed in a MotoGP race since 12 July, when he retired in the closing stages of the…",
-   "url": "https://www.motorsport.com/motogp/news/tech3-confirms-pol-espargaro-for-austrian-gp-as-vinales-replacement/10856076/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T10:55:31Z"
   },
   {
    "titulo": "Jaguar Land Rover Plans US Defender Pickup Built With Stellantis, Sources Say",
@@ -130,26 +429,6 @@
    "data": "2026-09-15T10:40:42Z"
   },
   {
-   "titulo": "F1 world champion among drivers for Race Of Champions’ first New Zealand event",
-   "resumo": "The Race Of Champions has announced the first four drivers for its inaugural New Zealand event, taking place at Wellington’s Hnry Stadium on 9-10 January 2027. The lineup will be…",
-   "url": "https://www.motorsport.com/f1/news/f1-world-champion-among-drivers-for-race-of-champions-first-new-zealand-event/10856057/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T10:39:00Z"
-  },
-  {
-   "titulo": "Madring vai ter alterações já para 2027",
-   "resumo": "Os organizadores do Grande Prémio de Espanha preparam alterações em três zonas do circuito de Madring para 2027, depois de a corrida inaugural em Madrid ter sido fortemente criticada pela…",
-   "url": "https://www.autosport.pt/formula1/madring-vai-ter-alteracoes-ja-para-2027/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T10:30:00Z"
-  },
-  {
    "titulo": "The New Audi A2 Looks Charming Even As A Base Model",
    "resumo": "Audi's cheapest EV still has plenty of charisma in its most basic form.",
    "url": "https://www.motor1.com/news/808313/2027-audi-a2-base-model/",
@@ -158,16 +437,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-15T10:29:09Z"
-  },
-  {
-   "titulo": "Jorge Martin to decide on arm pump surgery after Austrian GP",
-   "resumo": "Jorge Martin suffered another physical setback during the San Marino GP weekend, adding to the injuries that have plagued him since he joined Aprilia last year. The Spaniard suffered nerve…",
-   "url": "https://www.motorsport.com/motogp/news/jorge-martin-to-decide-on-arm-pump-surgery-after-austrian-gp/10856048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T10:16:11Z"
   },
   {
    "titulo": "EDRC: Callin defends Top Fuel crown as Ålund secures record 14th Pro Stock title",
@@ -180,7 +449,7 @@
    "data": "2026-09-15T10:09:00Z"
   },
   {
-   "titulo": "Audi's first F1 junior joins F2 champion for 2027",
+   "titulo": "Audi's shrewd choice of F2 team for its first F1 junior",
    "resumo": "Audi's first F1 junior driver Freddie Slater will join forces with defending champion team Invicta in Formula 2 in 2027",
    "url": "https://www.the-race.com/formula-1/audi-f1-junior-freddie-slater-joins-f2-champion-team-2027/",
    "fonte": "The Race",
@@ -193,16 +462,6 @@
    "titulo": "Ford F-150 Raptor And Tremor Get Major Price Cuts For 2027",
    "resumo": "The automaker is launching new Tremor and Raptor trims with less content at a lower price, without compromising off-road capability.",
    "url": "https://www.motor1.com/news/808263/ford-f150-tremor-raptor-cheaper-2027/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T10:00:00Z"
-  },
-  {
-   "titulo": "2027 Ford F-150 Debuts With A Bigger Base Engine And More V8 Options",
-   "resumo": "The F-150 gets a bigger EcoBoost base engine, while Ford expands V8 availability and adds a new Carhartt package for 2027.",
-   "url": "https://www.motor1.com/news/808260/2027-ford-f150-engines-horsepower-trims-debut/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
@@ -240,46 +499,6 @@
    "data": "2026-09-15T10:00:00Z"
   },
   {
-   "titulo": "Ford’s Carhartt Package Expands to F-150 for 2027",
-   "resumo": "When automakers collaborate with non-automotive brands, the result doesn’t always make complete sense to the layman. A Carhartt edition Ford F-150, though? That is entirely natural. The…",
-   "url": "https://www.hagerty.com/media/news/fords-carhartt-package-expands-to-f-150-for-2027/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T10:00:00Z"
-  },
-  {
-   "titulo": "Slater to graduate from F3 to F2 for 2027",
-   "resumo": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027. The 2024 Italian F4 and 2025 Formula Regional European champion was…",
-   "url": "https://www.autosport.com/formula2/news/slater-to-graduate-from-f3-to-f2-for-2027/10856041/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T09:49:21Z"
-  },
-  {
-   "titulo": "Audi F1 junior Freddie Slater signs F2 deal for 2027 season",
-   "resumo": "Formula 3 runner-up and Audi Formula 1 junior Freddie Slater will step up to Formula 2 with Invicta Racing in 2027. The 2024 Italian F4 and 2025 Formula Regional European champion was…",
-   "url": "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T09:47:13Z"
-  },
-  {
-   "titulo": "Final mundial do RallyX, em Montalegre, é já no final de outubro",
-   "resumo": "O RallyX Global Final estreia-se em Portugal entre 23 e 25 de outubro, no Circuito Internacional de Montalegre, reunindo pilotos das competições RallyX da Europa, Estados Unidos e Canadá. A…",
-   "url": "https://www.autosport.pt/maismotores/final-mundial-do-rallyx-em-montalegre-e-ja-no-final-de-outubro/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T09:45:00Z"
-  },
-  {
    "titulo": "Audi A3 foi atualizado e tem novos preços em Portugal",
    "resumo": "O Audi A3 foi atualizado no início de verão, numa revisão bem mais discreta do que a profunda atualização que aconteceu em 2024. Desta vez, as principais novidades encontram-se no interior…",
    "url": "https://www.razaoautomovel.com/noticias/lancamento-precos-audi-a3-sportback-2026/",
@@ -288,26 +507,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-15T09:34:48Z"
-  },
-  {
-   "titulo": "Barn Find Fiat 500 Turned Into A Six-Figure Restomod",
-   "resumo": "La Cinquecento and BorromeodeSilva rework a 1973 Fiat 500 R with an 802 cc twin-spark engine, reinforced chassis, and ultra-low production.",
-   "url": "https://www.motor1.com/news/808310/fiat-500-scattante-british-restomod/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T09:28:10Z"
-  },
-  {
-   "titulo": "F1: Honda faz mudanças na liderança do programa de Unidades Motrizes",
-   "resumo": "A Honda anunciou uma alteração na liderança do seu programa de unidades motrizes de Fórmula 1. Yoichiro Fukao assumirá a função de Large Project Leader a partir de 1 de outubro, sucedendo a…",
-   "url": "https://www.autosport.pt/formula1/f1-honda-faz-mudancas-na-lideranca-do-programa-de-unidades-motrizes/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-15T09:15:00Z"
   },
   {
    "titulo": "Dacia CEO: Relax small car rules to reduce prices in Europe",
@@ -330,16 +529,6 @@
    "data": "2026-09-15T08:38:00Z"
   },
   {
-   "titulo": "Novo Volvo XC60 é o PHEV com maior autonomia elétrica em Portugal",
-   "resumo": "Quando um modelo é atualizado a meio do seu ciclo de vida, vários cenários são possíveis. Há quem opte por alterações ligeiras, quem introduza modificações substanciais e até quem prefira…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-volvo-xc60-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-15T07:06:09Z"
-  },
-  {
    "titulo": "New-look Volvo XC60 PHEV brings 124 miles of electric range",
    "resumo": "New powertrain gives restyled XC60 longest range of any PHEV in UK; XC90 now cracks 100 miles too Volvo has introduced a new plug-in hybrid powertrain for its two largest SUVs, which gives…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/new-look-volvo-xc60-phev-brings-124-miles-electric-range",
@@ -353,26 +542,6 @@
    "titulo": "2028 Volvo XC60 Has a Prettier Face and a Lot More Electric-Only Range",
    "resumo": "Volvo has once again refreshed its all-time bestseller, and the updates bring an enhanced plug-in hybrid powertrain.",
    "url": "https://www.caranddriver.com/news/a73698809/2028-volvo-xc60-hybrid-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T07:00:00Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2028 Volvo XC60",
-   "resumo": "See the refreshed Volvo XC60’s exterior from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73688264/2028-volvo-xc60-revealed-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T07:00:00Z"
-  },
-  {
-   "titulo": "2028 Volvo XC90 Hybrid",
-   "resumo": "What We Know So Far",
-   "url": "https://www.caranddriver.com/volvo/xc90-hybrid-2028",
    "fonte": "Car and Driver",
    "dominio": "caranddriver.com",
    "categoria": "Modelos",
@@ -410,7 +579,7 @@
    "data": "2026-09-15T06:00:00Z"
   },
   {
-   "titulo": "Bad luck or mistake? What really robbed Norris of Spanish GP win",
+   "titulo": "Just bad luck? What really robbed Norris of Spanish GP win",
    "resumo": "Was Lando Norris doomed to certain Madrid defeat by the VSC or could McLaren have still saved his win?",
    "url": "https://www.the-race.com/formula-1/bad-luck-or-mistake-what-really-robbed-norris-of-spanish-gp-win/",
    "fonte": "The Race",
@@ -440,96 +609,6 @@
    "data": "2026-09-15T03:58:12Z"
   },
   {
-   "titulo": "Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start",
-   "resumo": "Ford is recalling 225,471 vehicles over a multitude of issues including one that doesn't have a fix",
-   "url": "https://www.carscoops.com/2026/09/ford-f-150-recalls/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T00:01:00Z"
-  },
-  {
-   "titulo": "Audi RS Q5 Sportback Steps Into The Spotlight And Could Be Hiding A 630 HP Surprise",
-   "resumo": "The high-performance crossover coupe could be packing a plug-in hybrid powertrain shared with the RS5",
-   "url": "https://www.carscoops.com/2026/09/2028-audi-rs-q5-sportback-spied/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T23:00:00Z"
-  },
-  {
-   "titulo": "New X5 Gets A Carbon Fiber Makeover From BMW M Performance Parts",
-   "resumo": "If the standard model isn't sporty enough, BMW offers a carbon fiber splitter, a sportier diffuser, and an assortment of wheels",
-   "url": "https://www.carscoops.com/2026/09/2027-bmw-x5-m-performace-parts/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T21:35:00Z"
-  },
-  {
-   "titulo": "New Toyota GR Performance Product Isn’t a Car—It’s a Kart",
-   "resumo": "Gazoo Racing, the in-house motorsports and performance vehicle department at Toyota, wants more people to get into performance driving—but not exactly how you might expect. The brand’s…",
-   "url": "https://www.hagerty.com/media/news/new-toyota-gr-performance-product-isnt-a-car-its-a-kart/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T21:00:00Z"
-  },
-  {
-   "titulo": "Stellantis Wants To Sell Canadian Plant, Infuriating Union",
-   "resumo": "The automaker reached a tentative deal with Roshel, which would turn Brampton Assembly into a hub of defense production",
-   "url": "https://www.carscoops.com/2026/09/stellantis-brampton-sale-roshel/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T20:00:00Z"
-  },
-  {
-   "titulo": "“Big Pink” Is a ’57 Bel Air to Be Proud Of",
-   "resumo": "It was sometime in the early ’80s when Dad spotted the ’57 at a local service station—when there was still such a place. The gentleman there had purchased the amazing pink Bel Air from the…",
-   "url": "https://www.hagerty.com/media/member-stories/big-pink-is-a-57-bel-air-to-be-proud-of/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T20:00:00Z"
-  },
-  {
-   "titulo": "Trump Suggests He Isn’t Opposed to Chinese Automakers Landing a Foothold in the U.S.",
-   "resumo": "The statement comes as the president faces pressure from U.S. automakers to protect the industry.",
-   "url": "https://www.roadandtrack.com/news/a73725408/trump-chinese-automakers-us-plants/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T19:43:06Z"
-  },
-  {
-   "titulo": "Norris completes first full test in McLaren’s Le Mans Hypercar",
-   "resumo": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday. Following last weekend’s Spanish…",
-   "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T18:29:19Z"
-  },
-  {
-   "titulo": "This Corvette C5-R Retired from the Race Track to Relax at the Race Track",
-   "resumo": "Race cars have a relatively finite lifespan. Once a chassis is no longer competitive, it often faces one of three fates: Evolution through modification, being torn down for parts, or…",
-   "url": "https://www.hagerty.com/media/automotive-history/this-corvette-c5-r-retired-from-the-race-track-to-relax-at-the-race-track/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T18:00:00Z"
-  },
-  {
    "titulo": "Keith’s Blog: Ogden or Bust",
    "resumo": "At 8 a.m. on Monday, September 21, we will be at the Lewis and Clark rest stop just outside of Portland. There, we will join up with a group of Alfas coming from Seattle, lead by SCMer and…",
    "url": "https://www.sportscarmarket.com/blogs/keith-martin/keiths-blog-ogden-or-bust",
@@ -538,86 +617,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-14T17:38:02Z"
-  },
-  {
-   "titulo": "The Ferrari 296 GT Modificata Is a Recreational Race Car",
-   "resumo": "Like the 499 P Modificata before it, Ferrari is selling an endurance racing winner specialized for track day use.",
-   "url": "https://www.roadandtrack.com/news/a73721540/ferrari-296-gt-modificata/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T16:57:27Z"
-  },
-  {
-   "titulo": "South OC Cars & Coffee Co-Founder Killed in Irvine McLaren Crash",
-   "resumo": "James Wehr, a pillar of the Orange County car community, was 27 years old.",
-   "url": "https://www.roadandtrack.com/news/a73720827/james-wehr-south-oc-cars-and-coffee-killed-irvine-mclaren-720s-crash/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T16:21:39Z"
-  },
-  {
-   "titulo": "Jeep's New Wrangler JL-2A Looks Back to Where the Civilian Jeep Began",
-   "resumo": "The CJ-2A-inspired special edition gets retro wheels, heritage colors, and a unique interior for just $115 more than a similarly equipped Rubicon.",
-   "url": "https://www.roadandtrack.com/news/a73721820/2027-jeep-wrangler-jl-2a-throwback/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T16:13:48Z"
-  },
-  {
-   "titulo": "Edd Straw's 2026 Spanish Grand Prix F1 driver rankings",
-   "resumo": "The inaugural F1 race at the Madring was no classic, but the Spanish GP weekend as a whole did seriously test the grid. Here's who did well - and who didn't",
-   "url": "https://www.the-race.com/formula-1/f1-2026-spanish-grand-prix-driver-rankings-edd-straw/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T15:04:00Z"
-  },
-  {
-   "titulo": "F2 adds extra Baku feature race and insists Qatar, Abu Dhabi still on – what does this mean for F1?",
-   "resumo": "The Formula 2 championship has announced a \"supersized\" meeting for its next round in Baku. The move will see it host an additional feature race in Azerbaijan and comes just 10 days before…",
-   "url": "https://www.autosport.com/formula2/news/f2-bulks-up-baku-schedule-with-extra-feature-race-is-this-a-clue-for-f1s-future/10855898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T14:55:56Z"
-  },
-  {
-   "titulo": "Winds of change: Volkswagen XL1 vs Honda Insight",
-   "resumo": "Eco-warrior hybrids in a magazine called Octane? The Honda Insight and Volkswagen XL1 look amazing and are fun to drive while saving the planet, as Mark Dixon explains.",
-   "url": "https://www.octane-magazine.com/articles/volkswagen-xl1-versus-honda-insight/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T13:42:24Z"
-  },
-  {
-   "titulo": "San Marino Grand Prix MotoGP rider rankings 2026",
-   "resumo": "Ducati's 2027 works line-up again dominates our rider rankings - but in which order?",
-   "url": "https://www.the-race.com/motogp/san-marino-grand-prix-motogp-rider-rankings-2026/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T13:41:15Z"
-  },
-  {
-   "titulo": "Everything we learned from F1's 2026 Spanish Grand Prix",
-   "resumo": "There wasn't much action in the Spanish GP, but that's not to say the Madring's first F1 weekend was a dud. Here's what it told us",
-   "url": "https://www.the-race.com/formula-1/everything-we-learned-f1-2026-spanish-grand-prix-madring/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T13:13:36Z"
   }
  ]
 }
