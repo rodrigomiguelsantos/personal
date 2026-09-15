@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-14T21:49:06Z",
+ "atualizado": "2026-09-15T04:53:59Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -7,7 +7,6 @@
   "Car and Driver",
   "Carscoops",
   "Classic & Sports Car",
-  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -19,6 +18,56 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Bad luck or mistake? What really robbed Norris of Spanish GP win",
+   "resumo": "Was Lando Norris doomed to certain Madrid defeat by the VSC or could McLaren have still saved his win?",
+   "url": "https://www.the-race.com/formula-1/bad-luck-or-mistake-what-really-robbed-norris-of-spanish-gp-win/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T04:10:17Z"
+  },
+  {
+   "titulo": "Free Classic & Sports Car wallpapers from our October 2026 issue",
+   "resumo": "Free Classic & Sports Car wallpapers from our October 2026 issue Marc McLaren Tue, 15/09/2026 - 04:58",
+   "url": "https://www.classicandsportscar.com/features/free-classic-sports-car-wallpapers-our-october-2026-issue",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T03:58:39Z"
+  },
+  {
+   "titulo": "Buyer’s guide: Allard V8s",
+   "resumo": "Buyer’s guide: Allard V8s Marc McLaren Tue, 15/09/2026 - 04:58",
+   "url": "https://www.classicandsportscar.com/features/buyers-guide-allard-v8s",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-15T03:58:12Z"
+  },
+  {
+   "titulo": "Ford F-150s Can Lose Their Gas Tanks While Driving And That’s Just The Start",
+   "resumo": "Ford is recalling 225,471 vehicles over a multitude of issues including one that doesn't have a fix",
+   "url": "https://www.carscoops.com/2026/09/ford-f-150-recalls/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T00:01:00Z"
+  },
+  {
+   "titulo": "Audi RS Q5 Sportback Steps Into The Spotlight And Could Be Hiding A 630 HP Surprise",
+   "resumo": "The high-performance crossover coupe could be packing a plug-in hybrid powertrain shared with the RS5",
+   "url": "https://www.carscoops.com/2026/09/2028-audi-rs-q5-sportback-spied/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-14T23:00:00Z"
+  },
   {
    "titulo": "New X5 Gets A Carbon Fiber Makeover From BMW M Performance Parts",
    "resumo": "If the standard model isn't sporty enough, BMW offers a carbon fiber splitter, a sportier diffuser, and an assortment of wheels",
@@ -150,16 +199,6 @@
    "data": "2026-09-14T19:21:26Z"
   },
   {
-   "titulo": "McLaren’s Next Supercar Will Pack A Bigger Punch Than The 750S For Less Money",
-   "resumo": "McLaren retailers have been told the new model will start at around $313,000 in the US",
-   "url": "https://www.carscoops.com/2026/09/mclaren-p34-hybrid-supercar/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T18:47:00Z"
-  },
-  {
    "titulo": "F1 champion Norris completes first full test in McLaren’s Le Mans Hypercar",
    "resumo": "Reigning Formula 1 champion Lando Norris completed his first full-fledged test at the wheel of the McLaren MCL-HY Le Mans Hypercar at Portimao on Monday. Following last weekend’s Spanish…",
    "url": "https://www.autosport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -188,16 +227,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-14T18:11:56Z"
-  },
-  {
-   "titulo": "The Ultimate Mercedes G-Wagen Is Rarer Than A McLaren W1",
-   "resumo": "One of the just 99 G650 Landaulet models hits the market, and it's as good as new.",
-   "url": "https://www.carscoops.com/2026/09/mercedes-g650-auction-usa/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-14T18:05:00Z"
   },
   {
    "titulo": "This Corvette C5-R Retired from the Race Track to Relax at the Race Track",
@@ -580,16 +609,6 @@
    "data": "2026-09-14T08:00:00Z"
   },
   {
-   "titulo": "Honda replaces its F1 engine development chief",
-   "resumo": "Honda is replacing the leader of its Formula 1 engine development programme",
-   "url": "https://www.the-race.com/formula-1/honda-makes-f1-project-leadership-change/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T06:40:56Z"
-  },
-  {
    "titulo": "The Armored Yoxall II Waxed-Cotton Motorcycle Jacket From Merlin",
    "resumo": "This is the Yoxall II waxed cotton motorcycle jacket from British company Merlin, each comes with D3O® tri-ventilated LP1 armor in the shoulders and... The post The Armored Yoxall II…",
    "url": "https://silodrome.com/the-armored-yoxall-ii-waxed-cotton-motorcycle-jacket-from-merlin/",
@@ -598,26 +617,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-14T06:30:58Z"
-  },
-  {
-   "titulo": "10 head-turning Japanese classic cars for sale at Goodwood Revival 2026",
-   "resumo": "10 head-turning Japanese classic cars for sale at Goodwood Revival 2026 Ryan Standen Mon, 14/09/2026 - 04:58",
-   "url": "https://www.classicandsportscar.com/gallery/10-head-turning-japanese-classic-cars-sale-goodwood-revival-2026",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T03:58:27Z"
-  },
-  {
-   "titulo": "FIA World Rally Championship – Rally Chile Biobío - Event Review",
-   "resumo": "Sport news Please click here to view the PDF version. World Rally Championship WRC SEASON 2026 Sport Rallies 1SportWorld Rally ChampionshipRalliesSEASON 2026WRC00 Monday, September 14, 2026…",
-   "url": "https://www.fia.com/news/fia-world-rally-championship-rally-chile-biobio-event-review",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-14T00:03:00Z"
   }
  ]
 }
