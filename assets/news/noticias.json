@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-15T21:20:38Z",
+ "atualizado": "2026-09-16T04:48:33Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -14,10 +14,69 @@
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
-  "Sports Car Market",
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "25 sporting cars from Vauxhall",
+   "resumo": "25 sporting cars from Vauxhall Lizzie Pope Wed, 16/09/2026 - 04:47",
+   "url": "https://www.classicandsportscar.com/gallery/25-sporting-cars-vauxhall",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-16T03:47:10Z"
+  },
+  {
+   "titulo": "Alfa Romeo Giulietta Turbodelta vs 75 Turbo Evoluzione: special forces",
+   "resumo": "Alfa Romeo Giulietta Turbodelta vs 75 Turbo Evoluzione: special forces Ryan Standen Wed, 16/09/2026 - 04:46",
+   "url": "https://www.classicandsportscar.com/features/alfa-romeo-giulietta-turbodelta-vs-75-turbo-evoluzione-special-forces",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-16T03:46:40Z"
+  },
+  {
+   "titulo": "The NASCAR Trucks Chase is about The Big Three, but who else?",
+   "resumo": "In all likelihood, the NASCAR Truck Series Chase for the Championship will be Layne Riggs vs Kaden Honeycutt but there is recent evidence to suggest that there could be a surprise player…",
+   "url": "https://www.motorsport.com/nascar-truck/news/the-nascar-trucks-chase-is-about-the-big-three-but-who-else/10856232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T23:36:26Z"
+  },
+  {
+   "titulo": "Aion UT tested: Chinese newcomer takes aim at small EV elite",
+   "resumo": "New Chinese brand ventures into burgeoning small EV segment with 268–mile hatchback Meet the Aion UT, a new Chinese electric hatchback priced to rival B-segment EVs like the Renault 5 and…",
+   "url": "https://www.autocar.co.uk/car-review/aion/ut",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T23:01:00Z"
+  },
+  {
+   "titulo": "Andrea Stella: McLaren must help Oscar Piastri stop \"thinking\" about how to drive '26 F1 car",
+   "resumo": "McLaren team principal Andrea Stella believes Oscar Piastri's current deficit to Lando Norris is down to the Australian still \"thinking and driving\" with the 2026 Formula 1 machinery…",
+   "url": "https://www.motorsport.com/f1/news/stella-mclaren-must-help-piastri-stop-thinking-about-how-to-drive-26-f1-car/10856178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-15T23:00:03Z"
+  },
+  {
+   "titulo": "Kia Aims to Expand Its Commercial Van Conquest with the PV7 EV",
+   "resumo": "The PV7 follows the smaller PV5 and will go on sale in South Korea and Europe next year in a variety of configurations.",
+   "url": "https://www.caranddriver.com/news/a73748838/kia-pv7-electric-van-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-15T21:49:10Z"
+  },
   {
    "titulo": "Gateway was a race of opportunity for drivers with several posting season-best results",
    "resumo": "In a dramatic race with a track record and season-high 18 cautions, a handful of drivers found themselves in position to score their best finish of the year, or at least their strongest…",
@@ -219,16 +278,6 @@
    "data": "2026-09-15T16:16:00Z"
   },
   {
-   "titulo": "Mario Andretti headlines first batch of Sebring’s 75 all-time greatest drivers",
-   "resumo": "Racing legend Mario Andretti headlines the first group of inductees selected to the \"Class of 75,\" an elite list honoring the most successful drivers in the history of the Mobil 1 Twelve…",
-   "url": "https://www.motorsport.com/imsa/news/mario-andretti-headlines-first-batch-of-sebrings-75-all-time-greatest-drivers/10856180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T16:11:54Z"
-  },
-  {
    "titulo": "F1: Toto Wolff concorda com ideia de ajudar a Honda",
    "resumo": "Toto Wolff admitiu que a Fórmula 1 poderá ter de ajustar os regulamentos das unidades motrizes para permitir que a Honda reduza a diferença competitiva para os seus rivais. A posição do…",
    "url": "https://www.autosport.pt/formula1/f1-toto-wolff-concorda-com-ideia-de-ajudar-a-honda/",
@@ -237,16 +286,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-15T16:09:39Z"
-  },
-  {
-   "titulo": "Jules Gounon suffers only minor hand injury in DTM crash",
-   "resumo": "Relief for Mercedes-AMG works driver Jules Gounon: An examination this morning in his native Andorra found that he suffered only a minor injury to his left hand in the DTM Sunday race at…",
-   "url": "https://www.motorsport.com/dtm/news/jules-gounon-suffers-only-minor-hand-injury-in-dtm-crash/10856171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-15T15:55:18Z"
   },
   {
    "titulo": "Ferrari not yet switching focus to 2027 F1 car",
@@ -519,16 +558,6 @@
    "data": "2026-09-15T10:00:00Z"
   },
   {
-   "titulo": "View Photos of the 2027 Ford F-150 Carhartt Edition",
-   "resumo": "See the 2027 Ford F-150 Carhartt Edition’s exterior and interior from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73726316/2027-ford-f-150-carhartt-edition-details-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T10:00:00Z"
-  },
-  {
    "titulo": "Dacia CEO: Relax small car rules to reduce prices in Europe",
    "resumo": "Europe has lost three million sales since 2020; Katrin Adt says regulation is making cars too expensive Dacia CEO Katrin Adt has called on European law makers to relax regulation on small…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/dacia-ceo-relax-small-car-rules-reduce-prices-europe",
@@ -587,36 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-15T04:10:17Z"
-  },
-  {
-   "titulo": "Free Classic & Sports Car wallpapers from our October 2026 issue",
-   "resumo": "Free Classic & Sports Car wallpapers from our October 2026 issue Marc McLaren Tue, 15/09/2026 - 04:58",
-   "url": "https://www.classicandsportscar.com/features/free-classic-sports-car-wallpapers-our-october-2026-issue",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T03:58:39Z"
-  },
-  {
-   "titulo": "Buyer’s guide: Allard V8s",
-   "resumo": "Buyer’s guide: Allard V8s Marc McLaren Tue, 15/09/2026 - 04:58",
-   "url": "https://www.classicandsportscar.com/features/buyers-guide-allard-v8s",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T03:58:12Z"
-  },
-  {
-   "titulo": "Keith’s Blog: Ogden or Bust",
-   "resumo": "At 8 a.m. on Monday, September 21, we will be at the Lewis and Clark rest stop just outside of Portland. There, we will join up with a group of Alfas coming from Seattle, lead by SCMer and…",
-   "url": "https://www.sportscarmarket.com/blogs/keith-martin/keiths-blog-ogden-or-bust",
-   "fonte": "Sports Car Market",
-   "dominio": "sportscarmarket.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-14T17:38:02Z"
   }
  ]
 }
