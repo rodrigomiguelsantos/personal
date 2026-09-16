@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-16T16:54:43Z",
+ "atualizado": "2026-09-16T21:17:47Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,196 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "New Cayenne Electric Adds Power Doors And Wireless Charging",
+   "resumo": "The Porsche Cayenne Electric gains powered doors, 11 kW wireless charging, vibrating massage seats, and 105 paint colors",
+   "url": "https://www.carscoops.com/2026/09/new-cayenne-electric-adds-power-doors-and-wireless-charging/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T21:00:00Z"
+  },
+  {
+   "titulo": "Fiat's Tiny Topolino Has Been Reworked as a Racing Barchetta",
+   "resumo": "Thanks to an Italian design house, Fiat's littlest EV goes Mario Kart meets Little Tikes Cozy Coupe.",
+   "url": "https://www.caranddriver.com/news/a73762759/fiat-topolino-gfg-style-concepts/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T21:00:00Z"
+  },
+  {
+   "titulo": "Hendrick to bring back iconic neon yellow car numbers for 2027",
+   "resumo": "No team in NASCAR history has more wins and championships than Hendrick Motorsports, and many of those wins came while sporting neon yellow car numbers. Jimmie Johnson's five consecutive…",
+   "url": "https://www.motorsport.com/nascar-cup/news/hendrick-is-bring-back-iconic-neon-yellow-car-numbers-for-2027/10856426/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-16T20:31:09Z"
+  },
+  {
+   "titulo": "Watch Max Verstappen Pass Dozens of Karts in One Start While Racing 100 Other Drivers",
+   "resumo": "The four-time Formula 1 champion’s “Max vs. 100” race went how you might expect.",
+   "url": "https://www.roadandtrack.com/news/a73763341/watch-max-verstappen-pass-dozens-of-karts-in-one-start-while-racing-100-other-drivers/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T20:07:35Z"
+  },
+  {
+   "titulo": "NASCAR changes wet-weather tire policy for Bristol to give teams more control",
+   "resumo": "NASCAR series officials have altered a piece of the wet-weather tire policy ahead of a packed weekend of racing at Bristol Motor Speedway. As it were, wet-weather tires could be utilized at…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-changes-wet-weather-tire-policy-for-bristol/10856420/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-16T20:04:29Z"
+  },
+  {
+   "titulo": "Armindo Araújo Campeão Nacional de 2025: TAD atribuiu título ao piloto português",
+   "resumo": "O Tribunal Arbitral do Desporto (TAD) determinou, por acórdão proferido, que o Campeão Nacional de Ralis de 2025 é o piloto português Armindo Araújo e não o espanhol Dani Sordo. Esta…",
+   "url": "https://www.autosport.pt/ralis/armindo-araujo-campeao-nacional-de-2025-tad-atribuiu-titulo-ao-piloto-portugues/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-16T19:14:27Z"
+  },
+  {
+   "titulo": "Hyundai Ioniq 5 N Imagined As A Group B Monster With ICE Power",
+   "resumo": "Khyzyl Saleem's latest creation takes a high-performance EV from the Hyundai N catalog and spices it up with wild aero and a WRC-sourced engine",
+   "url": "https://www.carscoops.com/2026/09/hyundai-ioniq-group-b/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T19:00:00Z"
+  },
+  {
+   "titulo": "Against All Oddities: Cross-Reference Cowboys",
+   "resumo": "Here at ex-foundry/car commune/sh**box collective, we live and die by the magic of cross-referencing. It’s nearly impossible to keep everything running around the shop without an…",
+   "url": "https://www.hagerty.com/media/opinion/against-all-oddities/against-all-oddities-cross-reference-cowboys/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-16T19:00:00Z"
+  },
+  {
+   "titulo": "The ID.3 EV Hatchback Just Became Volkswagen’s Most Powerful GTI",
+   "resumo": "The ID.3 GTI surpasses the Golf and ID. Polo GTI variants in horsepower and torque.",
+   "url": "https://www.caranddriver.com/news/a73761589/volkswagen-id3-gti-ev-revealed/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T18:48:56Z"
+  },
+  {
+   "titulo": "Hyundai Launching Its Own Self-Driving Suite In 2029…Sort Of",
+   "resumo": "The company plans to offer a Level 2+ system in 2028 and wants to harvest driving data for training its autonomous tech",
+   "url": "https://www.carscoops.com/2026/09/hyundai-autonomous-technology/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T18:25:00Z"
+  },
+  {
+   "titulo": "2027 Porsche Cayenne Electric Gives You Even More Luxury-Grade Options",
+   "resumo": "Along with joining the Paint to Sample program, Porsche’s EV SUV now offers doors that will open and close themselves.",
+   "url": "https://www.caranddriver.com/news/a73761810/2027-porsche-cayenne-electric-new-options/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T18:16:58Z"
+  },
+  {
+   "titulo": "Porsche Cayenne Electric Adds 92 New Colors, Power-Closing Doors for 2027",
+   "resumo": "Oh, and now your massaging seats can synchronize up with the stereo.",
+   "url": "https://www.roadandtrack.com/news/a73759010/porsche-cayenne-electric-updates-2027/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T18:11:03Z"
+  },
+  {
+   "titulo": "Max Verstappen ultrapassa 100 karts em 14 voltas, 64 logo na primeira",
+   "resumo": "Max Verstappen cumpriu em pouco mais de metade do tempo previsto um desafio que, à partida, parecia particularmente exigente. O tetracampeão do mundo ultrapassou os 100 pilotos de kart…",
+   "url": "https://www.autosport.pt/formula1/max-vs-100-verstappen-ultrapassa-100-karts-em-14-voltas-64-so-na-primeira/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-16T18:07:35Z"
+  },
+  {
+   "titulo": "California Governor Gavin Newsom Signs Jay Leno’s Classic Car Smog Exemption Into Law",
+   "resumo": "Senate Bill 1392, better known as “Leno’s Law,” phases in a narrow smog-check exemption for qualifying collector cars.",
+   "url": "https://www.roadandtrack.com/news/a73762000/california-classic-car-smog-exemption-lenos-law-signed-into-law/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T18:03:28Z"
+  },
+  {
+   "titulo": "The Automotive Accomplishments We Want to Achieve",
+   "resumo": "There’s nothing quite so rewarding as reaching the summit of an effort into which we’ve put all-consuming amounts of time and emotion. Anybody who’s been at this hobby long enough has a…",
+   "url": "https://www.hagerty.com/media/lists/the-automotive-accomplishments-we-want-to-achieve/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-16T18:00:00Z"
+  },
+  {
+   "titulo": "Verstappen beats 100 karters (from the back) in Red Bull event",
+   "resumo": "Max Verstappen came from the back of the grid to beat 100 celebrity karters in Red Bull's highly entertaining Max vs 100 event at Silverstone",
+   "url": "https://www.the-race.com/extra/verstappen-beats-100-karters-from-the-back-in-red-bull-event/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-16T17:43:31Z"
+  },
+  {
+   "titulo": "Toyota Land Cruiser 300 Loses Gas Engine, Gains A Flashy Modellista Bodykit",
+   "resumo": "The updated version of the flagship SUV gains a more potent hybrid powertrain option in Japan alongside new features",
+   "url": "https://www.carscoops.com/2026/09/land-cruiser-japan/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T17:42:00Z"
+  },
+  {
+   "titulo": "McLaren Confirms First SUV with Huge Investment in U.K. Production",
+   "resumo": "The new SUV will be joined by two new engines and transmissions that are being developed and built entirely in-house.",
+   "url": "https://www.caranddriver.com/news/a73761528/mclaren-first-suv-confirmed-investment-uk-production/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T17:07:34Z"
+  },
+  {
+   "titulo": "Lexus Gives 2027 IS A Lovely Green Color But It’s Limited To Just 350 Cars",
+   "resumo": "The new Envious green appearance package adds forged BBS wheels, and is combined with the familiar 311-hp V6",
+   "url": "https://www.carscoops.com/2026/09/lexus-gives-2027-is-a-lovely-green-color-but-its-limited-to-just-350-cars/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-16T16:55:00Z"
+  },
   {
    "titulo": "Beyond the silverware: Nick Yelloly reflects on true impact David Salters leaves at HRC USA",
    "resumo": "For Nick Yelloly, the departure of David Salters is deeply personal. When the Briton made the decision to step away from BMW at the end of the 2024 IMSA WeatherTech SportsCar Championship…",
@@ -58,24 +248,24 @@
    "data": "2026-09-16T16:29:52Z"
   },
   {
+   "titulo": "China atrás do topo da indústria mundial",
+   "resumo": "A China tem novo plano quinquenal para o setor automóvel com objetivos muito ambiciosos: entre as prioridades, o reforço das vendas de elétricos e híbridos, de forma a que representem 70%…",
+   "url": "https://www.autosport.pt/automais/china-atras-do-topo-da-industria-mundial/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-16T16:22:00Z"
+  },
+  {
    "titulo": "Fernando Alonso deixou sinais de que pode permanecer na F1",
    "resumo": "Qual será o futuro de Fernando Alonso? A pergunta surgiu de várias formas ao longo do Grande Prémio de Espanha, mas o espanhol não revelou os planos para a próxima temporada. Ainda assim…",
-   "url": "https://www.autosport.pt/sem-categoria/fernando-alonso-deixou-sinais-de-que-pode-permanecer-na-f1/",
+   "url": "https://www.autosport.pt/formula1/fernando-alonso-deixou-sinais-de-que-pode-permanecer-na-f1/",
    "fonte": "AutoSport",
    "dominio": "autosport.pt",
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-16T16:15:36Z"
-  },
-  {
-   "titulo": "You Don’t Need A Rolls-Royce To Have A Luxury Sedan With Coach Doors",
-   "resumo": "Rare Lincoln Continental with just 2,400 miles is perfect for those after some American luxury",
-   "url": "https://www.carscoops.com/2026/09/lincoln-continental-coach-doors-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T16:10:00Z"
   },
   {
    "titulo": "McLaren Commits to Building New SUV As Part of Large-Scale Investment",
@@ -108,36 +298,6 @@
    "data": "2026-09-16T16:00:00Z"
   },
   {
-   "titulo": "NASCAR’s Brake Failures at Gateway Were Inevitable, Remain Hard to Solve",
-   "resumo": "Mandatory brake cooling alone cannot fix failures compounded by team choices, constant slowdowns, and a particularly tight Turn One.",
-   "url": "https://www.roadandtrack.com/news/a73759191/nascar-brake-failures-were-inevitable/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T15:47:50Z"
-  },
-  {
-   "titulo": "Toyota Confirms New Hilux Variant For 2028",
-   "resumo": "Following earlier Hilux prototypes with Mirai-sourced hydrogen fuel cells, Toyota is finally putting the truck into production",
-   "url": "https://www.carscoops.com/2026/09/toyota-hilux-fcev-teaser/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T15:31:00Z"
-  },
-  {
-   "titulo": "Hyundai and Kia Facing More Than $1 Billion in Court Claims Over Cars That Were Easy to Steal",
-   "resumo": "A federal appeals court is giving about 200 insurers another shot at recovering losses from the Hyundai–Kia theft crisis.",
-   "url": "https://www.roadandtrack.com/news/a73759050/hyundai-kia-facing-1-billion-dollars-in-court-claims-over-thefts/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T15:30:50Z"
-  },
-  {
    "titulo": "View Interior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo",
    "resumo": "See the interior of the 2026 Volkswagen Tiguan SEL R-Line Turbo, the fanciest version of VW’s compact SUV.",
    "url": "https://www.caranddriver.com/photos/a73686303/2026-volkswagen-tiguan-sel-r-line-turbo-reliability-maintenance-interior-gallery/",
@@ -146,26 +306,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-16T15:23:05Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2026 Volkswagen Tiguan SEL R-Line Turbo",
-   "resumo": "See the exterior of the 2026 Volkswagen Tiguan SEL R-Line Turbo from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73685494/2026-volkswagen-tiguan-sel-r-line-turbo-reliability-maintenance-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T15:23:01Z"
-  },
-  {
-   "titulo": "Our VW Tiguan SEL R-Line Turbo Combines Volkswagen Value with Luxury-Like Interior",
-   "resumo": "We’ve welcomed a 2026 VW Tiguan SEL R-Line Turbo to our long-term fleet for 40,000 miles of testing.",
-   "url": "https://www.caranddriver.com/reviews/a73721240/2026-volkswagen-tiguan-r-line-turbo-reliability-maintenance/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T15:22:55Z"
   },
   {
    "titulo": "F1: Stefano Domenicali justificou aumento das corridas Sprint e saudou o regresso de Portugal",
@@ -198,26 +338,6 @@
    "data": "2026-09-16T14:52:45Z"
   },
   {
-   "titulo": "Has Mercedes’ New Entry-Level C 300 Electric Just Made The C 400 Redundant?",
-   "resumo": "C 300 still comes with 4Matic all-wheel drive and is rated at almost 430 WLTP range miles",
-   "url": "https://www.carscoops.com/2026/09/has-mercedes-new-entry-level-c-300-electric-just-made-the-c-400-redundant/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T14:46:00Z"
-  },
-  {
-   "titulo": "Formula 1’s 2027 Schedule Revealed, Packs in 10 Sprint Races",
-   "resumo": "Some doubts still hover over the planned events in the Middle East next year, however.",
-   "url": "https://www.roadandtrack.com/news/a73759257/formula-1-2027-schedule/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T14:44:51Z"
-  },
-  {
    "titulo": "“I’m not enjoying life” – How Yuki Tsunoda’s Red Bull F1 stint “exhausted” him",
    "resumo": "In the pre-2026 Formula 1 eras, Red Bull’s second seat made quite a few casualties. Pierre Gasly, Alexander Albon, Sergio Perez, Liam Lawson. All of them struggled – and eventually failed –…",
    "url": "https://www.motorsport.com/f1/news/im-not-enjoying-life-how-yuki-tunodas-red-bull-f1-stint-exhausted-him/10856377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
@@ -238,36 +358,6 @@
    "data": "2026-09-16T14:12:24Z"
   },
   {
-   "titulo": "Crash victim Kelvin van der Linde consoles Maro Engel: \"I know how much it hurts\"",
-   "resumo": "When Kelvin van der Linde was taken out of the race by Maro Engel on the penultimate lap at the Sachsenring, frustration was high. \"Who hit me? What an idiot!\" the luckless Schubert BMW…",
-   "url": "https://www.motorsport.com/dtm/news/crash-victim-kelvin-van-der-linde-consoles-maro-engel-i-know-how-much-it-hurts/10856367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-16T14:10:57Z"
-  },
-  {
-   "titulo": "Luís Cidade aposta na vi tória na Baja TT Sharish Gin: “o nosso foco principal em 2026 é o CPTT”",
-   "resumo": "Luís Cidade e o navegador Valter Cardoso competem na Baja TT Sharish Gin, que se realiza entre 18 e 20 de setembro de 2026 em Reguengos de Monsaraz, com o objetivo de vencer a prova e…",
-   "url": "https://www.autosport.pt/todooterreno/luis-cidade-aposta-na-vi-toria-na-baja-tt-sharish-gin-o-nosso-foco-principal-em-2026-e-o-cptt/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-16T14:07:21Z"
-  },
-  {
-   "titulo": "AJ Foyt Racing signs reigning IndyCar Rookie of the Year Dennis Hauger to multi-year deal",
-   "resumo": "AJ Foyt Racing has secured 2026 IndyCar Series Rookie of the Year Dennis Hauger on a multi-year agreement beginning with the 2027 season. The 23-year-old Norwegian driver will take the…",
-   "url": "https://www.motorsport.com/indycar/news/aj-foyt-racing-signs-reigning-indycar-rookie-of-the-year-dennis-hauger-to-multi-year-deal/10856363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-16T14:00:00Z"
-  },
-  {
    "titulo": "Renovado Volvo XC90 PHEV ganha bateria maior que a de alguns elétricos",
    "resumo": "Já diz o ditado que «não há duas sem três» e depois de ter revelado os renovados XC40 e XC60, a Volvo deu a conhecer o também revisto XC90. Esta é a terceira vez que o maior SUV com motor…",
    "url": "https://www.razaoautomovel.com/noticias/apresentacao-volvo-xc90-2026/",
@@ -286,16 +376,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-16T14:00:00Z"
-  },
-  {
-   "titulo": "GM Caves In And Brings Back Android Auto, Apple CarPlay In 2027 Silverado And Sierra",
-   "resumo": "The redesigned trucks have new displays, improved layouts, and plenty of behind the scenes tweaks",
-   "url": "https://www.carscoops.com/2026/09/2027-silverado-gmc-user-experience/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T13:58:00Z"
   },
   {
    "titulo": "Haas confident of getting 2027 F1 budget closer to cap with new partner talks",
@@ -328,42 +408,12 @@
    "data": "2026-09-16T13:35:37Z"
   },
   {
-   "titulo": "NHTSA Wants Tesla To Explain What Made Cybercab Street Legal",
-   "resumo": "Tesla faces 21 federal requests over Cybercab certification, including questions about the missing driver controls",
-   "url": "https://www.carscoops.com/2026/09/nhtsa-wants-tesla-to-explain-what-made-cybercab-street-legal/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T13:12:00Z"
-  },
-  {
    "titulo": "Financing A Classic Car Just Got Way Easier Thanks To Hemmings",
    "resumo": "Hemmings Financing offers pre-approvals, monthly payment estimates, and loans for eligible collector cars.",
    "url": "https://www.motor1.com/news/808402/hemmings-collector-car-financing-launch/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T13:00:00Z"
-  },
-  {
-   "titulo": "The Ferrari 296 GT Modificata Is a Race Car with No Finish Line in Sight",
-   "resumo": "Unbound by the restrictions of GT3 regulations, the 296 GT Modificata is a serious track day toy for wealthy customers.",
-   "url": "https://www.caranddriver.com/news/a73747747/ferrari-296-gt-modificata-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-16T13:00:00Z"
-  },
-  {
-   "titulo": "Clothes and Cars: Why Dress the Part?",
-   "resumo": "It makes me smile to recall my first overseas press launch as a reporter for the trade tabloid Automotive News. On that first night in Stuttgart, a gaggle of jet-lagged journalists…",
-   "url": "https://www.hagerty.com/media/opinion/clothes-and-cars-why-dress-the-part/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-16T13:00:00Z"
   },
@@ -386,16 +436,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-16T12:37:41Z"
-  },
-  {
-   "titulo": "F1 evita sobreposição com Indy 500, Le Mans e Nürburgring em 2027",
-   "resumo": "O calendário de 2027 reduz algumas das principais sobreposições entre grandes provas internacionais de automobilismo. Em particular, a Fórmula 1 não terá Grandes Prémios nos fins de semana…",
-   "url": "https://www.autosport.pt/formula1/f1-evita-sobreposicao-com-indy-500-le-mans-e-nurburgring-em-2027/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-16T12:35:04Z"
   },
   {
    "titulo": "A Lotus Seven-Style Clubman Meets A Circle-Track Racer: With A 409 V8",
@@ -426,16 +466,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-16T12:20:57Z"
-  },
-  {
-   "titulo": "Kia atualiza XCeed: os preços",
-   "resumo": "Por Pedro Junceiro A Kia comunicou todos os detalhes e preços do novo XCeed, modelo que não é mais do que a atualização de automóvel que prossegue a carreira comercial com uma identidade…",
-   "url": "https://www.autosport.pt/automais/kia-atualiza-xceed-os-precos/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-16T12:20:00Z"
   },
   {
    "titulo": "LEVC to launch new black cab in 2027 – but may not build in UK",
@@ -538,16 +568,6 @@
    "data": "2026-09-16T07:38:51Z"
   },
   {
-   "titulo": "MotoGP's radically different 2027 rider line-up is complete",
-   "resumo": "Tech3's slightly contentious Senna Agius announcement completes a hugely changed MotoGP line-up for 2027",
-   "url": "https://www.the-race.com/motogp/2027-motogp-line-up-complete/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-16T07:26:31Z"
-  },
-  {
    "titulo": "Vintage Home-On-Wheels: A 1965 Airstream Globe Trotter Land Yacht",
    "resumo": "This is a refurbished 1965 Airstream Globe Trotter Land Yacht, it’s one of the smaller, lighter Airstreams from the company’s golden era, but it... The post Vintage Home-On-Wheels: A 1965…",
    "url": "https://silodrome.com/airstream-globe-trotter-land-yacht/",
@@ -576,26 +596,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-16T03:46:40Z"
-  },
-  {
-   "titulo": "Kia Aims to Expand Its Commercial Van Conquest with the PV7 EV",
-   "resumo": "The PV7 follows the smaller PV5 and will go on sale in South Korea and Europe next year in a variety of configurations.",
-   "url": "https://www.caranddriver.com/news/a73748838/kia-pv7-electric-van-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-15T21:49:10Z"
-  },
-  {
-   "titulo": "The Ford Crown Victoria Is Now a Popular Secret Handshake",
-   "resumo": "Great cars can occasionally take time to make their presence known. Sure, there are immediate hits that become cultural icons from day one, but most of the cars that have made the strongest…",
-   "url": "https://www.hagerty.com/media/automotive-history/the-ford-crown-victoria-is-now-a-popular-secret-handshake/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-15T19:30:00Z"
   },
   {
    "titulo": "Ferrari not yet switching focus to 2027 F1 car",
