@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-18T20:54:14Z",
+ "atualizado": "2026-09-19T04:37:08Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,86 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Crew member gifted car fender from dangerous close call in Gateway pit road crash",
+   "resumo": "Bryan Backus, who works as the rear tire changer for the No. 19 Joe Gibbs Racing NASCAR O'Reilly Auto Parts Series team, narrowly avoided serious injury last weekend at WWT Raceway…",
+   "url": "https://www.motorsport.com/nascar-os/news/crew-member-gifted-car-panel-from-dangerous-close-call-in-gateway-pit-road-crash/10857025/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-19T03:27:50Z"
+  },
+  {
+   "titulo": "Sheldon Creed charges from 10th to win chaotic Bristol race in overtime as tempers flare",
+   "resumo": "Sheldon Creed pulled off a remarkable charge on fresh tires, driving from 10th to first in the final 20 laps of the race. It is Creed's third career NASCAR O'Reilly Auto Parts Series win…",
+   "url": "https://www.motorsport.com/nascar-os/news/sheldon-creed-charges-from-10th-to-win-chaotic-bristol-race-in-overtime-as-tempers-flare/10857009/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-19T02:03:22Z"
+  },
+  {
+   "titulo": "This Six-Wheeled Ford EcoSport Is A Monument To Questionable Decisions",
+   "resumo": "This custom Ford EcoSport has six wheels, 5.6 mpg on its dash, a cramped rear seat, and bidding above $5,500",
+   "url": "https://www.carscoops.com/2026/09/this-six-wheeled-ford-ecosport-is-a-monument-to-questionable-decisions/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-19T02:00:00Z"
+  },
+  {
+   "titulo": "Spire calls out Joe Gibbs Racing in fiery new statement",
+   "resumo": "Spire Motorsports has released a new statement in response to Joe Gibbs Racing’s latest court filing. Earlier this year, JGR sued Gabehart and later Spire, alleging a 'brazen scheme to…",
+   "url": "https://www.motorsport.com/nascar-cup/news/spire-will-not-be-bullied-as-they-hit-back-at-joe-gibbs-racing-in-new-statement/10857011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-19T00:08:24Z"
+  },
+  {
+   "titulo": "'I wanted to win,' Keselowski said of radio outburst towards Ford hierarchy",
+   "resumo": "There was a point during the NASCAR Cup Series race on Sunday at Gateway where Brad Keselowski got passed by Joey Logano inside the top-five and expressed dissatisfaction with the hierarchy…",
+   "url": "https://www.motorsport.com/nascar-cup/news/i-wanted-to-win-keselowski-said-of-radio-outburst-towards-ford-hierarchy-/10857007/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-18T23:02:39Z"
+  },
+  {
+   "titulo": "Go Fast for Less: 5 Cars to Get You to 150 MPH for Under $50K",
+   "resumo": "Let’s say you’ve got a need—maybe even a need for speed. For six- and seven-figure price tags, any number of today’s exclusive supercars and hypercars will propel you in no time flat to…",
+   "url": "https://www.hagerty.com/media/market-trends/go-fast-for-less-5-cars-to-get-you-to-150-mph-for-under-50k/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-18T22:53:09Z"
+  },
+  {
+   "titulo": "The four top contenders imploded in NASCAR Trucks Chase opener",
+   "resumo": "The NASCAR Truck Series Chase for the Championship began with a moderate implosion for each of the four top seeded drivers on the seven-race playoff on Thursday night at Bristol Motor…",
+   "url": "https://www.motorsport.com/nascar-truck/news/the-four-top-contenders-imploded-in-nascar-trucks-chase-opener-/10856995/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-18T22:08:55Z"
+  },
+  {
+   "titulo": "Over 200,000 Jeeps Have A Faulty Convenience Feature Owners Love",
+   "resumo": "The 2024-2026 Jeep Grand Cherokee is the most impacted model involved in the recall",
+   "url": "https://www.carscoops.com/2026/09/over-200000-jeeps-have-a-faulty-convenience-feature-owners-love/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-18T22:00:00Z"
+  },
   {
    "titulo": "This Custom 1979 Chevy Van Isn’t a Throwback. It’s a Survivor.",
    "resumo": "While visiting automotive artist Randy Grubb to photograph his amazing McLaren M6GT build, we scoped out photo locations in his 1979 Chevy van. Aside from the Grand National Truck Show…",
@@ -58,6 +138,16 @@
    "data": "2026-09-18T19:12:16Z"
   },
   {
+   "titulo": "Rally Legends Luso-Bussaco cancela troços devido a incêndios e risco meteorológico",
+   "resumo": "O clube LusoClássicos cancelou as Provas Especiais de Classificação (PEC) do Rally Legends Luso-Bussaco agendadas para os dias 19 e 20 de setembro, mantendo apenas inalterado o programa de…",
+   "url": "https://www.autosport.pt/ralis/rally-legends-luso-bussaco-cancela-trocos-devido-a-incendios-e-risco-meteorologico/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-18T18:53:00Z"
+  },
+  {
    "titulo": "Project Rally One reveals WRC 2027 challenger",
    "resumo": "Project Rally One has formally presented its 2027 World Rally Championship challenger to the public as it sets its sights on fielding two cars at next season’s season opener in Monte Carlo…",
    "url": "https://www.autosport.com/wrc/news/project-rally-one-unveils-2027-wrc-challenger-targets-monte-carlo-debut/10856983/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -66,16 +156,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-18T18:52:34Z"
-  },
-  {
-   "titulo": "Project Rally One unveils 2027 WRC challenger, targets Monte Carlo debut",
-   "resumo": "Project Rally One has formally presented its 2027 World Rally Championship challenger to the public as it sets its sights on fielding two cars at next season’s season opener in Monte Carlo…",
-   "url": "https://www.motorsport.com/wrc/news/project-rally-one-unveils-2027-wrc-challenger-targets-monte-carlo-debut/10856979/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-18T18:51:06Z"
   },
   {
    "titulo": "Is the Hyundai Ioniq 5’s Bigger Battery Better? We Tested It",
@@ -120,12 +200,12 @@
   {
    "titulo": "Can Ducati mount a serious victory challenge at the MotoGP Austrian Grand Prix?",
    "resumo": "After a great day out on home ground at Misano last weekend, Ducati appears to be facing a much sterner challenge now that the MotoGP circus has moved north across the Dolomites. That's…",
-   "url": "https://www.motorsport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856968/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "url": "https://www.autosport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856971/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-18T17:54:58Z"
+   "data": "2026-09-18T17:57:28Z"
   },
   {
    "titulo": "Best Car Floor Mats of 2026, Tested",
@@ -148,16 +228,6 @@
    "data": "2026-09-18T17:48:38Z"
   },
   {
-   "titulo": "Joe Gibbs Racing motions to issue sanctions against Spire, Chris Gabehart",
-   "resumo": "Joe Gibbs Racing is asking the Western District of North Carolina to hold Chris Gabehart and Spire Motorsports in civil contempt because it claims both defendants have violated the…",
-   "url": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-motions-to-issue-sanctions-against-spire-chris-gabehart/10856957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-18T17:41:50Z"
-  },
-  {
    "titulo": "Maserati’s 217 MPH Ice Cream Ad Coming To Goodwood",
    "resumo": "A rare Pininfarina coupe, the Birdcage, and a V8 racer backed by an ice cream company will mark 100 years of Maserati’s Trident at Goodwood",
    "url": "https://www.carscoops.com/2026/09/maseratis-217-mph-ice-cream-ad-is-coming-to-goodwood/",
@@ -166,26 +236,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-18T17:40:00Z"
-  },
-  {
-   "titulo": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-   "resumo": "The Williams Formula 1 team has released a behind-the-scenes look at the off-track life of Alex Albon. Filmed on a Tuesday following a race weekend alongside his fiancée, professional…",
-   "url": "https://www.motorsport.com/f1/news/williams-shares-behind-the-scenes-look-at-alex-albons-life-away-from-f1/10856966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-18T17:38:49Z"
-  },
-  {
-   "titulo": "Paul Miller Racing goes “full push” for elusive IMSA GTD Pro title",
-   "resumo": "Neil Verhagen is two races away from helping Paul Miller Racing secure the one major IMSA title still missing from its record. Heading into this weekend’s Battle on the Bricks at…",
-   "url": "https://www.motorsport.com/imsa/news/paul-miller-racing-goes-full-push-for-elusive-imsa-gtd-pro-title/10856961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-18T17:30:15Z"
   },
   {
    "titulo": "Baja Sharish Gin Reguengos/Mourão: Gonçalo Guerreiro ‘desenrolou o azar’ e dominou SS1",
@@ -236,16 +286,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-18T16:31:39Z"
-  },
-  {
-   "titulo": "BMW M3 EV Lays Down 11s Trying To Shake Xiaomi At The Ring",
-   "resumo": "Electric M3 prototype showcased its skid skills as the Chinese SU7 Ultra sedan clung to its tail",
-   "url": "https://www.carscoops.com/2026/09/bmw-m3-ev-lays-down-11s-trying-to-shake-xiaomi-at-the-ring/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T16:16:00Z"
   },
   {
    "titulo": "Why KTM's Red Bull Ring advantage is looking particularly potent in 2026",
@@ -328,16 +368,6 @@
    "data": "2026-09-18T15:40:28Z"
   },
   {
-   "titulo": "Opel Astra GSE Line Brings OPC-Like Power, But Don’t Call It A Hot Hatch",
-   "resumo": "Opel's compact hatchback gains a sportier face, new alloy wheels, and a more potent electric powertrain option",
-   "url": "https://www.carscoops.com/2026/09/opel-astra-gse-line/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T15:29:00Z"
-  },
-  {
    "titulo": "Novo C 63 AMG não tem V8 mas vai ser o mais potente de sempre",
    "resumo": "A Mercedes-AMG tem estado tudo menos parada. Poucos dias depois de revelar o radical CLE 646 Spezialanfertigung, a marca prepara uma verdadeira ofensiva elétrica, com um novo SUV…",
    "url": "https://www.razaoautomovel.com/noticias/antevisao-fotos-espia-mercedes-amg-classe-c-eletrico/",
@@ -418,16 +448,6 @@
    "data": "2026-09-18T14:37:25Z"
   },
   {
-   "titulo": "MotoGP Austrian Grand Prix: Acosta tops Practice as KTM chases home win",
-   "resumo": "Pedro Acosta completed a perfect first day at KTM's home race as the factory star led the way in Practice at the Austrian Grand Prix on Friday. Acosta, who is seeking his first MotoGP win…",
-   "url": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-pedro-acosta-tops-practice-as-ktm-chases-home-win/10856888/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-18T14:32:36Z"
-  },
-  {
    "titulo": "MotoGP Austrian GP: Who made Q2 - and who missed out",
    "resumo": "Pedro Acosta continued to command KTM and Red Bull's home MotoGP race as he led the Austrian GP's Friday afternoon practice session too",
    "url": "https://www.the-race.com/motogp/motogp-austrian-gp-who-made-q2-who-missed-out/",
@@ -444,16 +464,6 @@
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T14:00:00Z"
-  },
-  {
-   "titulo": "Our Two Cents: Mid-Engine Corvette or No?",
-   "resumo": "The concept of a rear-mid-engine Corvette can be contentious in some automotive circles. Some folks love the rearward engine placement, and indeed, the C8 Corvette has an impressive level…",
-   "url": "https://www.hagerty.com/media/hagerty-community/our-two-cents-mid-engine-corvette-or-no/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-18T14:00:00Z"
   },
@@ -606,16 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-17T12:30:10Z"
-  },
-  {
-   "titulo": "Made In The USA: The Red Wing Heritage Blacksmith Boot",
-   "resumo": "This is the Red Wing Heritage Blacksmith boot, it’s one of the more timeless of the legendary American company’s boot designs, and each is... The post Made In The USA: The Red Wing Heritage…",
-   "url": "https://silodrome.com/red-wing-heritage-blacksmith-boot/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-17T06:30:32Z"
   }
  ]
 }
