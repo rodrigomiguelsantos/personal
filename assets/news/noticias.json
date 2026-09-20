@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-20T11:23:18Z",
+ "atualizado": "2026-09-20T16:05:20Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,14 +17,204 @@
  ],
  "itens": [
   {
-   "titulo": "Guenther Steiner compares Madring backlash to Las Vegas debut with 2027 warning",
-   "resumo": "Former Haas Formula 1 team principal Guenther Steiner has warned that the organisers of the Spanish Grand Prix at the Madring circuit must urgently change the track's layout for 2027. The…",
-   "url": "https://www.motorsport.com/f1/news/guenther-steiner-compares-madring-backlash-to-las-vegas-debut-with-2027-warning/10857396/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "Apple's New CEO Is A Car Guy. He Owns One Of The Rarest Porsches Ever Built",
+   "resumo": "John Ternus reportedly takes his 700-horsepower Porsche 935 to Laguna Seca, where he has posted lap times under 1:40.",
+   "url": "https://www.motor1.com/news/808809/apple-ceo-car-guy-owns-porsche-935/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T16:00:00Z"
+  },
+  {
+   "titulo": "Fake Cop Pulls Over Tesla, Then Calls Real Cops On Himself",
+   "resumo": "Police are looking for possible additional victims after a Chevy pickup with emergency-style lights allegedly stopped a Tesla",
+   "url": "https://www.carscoops.com/2026/09/fake-cop-pulls-over-tesla-then-calls-real-cops-on-himself/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T16:00:00Z"
+  },
+  {
+   "titulo": "What Pedro Acosta told himself to avoid repeating his “most embarrassing mistake”",
+   "resumo": "Pedro Acosta told himself that another crash in Sunday’s Austrian Grand Prix could see him reach the end of his third MotoGP season without a grand prix victory. Having thrown away a…",
+   "url": "https://www.motorsport.com/motogp/news/what-pedro-acosta-told-himself-to-avoid-repeating-his-most-embarrassing-mistake/10857508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-09-20T10:28:16Z"
+   "data": "2026-09-20T15:48:42Z"
+  },
+  {
+   "titulo": "Mad Max ‘Humungus Machine’ Is up for Auction on Bring a Trailer",
+   "resumo": "This ‘Mad Max’ homage is based on a Ford F-150.",
+   "url": "https://www.caranddriver.com/news/a73781356/ford-f150-based-mad-max-humungus-machine-auction/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T15:00:00Z"
+  },
+  {
+   "titulo": "Jorge Martin shelves arm pump surgery idea after strong Austrian GP",
+   "resumo": "World championship leader Jorge Martin has confirmed that he will not undergo any surgery for arm pump in the foreseeable future. This follows the Aprilia rider getting through a physically…",
+   "url": "https://www.motorsport.com/motogp/news/martin-shelves-arm-pump-surgery-idea-after-strong-austrian-gp/10857492/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T14:58:06Z"
+  },
+  {
+   "titulo": "David Tremayne: “Por que estou radiante com o regresso do GP de Portugal F1 ao calendário…”",
+   "resumo": "David Tremayne, jornalista do Hall of Fame da Fórmula 1 mostra-se muito contente com o regresso do GP de Portugal de Fórmula 1, em 2027 e 2028, no circuito de Portimão. Este regresso…",
+   "url": "https://www.autosport.pt/formula1/david-tremayne-por-que-estou-radiante-com-o-regresso-do-gp-de-portugal-f1-ao-calendario/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-20T14:44:26Z"
+  },
+  {
+   "titulo": "Marc Marquez explains his Austrian GP slump",
+   "resumo": "Marc Marquez revealed that \"many, many problems with the front brake\" were the cause of his slump to fifth in MotoGP's Austrian Grand Prix",
+   "url": "https://www.the-race.com/motogp/marc-marquez-explains-his-austrian-gp-slump/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T14:41:59Z"
+  },
+  {
+   "titulo": "Marc Marquez feared Austrian GP retirement as he explains cause of struggles",
+   "resumo": "Marc Marquez said he considered pulling out of the Austrian Grand Prix at one stage as brake issues significantly hampered his performance in Sunday’s MotoGP race. The factory Ducati rider…",
+   "url": "https://www.motorsport.com/motogp/news/marc-marquez-feared-austrian-gp-retirement-as-he-explains-cause-of-struggles/10857490/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T14:37:16Z"
+  },
+  {
+   "titulo": "Other NASCAR drivers react to Carson Hocevar and Ryan Blaney fight",
+   "resumo": "Drivers suddenly became spectators after the NASCAR Cup race at Bristol, watching on (most with glee) as Ryan Blaney confronted Carson Hocevar, with Hocevar punching Blaney twice in the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/other-nascar-drivers-react-to-carson-hocevar-and-ryan-blaney-fight/10857485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T14:35:23Z"
+  },
+  {
+   "titulo": "Viana do Castelo Rally: Rafael Cunha Campeão, Mário Castro e Tiago Silva vencedores, Norte e geral",
+   "resumo": "Rafael Cunha e Gonçalo Cunha garantiram matematicamente o título do Campeonato Norte de Ralis 2026 ao terminarem o Viana do Castelo Rally na segunda posição entre os concorrentes pontuáveis…",
+   "url": "https://www.autosport.pt/ralis/viana-do-castelo-rally-rafael-cunha-campeao-mario-castro-e-tiago-silva-vencedores-norte-e-geral/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-20T14:17:28Z"
+  },
+  {
+   "titulo": "Acosta's long road to his maiden MotoGP win",
+   "resumo": "There has never been much doubt about Pedro Acosta’s quality or talent, but since making his MotoGP debut three years ago, he had been waiting for KTM to give him a bike to challenge for a…",
+   "url": "https://www.autosport.com/motogp/news/acostas-road-to-motogp-victory/10857475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T14:00:34Z"
+  },
+  {
+   "titulo": "The road to Pedro Acosta's maiden MotoGP win",
+   "resumo": "There has never been much doubt about Pedro Acosta’s quality or talent, but since making his MotoGP debut three years ago, he had been waiting for KTM to give him a bike to challenge for a…",
+   "url": "https://www.motorsport.com/motogp/news/pedro-acosta-maiden-motogp-win-journey/10857459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T13:56:08Z"
+  },
+  {
+   "titulo": "Ferrari Will Sell You Sketched-on Body Panels as Artwork",
+   "resumo": "Fancy the hood of a 12Cilindri anointed by Ferrari’s chief designer for your living room wall?",
+   "url": "https://www.caranddriver.com/news/a73793913/ferrari-sketched-body-panels-artwork-sale/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T13:00:00Z"
+  },
+  {
+   "titulo": "Piston Slap: What Makes A New-Generation Vehicle?",
+   "resumo": "Timothy writes: Sajeev, I have another Piston Slap for you! This one stems from a comment that I made on an article posted a few weeks ago on Hagerty, when your fellow writer Stefan Lombard…",
+   "url": "https://www.hagerty.com/media/advice/piston-slap/piston-slap-what-makes-a-new-generation-vehicle/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-20T13:00:00Z"
+  },
+  {
+   "titulo": "MotoGP Austrian GP: Acosta finally claims maiden win",
+   "resumo": "Pedro Acosta claimed his maiden MotoGP victory with a dominant performance at the Austrian Grand Prix, while Jorge Martin extended his points lead over Marc Marquez with second. Lining up…",
+   "url": "https://www.autosport.com/motogp/news/motogp-austrian-gp-acosta-finally-claims-maiden-win/10857454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T12:55:43Z"
+  },
+  {
+   "titulo": "Rui Madeira pode regressar no Rally Series em Fafe: “tenho seguido com atenção…”",
+   "resumo": "Rui Madeira e Paula Madeira lideravam a classificação geral e a Categoria Sport do Rally Legends Luso-Bussaco 2026 quando o agravamento do risco de incêndio rural levou ao cancelamento do…",
+   "url": "https://www.autosport.pt/ralis/rui-madeira-pode-regressar-no-rally-series-em-fafe-tenho-seguido-com-atencao/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-20T12:54:29Z"
+  },
+  {
+   "titulo": "Acosta finally wins first GP, Marquez loses title race ground",
+   "resumo": "Pedro Acosta finally scored his overdue first MotoGP grand prix victory, while Jorge Martin rebuilt his points lead",
+   "url": "https://www.the-race.com/motogp/acosta-finally-wins-first-gp-marquez-loses-title-race-ground/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T12:50:56Z"
+  },
+  {
+   "titulo": "For Sale: A 1971 Saab Sonett III – Sweden’s Strangely Brilliant V4 Coupe",
+   "resumo": "This is a Saab Sonett III from 1971, it’s been given a full body-off restoration, and it now presents as one of the tidiest... The post For Sale: A 1971 Saab Sonett III – Sweden’s Strangely…",
+   "url": "https://silodrome.com/saab-sonett-iii/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-20T12:30:43Z"
+  },
+  {
+   "titulo": "Posso levar o carro à inspeção antes da data obrigatória?",
+   "resumo": "Apesar de a data da matrícula funcionar como referência para a inspeção automóvel, não significa que o proprietário tenha de esperar por ela. Em Portugal, é possível levar o automóvel à…",
+   "url": "https://www.razaoautomovel.com/autopedia/dicas-levar-carro-inspecao-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-20T11:30:00Z"
+  },
+  {
+   "titulo": "Baja Sharish Gin Reguengos/Mourão: 5º triunfo consecutivo de João Ferreira",
+   "resumo": "João Ferreira e Filipe Palmeiro (Toyota Hilux Evo) confirmaram esta manhã aquele que é o quinto triunfo consecutivo da dupla em Reguengos (em 2022 foi com David Monteiro ao lado) depois de…",
+   "url": "https://www.autosport.pt/sem-categoria/baja-sharish-gin-reguengos-mourao-5o-triunfo-consecutivo-de-joao-ferreira/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-20T11:27:53Z"
   },
   {
    "titulo": "CRM: Miguel Nunes volta a vencer e assume favoritismo no campeonato",
@@ -37,16 +227,6 @@
    "data": "2026-09-20T10:19:17Z"
   },
   {
-   "titulo": "Austria to host final Pirelli test of MotoGP 2026",
-   "resumo": "Leaving aside private tests with test riders, the 2026 MotoGP testing calendar had two dates scheduled for race riders to have a first contact with the new Pirelli tyres, which in 2027 will…",
-   "url": "https://www.motorsport.com/motogp/news/austria-to-host-final-pirelli-test-of-motogp-2026/10857390/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T10:18:49Z"
-  },
-  {
    "titulo": "O que acontece se misturar gasolina 95 e 98?",
    "resumo": "Esta é uma dúvida que surge com alguma frequência junto às bombas de combustível. Afinal, o que acontece se juntarmos gasolina 95 e gasolina 98 no mesmo depósito? De grosso modo: nada de…",
    "url": "https://www.razaoautomovel.com/autopedia/curiosidades-o-que-acontece-se-misturar-gasolina-95-98/",
@@ -55,66 +235,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-20T10:15:00Z"
-  },
-  {
-   "titulo": "Former engineer urges F1 to introduce \"augmented\" stewarding group to speed up decisions",
-   "resumo": "Former Ferrari and Williams race engineer Rob Smedley has proposed that Formula 1 introduce an \"augmented\" stewarding group to accelerate in-race decisions and prevent straightforward…",
-   "url": "https://www.motorsport.com/f1/news/former-engineer-urges-f1-to-introduce-augmented-stewarding-group-to-speed-up-decisions/10857147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T10:00:03Z"
-  },
-  {
-   "titulo": "F1, Kimi Antonelli rejeita estatuto de primeiro piloto na Mercedes",
-   "resumo": "Kimi Antonelli rejeitou a ideia de ter assumido o estatuto de primeiro piloto da Mercedes em 2026, apesar de liderar o Campeonato do Mundo de Fórmula 1 com 81 pontos de vantagem sobre o…",
-   "url": "https://www.autosport.pt/formula1/f1-kimi-antonelli-rejeita-estatuto-de-primeiro-piloto-na-mercedes/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-20T09:45:14Z"
-  },
-  {
-   "titulo": "“Mosquitos por cordas” na NASCAR: ‘confronto’ entre Ryan Blaney e Carson Hocevar",
-   "resumo": "Por vezes sucede, o desporto motorizado é um ambiente de muito stress, e a vitória de Joey Logano no Bristol Motor Speedway da NASCAR ficou marcada por uma altercação física no pit road…",
-   "url": "https://www.autosport.pt/velocidade/mosquitos-por-cordas-na-nascar-confronto-entre-ryan-blaney-e-carson-hocevar/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-20T09:30:05Z"
-  },
-  {
-   "titulo": "IMSA, Filipe Albuquerque 7º em Indianápolis: “faltou extrair mais dos pneus”",
-   "resumo": "Filipe Albuquerque vai partir do sétimo lugar da grelha para a jornada de Indianápolis do IMSA WeatherTech SportsCar Championship. O piloto português conseguiu a posição numa qualificação…",
-   "url": "https://www.autosport.pt/velocidade/imsa-filipe-albuquerque-7o-em-indianapolis-faltou-extrair-mais-dos-pneus/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-20T09:21:49Z"
-  },
-  {
-   "titulo": "F1: Charles Leclerc admite tornar-se empresário de pilotos",
-   "resumo": "Charles Leclerc admite a possibilidade de continuar ligado à Fórmula 1 como empresário de pilotos depois de terminar a carreira ao volante. O piloto monegasco, de 28 anos, renovou…",
-   "url": "https://www.autosport.pt/formula1/f1-charles-leclerc-admite-tornar-se-empresario-de-pilotos/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-20T09:16:57Z"
-  },
-  {
-   "titulo": "David Coulthard urges FIA to speed up safety car decisions",
-   "resumo": "Former Formula 1 driver David Coulthard has argued that the FIA must speed up its decision-making processes when neutralising F1 races, stating there is clear \"room for improvement\"…",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-urges-fia-to-speed-up-safety-car-decisions/10857133/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T09:00:02Z"
   },
   {
    "titulo": "Why Ferrari has fallen back - and what it plans to do",
@@ -155,16 +275,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-20T08:00:00Z"
-  },
-  {
-   "titulo": "Ollie Millroy discharged from hospital following horrific China GT crash",
-   "resumo": "Two weeks after the horrific crash in Shanghai, Ollie Millroy has been discharged from hospital and will be able to continue his recovery at home. The British driver was innocently caught…",
-   "url": "https://www.motorsport.com/gt/news/ollie-millroy-discharged-from-hospital-following-the-china-gt-horrific-crash/10857347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T07:39:42Z"
   },
   {
    "titulo": "The Pirelli test row shows why MotoGP riders need a stronger voice",
@@ -347,66 +457,6 @@
    "data": "2026-09-19T15:00:00Z"
   },
   {
-   "titulo": "Acosta owns costly Spielberg sprint crash",
-   "resumo": "Pedro Acosta has taken full responsibility for the crash that robbed him of certain victory in the Austrian MotoGP sprint race on Saturday. The KTM rider had a comfortable lead when he flew…",
-   "url": "https://www.autosport.com/motogp/news/pedro-acosta-owns-spielberg-sprint-crash-i-fed-it-up/10857188/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-19T14:54:38Z"
-  },
-  {
-   "titulo": "'I f***ed it up' - Acosta explains his crash from Austria sprint lead",
-   "resumo": "Pedro Acosta says he simply lost focus when he made the mistake that cost him a certain Austrian Grand Prix MotoGP sprint win",
-   "url": "https://www.the-race.com/motogp/i-f-ed-it-up-acosta-explains-his-crash-from-austria-sprint-lead/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-19T14:44:57Z"
-  },
-  {
-   "titulo": "The 2026 Ram Longhorn Shows That Building a Cowboy Pickup Is Tougher Than It Looks",
-   "resumo": "Ram’s Texas-themed truck shows the challenges of mass-producing individuality.",
-   "url": "https://www.caranddriver.com/features/a73788808/ram-longhorn-building-a-cowboy-pickup/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-19T14:01:00Z"
-  },
-  {
-   "titulo": "View Photos of the 1993 Mazda RX-7",
-   "resumo": "See the interior and exterior of the 1993 Mazda RX-7 from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73790055/1993-mazda-rx-7-archive-drive-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-19T14:00:00Z"
-  },
-  {
-   "titulo": "MotoGP Austrian GP: Martin claims sprint win after Acosta crashes out",
-   "resumo": "Jorge Martin claimed an unlikely victory in the Austrian Grand Prix sprint after Pedro Acosta crashed out of the lead with three laps to run. Acosta appeared on course to win in front of…",
-   "url": "https://www.autosport.com/motogp/news/motogp-austrian-gp-jorge-martin-claims-sprint-win-after-pedro-acosta-crashes-out/10857161/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-19T13:38:49Z"
-  },
-  {
-   "titulo": "Martin back into MotoGP lead after Acosta throws away sprint win",
-   "resumo": "Jorge Martin came from eighth to first to win the Austria MotoGP sprint, but only after Pedro Acosta crashed from the lead",
-   "url": "https://www.the-race.com/motogp/martin-back-into-motogp-lead-after-acosta-throws-away-sprint-win/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-19T13:28:14Z"
-  },
-  {
    "titulo": "Alemanha corta impostos e baixa combustíveis em 17 cêntimos",
    "resumo": "Enquanto por cá o Governo mantém-se reticente em avançar com novas medidas para fazer face ao preço dos combustíveis, na Alemanha prepara-se um corte de impostos que deverá baixar os preços…",
    "url": "https://www.razaoautomovel.com/noticias/impostos-reducao-alemanha-desconto-combustiveis/",
@@ -455,26 +505,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-19T11:27:15Z"
-  },
-  {
-   "titulo": "Prepare-se. Travões também vão ter limites de emissões",
-   "resumo": "Pela primeira vez, a legislação europeia estabelece limites para as partículas libertadas pelo desgaste dos travões, sendo essa uma das maiores novidades introduzidas pela norma Euro 7. A…",
-   "url": "https://www.razaoautomovel.com/noticias/euro-7-travoes-emissoes-o-que-vai-mudar-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-19T10:30:00Z"
-  },
-  {
-   "titulo": "Toyota RAV4 Gains An Unapologetically Massive Bull Bar",
-   "resumo": "The Aerostyle bull bar makes the mainstream SUV look like a road train ready for the Australian outback",
-   "url": "https://www.carscoops.com/2026/09/toyota-rav4-bull-bar/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-19T08:00:00Z"
   },
   {
    "titulo": "For Sale: An Amphibious WWII-Era Studebaker T-24 “Weasel”",
@@ -527,16 +557,6 @@
    "data": "2026-09-18T20:00:00Z"
   },
   {
-   "titulo": "Picture Car Confidential #48: The Triumph 1300",
-   "resumo": "The more middle-aged among us may recall the once-popular local advertiser’s matchbook tagline: “You’ve tried the rest, so now, why not the best?” Looking at my fleet and thinking of the…",
-   "url": "https://www.hagerty.com/media/opinion/picture-car-confidential/picture-car-confidential-48-the-triumph-1300/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-18T18:00:00Z"
-  },
-  {
    "titulo": "Best Car Floor Mats of 2026, Tested",
    "resumo": "From daily-driver basics to heavy-duty liners built to withstand dirt, snow, mud, and spills, these floor mats fit every car and lifestyle.",
    "url": "https://www.roadandtrack.com/gear/g69204192/best-car-floor-mats-tested/",
@@ -587,16 +607,6 @@
    "data": "2026-09-18T14:00:00Z"
   },
   {
-   "titulo": "For The First Time In Six Years, Ford Won't Win North American Truck Of The Year",
-   "resumo": "NACTOY’s 2027 truck shortlist skips the Ford F-150, spotlighting Slate, Ram, and GM instead.",
-   "url": "https://www.motor1.com/news/808764/2027-nactoy-truck-year-shortlist/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T13:00:00Z"
-  },
-  {
    "titulo": "Air-Cooled Sleeper: A Porsche 911 Flat-Six-Swapped VW Karmann Ghia Type 34",
    "resumo": "This is a Volkswagen Karmann Ghia Type 34 that’s now powered by a Porsche 911-sourced 2.7 liter flat-six. The outside of the car has... The post Air-Cooled Sleeper: A Porsche 911…",
    "url": "https://silodrome.com/vw-karmann-ghia-type-34/",
@@ -605,16 +615,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-18T12:30:31Z"
-  },
-  {
-   "titulo": "For Sale: A “Hot Rodded” Ferrari Colombo V12 Engine",
-   "resumo": "This is a Colombo V12 engine that originally came out of a 1963 Ferrari 250 GTE. It’s now been rebuilt by Richard “Dick” DeBiasse... The post For Sale: A “Hot Rodded” Ferrari Colombo V12…",
-   "url": "https://silodrome.com/ferrari-250-gte-colombo-v12-engine/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-18T06:30:32Z"
   }
  ]
 }
