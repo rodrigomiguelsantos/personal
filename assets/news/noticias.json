@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-20T20:48:32Z",
+ "atualizado": "2026-09-21T04:55:13Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -17,6 +18,116 @@
  ],
  "itens": [
   {
+   "titulo": "23 cars named after US cities",
+   "resumo": "23 cars named after US cities Lizzie Pope Mon, 21/09/2026 - 04:48",
+   "url": "https://www.classicandsportscar.com/gallery/23-cars-named-after-us-cities",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-21T03:48:17Z"
+  },
+  {
+   "titulo": "Opel CD: the concept car that refused to die",
+   "resumo": "Opel CD: the concept car that refused to die Ryan Standen Mon, 21/09/2026 - 04:47",
+   "url": "https://www.classicandsportscar.com/features/opel-cd-concept-car-refused-die",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-21T03:47:56Z"
+  },
+  {
+   "titulo": "Ford beats Corvette in last-lap IMSA GTD Pro fight at Indianapolis",
+   "resumo": "In a fierce, wheel-banging finish between two legendary American marques, Dennis Olsen and Ben Barker claimed Ford Racing’s first IMSA WeatherTech SportsCar Championship GTD Pro victory of…",
+   "url": "https://www.motorsport.com/imsa/news/ford-beats-corvette-in-last-lap-imsa-gtd-pro-fight-at-indianapolis/10857586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-21T01:33:40Z"
+  },
+  {
+   "titulo": "GM’s New Small-Block V8s Turn Everyday Pickups Into Sleepers",
+   "resumo": "Chevy Silverado and GMC Sierra get the punchier 5.7 and 6.6 liter motors this year, but not the Corvette's 6.7",
+   "url": "https://www.carscoops.com/2026/09/gms-new-small-block-v8s-turn-everyday-pickups-into-sleepers/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-21T00:00:00Z"
+  },
+  {
+   "titulo": "Jack Aitken extends IMSA lead to 147 points after Indy runner-up",
+   "resumo": "Victory slipped away late for the #31 Whelen Cadillac V-Series.R team on Sunday at Indianapolis Motor Speedway, as Earl Bamber lost the late lead with just over five minutes remaining in…",
+   "url": "https://www.motorsport.com/imsa/news/jack-aitken-extends-imsa-lead-to-147-points-after-indy-runner-up/10857582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T23:34:17Z"
+  },
+  {
+   "titulo": "Sheldon van der Linde passes Earl Bamber late to win IMSA Indianapolis thriller",
+   "resumo": "Sheldon van der Linde pulled off a late dramatic pass on Earl Bamber to win the Battle on the Bricks. Driving the #24 BMW M Hybrid V8, van der Linde made the winning move on Bamber’s #31…",
+   "url": "https://www.motorsport.com/imsa/news/sheldon-van-der-linde-passes-earl-bamber-late-to-win-imsa-indianapolis-thriller/10857568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T22:33:01Z"
+  },
+  {
+   "titulo": "BMW WRT Snags Win Away from Cadillac in IMSA’s Battle of the Bricks",
+   "resumo": "Sheldon Van Der Linde stole a win away from Earl Bamber in the closing ten minutes of the Battle of the Bricks to deny Jack Aiken locking up the Driver’s Championship early.",
+   "url": "https://www.roadandtrack.com/news/a73812174/battle-of-the-bricks-imsa-bmw-win/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T22:16:26Z"
+  },
+  {
+   "titulo": "Conduzimos o maior SUV de sempre da Skoda e há uma surpresa",
+   "resumo": "Acabou de chegar e só o conduzimos durante cerca de 200 quilómetros, mas o Peaq pode muito bem ser um dos melhores Skoda de sempre. O Guilherme Costa já aqui o escreveu e eu volto a…",
+   "url": "https://www.razaoautomovel.com/testes/primeiro-contacto/primeiro-contacto-skoda-peaq-90-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-20T22:05:00Z"
+  },
+  {
+   "titulo": "Skoda Peaq: new seven-seater flagship driven",
+   "resumo": "The Kodiaq is a sales smash for Skoda. Will an electric version do as well? Back in 2022, Skoda unveiled the Vision 7S concept, previewing what an EV version of the seven-seat Kodiaq SUV…",
+   "url": "https://www.autocar.co.uk/car-review/skoda/peaq",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-20T21:59:00Z"
+  },
+  {
+   "titulo": "Lando Norris predicted to overtake George Russell in 2026 F1 standings",
+   "resumo": "Guenther Steiner has backed Lando Norris to overtake George Russell for second place in the 2026 Formula 1 drivers' championship. Following the inaugural Spanish Grand Prix at the Madring…",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-tipped-to-overtake-george-russell-in-2026-f1-standings/10857563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T21:11:41Z"
+  },
+  {
+   "titulo": "Russell Ward blasts IMSA race control for \"bad call\" in fiery interview",
+   "resumo": "Russell Ward and co-driver Philip Ellis entered the Indianapolis round of the 2026 IMSA WeatherTech SportsCar Championship in control of the GTD points lead. The Winward Racing duo was due…",
+   "url": "https://www.motorsport.com/imsa/news/russell-ward-hits-out-at-race-control-for-bad-call/10857556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-20T20:57:01Z"
+  },
+  {
    "titulo": "The Future Of Maserati Could Lie In The Hands Of Two Chinese Companies",
    "resumo": "Huawei will provide its platform, electric drivetrains, and autonomous driving system to the Maseratis",
    "url": "https://www.carscoops.com/2026/09/maserati-huawei-jac-electric/",
@@ -27,34 +138,14 @@
    "data": "2026-09-20T20:00:00Z"
   },
   {
-   "titulo": "This is how peak NASCAR comes back",
-   "resumo": "For a moment, this was late 1990s NASCAR all over again. While not the waiting list sellout of yore, this was objectively one of the better attended Cup Series races at Bristol Motor…",
-   "url": "https://www.motorsport.com/nascar-cup/news/this-is-how-peak-nascar-comes-back/10857554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "Estoril Classics encerra 10ª edição com vitórias de Bradshaw, Galant e Barbot",
+   "resumo": "O Estoril Classics encerrou a 10ª edição com as bancadas cheias no Autódromo do Estoril e um programa dominado por corridas de viaturas históricas. A presença de Bernie Ecclestone, antigo…",
+   "url": "https://www.autosport.pt/velocidade/estoril-classics-encerra-10a-edicao-com-vitorias-de-bradshaw-galant-e-barbot/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
    "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T19:43:41Z"
-  },
-  {
-   "titulo": "David Coulthard warns unchanged Madring return in 2027 would be \"stupidity\"",
-   "resumo": "David Coulthard has warned Formula 1 organisers that returning to the Madring circuit in 2027 without altering its layout would be \"stupidity\" following a processional first race. The race…",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-unchanged-madring-return-in-2027-would-be-stupidity/10857135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T18:00:03Z"
-  },
-  {
-   "titulo": "Car Blanche confirms full-season IMSA GTD Pro move with Aston Martin for 2027",
-   "resumo": "IMSA announced on Sunday that Car Blanche is the first confirmed entry for the 2027 WeatherTech SportsCar Championship, and will be running a full-season Grand Touring Daytona Pro (GTD Pro)…",
-   "url": "https://www.motorsport.com/imsa/news/car-blanche-confirms-full-season-imsa-gtd-pro-move-with-aston-martin-for-2027/10857540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T17:23:29Z"
+   "pt": true,
+   "data": "2026-09-20T18:15:00Z"
   },
   {
    "titulo": "João Ramos regressa aos pódios com 3º lugar na Baja TT Sharish Gin: “Queria mesmo terminar”",
@@ -77,16 +168,6 @@
    "data": "2026-09-20T17:03:25Z"
   },
   {
-   "titulo": "NASCAR shouldn’t penalize Hocevar and Blaney for Bristol brawl but will they?",
-   "resumo": "This writer has always been in favor of a \"boys, have it\" policy and allowing the drivers to sort out their own problems (within reason). The only time we should see the sanctioning body…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascar-shouldnt-penalize-hocevar-and-blaney-for-bristol-brawl-but-will-they/10857519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T16:46:02Z"
-  },
-  {
    "titulo": "Skoda boss Klaus Zellmer named as new CEO of Volvo",
    "resumo": "VW Group lifer Zellmer will take over from long-serving Hakan Samuelsson by this time next year Volvo has sensationally poached Skoda boss Klaus Zellmer to serve as its next president and…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/skoda-boss-klaus-zellmer-named-new-ceo-volvo",
@@ -105,16 +186,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-20T16:37:38Z"
-  },
-  {
-   "titulo": "Maverick Vinales to make MotoGP return in post-Austrian GP Pirelli test",
-   "resumo": "Maverick Vinales will put his injured left shoulder to the test at the Red Bull Ring on Monday to assess whether he can return to action at next month’s Japanese Grand Prix. The Tech3 rider…",
-   "url": "https://www.motorsport.com/motogp/news/vinales-probara-su-hombro-este-lunes-con-la-ktm-en-el-test-de-motogp-de-austria/10857532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-20T16:35:01Z"
   },
   {
    "titulo": "Apple's New CEO Is A Car Guy. He Owns One Of The Rarest Porsches Ever Built",
@@ -145,16 +216,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-20T15:45:00Z"
-  },
-  {
-   "titulo": "João Ferreira vence a 5ª Baja TT Sharish Gin seguida: “prova dura, mas diverti-me imenso”",
-   "resumo": "João Ferreira e Filipe Palmeiro venceram a 38ª Baja TT Sharish Gin Reguengos/Mourão, ao volante de uma Toyota Hilux, com o piloto a garantir o quinto triunfo consecutivo na prova…",
-   "url": "https://www.autosport.pt/todooterreno/joao-ferreira-vence-a-5a-baja-tt-sharish-gin-seguida-prova-dura-mas-diverti-me-imenso/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-20T15:44:29Z"
   },
   {
    "titulo": "Mad Max ‘Humungus Machine’ Is up for Auction on Bring a Trailer",
@@ -377,16 +438,6 @@
    "data": "2026-09-19T22:58:02Z"
   },
   {
-   "titulo": "Cops Used ‘LMAO,’ ‘Idk’ And Keyboard Gibberish To Justify License Plate Searches",
-   "resumo": "Flock tightened its search system, but critics argue its new dropdown menu could make questionable searches even harder to spot",
-   "url": "https://www.carscoops.com/2026/09/cops-used-lmao-idk-and-keyboard-gibberish-to-justify-license-plate-searches/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-19T20:00:00Z"
-  },
-  {
    "titulo": "AM Radio Will Be Required in All New Cars If This Bill Becomes Law",
    "resumo": "The AM Radio for Every Vehicle Act passed the U.S. House of Representatives and moves on to the U.S. Senate.",
    "url": "https://www.caranddriver.com/news/a73792988/am-radio-every-vehicle-act-passes-us-house/",
@@ -507,16 +558,6 @@
    "data": "2026-09-19T12:00:00Z"
   },
   {
-   "titulo": "Testei o FIAT Grande Panda mais barato e percebi uma coisa",
-   "resumo": "O Grande Panda é aquele tipo de automóvel que nos recorda de que não é preciso imensa tecnologia e potência para fazer um carro interessante de conduzir. Na passagem de Panda para Grande…",
-   "url": "https://www.razaoautomovel.com/testes/teste-ensaio-fiat-grande-panda-gasolina-mais-barato-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-19T11:27:15Z"
-  },
-  {
    "titulo": "For Sale: An Amphibious WWII-Era Studebaker T-24 “Weasel”",
    "resumo": "This is an original WWII-era 1943 Studebaker T-24 Weasel, a small, amphibious, tracked military vehicle that proved surprisingly versatile and saw use in all... The post For Sale: An…",
    "url": "https://silodrome.com/studebaker-t24-weasel/",
@@ -525,16 +566,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-19T06:00:34Z"
-  },
-  {
-   "titulo": "Top 10 ways to get the most miles out of your electric car",
-   "resumo": "Range anxiety might seem like a dated concept, but a few small changes and checks can make a big difference Although ‘range anxiety’ might seem like a dated concept in the era of the…",
-   "url": "https://www.autocar.co.uk/car-news/advice/top-10-ways-get-most-miles-out-your-electric-car",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-19T06:00:00Z"
   },
   {
    "titulo": "Go Fast for Less: 5 Cars to Get You to 150 MPH for Under $50K",
@@ -567,16 +598,6 @@
    "data": "2026-09-18T17:53:00Z"
   },
   {
-   "titulo": "It’s Probably Not a Good Idea to Stoplight Drag Race a Cop Car",
-   "resumo": "A Toledo repair shop employee was charged after allegedly stoplight drag racing a patrol car on a test drive.",
-   "url": "https://www.roadandtrack.com/news/a73790206/its-probably-not-a-good-idea-to-stoplight-drag-race-a-cop-car/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T17:48:38Z"
-  },
-  {
    "titulo": "Gas Prices Are Up, And So Are EV Sales",
    "resumo": "New data shows that sales for new and used electric vehicles rose in August.",
    "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
@@ -595,26 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-18T14:40:15Z"
-  },
-  {
-   "titulo": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
-   "resumo": "Audi now targets March 2029 production, underscoring continued Volkswagen SSP delays.",
-   "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-18T14:00:00Z"
-  },
-  {
-   "titulo": "Air-Cooled Sleeper: A Porsche 911 Flat-Six-Swapped VW Karmann Ghia Type 34",
-   "resumo": "This is a Volkswagen Karmann Ghia Type 34 that’s now powered by a Porsche 911-sourced 2.7 liter flat-six. The outside of the car has... The post Air-Cooled Sleeper: A Porsche 911…",
-   "url": "https://silodrome.com/vw-karmann-ghia-type-34/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-18T12:30:31Z"
   }
  ]
 }
