@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-21T21:58:40Z",
+ "atualizado": "2026-09-22T04:55:11Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -19,7 +20,67 @@
  ],
  "itens": [
   {
-   "titulo": "NASCAR will not penalize Carson Hocevar and Ryan Blaney for Bristol fight",
+   "titulo": "Bentley MkVI at 80: success story",
+   "resumo": "Bentley MkVI at 80: success story Ryan Standen Tue, 22/09/2026 - 04:52",
+   "url": "https://www.classicandsportscar.com/features/bentley-mkvi-80-success-story",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-22T03:52:10Z"
+  },
+  {
+   "titulo": "More Than 300 Dodge Demon 170s Have A Serious Crankshaft Issue",
+   "resumo": "The company says it will transport impacted vehicles to dealerships free of charge",
+   "url": "https://www.carscoops.com/2026/09/more-than-300-dodge-demon-170s-have-a-serious-crankshaft-issue/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-22T02:00:00Z"
+  },
+  {
+   "titulo": "Now You Can Race Grassroots Caterhams In The World’s Largest Racing Sim",
+   "resumo": "Caterham has added the Seven Academy and 420R cars to the popular iRacing simulator, in the hope that eRacers will want to graduate to the real thing",
+   "url": "https://www.carscoops.com/2026/09/now-you-can-race-grassroots-caterhams-in-the-worlds-largest-racing-sim/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-22T00:00:00Z"
+  },
+  {
+   "titulo": "Brad Keselowski crew chief Jeremy Bullins to exit RFK Racing, effective immediately",
+   "resumo": "There will be a change atop the No. 6 RFK Racing pit box of Brad Keselowski, with Jeremy Bullins parting ways with the organization. Bullins is set to take a new opportunity elsewhere in…",
+   "url": "https://www.motorsport.com/nascar-cup/news/brad-keselowski-crew-chief-jeremy-bullins-to-exit-rfk-racing-effective-immediately/10857834/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-21T23:02:52Z"
+  },
+  {
+   "titulo": "In This Corner: NASCAR Racer Carson Hocevar, and His Merchandise Trailer",
+   "resumo": "Is Carson Hocevar the next Dale Earnhardt? Absolutely. And no way. Let me explain. Earnhardt began racing in the NASCAR Cup Series in 1975, and he won his first of seven championships in…",
+   "url": "https://www.hagerty.com/media/motorsports/in-this-corner-nascar-racer-carson-hocevar-and-his-merchandise-trailer/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-21T22:48:03Z"
+  },
+  {
+   "titulo": "Xpeng Wants Other Companies To Use Its Tech, Including Driver-Assistance System",
+   "resumo": "Supplying its electric and electrical architecture may help Xpeng finally reach profitability",
+   "url": "https://www.carscoops.com/2026/09/xpeng-chinese-tech-report/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-21T22:00:00Z"
+  },
+  {
+   "titulo": "NASCAR will not penalize Hocevar and Blaney for Bristol fight, but still reviewing others",
    "resumo": "NASCAR announced on Monday afternoon that there would be no penalties issued to drivers Ryan Blaney or Carson Hocevar regarding their fight on Saturday night in the aftermath of the Bristol…",
    "url": "https://www.motorsport.com/nascar-cup/news/nascar-will-not-penalize-carson-hocevar-and-ryan-blaney-for-bristol-fight/10857829/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
@@ -239,16 +300,6 @@
    "data": "2026-09-21T18:53:00Z"
   },
   {
-   "titulo": "One Tiny Bolt Is Giving VW SUVs A Big Handling Headache",
-   "resumo": "VW is recalling almost 210,000 Tiguan, Atlas and Audi Q3 models because the steering rack securing bolt could cut loose",
-   "url": "https://www.carscoops.com/2026/09/one-tiny-bolt-is-giving-vw-suvs-a-big-handling-headache/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-21T18:26:00Z"
-  },
-  {
    "titulo": "NHTSA Says 102 Cars Meet Its New Pedestrian Safety Standard, But There’s a Catch",
    "resumo": "Toyota and Lexus dominate the agency’s first pedestrian-focused test results, while Audi and VW currently have no qualifying models.",
    "url": "https://www.roadandtrack.com/news/a73822784/nhtsa-says-102-cars-meet-its-new-pedestrian-standards/",
@@ -299,16 +350,6 @@
    "data": "2026-09-21T17:49:51Z"
   },
   {
-   "titulo": "GM’s New 8.3-Liter Duramax Is Called Mongoose Because It Wants To Eat Ford’s Scorpion",
-   "resumo": "The 2027 Silverado HD and Sierra HD are getting an enormous new 8.3-liter Duramax turbodiesel V8 nicknamed Mongoose",
-   "url": "https://www.carscoops.com/2026/09/gms-new-8-3-liter-duramax-is-called-mongoose-because-it-wants-to-eat-fords-scorpion/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-21T17:40:00Z"
-  },
-  {
    "titulo": "Pilotos do WRC ‘pressionam’ mudanças nas regras de ordem de partida para 2027",
    "resumo": "Os pilotos do WRC estão a tentar pressionar pela introdução da Qualificação, de modo a que os melhor classificados no campeonato não sofram, por vezes, uma penalização significativa…",
    "url": "https://www.autosport.pt/ralis/pilotos-do-wrc-pressionam-mudancas-nas-regras-de-ordem-de-partida-para-2027/",
@@ -329,16 +370,6 @@
    "data": "2026-09-21T17:00:00Z"
   },
   {
-   "titulo": "The Man Who Designed The McLaren P1 Penned Three New REO Models",
-   "resumo": "The new REO models are developed as back-to-basics vehicles with non-hybrid engines",
-   "url": "https://www.carscoops.com/2026/09/reo-trucks-frank-stephenson/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-21T17:00:00Z"
-  },
-  {
    "titulo": "FIA aprova redução da distância de corrida para 2027",
    "resumo": "A terceira reunião da Comissão de Fórmula 1 de 2026 realizou-se esta segunda-feira, 21 de setembro, em Londres. O encontro foi presidido por Nikolas Tombazis, diretor de monolugares da FIA…",
    "url": "https://www.autosport.pt/formula1/fia-aprova-reducao-da-distancia-de-corrida-para-2027/",
@@ -349,6 +380,16 @@
    "data": "2026-09-21T16:58:49Z"
   },
   {
+   "titulo": "F1 approves shorter races for 2027 to fit revised power unit plan",
+   "resumo": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season. During…",
+   "url": "https://www.autosport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-21T16:57:38Z"
+  },
+  {
    "titulo": "Acidente com trotineta. Quem paga os danos?",
    "resumo": "As trotinetas são cada vez mais comuns nas cidades, seja como alternativa ao automóvel nas deslocações curtas, seja como complemento aos transportes públicos. Com o aumento da sua…",
    "url": "https://www.razaoautomovel.com/noticias/seguranca-rodoviaria-acidente-trotineta-quem-paga-2026/",
@@ -357,16 +398,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-21T16:53:32Z"
-  },
-  {
-   "titulo": "F1 approves shorter races for 2027 to fit revised power unit plan",
-   "resumo": "The Formula 1 Commission has rubber-stamped the proposed changes to reduce the lengths of races in 2027 by 15km, in line with the expected power unit changes for next season. During…",
-   "url": "https://www.motorsport.com/f1/news/f1-approves-shorter-races-for-2027-to-fit-revised-power-unit-plan/10857797/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-21T16:52:15Z"
   },
   {
    "titulo": "F1 approves plan for shorter grands prix in 2027",
@@ -529,16 +560,6 @@
    "data": "2026-09-21T14:00:00Z"
   },
   {
-   "titulo": "The Holy Trinity of 2010 Hypercars Heads to Auction",
-   "resumo": "A Porsche 918 Spyder, McLaren P1, and Ferrari LaFerrari are all up for grabs at the same auction. Broad Arrow’s Zoute Concours Auction will present a rare gathering of the so-called Holy…",
-   "url": "https://www.hagerty.com/media/news/the-holy-trinity-heads-to-auction/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-21T14:00:00Z"
-  },
-  {
    "titulo": "Why Leclerc didn’t copy Hamilton’s driving style amid F1 2026 struggle",
    "resumo": "Charles Leclerc has explained why he refrained from trying to copy Lewis Hamilton’s driving style when extracting the most out of Ferrari’s 2026 Formula 1 car was tricky. As F1 switched to…",
    "url": "https://www.autosport.com/f1/news/why-charles-leclerc-didnt-copy-lewis-hamiltons-driving-style-amid-f1-2026-struggle/10857642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -579,16 +600,6 @@
    "data": "2026-09-21T12:30:07Z"
   },
   {
-   "titulo": "Why KTM must stay humble after Acosta’s win and learn lessons from the past",
-   "resumo": "Until this weekend, KTM's last MotoGP victory had come courtesy of Miguel Oliveira, in the 2022 Thai Grand Prix - a race heavily affected by rain. That same Sunday at Buriram, Pedro Acosta…",
-   "url": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-21T10:02:18Z"
-  },
-  {
    "titulo": "Executive cruiser to fire-breathing track machine: Your guide to the Genesis company car range",
    "resumo": "Find out how the GV60, Electrified GV70, and GV60 Magma stack up for business drivers Choosing your next company car or salary sacrifice vehicle is a major decision – and one traditionally…",
    "url": "https://www.autocar.co.uk/car-news/advertising-promotions-promoted-by-genesis/executive-cruiser-fire-breathing-track-machine",
@@ -607,16 +618,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-21T07:58:00Z"
-  },
-  {
-   "titulo": "Massive 104-car field for penultimate W2RC round in Morocco",
-   "resumo": "Sport news The 2026 FIA World Rally-Raid Championship (W2RC) has already visited Saudi Arabia, Portugal and Argentina this season and the popular round in North Africa precedes the year’s…",
-   "url": "https://www.fia.com/news/massive-104-car-field-penultimate-w2rc-round-morocco",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-21T07:53:00Z"
   }
  ]
 }
