@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-22T21:18:12Z",
+ "atualizado": "2026-09-23T04:44:26Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,76 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Pricier cars, fewer staff: JLR's plan to boost profits takes shape",
+   "resumo": "JLR is cutting 4000 more jobs over the next two years as it hedges against global instability The gloomy news that JLR will cut 4000 jobs over the next two years has sparked fears that…",
+   "url": "https://www.autocar.co.uk/opinion/business-corporate/pricier-cars-fewer-staff-jlrs-plan-boost-profits-takes-shape",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-23T04:00:00Z"
+  },
+  {
+   "titulo": "20 cars with oddball soft-top roofs",
+   "resumo": "20 cars with oddball soft-top roofs Lizzie Pope Wed, 23/09/2026 - 04:50",
+   "url": "https://www.classicandsportscar.com/gallery/20-cars-oddball-soft-top-roofs",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-23T03:50:58Z"
+  },
+  {
+   "titulo": "Honda’s Next-Gen Hybrids Will Arrive Next Year, Starting With The CR-V",
+   "resumo": "Honda's new hybrid will improve fuel economy by 10 percent and cost 30 percent less to produce",
+   "url": "https://www.carscoops.com/2026/09/honda-crv-hybrid-report/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-23T02:00:00Z"
+  },
+  {
+   "titulo": "Alpine drops Antonio Felix da Costa, Fred Makowiecki from Fuji WEC line-up",
+   "resumo": "Alpine has dropped Antonio Felix da Costa and Fred Makowiecki from its line-up for this weekend’s World Endurance Championship race at Fuji Speedway. The French manufacturer will switch to…",
+   "url": "https://www.motorsport.com/wec/news/alpine-drops-antonio-felix-da-costa-fred-makowiecki-from-fuji-wec-line-up/10858066/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-23T01:45:14Z"
+  },
+  {
+   "titulo": "Lapo Elkann And Giugiaro Turned The Smallest Fiat Into A Speedster",
+   "resumo": "It might be inspired by James Dean's \"Little Bastard\", but the pint-sized EV retains the stock electric motor with 8 horsepower",
+   "url": "https://www.carscoops.com/2026/09/fiat-topolino-speedster/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-23T00:00:00Z"
+  },
+  {
+   "titulo": "China’s GAC Wants To Increase European Manufacturing As It Expands Into France",
+   "resumo": "GAC already produces cars in Austria, but now it wants to increase capacity as it looks to bring 12 new models to the French market",
+   "url": "https://www.carscoops.com/2026/09/chinas-gac-wants-to-increase-european-manufacturing-as-it-expands-into-france/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-22T22:00:00Z"
+  },
+  {
+   "titulo": "Sam Mayer is going back to JR Motorsports in a new deal for 2027",
+   "resumo": "Sam Mayer will leave Haas Factory Team at the end of the 2026 NASCAR O'Reilly Auto Parts Series season with plans to return to JR Motorsports (JRM). Mayer will pilot the No. 1 JRM…",
+   "url": "https://www.motorsport.com/nascar-os/news/sam-mayer-is-going-back-to-jr-motorsports-in-a-new-deal-for-2027/10858023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-22T21:50:07Z"
+  },
   {
    "titulo": "Some Range Rovers And Jaguars Could Suddenly Lose Power",
    "resumo": "A fault in the electrical system could cause affected Jaguar and Land Rover models to lose drive power without warning.",
@@ -168,16 +239,6 @@
    "data": "2026-09-22T18:29:07Z"
   },
   {
-   "titulo": "Driverless Waymo Crashes Denver Farmers Market, Thankfully Not Literally",
-   "resumo": "Waymo says its autonomous car safely navigated out after a Denver farmers market sprang up around its route",
-   "url": "https://www.carscoops.com/2026/09/driverless-waymo-crashes-denver-farmers-market-thankfully-not-literally/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-22T18:26:00Z"
-  },
-  {
    "titulo": "FIA WEC Recreates Scene from ‘Cars’ to Announce Le Mans-Winning Toyota’s Homecoming",
    "resumo": "The short video pays tribute to the Toyota TR010, returning to Japan after its win in France back in June.",
    "url": "https://www.roadandtrack.com/news/a73837120/fia-wec-recreates-scene-from-cars-with-toyota/",
@@ -238,16 +299,6 @@
    "data": "2026-09-22T17:42:02Z"
   },
   {
-   "titulo": "Hyundai Ioniq 9 Recalled Because The Seats Can Squish Kids",
-   "resumo": "8,300 Hyundai Ioniq 9 models need to have their power-folding middle-row seats fixed as they can close with excess force",
-   "url": "https://www.carscoops.com/2026/09/hyundai-ioniq-9-recalled-because-the-seats-can-squish-kids/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-22T17:40:00Z"
-  },
-  {
    "titulo": "Unmarried California Drivers May See a Break on Car Insurance Soon, Thanks to a New Proposal",
    "resumo": "Marital status has long been used to calculate car insurance rates, but that could be about to change—and single drivers could reap the benefits.",
    "url": "https://www.roadandtrack.com/news/a73835530/unmarried-california-drivers-may-see-break-on-car-insurance/",
@@ -283,16 +334,6 @@
    "url": "https://www.motor1.com/news/809124/2027-nissan-rogue-trims-pricing/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-22T17:00:00Z"
-  },
-  {
-   "titulo": "Tesla Is Once Again Accepting $50,000 Reservations For The Roadster",
-   "resumo": "Asking for a $50k reservation on a car years away from production might have worked in 2017 but now, the jury is up",
-   "url": "https://www.carscoops.com/2026/09/tesla-roadster-reservations/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-22T17:00:00Z"
@@ -358,16 +399,6 @@
    "data": "2026-09-22T16:32:58Z"
   },
   {
-   "titulo": "Sheldon van der Linde ‘played elbows out when Cadillac couldn’t’ for breakthrough Indy win",
-   "resumo": "Knowing his team was out of the title hunt gave Sheldon van der Linde the ultimate freedom to attack on Sunday afternoon. With no points lead to protect, van der Linde capitalized on Earl…",
-   "url": "https://www.motorsport.com/imsa/news/sheldon-van-der-linde-played-elbows-out-when-cadillac-couldnt-for-breakthrough-indy-win/10858008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-22T16:19:07Z"
-  },
-  {
    "titulo": "McLaren's New Logo Started at Bruce McLaren's Family Service Station",
    "resumo": "As the company embarks on a new era, it’s redefining its branding.",
    "url": "https://www.roadandtrack.com/news/a73835630/mclaren-new-logo/",
@@ -376,16 +407,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-22T16:09:31Z"
-  },
-  {
-   "titulo": "Why is a Formula 1 race 305 kilometres long? Race distances from 1950 to 2027",
-   "resumo": "A Formula 1 Grand Prix is more than 305 kilometres long. More precisely, a race consists of the minimum number of laps required to exceed 305 kilometres. The only exception is Monaco, where…",
-   "url": "https://www.motorsport.com/f1/news/why-is-a-formula-1-race-305-kilometres-long-race-distances-from-1950-to-2027/10858004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-22T16:00:18Z"
   },
   {
    "titulo": "McInerney on the move in National Rankings",
@@ -596,26 +617,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-22T08:33:19Z"
-  },
-  {
-   "titulo": "Mir to miss Japanese and Indonesian grands prix for Honda",
-   "resumo": "Honda MotoGP rider Joan Mir remains sidelined and will not take part in the Japanese or the Indonesian grands prix, the Tokyo-based team announced on Tuesday. The 2020 world champion…",
-   "url": "https://www.autosport.com/motogp/news/mir-to-miss-upcoming-motogp-races/10857874/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-22T08:26:14Z"
-  },
-  {
-   "titulo": "McLaren reveals new logo with inspiration from Bruce's legacy",
-   "resumo": "Rebranding is inspired by Bruce McLaren's first workshop and comes as part of a luxury push McLaren has revealed a new logo for its next-generation cars, taking inspiration from the signage…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/mclaren-reveals-new-logo-inspiration-bruces-legacy",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-22T07:05:02Z"
   }
  ]
 }
