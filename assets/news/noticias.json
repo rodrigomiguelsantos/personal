@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-23T21:29:42Z",
+ "atualizado": "2026-09-24T04:49:49Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,96 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Classic shrine: Riverside Museum",
+   "resumo": "Classic shrine: Riverside Museum Ryan Standen Thu, 24/09/2026 - 05:17",
+   "url": "https://www.classicandsportscar.com/features/classic-shrine-riverside-museum",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-24T04:17:51Z"
+  },
+  {
+   "titulo": "Lamborghini Countach 5000 quattrovalvole: built for the boss",
+   "resumo": "Lamborghini Countach 5000 quattrovalvole: built for the boss Ryan Standen Thu, 24/09/2026 - 05:17",
+   "url": "https://www.classicandsportscar.com/features/lamborghini-countach-5000-quattrovalvole-built-boss",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-24T04:17:13Z"
+  },
+  {
+   "titulo": "You Could Get HWA’s Restomod, Or An Original Mercedes 190E Evo II For Less",
+   "resumo": "Driving the iconic German sports sedan is a Cosworth-sourced 2.5-liter four-cylinder and a five-speed manual",
+   "url": "https://www.carscoops.com/2026/09/you-could-get-hwas-restomod-or-an-original-mercedes-190e-evo-ii-for-less/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T02:00:00Z"
+  },
+  {
+   "titulo": "Genesis Just Patented Its Gorgeous G90 Coupe And Convertible",
+   "resumo": "New patents give us another reason to hope Genesis could finally put its stunning two-door flagships into production",
+   "url": "https://www.carscoops.com/2026/09/genesis-just-patented-its-gorgeous-g90-coupe-and-convertible/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T00:00:00Z"
+  },
+  {
+   "titulo": "Face of history: Felix Rosenqvist’s immortal Indy 500 win comes to life",
+   "resumo": "When the velvet cloth dropped inside Will Behrends’ studio, revealing a finely crafted clay head, Felix Rosenqvist came face-to-face with his own racing immortality. Months after winning…",
+   "url": "https://www.motorsport.com/indycar/news/face-of-history-felix-rosenqvists-immortal-indy-500-win-comes-to-life/10858377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-23T22:27:09Z"
+  },
+  {
+   "titulo": "Gallery: Felix Rosenqvist's likeness immortalized for Borg-Warner Indy 500 trophy",
+   "resumo": "The 110th running of the Indianapolis 500 was a memorable one, with Felix Rosenqvist claiming victory with Meyer Shank Racing. He beat Team Penske's David Malukas in the closest photo…",
+   "url": "https://www.motorsport.com/indycar/news/gallery-felix-rosenqvists-likeness-immortalized-on-borg-warner-indy-500-trophy/10858311/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-23T22:27:06Z"
+  },
+  {
+   "titulo": "6 (Mostly) Cheap Oddballs from the 2026 Bonhams Goodwood Revival Sale",
+   "resumo": "The Goodwood Revival is famous for its thrilling historic racing, commitment to period-correct everything, and, of course, the outfits. But there’s an auction attached to the event, too…",
+   "url": "https://www.hagerty.com/media/market-trends/6-mostly-cheap-oddballs-from-the-2026-bonhams-goodwood-revival-sale/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-23T22:01:00Z"
+  },
+  {
+   "titulo": "Hotter Lexus LBX Shows Off Its Upgrades Alongside Regular Morizo RR",
+   "resumo": "The sporty crossover will embrace carbon fiber to lose weight",
+   "url": "https://www.carscoops.com/2026/09/hotter-lexus-lbx-morizo-rr-spied/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-23T22:00:00Z"
+  },
+  {
+   "titulo": "NASCAR legend Darrell Waltrip stepping away from public life due to FTD diagnosis",
+   "resumo": "NASCAR legend Darrell Waltrip has been diagnosed with Frontotemporal Degeneration (FTD). The Waltrip family announced that he will be stepping further away from public life. He is 79 years…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-legend-darrell-waltrip-stepping-away-from-public-life-due-to-ftd-diagnosis/10858372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-23T21:27:15Z"
+  },
   {
    "titulo": "2027 GMC Sierra 1500 Gets More Power And A Higher Price",
    "resumo": "The 2027 GMC Sierra can produce up to 481 horsepower with the 6.6-liter V8.",
@@ -138,36 +228,6 @@
    "data": "2026-09-23T19:29:13Z"
   },
   {
-   "titulo": "Bentley Torcal Arrives With 876 HP And 375 Miles Of Range",
-   "resumo": "Bentley enters the EV era with the Torcal, offering up to 876 hp, 996 lb-ft and ultra-fast 400-kW charging",
-   "url": "https://www.carscoops.com/2026/09/bentley-torcal-arrives-with-876-hp-and-375-miles-of-range/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-23T19:08:51Z"
-  },
-  {
-   "titulo": "Winward Racing retains Ward and Ellis for 2027 IMSA campaign",
-   "resumo": "Winward Racing will maintain total continuity for its sixth consecutive IMSA WeatherTech SportsCar Championship campaign, confirming that team co-owner Russell Ward and Mercedes-AMG factory…",
-   "url": "https://www.motorsport.com/imsa/news/winward-racing-retains-ward-and-ellis-for-2027-imsa-campaign/10858351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-23T19:03:26Z"
-  },
-  {
-   "titulo": "Jeremy Bullins to join Legacy Motor Club as Riley Herbst's crew chief in 2027",
-   "resumo": "Legacy Motor Club have announced the hiring of Jeremy Bullins, who will serve as the crew chief for Riley Herbst and the No. 84 Toyota in 2027. Bullins was the crew chief for Brad…",
-   "url": "https://www.motorsport.com/nascar-cup/news/jeremy-bullins-joins-legacy-motor-club-as-riley-herbsts-new-crew-chief/10858353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-23T19:03:11Z"
-  },
-  {
    "titulo": "Report: Honda to Add Legroom with a Future ‘Pilot XXL’ Flagship",
    "resumo": "The bigger SUV, which could come in the early 2030s, will reportedly offer both more third-row space and fuel efficiency than the standard Pilot.",
    "url": "https://www.caranddriver.com/news/a73852939/honda-pilot-xxl-more-legroom-flagship-three-row-suv/",
@@ -186,16 +246,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-23T18:45:00Z"
-  },
-  {
-   "titulo": "Brabus Chops The Roof Off The G63 And Gives It 900 HP",
-   "resumo": "Just 50 examples of the Brabus 900 Rocket Cabrio will be built, each packing a heavily reworked twin-turbo V8",
-   "url": "https://www.carscoops.com/2026/09/brabus-chops-the-roof-off-the-g63-and-gives-it-900-hp/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-23T18:36:00Z"
   },
   {
    "titulo": "Anti-Luce: Bentley plays safe for first EV - but Torcal must succeed",
@@ -318,16 +368,6 @@
    "data": "2026-09-23T17:46:00Z"
   },
   {
-   "titulo": "Kia Shrinks K5 Lineup Despite Growing Sales",
-   "resumo": "The range-topping EX trim is toast but Kia added new optional packages to the K5 lineup",
-   "url": "https://www.carscoops.com/2026/09/2027-kia-k5-pricing/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-23T17:41:00Z"
-  },
-  {
    "titulo": "Velocity Restorations: Big Dreams, Bigger Risks, Huge Rewards",
    "resumo": "Cantonment is a Florida Panhandle town north of Pensacola, where something important happened in 1962. For Cantonment, anyway. It was the opening of the Southern Plywood Corporation, a…",
    "url": "https://www.hagerty.com/media/great-reads/velocity-restorations-big-dreams-bigger-risks-huge-rewards/",
@@ -376,16 +416,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-23T16:34:21Z"
-  },
-  {
-   "titulo": "F1 Azerbaijan GP: Thursday schedule, weather forecast and how to watch",
-   "resumo": "Formula 1 heads to Baku this week for an unusually early Azerbaijan GP weekend, with all of the on-track action shifted forward by a day. Free practice begins on Thursday, qualifying takes…",
-   "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-thursday-schedule-weather-forecast-and-how-to-watch/10858320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-23T16:33:12Z"
   },
   {
    "titulo": "Estes são os elétricos mais baratos à venda em Portugal",
@@ -446,16 +476,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-23T15:06:46Z"
-  },
-  {
-   "titulo": "Finally, a Pattern Appears",
-   "resumo": "On a long enough timeline, keeping cars on the road becomes a treadmill, and we spend our time obsessing over tiny bumps in the rotating rubber belt. Sure, there are minute differences in…",
-   "url": "https://www.hagerty.com/media/opinion/mechanical-sympathy/finally-a-pattern-appears/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-23T15:00:00Z"
   },
   {
    "titulo": "Combustível mais barato de Portugal está nestas duas regiões",
@@ -596,26 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-23T06:30:32Z"
-  },
-  {
-   "titulo": "20 cars with oddball soft-top roofs",
-   "resumo": "20 cars with oddball soft-top roofs Lizzie Pope Wed, 23/09/2026 - 04:50",
-   "url": "https://www.classicandsportscar.com/gallery/20-cars-oddball-soft-top-roofs",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-23T03:50:58Z"
-  },
-  {
-   "titulo": "F1 - 2026 Azerbaijan Grand Prix Preview",
-   "resumo": "Sport news FIA Formula One World Championship Formula 1 SEASON 2026 Sport Circuit 1SportFIA Formula One World ChampionshipCircuitSEASON 2026Formula 100 Tuesday, September 22, 2026 - 3:40pm…",
-   "url": "https://www.fia.com/news/f1-2026-azerbaijan-grand-prix-preview",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-22T13:40:00Z"
   }
  ]
 }
