@@ -1,12 +1,11 @@
 {
- "atualizado": "2026-09-24T17:10:22Z",
+ "atualizado": "2026-09-24T21:30:44Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +16,166 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Upgraded Mahindra Thar OG Is A Jeep Wrangler Clone With A Sub-$11k Price",
+   "resumo": "The Indian Jeep impersonator brings important changes under the skin but it's still impressively cheap in its home market",
+   "url": "https://www.carscoops.com/2026/09/mahindra-thar-og/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T21:00:00Z"
+  },
+  {
+   "titulo": "Subaru Revives Base Impreza And Lowers Starting Price For 2027",
+   "resumo": "The 2027 Impreza is nearly $2,000 cheaper than the entry-level 2026 model.",
+   "url": "https://www.motor1.com/news/809487/2027-subaru-impreza-pricing-trims-engine/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T20:00:00Z"
+  },
+  {
+   "titulo": "Honda’s Future Hybrid-Focused Factory Appears to Be Ohio-Bound",
+   "resumo": "Honda is finalizing plans for a new U.S. assembly plant, and Ohio is reportedly the automaker’s top location pick.",
+   "url": "https://www.caranddriver.com/news/a73872215/honda-acura-new-assembly-plant-ohio-2030/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T19:56:07Z"
+  },
+  {
+   "titulo": "GM’s New Mongoose 8.3-Liter Duramax Diesel Makes 555 HP, 1,230 LB-FT",
+   "resumo": "The all-new V-8 powers the 2027 Chevy Silverado HD and GMC Sierra HD, with maximum towing capacity climbing to 38,000 pounds.",
+   "url": "https://www.motor1.com/news/809471/gms-new-mongoose-duramax-diesel/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T19:00:00Z"
+  },
+  {
+   "titulo": "There’s A New EV Range Champion And It’s Not Tesla Or Lucid",
+   "resumo": "An Audi A6 e-tron traveled over 830 miles on a single charge, beating the previous record by more than 82 miles",
+   "url": "https://www.carscoops.com/2026/09/audi-a6-e-tron-range-record/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T19:00:00Z"
+  },
+  {
+   "titulo": "4 Tips That Helped Quickly “Sort Out” My Project Corvette",
+   "resumo": "There are a litany of exciting moments in the progression of a project car from a junky hulk to a functional and attractive vehicle. Oftentimes, the project requires an amount of work that…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/4-tips-that-helped-quickly-sort-out-my-project-corvette/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-24T19:00:00Z"
+  },
+  {
+   "titulo": "Laurin Heinrich eyes improbable IMSA GTP title and career-highlight victory at Petit Le Mans",
+   "resumo": "Laurin Heinrich enters the IMSA WeatherTech SportsCar Championship season finale at Michelin Raceway Road Atlanta facing a difficult path to the GTP title, but the 2024 GTD Pro champion is…",
+   "url": "https://www.motorsport.com/imsa/news/laurin-heinrich-eyes-improbable-imsa-gtp-title-and-career-highlight-victory-at-petit-le-mans/10858697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-24T18:41:16Z"
+  },
+  {
+   "titulo": "New York Dealer To Refund Over $1 Million To Buyers Over Shady Selling Tactics",
+   "resumo": "A sneaky 2 percent fee with every sale allowed the dealer to generate millions in extra revenue",
+   "url": "https://www.carscoops.com/2026/09/new-york-dealer-to-refund-over-1-million-to-buyers-over-shady-selling-tactics/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T18:26:00Z"
+  },
+  {
+   "titulo": "John Mayer Turns Defender Paints Into Limited Guitars",
+   "resumo": "PRS Silver Sky and John Mayer blend Land Rover Defender heritage and modern shades into eight finishes split between US-made and SE models.",
+   "url": "https://www.motor1.com/news/809423/land-rover-defender-color-collection/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T18:00:00Z"
+  },
+  {
+   "titulo": "Monthly Market Report: August 2026",
+   "resumo": "Welcome to our monthly market report, where we sum up the previous month’s activity in the collector car market with charts and key talking points using the data we gather every day. Key…",
+   "url": "https://www.hagerty.com/media/market-trends/monthly-market-report-august-2026/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-24T18:00:00Z"
+  },
+  {
+   "titulo": "The Baku problem exposed by scary Hamilton and Lawson near-miss",
+   "resumo": "Lewis Hamilton's reprimand for impeding Liam Lawson in practice has exposed a big danger with the 2026 rules around Baku",
+   "url": "https://www.the-race.com/formula-1/the-baku-problem-exposed-by-scary-hamilton-and-lawson-near-miss/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-24T17:59:23Z"
+  },
+  {
+   "titulo": "Quase metade do que paga na bomba são impostos",
+   "resumo": "Quando abastecemos o automóvel, o valor apresentado no terminal de pagamento não corresponde apenas ao custo do combustível. Uma parte significativa do dinheiro destina-se ao pagamento de…",
+   "url": "https://www.razaoautomovel.com/especial/impostos-combustiveis-preco-impostos-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-24T17:42:43Z"
+  },
+  {
+   "titulo": "You Won’t Believe Who Now Owns The Most Expensive Bugatti Veyron Ever Built",
+   "resumo": "F1 champion added a stunning Veyron with an incredible backstory to his collection",
+   "url": "https://www.carscoops.com/2026/09/bugatti-veyron-fernando-alonso/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T17:40:00Z"
+  },
+  {
+   "titulo": "NASCAR Champion Darrell Waltrip Has Been Diagnosed With a Brain Disease, As Well As Possible CTE",
+   "resumo": "Waltrip, a three-time Cup Series champion and long-time television voice, is walking away from public life.",
+   "url": "https://www.roadandtrack.com/news/a73872267/nascar-champion-darrell-waltrip-has-been-diagnosed-with-a-brain-disease-as-well-as-possible-cte/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T17:26:53Z"
+  },
+  {
+   "titulo": "Já se matriculam mais elétricos do que carros só a combustão",
+   "resumo": "A venda de automóveis elétricos continua a crescer na Europa e os resultados de agosto mostram uma mudança importante na composição do mercado. Dos 832 637 automóveis registados no mês…",
+   "url": "https://www.razaoautomovel.com/noticias/carros-eletricos-matriculas-europa-agosto-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-24T17:25:53Z"
+  },
+  {
+   "titulo": "David Coulthard warns \"heads will roll\" if Williams FW48 upgrade fails",
+   "resumo": "Former Formula 1 driver David Coulthard has warned that \"heads will roll\" if Williams's upgraded FW48 fails to deliver an immediate step forward in performance. The Grove outfit has…",
+   "url": "https://www.motorsport.com/f1/news/david-coulthard-warns-heads-will-roll-if-williams-fw48-upgrade-fails/10858684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-24T17:10:05Z"
+  },
   {
    "titulo": "Why Mercedes’ huge Baku practice advantage may not be the real picture",
    "resumo": "Mercedes made a very strong statement during Thursday’s practice sessions at the Baku City Circuit. George Russell topped the times in both sessions, with the first non-Mercedes car almost…",
@@ -58,7 +217,7 @@
    "data": "2026-09-24T17:00:00Z"
   },
   {
-   "titulo": "What's going on with F1's uncertain final 2026 races",
+   "titulo": "F1's latest plan for where to end its 2026 season",
    "resumo": "F1 is preparing Imola to host its season finale - but still intends to go to Qatar and Abu Dhabi",
    "url": "https://www.the-race.com/formula-1/whats-going-on-with-f1s-uncertain-final-2026-races/",
    "fonte": "The Race",
@@ -108,16 +267,6 @@
    "data": "2026-09-24T16:28:00Z"
   },
   {
-   "titulo": "Jacques Villeneuve identifies barrier facing female F1 drivers after Jamie Chadwick Williams test",
-   "resumo": "1997 Formula 1 champion Jacques Villeneuve says the lack of female drivers on the current grid is fundamentally a numbers game. Speaking on Sky Sports F1 in Azerbaijan alongside three-time…",
-   "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-identifies-barrier-facing-female-f1-drivers-after-jamie-chadwick-williams-test/10858643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-24T16:16:31Z"
-  },
-  {
    "titulo": "Teste completo ao Jaecoo 7. O Range Rover chinês",
    "resumo": "Parece mais caro do que custa e oferece muito, mas a primeira impressão do Jaecoo 7 não conta toda a história. O Jaecoo 7 é um daqueles casos de chegar, ver e começar logo a vencer. Há…",
    "url": "https://www.razaoautomovel.com/testes/ensaio/jaecoo-7-shs-p-select-2026/",
@@ -136,26 +285,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-24T16:05:35Z"
-  },
-  {
-   "titulo": "Tony Stewart will be racing at Talladega with Kaulig Ram NASCAR Truck team",
-   "resumo": "NASCAR Hall of Famer and three-time Cup Series champion Tony Stewart will be back behind the wheel of the Kaulig Racing Ram 1500 at Talladega Superspeedway next month. Stewart, 55, made a…",
-   "url": "https://www.motorsport.com/nascar-truck/news/tony-stewart-to-make-another-nascar-truck-start-at-talladega/10858656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-24T16:03:28Z"
-  },
-  {
-   "titulo": "US Lawmakers Push For A Permanent Ban On Chinese Cars",
-   "resumo": "Both Republicans and Democrat lawmakers are looking to win Senate approval for the bill this week",
-   "url": "https://www.carscoops.com/2026/09/us-lawmakers-push-for-a-permanent-ban-on-chinese-cars/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T16:03:00Z"
   },
   {
    "titulo": "Estes são os postos de combustível mais baratos de Portugal",
@@ -238,16 +367,6 @@
    "data": "2026-09-24T15:21:10Z"
   },
   {
-   "titulo": "Geely’s Smart Charger Can Charge An EV Quicker Than A Bathroom Break",
-   "resumo": "New charging tech can refill a Lynk & Co 01 and a Zeekr 001 from 10-70% in just four minutes and 30 seconds",
-   "url": "https://www.carscoops.com/2026/09/geelys-smart-charger-can-charge-an-ev-quicker-than-a-bathroom-break/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T15:17:00Z"
-  },
-  {
    "titulo": "Renault’s Latest Retro EV Is a Gordini-Reviving RWD Coupe Concept",
    "resumo": "A legendary badge returns, although the awesome 8 Gordini two-door is unlikely to actually hit the road any time soon.",
    "url": "https://www.roadandtrack.com/news/a73869417/renault-8-gordini-ev-concept-coupe/",
@@ -298,26 +417,6 @@
    "data": "2026-09-24T15:00:00Z"
   },
   {
-   "titulo": "Cascais vai ter uma pista de Karting durante três dias",
-   "resumo": "Durante três dias, a Marina de Cascais vai transformar-se numa pista da karting. Organizado pela Manuel Gião Racing, o evento decorre entre 3 e 5 de outubro e foi pensado tanto para…",
-   "url": "https://www.razaoautomovel.com/noticias/eventos-karting-gp-cascais-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-24T14:54:43Z"
-  },
-  {
-   "titulo": "Chevy Is Still Building 6.2-Liter Corvettes Alongside 2027 Model",
-   "resumo": "The older Corvette Stingray and Corvette E-Ray are being built alongside 2027 models with GM's new LS6 V8",
-   "url": "https://www.carscoops.com/2026/09/chevy-is-still-building-6-2-liter-corvettes-alongside-2027-model/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T14:34:00Z"
-  },
-  {
    "titulo": "How to charge your electric company car - and save money",
    "resumo": "How company car drivers can claim up to £500 in home charger grants and simplify fuel expenses If you’re switching into an electric or plug-in hybrid company car , having a charger at home…",
    "url": "https://www.autocar.co.uk/car-news/company-cars/how-charge-your-electric-company-car-and-save-money",
@@ -328,32 +427,12 @@
    "data": "2026-09-24T14:28:00Z"
   },
   {
-   "titulo": "MotoGP fica em Portugal até 2029",
-   "resumo": "A todos aqueles que dividem a sua paixão entre o mundo de quatro e duas rodas, trazemos boas notícias. O Autódromo Internacional do Algarve (AIA) vai continuar a receber o MotoGP, a…",
-   "url": "https://www.razaoautomovel.com/noticias/motogp-renova-contrato-autodromo-internacional-do-algarve-ate-2029/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-24T14:02:53Z"
-  },
-  {
    "titulo": "F1 - 2026 Azerbaijan Grand Prix - Thursday Press Conference Transcript",
    "resumo": "Sport news Mattia BINOTTO (Audi), Ayao KOMATSU (Haas), Laurent MEKIES (Red Bull Racing) Q: Laurent, if we could perhaps start with you and Isack Hadjar, who’s had a very good week. Not only…",
    "url": "https://www.fia.com/news/f1-2026-azerbaijan-grand-prix-thursday-press-conference-transcript",
    "fonte": "FIA",
    "dominio": "fia.com",
    "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-24T14:00:00Z"
-  },
-  {
-   "titulo": "First Ford Bronco Raptor No. 00001 For Sale With Only 99 Miles",
-   "resumo": "Serial number 00001 returns to auction with 99 miles, documented charity history, and rare options that set it apart from typical Bronco Raptors.",
-   "url": "https://www.motor1.com/news/809430/first-ford-bronco-raptor-sale/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-24T14:00:00Z"
   },
@@ -368,16 +447,6 @@
    "data": "2026-09-24T14:00:00Z"
   },
   {
-   "titulo": "Torque Of The Town: Bentley Unveils Its First EV, the Torcal",
-   "resumo": "Breaking new ground for Bentley is the Torcal–an 876-hp electric SUV, that uses the bones of the Porsche Cayenne. The name Torcal comes from the rugged limestone landscape of El Torcal de…",
-   "url": "https://www.hagerty.com/media/news/torque-of-the-town-bentley-unveils-its-first-ev-the-torcal/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-24T14:00:00Z"
-  },
-  {
    "titulo": "Audi e o futuro dos motores V8 de 2030: redução de custos, mas ‘quer’ tecnologia",
    "resumo": "Mattia Binotto, Chefe de Equipa da Audi, marcou presença na conferência de imprensa, onde falou sobre os seus pilotos, as recentes atualizações no monolugar, e também dos futuros motores V8…",
    "url": "https://www.autosport.pt/formula1/audi-e-o-futuro-dos-motores-v8-de-2030-reducao-de-custos-mas-quer-tecnologia/",
@@ -386,16 +455,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-24T13:54:56Z"
-  },
-  {
-   "titulo": "Honda Said To Be Considering Super-Sized Pilot XXL",
-   "resumo": "Honda's rumored crossover could be around 208.1 inches long, making it almost Tahoe-sized",
-   "url": "https://www.carscoops.com/2026/09/2032-honda-pilot-xxl/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T13:52:00Z"
   },
   {
    "titulo": "View Photos of the 1977 Ford Thunderbird",
@@ -478,36 +537,6 @@
    "data": "2026-09-24T13:05:44Z"
   },
   {
-   "titulo": "The Nissan Z Kaze Is a Retro Concept That Brings Back the T-Top",
-   "resumo": "Along with the T-top roof, the Z Kaze rolls on sweet NISMO LMGT2 wheels and features a carbon-fiber aerodynamic body kit.",
-   "url": "https://www.caranddriver.com/news/a73866564/nissan-z-kaze-concept-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T13:02:49Z"
-  },
-  {
-   "titulo": "What we learned about Chadwick's Williams F1 test debut",
-   "resumo": "Jamie Chadwick became the first woman in more than a decade to drive a contemporary Williams F1 car in a recent test at Portimao",
-   "url": "https://www.the-race.com/formula-1/jamie-chadwick-first-woman-in-11-years-to-drive-williams-f1-car/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-24T13:02:36Z"
-  },
-  {
-   "titulo": "400 HP Under $40K: 5 Cars and 1 Truck That Bring Bang for Buck",
-   "resumo": "Last month, the average price for a new automobile in the U.S. cracked 50 grand for the first time. And that’s average stuff. Toyota Highlanders, Honda Passports, Lincoln Corsairs. That…",
-   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/hagerty-price-guide/400-hp-under-40k-5-cars-and-1-truck-that-bring-bang-for-buck/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-24T13:00:00Z"
-  },
-  {
    "titulo": "American Muscle Car Icon: The 375 BHP 1968 Dodge Charger R/T",
    "resumo": "This is an original 1968 Dodge Charger R/T, it was factory-fitted with the largest engine the model could be ordered with – the 440... The post American Muscle Car Icon: The 375 BHP 1968…",
    "url": "https://silodrome.com/1968-dodge-charger-rt/",
@@ -526,26 +555,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-24T12:30:02Z"
-  },
-  {
-   "titulo": "Bentley Abandons 2030 EV Deadline, Keeps Gas Engines Alive",
-   "resumo": "Bentley Torcal leads a new strategy that keeps combustion and hybrid models in production while the brand slows its all-electric rollout.",
-   "url": "https://www.motor1.com/news/809414/bentley-drops-2030-ev-deadline/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T10:44:17Z"
-  },
-  {
-   "titulo": "The VW ID. Buzz Cargo Is Now Longer And Ready To Haul More",
-   "resumo": "The electric work van just got bigger, more practical, and better suited to getting the job done.",
-   "url": "https://www.motor1.com/news/809385/volkswagen-id-buzz-cargo-lwb/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T10:32:10Z"
   },
   {
    "titulo": "F1 – Russell tops FP1 in Baku ahead of Verstappen as hydraulic issue sidelines Antonelli",
@@ -606,16 +615,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-24T05:00:00Z"
-  },
-  {
-   "titulo": "Classic shrine: Riverside Museum",
-   "resumo": "Classic shrine: Riverside Museum Ryan Standen Thu, 24/09/2026 - 05:17",
-   "url": "https://www.classicandsportscar.com/features/classic-shrine-riverside-museum",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-24T04:17:51Z"
   }
  ]
 }
