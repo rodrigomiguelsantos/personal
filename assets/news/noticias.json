@@ -1,21 +1,103 @@
 {
- "atualizado": "2026-09-24T21:30:44Z",
+ "atualizado": "2026-09-25T04:57:11Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
+  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Mitsubishi Pajero Evolution: desert stormer",
+   "resumo": "Mitsubishi Pajero Evolution: desert stormer Ryan Standen Fri, 25/09/2026 - 05:22",
+   "url": "https://www.classicandsportscar.com/features/mitsubishi-pajero-evolution-desert-stormer",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-25T04:22:20Z"
+  },
+  {
+   "titulo": "McLaren Is Trying To Sell Arturas With 0% Financing",
+   "resumo": "McLaren is offering a solid financing deal for 2025 and 2026 Artura models through to the end of September",
+   "url": "https://www.carscoops.com/2026/09/mclaren-is-trying-to-sell-arturas-with-0-financing/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-25T02:00:00Z"
+  },
+  {
+   "titulo": "How to sell a classic car: pricing, photos, paperwork and avoiding scams",
+   "resumo": "Selling your classic? Our guide covers private sale, auction or dealer, setting a realistic price, preparing and photographing the car, and avoiding scams.",
+   "url": "https://www.octane-magazine.com/articles/how-to-sell-a-classic-car-pricing-photos-paperwork-and-avoiding-scams/",
+   "fonte": "Octane",
+   "dominio": "octane-magazine.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-25T00:39:47Z"
+  },
+  {
+   "titulo": "After Bailing On EV-Only Plan, Bentley Embraces Flexibility In An Uncertain World",
+   "resumo": "Bentley is speeding development and becoming more flexible as the future is harder to predict",
+   "url": "https://www.carscoops.com/2026/09/bentley-electrification-flexibility/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-25T00:00:00Z"
+  },
+  {
+   "titulo": "2027 Subaru Impreza Base Model Has More HP but a Much Lower Price",
+   "resumo": "The 2027 Subaru Impreza costs nearly $2000 less than it did last year and adds a few more horses to its stable.",
+   "url": "https://www.caranddriver.com/news/a73874951/2027-subaru-impreza-more-hp-lower-price/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T23:50:17Z"
+  },
+  {
+   "titulo": "Volkswagen’s ID. Buzz Comeback Slips To 2028",
+   "resumo": "VW’s promised 2027 ID. Buzz is now a 2028 model, leaving American dealers with another year to wait",
+   "url": "https://www.carscoops.com/2026/09/volkswagens-id-buzz-comeback-slips-to-2028/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T22:00:00Z"
+  },
+  {
+   "titulo": "Volkswagen ID.Buzz’s Return Has Been Pushed to the 2028 Model Year",
+   "resumo": "The ID.Buzz was originally supposed to reappear in VW’s U.S. lineup this fall, after skipping the 2026 model year.",
+   "url": "https://www.caranddriver.com/news/a73875105/volkswagen-id-buzz-return-delayed-2028-model-year/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-24T21:41:24Z"
+  },
+  {
+   "titulo": "How to watch NASCAR at Kansas II this weekend: Full schedule, start time, TV",
+   "resumo": "The stars of the NASCAR Cup Series will be joined by NASCAR Craftsman Trucks and the ARCA Menard's Series at Kansas this weekend. Chase Elliott won a dramatic Cup race at Kansas last fall…",
+   "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-kansas-ii-this-weekend-full-schedule-start-time-tv/10858700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-24T21:37:30Z"
+  },
   {
    "titulo": "Upgraded Mahindra Thar OG Is A Jeep Wrangler Clone With A Sub-$11k Price",
    "resumo": "The Indian Jeep impersonator brings important changes under the skin but it's still impressively cheap in its home market",
@@ -87,16 +169,6 @@
    "data": "2026-09-24T18:41:16Z"
   },
   {
-   "titulo": "New York Dealer To Refund Over $1 Million To Buyers Over Shady Selling Tactics",
-   "resumo": "A sneaky 2 percent fee with every sale allowed the dealer to generate millions in extra revenue",
-   "url": "https://www.carscoops.com/2026/09/new-york-dealer-to-refund-over-1-million-to-buyers-over-shady-selling-tactics/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T18:26:00Z"
-  },
-  {
    "titulo": "John Mayer Turns Defender Paints Into Limited Guitars",
    "resumo": "PRS Silver Sky and John Mayer blend Land Rover Defender heritage and modern shades into eight finishes split between US-made and SE models.",
    "url": "https://www.motor1.com/news/809423/land-rover-defender-color-collection/",
@@ -135,16 +207,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-24T17:42:43Z"
-  },
-  {
-   "titulo": "You Won’t Believe Who Now Owns The Most Expensive Bugatti Veyron Ever Built",
-   "resumo": "F1 champion added a stunning Veyron with an incredible backstory to his collection",
-   "url": "https://www.carscoops.com/2026/09/bugatti-veyron-fernando-alonso/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T17:40:00Z"
   },
   {
    "titulo": "NASCAR Champion Darrell Waltrip Has Been Diagnosed With a Brain Disease, As Well As Possible CTE",
@@ -225,26 +287,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-24T16:39:21Z"
-  },
-  {
-   "titulo": "GM’s New 8.3L Duramax V8 Has Enough Torque To Pull A Planet And Ford Out Of The Top Spot",
-   "resumo": "Nicknamed \"Mongoose\", the new turbodiesel V8 finds its way under the hood of the 2027 Chevrolet Silverado HD and GMC Sierra HD",
-   "url": "https://www.carscoops.com/2026/09/gms-new-8-3l-duramax-v8-has-enough-torque-to-pull-a-planet-and-ford-out-of-the-top-spot/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T16:34:00Z"
-  },
-  {
-   "titulo": "F1 Azerbaijan GP: Friday schedule, weather forecast and how to watch",
-   "resumo": "Formula 1 heads into Friday in Baku with Mercedes firmly on top after George Russell led championship leader Kimi Antonelli in second practice for the Azerbaijan GP. Russell topped FP2 by…",
-   "url": "https://www.motorsport.com/f1/news/f1-azerbaijan-gp-friday-schedule-weather-forecast-and-how-to-watch/10858665/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-24T16:31:25Z"
   },
   {
    "titulo": "Japanese Mazda Fans Are Getting a Bright-Yellow Miata Roadster",
@@ -457,26 +499,6 @@
    "data": "2026-09-24T13:54:56Z"
   },
   {
-   "titulo": "View Photos of the 1977 Ford Thunderbird",
-   "resumo": "See the interior and exterior of the 1977 Ford Thunderbird from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73855290/1977-ford-thunderbird-archive-test-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T13:49:42Z"
-  },
-  {
-   "titulo": "Archive Road Test: 1977 Ford Thunderbird Slims Down",
-   "resumo": "The benefits of a brand-new flight plan.",
-   "url": "https://www.caranddriver.com/reviews/a73835760/1977-ford-thunderbird-archive-test/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T13:49:38Z"
-  },
-  {
    "titulo": "F1: Laurent Mekies revelou que a Red Bull terminou desenvolvimento e já ‘olha’ para 2027",
    "resumo": "Laurent Mekies, líder da Red Bull Racing marcou presença na conferência de imprensa de chefes de equipa, onde revelou que Isack Hadjar, para além de regressar à competição em Baku após…",
    "url": "https://www.autosport.pt/formula1/f1-laurent-mekies-revelou-que-a-red-bull-terminou-desenvolvimento-e-ja-olha-para-2027/",
@@ -595,26 +617,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-24T06:02:48Z"
-  },
-  {
-   "titulo": "Gordini returns: Renault revives 8 as futuristic electric sports car",
-   "resumo": "Performance sub-brand returns for revival of 1962 classic, previewing future production car tech Renault has reinvented the cult-classic 8 Gordini as a stunning two-seat electric coupé for…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/gordini-returns-renault-revives-8-futuristic-electric-sports-car",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T06:01:58Z"
-  },
-  {
-   "titulo": "How to run your plug-in hybrid car as cheaply as possible",
-   "resumo": "PHEVs can combine the savings of an electric car with the security of petrol power – if you use them properly Sales of plug-in hybrids (PHEVs) are on the rise, with 225,143 sold in the UK…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/how-run-your-plug-hybrid-car-cheaply-possible",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-24T05:00:00Z"
   }
  ]
 }
