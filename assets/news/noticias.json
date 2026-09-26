@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-25T21:34:30Z",
+ "atualizado": "2026-09-26T04:57:24Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,86 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Thomas Annunziata wins ARCA title on tiebreaker after clashing with teammate Bollman",
+   "resumo": "Entering Friday's ARCA Menard's Series finale, a winless Jake Bollman held a 16-point advantage over Nitro Motorsports teammate Thomas Annunziata in the battle for the 2026 title. The…",
+   "url": "https://www.motorsport.com/arca/news/thomas-annunziata-wins-arca-title-on-tiebreaker-after-clashing-with-teammate-bollman/10859081/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-26T02:20:38Z"
+  },
+  {
+   "titulo": "Mercedes Signs Huge Deal To Help Make Solid State Batteries A Reality",
+   "resumo": "Mercedes-Benz is testing EVs with solid-state batteries from US company Factorial Energy, and is now working with a Taiwanese firm",
+   "url": "https://www.carscoops.com/2026/09/mercedes-signs-huge-deal-to-help-make-solid-state-batteries-a-reality/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-26T02:00:00Z"
+  },
+  {
+   "titulo": "A Hacker Took Control Of A BYD For TV, But Should Should You Be Worried?",
+   "resumo": "Chinese EVs are coming under fresh scrutiny for the amount of data they collect, and how easy it is to hack into them",
+   "url": "https://www.carscoops.com/2026/09/a-hacker-took-control-of-a-byd-for-tv-but-should-should-you-be-worried/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-26T00:00:00Z"
+  },
+  {
+   "titulo": "‘The Stunt Driver’ Is a Tragicomic Gem About a Canadian Daredevil With a Dream",
+   "resumo": "The new movie, starring Jay Burachel and Ed Helms, is now in theaters.",
+   "url": "https://www.caranddriver.com/features/a73859601/the-stunt-driver-movie-jay-burachel-interview/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-25T23:19:03Z"
+  },
+  {
+   "titulo": "Oscar Piastri: I need a tow bar to hook onto Mercedes to fight for Baku win",
+   "resumo": "Having qualified third in Baku after enduring a difficult build-up to the main sessions, Oscar Piastri was happy with the grid position he earned for Formula 1's Azerbaijan Grand Prix…",
+   "url": "https://www.motorsport.com/f1/news/oscar-piastri-i-need-a-tow-bar-to-hook-onto-mercedes-to-fight-for-baku-win/10859038/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-25T23:00:02Z"
+  },
+  {
+   "titulo": "Carson Hocevar, Ryan Blaney trade niceties a week after Bristol fight",
+   "resumo": "Less than a week ago, Carson Hocevar felt compelled to punch Ryan Blaney after he was confronted and grabbed by the fire suit in the aftermath of their incident in the Bristol Night Race…",
+   "url": "https://www.motorsport.com/nascar-cup/news/carson-hocevar-ryan-blaney-trade-niceties-a-week-after-bristol-fight-/10859075/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-25T22:15:06Z"
+  },
+  {
+   "titulo": "Your Insurer’s App May Soon Judge Your Driving From Your Phone",
+   "resumo": "LexisNexis and IMS are bringing driving scores to insurers’ phone apps, raising questions about consent and what those scores actually measure",
+   "url": "https://www.carscoops.com/2026/09/your-insurers-app-may-soon-judge-your-driving-from-your-phone/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-25T22:00:00Z"
+  },
+  {
+   "titulo": "You’d Have to be a Millionaire to Buy the Centenaire, the First Monegasque Supercar",
+   "resumo": "Monaco. Just the word makes you think of cars going fast, doesn’t it? The Grand Prix held on its streets has been running for nearly 100 years, the rally to get there has been going for…",
+   "url": "https://www.hagerty.com/media/market-trends/youd-have-to-be-a-millionaire-to-buy-the-centenaire-the-first-monegasque-supercar/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-25T22:00:00Z"
+  },
   {
    "titulo": "Georgia Police Arrest Ex-Cop For Stealing A Chevy, Trailer, And A Lawn Mower",
    "resumo": "It took more than 18 months for police to track down the stolen 2018 Silverado",
@@ -79,26 +159,6 @@
    "data": "2026-09-25T20:00:00Z"
   },
   {
-   "titulo": "Stefano Domenicali reveals bizarre Jimmy Fallon prank at Miami GP Michelin-starred dinner",
-   "resumo": "Formula 1 CEO Stefano Domenicali has detailed a bizarre off-track encounter with American television host Jimmy Fallon, who interrupted his business dinner at a Michelin-starred restaurant…",
-   "url": "https://www.motorsport.com/f1/news/stefano-domenicali-reveals-bizarre-jimmy-fallon-prank-at-miami-gp-michelin-starred-dinner/10859056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-25T19:58:49Z"
-  },
-  {
-   "titulo": "F1 closing in on 1 billion fans as Stefano Domenicali hails female audience growth",
-   "resumo": "Formula 1 CEO Stefano Domenicali says the championship is closing in on 1 billion global fans, driven by a younger audience, an increase in female viewership and more access to driver…",
-   "url": "https://www.motorsport.com/f1/news/f1-closing-in-on-1-billion-fans-as-stefano-domenicali-hails-female-audience-growth/10859054/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-25T19:31:31Z"
-  },
-  {
    "titulo": "Helderburg’s Classic Defender Restomod Costs 2.5 Times More Than A New Octa",
    "resumo": "The reworked classic off-roader features several custom touches, but don't expect an LS V8 under the hood",
    "url": "https://www.carscoops.com/2026/09/helderburg-land-rover-defender-110/",
@@ -129,26 +189,6 @@
    "data": "2026-09-25T18:56:06Z"
   },
   {
-   "titulo": "Williams’ long-awaited F1 upgrade is delivering in Baku – but was Q3 an “overachievement”?",
-   "resumo": "Williams’ 2026 car had infamously been overweight after Formula 1 switched to a new technical ruleset, but a brand-new chassis introduced at the Azerbaijan Grand Prix has provided…",
-   "url": "https://www.motorsport.com/f1/news/williams-upgrade-delivering-baku-overachievement/10859048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-25T18:36:43Z"
-  },
-  {
-   "titulo": "Genesis GV90 Shows How Massive Display Grows Even Bigger For The Ultimate In-Car Movie Theater",
-   "resumo": "The Genesis GV90’s OLED display rises 90 mm when parked, revealing more real estate for streaming",
-   "url": "https://www.carscoops.com/2026/09/genesis-gv90-shows-how-massive-display-grows-even-bigger-for-the-ultimate-in-car-movie-theater/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-25T18:26:00Z"
-  },
-  {
    "titulo": "This 1946 Ford Super Deluxe Station Wagon Defied Time and Termites",
    "resumo": "Even before WWII ended following Japan’s surrender on August 15th and the historic signing on the deck of the USS Missouri on September 2nd, Ford was converting its wartime aircraft…",
    "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/this-1946-ford-super-deluxe-station-wagon-defied-time-and-termites/",
@@ -167,16 +207,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-25T17:44:47Z"
-  },
-  {
-   "titulo": "Tesla Starts New Semi Deliveries, But Won’t Say How Many",
-   "resumo": "Tesla has begun delivering Semis from its Nevada factory, but it hasn’t disclosed the truck’s price or current production rate",
-   "url": "https://www.carscoops.com/2026/09/tesla-starts-new-semi-deliveries-but-wont-say-how-many/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-25T17:40:00Z"
   },
   {
    "titulo": "From Dash Cams to Tire Inflators, These Early Fall Prime Day Deals Under $100 Deliver",
@@ -257,16 +287,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-25T16:54:21Z"
-  },
-  {
-   "titulo": "BYD’s Flagship Sedan Is Coming For The Rolls-Royce Phantom",
-   "resumo": "It appears the new model will be compatible with BYD's advanced Flash Charging technology",
-   "url": "https://www.carscoops.com/2026/09/byds-flagship-sedan-is-coming-for-the-rolls-royce-phantom/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-25T16:50:00Z"
   },
   {
    "titulo": "Porsche 912 buying guide: history, problems and what to pay",
@@ -439,16 +459,6 @@
    "data": "2026-09-25T15:36:40Z"
   },
   {
-   "titulo": "Goodwood Revival: The Rarest Cars In the World’s Best Public Parking Lot",
-   "resumo": "Lord March’s country estate is home the Goodwood circuit, as well as two of the greatest car events on earth—Festival of Speed, and Revival. “Always check the parking lot for cool stuff” is…",
-   "url": "https://www.hagerty.com/media/events/goodwood-revival-the-rarest-cars-in-the-worlds-best-public-parking-lot/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-25T15:00:00Z"
-  },
-  {
    "titulo": "Hamilton frustrated after late Ferrari qualifying strategy change: ‘I towed Charles the whole time’",
    "resumo": "Lewis Hamilton has rued Ferrari’s qualifying strategy at Formula 1’s Azerbaijan Grand Prix, explaining it left him without a slipstream. Hamilton’s performance worsened throughout…",
    "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-towed-charles-the-whole-time-and-ended-up-05s-slower/10858944/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -457,16 +467,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-25T14:59:42Z"
-  },
-  {
-   "titulo": "View Interior Photos of the Revology Mustang Boss 302",
-   "resumo": "See the interior of the Revology Mustang Boss 302 from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73854909/1970-revology-mustang-boss-302-test-interior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-25T14:26:31Z"
   },
   {
    "titulo": "Antonelli angry at \"unnecessary\" Azerbaijan GP qualifying crash",
