@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-27T16:57:38Z",
+ "atualizado": "2026-09-27T21:20:42Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,86 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Gas Prices Are So Nuts, Today’s Mazda3 Driver Could Have Fueled A V8 Mustang On The Same Budget 7 Months Ago",
+   "resumo": "Feeding the Mazda’s 30 mpg appetite now is like living with the Mustang GT’s 19 mpg thirst in February",
+   "url": "https://www.carscoops.com/2026/09/gas-prices-nuts/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-27T21:00:00Z"
+  },
+  {
+   "titulo": "Cheap Thrills: Stellantis Adds Extra Plastic And Mobile Office To Base Vans",
+   "resumo": "The Citroen Berlingo Van First and Opel Combo Start trims feature unpainted bumpers, stripped-down interiors and budget prices",
+   "url": "https://www.carscoops.com/2026/09/stellantis-van-mobile-office/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-27T19:00:00Z"
+  },
+  {
+   "titulo": "F1: McLaren saiu de Baku com zero pontos, Oscar Piastri não conseguiu salvar o fim de semana",
+   "resumo": "A McLaren saiu sem pontos do Grande Prémio do Azerbaijão. Lando Norris abandonou depois de ser atingido na colisão entre os dois Alpine, enquanto Oscar Piastri perdeu uma oportunidade de…",
+   "url": "https://www.autosport.pt/formula1/f1-mclaren-saiu-de-baku-com-zero-pontos-oscar-piastri-nao-conseguiu-salvar-o-fim-de-semana/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-27T18:05:49Z"
+  },
+  {
+   "titulo": "BTCC Silverstone: Ingram victorious in wet finale",
+   "resumo": "Outgoing British Touring Car Championship title holder Tom Ingram pepped up his charge for 2026 series runner-up with victory in a wet Silverstone finale. Ingram’s Excelr8 Motorsport…",
+   "url": "https://www.autosport.com/btcc/news/btcc-silverstone-ingram-victorious-in-wet-finale/10859634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-27T17:41:46Z"
+  },
+  {
+   "titulo": "Goodyear FIA ETRC Le Mans raceday two round-up: Champion Kiss doubles up in style as Smith shines",
+   "resumo": "Sport news Despite wrapping up the coveted crown in yesterday’s opening race, Kiss continued his pursuit of Goodyear FIA ETRC glory during the final day of the 24 Heures Camions weekend at…",
+   "url": "https://www.fia.com/news/goodyear-fia-etrc-le-mans-raceday-two-round-champion-kiss-doubles-style-smith-shines",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-27T17:03:00Z"
+  },
+  {
+   "titulo": "This VW Golf GTI Doesn’t Drive On Roads – It Cuts Grass",
+   "resumo": "The autonomous lawn mower is able to detect obstacles and small animals with the help of ultrasonic sensors and a thermal camera",
+   "url": "https://www.carscoops.com/2026/09/golf-robot-mower/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-27T17:00:00Z"
+  },
+  {
+   "titulo": "Changan próxima das 1000 unidades",
+   "resumo": "A marca chinesa, representada em Portugal pelo Grupo Auto-Industrial, comemorou o primeiro ano de atividade comercial no nosso País. Atualmente, a gama integra dois Sport Utility Vehicles…",
+   "url": "https://www.autosport.pt/automais/changan-proxima-das-1000-unidades/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-27T16:48:00Z"
+  },
+  {
+   "titulo": "F1: Charles Leclerc considera que Ferrari ficou para trás face à McLaren e Red Bull",
+   "resumo": "Charles Leclerc considera que a Red Bull ganhou vantagem sobre a Ferrari no desempenho do chassis e que a McLaren também progrediu. O monegasco terminou em quarto no Grande Prémio do…",
+   "url": "https://www.autosport.pt/formula1/f1-charles-leclerc-considera-que-ferrari-ficou-para-tras-face-a-mclaren-e-red-bull/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-27T16:32:34Z"
+  },
   {
    "titulo": "Erik Jones agrees to multi-year contract extension with Legacy Motor Club",
    "resumo": "Legacy Motor Club announced on Sunday that they have signed Erik Jones to a multi-year contract extension, keeping him as the long-term driver of the No. 43 Toyota Camry XSE. He will have…",
@@ -108,16 +188,6 @@
    "data": "2026-09-27T14:57:21Z"
   },
   {
-   "titulo": "F1: Alpine volta a condenar o discurso abusivo de alguns fãs",
-   "resumo": "Os heróis do teclado voltam a atacar. E, mais uma vez, a Alpine afirmou sentir necessidade de voltar a pronunciar-se sobre as reações abusivas de alguns adeptos nas redes sociais. Não é a…",
-   "url": "https://www.autosport.pt/formula1/f1-alpine-volta-a-condenar-o-discurso-abusivo-de-alguns-fas/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-27T14:54:04Z"
-  },
-  {
    "titulo": "British GT Brands Hatch: Orange/Clutton take shock title as Collard spins",
    "resumo": "Simon Orange and Marcus Clutton have surprisingly won the 2026 British GT title with victory in the two-hour Brands Hatch finale as erstwhile leader Rob Collard spun off. The Orange Racing…",
    "url": "https://www.autosport.com/BGT/news/british-gt-brands-hatch-orange-clutton-take-shock-title-as-collard-spins/10859610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -138,16 +208,6 @@
    "data": "2026-09-27T14:35:39Z"
   },
   {
-   "titulo": "F4 Espanha: Quinta jornada de luxo para Noah Monteiro, que é agora segundo no campeonato",
-   "resumo": "Noah Monteiro terminou a quinta jornada do Campeonato Espanhol de Fórmula 4 com um terceiro lugar na corrida de domingo, em Jerez de la Frontera. Depois de conquistar duas pole positions e…",
-   "url": "https://www.autosport.pt/velocidade/f4-espanha-quinta-jornada-de-luxo-para-noah-monteiro-que-e-agora-segundo-no-campeonato/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-27T14:25:49Z"
-  },
-  {
    "titulo": "Wins v. big picture dominate Truck Series Chase discourse after Kansas",
    "resumo": "And with that, Kaden Honeycutt took a commanding lead in the NASCAR Truck Series Chase for the Championship. That wasn’t so much Honeycutt winning on Saturday at Kansas Speedway but Layne…",
    "url": "https://www.motorsport.com/nascar-truck/news/wins-v-big-picture-dominate-truck-series-chase-discourse-after-kansas-/10859586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
@@ -160,22 +220,12 @@
   {
    "titulo": "Posso parar em segunda fila se ficar dentro do carro?",
    "resumo": "Admita lá: quantas vezes é que já usou a clássica “estou dentro do carro com os quatro piscas ligados, por isso não há problema”? É o pão nosso de cada dia nas cidades portuguesas. Alguém…",
-   "url": "https://www.razaoautomovel.com/noticias/autopedia-posso-parar-em-segunda-fila-se-ficar-dentro-do-carro/",
+   "url": "https://www.razaoautomovel.com/autopedia/autopedia-posso-parar-em-segunda-fila-se-ficar-dentro-do-carro/",
    "fonte": "Razão Automóvel",
    "dominio": "razaoautomovel.com",
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-27T13:30:00Z"
-  },
-  {
-   "titulo": "Peugeot Rally Cup: Título Ibérico e espanhol entregue",
-   "resumo": "A terceira jornada da PEUGEOT RALLY CUP IBÉRICA 2026 e derradeira ronda do Desafío PEUGEOT terminou com a vitória de Pablo Fernandez / Lucia Otero no Rallye Villa de Llanes. Pedro Câmara /…",
-   "url": "https://www.autosport.pt/ralis/peugeot-rally-cup-titulo-iberico-e-espanhol-entregue/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-27T13:28:56Z"
   },
   {
    "titulo": "It’s Not Just VW, Mercedes May Be Forced To Close Two Factories",
@@ -236,26 +286,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-27T11:20:17Z"
-  },
-  {
-   "titulo": "The Kia PV5 Chassis Can Transform Into A Tipper, Box Van, Food Truck, Or Camper",
-   "resumo": "The fully electric LCV arrives in the UK market ready for conversions, with a 71.2 kWh battery offering a 259-mile range",
-   "url": "https://www.carscoops.com/2026/09/kia-pv5-chassis/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-27T11:00:00Z"
-  },
-  {
-   "titulo": "The detail that impressed Red Bull the most about Hadjar's F1 return",
-   "resumo": "After his wrist injury, Isack Hadjar certainly did not return behind the wheel of the Red Bull Racing RB22 at the easiest track on the Formula 1 calendar. The Baku City Circuit not only…",
-   "url": "https://www.autosport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T10:12:48Z"
   },
   {
    "titulo": "Edd Straw's 2026 Azerbaijan Grand Prix F1 driver rankings",
@@ -328,9 +358,9 @@
    "data": "2026-09-27T06:30:53Z"
   },
   {
-   "titulo": "My Volvo 850 T5-R is a 350bhp BTCC refugee for the road",
+   "titulo": "My Volvo 850 T5-R is a 350bhp racing estate for the road",
    "resumo": "With less than 60 remaining in the UK, Neil Cotty waited years to track down a rare yellow T5-R estate With fewer than 60 saloons and estates remaining in the UK out of the country's…",
-   "url": "https://www.autocar.co.uk/car-news/used-cars/my-volvo-850-t5-r-350bhp-btcc-refugee-road",
+   "url": "https://www.autocar.co.uk/car-news/used-cars/my-volvo-850-t5-r-350bhp-racing-estate-road",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
    "categoria": "Modelos",
@@ -338,24 +368,14 @@
    "data": "2026-09-27T06:00:00Z"
   },
   {
-   "titulo": "Whole Lada change: How Russian car industry survived the West's exit",
+   "titulo": "How the Russian car industry has changed since the West's exit",
    "resumo": "Russia's car industry has had to rapidly adapt to survive in self-inflicted isolation from the West \"Genuinely, people have their heads turned more by it than a 12-cylinder Ferrari.\" Jack…",
-   "url": "https://www.autocar.co.uk/car-news/features/whole-lada-change-how-russian-car-industry-survived-wests-exit",
+   "url": "https://www.autocar.co.uk/car-news/features/how-russian-car-industry-has-changed-wests-exit",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-27T05:00:00Z"
-  },
-  {
-   "titulo": "Ford Ranger Successor Is Under Development",
-   "resumo": "The popular midsize truck will keep evolving to fight the Toyota Hilux and other rivals in the crowded segment",
-   "url": "https://www.carscoops.com/2026/09/next-ford-ranger-report/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-26T21:00:00Z"
   },
   {
    "titulo": "Returning Hadjar Proves He’s the Right Man for the Most Difficult Job in F1",
@@ -366,16 +386,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-26T19:17:05Z"
-  },
-  {
-   "titulo": "This Lancia-Inspired Supercar May Have Already Doubled In Value",
-   "resumo": "The EVO37 is powered by a supercharged and turbocharged 2.1-liter four-cylinder with 498 hp",
-   "url": "https://www.carscoops.com/2026/09/kimera-evo37-auction/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-26T19:00:00Z"
   },
   {
    "titulo": "Colapinto Breaks F1’s Cardinal Rule as He Takes Out Alpine Teammate Gasly – and Norris as Well",
@@ -606,16 +616,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-25T16:49:26Z"
-  },
-  {
-   "titulo": "Lamborghini Keeps Hinting At A Temerario Sterrato",
-   "resumo": "Lamborghini executives haven't confirmed a new Sterrato model, but they're keeping the door open for a rugged Temerario.",
-   "url": "https://www.motor1.com/news/809641/lamborghini-temerario-sterrato-rumors/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-25T16:30:00Z"
   }
  ]
 }
