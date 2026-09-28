@@ -1,22 +1,112 @@
 {
- "atualizado": "2026-09-27T21:20:42Z",
+ "atualizado": "2026-09-28T05:23:10Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
-  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Huge Aston Martin-McLaren LMGT3 crash deemed racing incident after stewards probe",
+   "resumo": "The huge accident involving Finn Gehrsitz in the World Endurance Championship’s Fuji 6 Hours has been deemed a racing incident by the stewards, with neither the German nor Aston Martin…",
+   "url": "https://www.motorsport.com/wec/news/mclaren-aston-martin-huge-lmgt3-crash-fuji-safety-car/10859689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-28T04:40:14Z"
+  },
+  {
+   "titulo": "Riley Kestrel Sprite 1½ Litre: variation on a theme",
+   "resumo": "Riley Kestrel Sprite 1½ Litre: variation on a theme Ryan Standen Mon, 28/09/2026 - 04:54",
+   "url": "https://www.classicandsportscar.com/features/riley-kestrel-sprite-1-12-litre-variation-theme",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-28T03:54:14Z"
+  },
+  {
+   "titulo": "BMW Gears Up To Unveil All-New 3-Series On September 29",
+   "resumo": "Customer deliveries of the all-new 3-Series will start next year",
+   "url": "https://www.carscoops.com/2026/09/bmw-gears-up-to-unveil-all-new-3-series-on-september-29/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-28T03:46:46Z"
+  },
+  {
+   "titulo": "There’s More To This Lynk & Co Fire In China Than Meets The Eye",
+   "resumo": "The 900 is a luxurious plug-in hybrid available with a 52.4 kWh battery pack",
+   "url": "https://www.carscoops.com/2026/09/lynk-and-co-fire-china/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-28T03:00:00Z"
+  },
+  {
+   "titulo": "Kyle Larson's team looks like peak Jimmie Johnson but Denny Hamlin says there's time yet",
+   "resumo": "It’s early yet but the start to this Chase for the Championship is making Kyle Larson and the Hendrick Motorsports No. 5 look an awful lot like the No. 48 team that terrorized the Cup…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larsons-team-looks-like-peak-jimmie-johnson-but-denny-hamlin-says-theres-time-yet-/10859677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-28T01:22:41Z"
+  },
+  {
+   "titulo": "Chase Briscoe went into “desperation mode” chasing Kyle Larson at Kansas",
+   "resumo": "Although Kyle Larson dominated the NASCAR Cup race at Kansas, Chase Briscoe made him fight for the win in the final run of the race. He passed Larson with 30 laps to go after the final set…",
+   "url": "https://www.motorsport.com/nascar-cup/news/chase-briscoe-loses-out-in-duel-for-the-win-to-kyle-larson/10859674/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-28T00:30:28Z"
+  },
+  {
+   "titulo": "Tyler Reddick admits \"we got big problems\" after 23XI struggles",
+   "resumo": "For the first third of the year, everyone thought this was Tyler Reddick championship to lose, but it's been a downhill slide throughout the summer and into the fall for the driver who…",
+   "url": "https://www.motorsport.com/nascar-cup/news/tyler-reddick-says-we-got-big-problems-after-23xi-struggles/10859672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-28T00:04:37Z"
+  },
+  {
+   "titulo": "Carson Hocevar explains what caused restart pileup that upended good day",
+   "resumo": "Carson Hocevarwas enjoying a strong day with no drama at Kansas, running inside the top ten and ending Stage 1 in fourth place. Unfortunately, things went very wrong on a Lap 122 restart…",
+   "url": "https://www.motorsport.com/nascar-cup/news/carson-hocevar-explains-what-caused-restart-pileup-that-upended-good-day/10859667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-27T23:47:25Z"
+  },
+  {
+   "titulo": "Kyle Larson’s Scores Maximum Points at Kansas to Extend NASCAR Cup Championship Lead",
+   "resumo": "Chase Briscoe almost stole it late, but Kyle Larson rebounded to reclaim the lead, the win, and the best points day of the season.",
+   "url": "https://www.roadandtrack.com/news/a73916553/kyle-larsons-scores-maximum-points-kansas-wins-extends-nascar-cup-championship-lead/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-27T22:25:07Z"
+  },
   {
    "titulo": "Gas Prices Are So Nuts, Today’s Mazda3 Driver Could Have Fueled A V8 Mustang On The Same Budget 7 Months Ago",
    "resumo": "Feeding the Mazda’s 30 mpg appetite now is like living with the Mustang GT’s 19 mpg thirst in February",
@@ -98,26 +188,6 @@
    "data": "2026-09-27T16:32:34Z"
   },
   {
-   "titulo": "Erik Jones agrees to multi-year contract extension with Legacy Motor Club",
-   "resumo": "Legacy Motor Club announced on Sunday that they have signed Erik Jones to a multi-year contract extension, keeping him as the long-term driver of the No. 43 Toyota Camry XSE. He will have…",
-   "url": "https://www.motorsport.com/nascar-cup/news/erik-jones-agrees-to-multi-year-contract-extension-with-legacy-motor-club/10859623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T16:32:22Z"
-  },
-  {
-   "titulo": "Kurt Busch buys NASCAR truck from his rookie season for $110,000 at auction",
-   "resumo": "Among the many items at the Mecum Auction at Nashville Superspeedway were various race cars owned by NASCAR team owner Jack Roush. Greg Biffle's 2004 National Guard-sponsored Ford Taurus…",
-   "url": "https://www.motorsport.com/nascar-cup/news/kurt-busch-buys-nascar-truck-from-his-rookie-season-for-110000-at-auction/10859621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T16:18:16Z"
-  },
-  {
    "titulo": "F1, Esteban Ocon: “Sou um dos melhores”",
    "resumo": "Esteban Ocon defendeu o seu lugar na Fórmula 1 após terminar o Grande Prémio do Azerbaijão em oitavo, uma posição à frente do colega de equipa Oliver Bearman. O piloto francês afirmou em…",
    "url": "https://www.autosport.pt/formula1/f1-esteban-ocon-sou-um-dos-melhores/",
@@ -126,16 +196,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-27T15:44:59Z"
-  },
-  {
-   "titulo": "George Russell after rejuvenating Baku win: \"It would have been very easy for me to lose the faith\"",
-   "resumo": "Saturday's Azerbaijan Grand Prix was George Russell's third victory of the 2026 Formula 1 campaign, and his first career grand slam, but leading every lap in the wind-swept streets of Baku…",
-   "url": "https://www.motorsport.com/f1/news/george-russell-after-rejuvenating-baku-win-it-would-have-been-very-easy-for-me-to-lose-the-faith/10859613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T15:18:24Z"
   },
   {
    "titulo": "F1: George Russell deu definitivamente o pontapé na crise?",
@@ -158,16 +218,6 @@
    "data": "2026-09-27T15:01:27Z"
   },
   {
-   "titulo": "Family Sues Tesla After Model X Allegedly Surged Through Red Light",
-   "resumo": "A new Tesla lawsuit raises serious questions about unintended acceleration, braking, and what the car recorded before the crash",
-   "url": "https://www.carscoops.com/2026/09/family-sues-tesla/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-27T15:00:00Z"
-  },
-  {
    "titulo": "This 1967 Mustang on Bring a Trailer Has Gone the Distance",
    "resumo": "Owned by one family since new, it has over 350,000 miles.",
    "url": "https://www.caranddriver.com/news/a73861375/1967-ford-mustang-bring-a-trailer-auction/",
@@ -176,16 +226,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-27T15:00:00Z"
-  },
-  {
-   "titulo": "\"Everything that could go wrong went wrong\" for Ferrari in Fuji WEC",
-   "resumo": "Ferrari endured a tough weekend in Sunday's World Endurance Championship race at Fuji, with the 499P again struggling for pace at the Japanese venue. The Maranello squad was only able to…",
-   "url": "https://www.motorsport.com/wec/news/ferrari-struggles-fuji-499p-pace-mechanical-issues/10859591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T14:57:21Z"
   },
   {
    "titulo": "British GT Brands Hatch: Orange/Clutton take shock title as Collard spins",
@@ -208,16 +248,6 @@
    "data": "2026-09-27T14:35:39Z"
   },
   {
-   "titulo": "Wins v. big picture dominate Truck Series Chase discourse after Kansas",
-   "resumo": "And with that, Kaden Honeycutt took a commanding lead in the NASCAR Truck Series Chase for the Championship. That wasn’t so much Honeycutt winning on Saturday at Kansas Speedway but Layne…",
-   "url": "https://www.motorsport.com/nascar-truck/news/wins-v-big-picture-dominate-truck-series-chase-discourse-after-kansas-/10859586/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-27T14:12:25Z"
-  },
-  {
    "titulo": "Posso parar em segunda fila se ficar dentro do carro?",
    "resumo": "Admita lá: quantas vezes é que já usou a clássica “estou dentro do carro com os quatro piscas ligados, por isso não há problema”? É o pão nosso de cada dia nas cidades portuguesas. Alguém…",
    "url": "https://www.razaoautomovel.com/autopedia/autopedia-posso-parar-em-segunda-fila-se-ficar-dentro-do-carro/",
@@ -226,16 +256,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-09-27T13:30:00Z"
-  },
-  {
-   "titulo": "It’s Not Just VW, Mercedes May Be Forced To Close Two Factories",
-   "resumo": "The IG Metall union says Mercedes \"threatening plant closures is no way to shape the future\"",
-   "url": "https://www.carscoops.com/2026/09/mercedes-factory-closures-report/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-27T13:00:00Z"
   },
   {
    "titulo": "Piston Slap: The Specialty Car Valuation Trap",
@@ -528,16 +548,6 @@
    "data": "2026-09-26T10:00:00Z"
   },
   {
-   "titulo": "Qualifying for WEC’s 6 Hours of Fuji Canceled for Weather, Alpine on Pole",
-   "resumo": "Free Practice sets the grid for the 6 Hours of Fuji after a quickly abandoned attempt at a wet-weather qualifying session.",
-   "url": "https://www.roadandtrack.com/news/a73897104/qualifying-for-wecs-6-hour-of-fuji-canceled-for-weather-alpine-on-pole/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-26T06:25:15Z"
-  },
-  {
    "titulo": "Retro Home-On-Wheels: A Beautiful 1960 Atkinson RV With A Balcony!",
    "resumo": "This is a 1960 Atkinson Mk1 truck that’s been given a conversion into a luxury RV, with full living quarters inside plus a hydraulically-lowered... The post Retro Home-On-Wheels: A…",
    "url": "https://silodrome.com/atkinson-mk1-rv-camper/",
@@ -606,16 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-25T17:00:26Z"
-  },
-  {
-   "titulo": "Porsche 912 buying guide: history, problems and what to pay",
-   "resumo": "Thinking of buying a Porsche 912? Our guide covers the 1.6 Coupé, Targa and 912E, the rust and engine problems to check for, and what to pay in 2026.",
-   "url": "https://www.octane-magazine.com/articles/buying-guides/porsche-912-buying-guide-history-problems-and-what-to-pay/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-25T16:49:26Z"
   }
  ]
 }
