@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T23:15:54Z",
+ "atualizado": "2026-09-29T05:43:14Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,76 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "10 tempting modern classic cars for sale in October 2026",
+   "resumo": "10 tempting modern classic cars for sale in October 2026 Ryan Standen Tue, 29/09/2026 - 05:23",
+   "url": "https://www.classicandsportscar.com/gallery/10-tempting-modern-classic-cars-sale-october-2026",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-29T04:23:33Z"
+  },
+  {
+   "titulo": "What Europe could learn from Brazil's 'laboratory' for Chinese car production",
+   "resumo": "Chinese brands are now localising production in Brazil – including Geely, building its models in a Renault plant As the UK and other car-making countries in Europe fret about how to…",
+   "url": "https://www.autocar.co.uk/car-news/business-manufacturing/what-europe-could-learn-brazils-laboratory-chinese-car-production",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T04:00:00Z"
+  },
+  {
+   "titulo": "Remembering Gordon Johncock: The unvarnished legend with a heavy right foot",
+   "resumo": "If you had wandered into a quiet timber mill in northern Michigan over the last 30 years, you would have met an unassuming man in a faded red flannel shirt, smelling of fresh pine and far…",
+   "url": "https://www.motorsport.com/indycar/news/remembering-gordon-johncock-the-unvarnished-legend-with-a-heavy-right-foot/10859936/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-29T02:12:13Z"
+  },
+  {
+   "titulo": "Subprime Auto Lender Settles For $694 Million Over Loans “Destined To Fail”",
+   "resumo": "States allege Credit Acceptance knowingly financed car buyers who couldn’t repay, then pursued collections and repossessions",
+   "url": "https://www.carscoops.com/2026/09/subprime-auto-lender-settles-for-694-million-over-loans-destined-to-fail/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T02:00:00Z"
+  },
+  {
+   "titulo": "Ford Racing Is Two Years Older Than Ford, And This Mustang GT3 Proves It",
+   "resumo": "The modern race car wears a retro livery mirroring the colors of Henry Ford's Sweepstakes from 1901",
+   "url": "https://www.carscoops.com/2026/09/ford-racing-is-two-years-older-than-ford-and-this-mustang-gt3-proves-it/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T01:00:00Z"
+  },
+  {
+   "titulo": "RADwood Is Going Y2K And Making Its NorCal Show Free",
+   "resumo": "RADwood's newest class welcomes cars from 2000 through 2010. Which models from that decade do you want to see?",
+   "url": "https://www.carscoops.com/2026/09/radwood-is-going-y2k-and-making-its-norcal-show-free/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T00:00:00Z"
+  },
+  {
+   "titulo": "Two-time Indianapolis 500 winner Gordon Johncock dies at 90",
+   "resumo": "Gordon Johncock, the legendary open-wheel driver who won the Indianapolis 500 twice and claimed the 1976 USAC National Championship, passed away peacefully at his home in South Branch…",
+   "url": "https://www.motorsport.com/indycar/news/two-time-indianapolis-500-winner-gordon-johncock-dies-at-90/10859926/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-28T23:46:30Z"
+  },
   {
    "titulo": "QOTD: After Buttons, What Feature Needs A Comeback?",
    "resumo": "Modern cars have so many unique features and gadgets but often lack the simplest conveniences",
@@ -109,16 +179,6 @@
    "data": "2026-09-28T21:00:56Z"
   },
   {
-   "titulo": "VW Is About To Issue Its Largest Recall Since Dieselgate",
-   "resumo": "Several VW Group models are involved, including the VW Atlas, Tiguan, Audi Q3, Seat Ateca, and Seat Tarraco",
-   "url": "https://www.carscoops.com/2026/09/vw-is-about-to-issue-its-largest-recall-since-dieselgate/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-28T21:00:00Z"
-  },
-  {
    "titulo": "An Automotive Weekend in the Hamptons",
    "resumo": "The site of the former Bridgehampton race course now hosts a glamorous invite-only car show.",
    "url": "https://www.caranddriver.com/features/a73854821/bridgehampton-hamptons-car-show-2026/",
@@ -137,16 +197,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-28T20:30:00Z"
-  },
-  {
-   "titulo": "Trump Administration Slashes MPG Standards, But Is It A False Economy?",
-   "resumo": "Move to reduce fleet average from 50.4 to 34.9 mpg could chop $1,300 from cost of a new vehicle, but who wants a thirstier car when gas is almost $4.50 a gallon?",
-   "url": "https://www.carscoops.com/2026/09/trump-administration-slashes-mpg-standards-but-is-it-a-false-economy/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-28T20:00:00Z"
   },
   {
    "titulo": "Why, Yes, I Really Would Rather Have a Buick",
@@ -187,16 +237,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-28T19:05:17Z"
-  },
-  {
-   "titulo": "Lexus Wants To Sell You A Yacht With Volvo Engines And Room For 15",
-   "resumo": "The Lexus LY 680 yacht is expanding beyond Japan and will appear at the Fort Lauderdale International Boat Show",
-   "url": "https://www.carscoops.com/2026/09/lexus-wants-to-sell-you-a-yacht-with-volvo-engines-and-room-for-15/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-28T19:00:00Z"
   },
   {
    "titulo": "Vem aí chuva forte e granizo. Se vai conduzir deve ler isto",
@@ -257,26 +297,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-28T17:53:32Z"
-  },
-  {
-   "titulo": "Williams F1 announces huge K-pop star TZUYU collaboration",
-   "resumo": "Williams has announced that K-pop artist TZUYU will record the official theme song for its ongoing partnership with the global anime property DAN DA DAN. Following a mixed weekend at the…",
-   "url": "https://www.motorsport.com/f1/news/williams-f1-announces-huge-k-pop-star-tzuyu-collaboration/10859893/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-28T17:46:54Z"
-  },
-  {
-   "titulo": "Lewis Hamilton honours Roscoe with touching tribute one year after his death",
-   "resumo": "Seven-time Formula 1 champion Lewis Hamilton has shared a touching tribute to his late dog Roscoe on the first anniversary of the English Bulldog's passing. Hamilton has taken to social…",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-honours-roscoe-with-touching-tribute-one-year-after-his-death/10859889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-28T17:31:17Z"
   },
   {
    "titulo": "Novo Volkswagen elétrico vem assumir o lugar de dois modelos",
@@ -579,16 +599,6 @@
    "data": "2026-09-28T06:30:35Z"
   },
   {
-   "titulo": "Classic car owners want MOT tests back - but do we need them?",
-   "resumo": "Cars over 40 years old don't need MOTs, but data suggests they're being kept up to scratch anyway Eight years on from the government’s scrapping of compulsory MOT tests for older cars, a…",
-   "url": "https://www.autocar.co.uk/opinion/used-cars/classic-car-owners-want-mot-tests-back-do-we-need-them",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-28T05:00:00Z"
-  },
-  {
    "titulo": "Riley Kestrel Sprite 1½ Litre: variation on a theme",
    "resumo": "Riley Kestrel Sprite 1½ Litre: variation on a theme Ryan Standen Mon, 28/09/2026 - 04:54",
    "url": "https://www.classicandsportscar.com/features/riley-kestrel-sprite-1-12-litre-variation-theme",
@@ -607,16 +617,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-27T17:03:00Z"
-  },
-  {
-   "titulo": "For Sale: Luc Donckerwolke’s RUF-Modified 1970 Porsche 914/6",
-   "resumo": "This is a 1970 Porsche 914/6 that benefits from a series of major upgrades, including an upgrade to M471 GT specification by Antwerpse Automobile... The post For Sale: Luc Donckerwolke’s…",
-   "url": "https://silodrome.com/ruf-modified-porsche-914-6/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-27T11:30:34Z"
   }
  ]
 }
