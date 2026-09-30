@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-30T05:31:48Z",
+ "atualizado": "2026-09-30T12:34:05Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -11,13 +11,382 @@
   "Hagerty",
   "Motor1",
   "Motorsport.com",
-  "Octane",
   "Razão Automóvel",
   "Road & Track",
   "Silodrome",
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Robert Virves lidera pelotão de peso do WRC2 no Rali da Sardenha",
+   "resumo": "O recém-coroado campeão do WRC2, Robert Virves, lidera o grupo de concorrentes que vai disputar o Rally Italia Sardegna, última etapa da temporada de 2026, que decorre de 1 a 4 de outubro…",
+   "url": "https://www.autosport.pt/sem-categoria/robert-virves-lidera-pelotao-de-peso-do-wrc2-no-rali-da-sardenha/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-30T12:22:32Z"
+  },
+  {
+   "titulo": "The five contenders to replace Ocon at Haas for F1 2027",
+   "resumo": "The news is finally out that Esteban Ocon will leave Haas at the end of the 2026 Formula 1 campaign following a disappointing time with the American outfit. He joined for 2025 and…",
+   "url": "https://www.autosport.com/f1/news/five-contenders-to-replace-esteban-ocon-at-haas-for-f1-2027/10860261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T12:07:06Z"
+  },
+  {
+   "titulo": "The 2026 Ram Rebel X Is The RHO For Grown-Ups | Review",
+   "resumo": "Ram's 420-hp Rebel X proved hugely capable off-road and easier to live with than an RHO, but its $81,565 price raises questions",
+   "url": "https://www.carscoops.com/2026/09/2026-ram-rebel-x-review-the-rho-for-grown-ups/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T12:00:00Z"
+  },
+  {
+   "titulo": "Today’s Nowhere Often Becomes Tomorrow’s Somewhere",
+   "resumo": "There’s a sweet spot between the moment the potential of a “nowhere” is recognized, and when civilization intrudes upon the space.",
+   "url": "https://www.roadandtrack.com/car-culture/a73556180/nowhere-is-just-a-point-of-view-volume-37/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T12:00:00Z"
+  },
+  {
+   "titulo": "Five contenders to replace Esteban Ocon at Haas for F1 2027",
+   "resumo": "The news is finally out that Esteban Ocon will leave Haas at the end of the 2026 Formula 1 campaign following a disappointing time with the American outfit. He joined for 2025 and…",
+   "url": "https://www.motorsport.com/f1/news/five-contenders-to-replace-esteban-ocon-at-haas-for-f1-2027/10860254/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T11:59:32Z"
+  },
+  {
+   "titulo": "Sami Pajari aponta à luta pelo título no WRC: “preciso de um pouco de sorte”",
+   "resumo": "O piloto finlandês Sami Pajari chega ao Rally Italia Sardenha, última etapa do Campeonato do Mundo de Ralis, determinado a conquistar o seu primeiro título mundial, embora admita necessitar…",
+   "url": "https://www.autosport.pt/ralis/sami-pajari-aponta-a-luta-pelo-titulo-no-wrc-preciso-de-um-pouco-de-sorte/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-30T11:49:35Z"
+  },
+  {
+   "titulo": "New South Africa F1 race proposal emerges - is it realistic?",
+   "resumo": "There’s a brand-new attempt to revive Formula 1’s South African Grand Prix with proposals for a new circuit outside Cape Town",
+   "url": "https://www.the-race.com/business/new-south-africa-f1-race-proposal-emerges-is-it-realistic/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T11:43:55Z"
+  },
+  {
+   "titulo": "CHP Just Rolled Out Its Last Chevy Camaro Police Car",
+   "resumo": "The Chevy Camaro has been out of production since 2023, but somehow the California Highway Patrol just put one in service as a police car.",
+   "url": "https://www.carscoops.com/2026/09/chp-just-rolled-out-its-last-chevy-camaro-police-car/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T11:30:00Z"
+  },
+  {
+   "titulo": "Volkswagen T-Roc primeiro na Europa",
+   "resumo": "O T-Roc, Sport Utility Vehicle (SUV) compacto produzido pela Volkswagen na Autoeuropa de Palmela, foi o automóvel mais vendido na Europa em agosto, com 12.185 unidades matriculadas, segundo…",
+   "url": "https://www.autosport.pt/automais/volkswagen-t-roc-primeiro-na-europa/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-30T11:23:00Z"
+  },
+  {
+   "titulo": "Elétricos podem vir a pagar taxas para circular",
+   "resumo": "A eletrificação do parque automóvel nacional está a alterar uma das principais fontes de financiamento da rede rodoviária: os impostos associados ao consumo de combustíveis. Perante esta…",
+   "url": "https://www.razaoautomovel.com/noticias/eletricos-taxas-estrada-portugal-amt-estudo-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-30T11:18:07Z"
+  },
+  {
+   "titulo": "Pesados e comerciais podem vir a pagar por cada quilómetro percorrido",
+   "resumo": "Num estudo elaborado pela Autoridade da Mobilidade e dos Transportes (AMT), a entidade sugere alterar a forma de taxação atual da utilização das estradas (consignação do serviço rodoviário…",
+   "url": "https://www.razaoautomovel.com/noticias/mobilidade-amt-taxar-carros-pesados-comericais-quilometros-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-30T11:03:25Z"
+  },
+  {
+   "titulo": "What has changed in the new Marc Marquez a year after finding “peace” with himself",
+   "resumo": "Japan has always been a special place for Marc Marquez, who has maintained particularly strong ties with the Asian country, where he has celebrated four of the seven world titles he has…",
+   "url": "https://www.motorsport.com/motogp/news/what-has-changed-in-the-new-marc-marquez-a-year-after-finding-peace-with-himself/10860218/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T11:00:32Z"
+  },
+  {
+   "titulo": "What has changed in the new Marquez a year after finding “peace” with himself",
+   "resumo": "Japan has always been a special place for Marc Marquez, who has maintained particularly strong ties with the Asian country, where he has celebrated four of the seven world titles he has…",
+   "url": "https://www.autosport.com/motogp/news/what-has-changed-in-the-new-marquez-a-year-after-finding-peace-with-himself/10860225/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T11:00:04Z"
+  },
+  {
+   "titulo": "Mercedes revela decoração especial para o GP do Bahrein F1 na Malásia",
+   "resumo": "A Mercedes vai competir com uma pintura especial no modelo W17 durante o Grande Prémio do Barhein, que marca o regresso da Fórmula 1 ao circuito de Sepang, na Malásia, este fim de semana. O…",
+   "url": "https://www.autosport.pt/formula1/mercedes-revela-decoracao-especial-para-o-gp-do-bahrein-f1-na-malasia/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-30T10:52:24Z"
+  },
+  {
+   "titulo": "Top five roles on Motorsport Jobs this week",
+   "resumo": "1. Cadillac F1 Team - Race Strategy Industrial Placement - Silverstone The Cadillac F1 Team is looking for a Race Strategy Industrial Placement. This 12-month placement will give you the…",
+   "url": "https://www.autosport.com/general/news/top-five-roles-on-motorsport-jobs-this-week-10860244/10860244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T10:48:53Z"
+  },
+  {
+   "titulo": "Stellantis’ New Concept Proves Wagons Aren’t Dead, They’re Just Getting Sexier",
+   "resumo": "The Opel Sports Tourer eXperimental Concept shows the brand's vision for the aerodynamic wagon of the future",
+   "url": "https://www.carscoops.com/2026/09/stellantis-new-concept-proves-wagons-arent-dead-theyre-just-getting-sexier/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T10:48:28Z"
+  },
+  {
+   "titulo": "Esteban Ocon de saída da Haas e sem lugar garantido na Fórmula 1 para 2027",
+   "resumo": "Esteban Ocon não continuará na Haas no final da presente temporada de Fórmula 1 e enfrenta fortes dificuldades para assegurar um lugar na grelha de partida em 2027. A decisão da equipa…",
+   "url": "https://www.autosport.pt/formula1/esteban-ocon-de-saida-da-haas-e-sem-lugar-garantido-na-formula-1-para-2027/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-09-30T10:47:54Z"
+  },
+  {
+   "titulo": "Mazda Isn't Ready To Give Up On The Rotary",
+   "resumo": "Mazda’s next rotary application could drive the wheels instead of only charging a battery, marking a major shift from the MX-30 R-EV setup.",
+   "url": "https://www.motor1.com/news/810232/mazda-rotary-engine-comeback-mx/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T10:42:23Z"
+  },
+  {
+   "titulo": "Portugal junta-se à Europa para testar carros autónomos sem fronteiras",
+   "resumo": "Um carro autónomo poderá, no futuro, atravessar uma fronteira europeia sem ter de enfrentar um labirinto de regras, autorizações e procedimentos. Portugal deu esta semana mais um passo…",
+   "url": "https://www.razaoautomovel.com/noticias/conducao-autonoma-portugal-assinatura-declaracao-intencoes-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-30T10:35:16Z"
+  },
+  {
+   "titulo": "Tesla’s Long-Awaited Roadster Demo Won’t Happen This Week After All",
+   "resumo": "After nearly nine years of waiting, Tesla’s Roadster reveal faces another confirmed delay, this time because of weather",
+   "url": "https://www.carscoops.com/2026/09/tesla-road-ster-unveil-delay/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T10:00:00Z"
+  },
+  {
+   "titulo": "New Range Rover Sport Electric Is The Torquiest One Ever",
+   "resumo": "Even without a gas engine, Land Rover is putting the Sport in Range Rover Sport.",
+   "url": "https://www.motor1.com/news/810207/2027-range-rover-sport-electric-revealed/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T09:59:57Z"
+  },
+  {
+   "titulo": "Cadillac fix cooled F1 brakes by 100C – Valtteri Bottas",
+   "resumo": "Cadillac has reduced its front brake temperature by 100C, Valtteri Bottas has revealed, curing one of the nascent Formula 1 team’s Achilles’ heels. Brake overheating has been a major issue…",
+   "url": "https://www.motorsport.com/f1/news/cadillac-fix-cooled-f1-brakes-by-100c-valtteri-bottas/10859891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T09:43:50Z"
+  },
+  {
+   "titulo": "Saleen Teases Widebody Mustang. You Can Buy Shares To Back It",
+   "resumo": "The Saleen SR Widebody Mustang rendering shows extreme fenders and a huge wing, while the company pursues small investors with detailed fundraising terms.",
+   "url": "https://www.motor1.com/news/810220/saleen-sr-widebody-mustang-teaser/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T09:36:57Z"
+  },
+  {
+   "titulo": "How Russell usurped Ocon at Mercedes",
+   "resumo": "Once heir apparent to a Mercedes Formula 1 seat, Esteban Ocon has had to watch from the sidelines as George Russell jumped him in the queue – as Mark Hughes explains",
+   "url": "https://www.the-race.com/formula-1/how-russell-usurped-ocon-as-mercedes-hamilton-successor/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T09:00:00Z"
+  },
+  {
+   "titulo": "Illegal Off-Roaders Could Face A Very ‘Long Walk Home’ In The UK",
+   "resumo": "New UK powers let police seize vehicles used antisocially without first issuing a warning, and off-roaders are firmly in the crosshairs",
+   "url": "https://www.carscoops.com/2026/09/illegal-off-roaders-could-face-a-very-long-walk-home-in-the-uk/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T09:00:00Z"
+  },
+  {
+   "titulo": "Toyota’s replacement plan if Ryo Hirakawa lands Haas F1 seat",
+   "resumo": "Toyota junior Esteban Masson is primed to move up to the manufacturer’s Hypercar squad next year should Ryo Hirakawa leave the World Endurance Championship to race for Haas in Formula 1…",
+   "url": "https://www.motorsport.com/wec/news/toyota-replacement-plan-if-ryo-hirakawa-lands-haas-f1-seat/10860182/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T08:41:25Z"
+  },
+  {
+   "titulo": "Ocon to leave Haas at the end of F1 2026",
+   "resumo": "Esteban Ocon will officially leave Haas at the end of the 2026 Formula 1 campaign with his replacement yet to be announced. The 30-year-old joined the American squad from Alpine for 2025…",
+   "url": "https://www.autosport.com/f1/news/esteban-ocon-to-leave-haas-at-the-end-of-f1-2026/10860206/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T08:31:17Z"
+  },
+  {
+   "titulo": "Esteban Ocon to leave Haas at the end of F1 2026",
+   "resumo": "Esteban Ocon will officially leave Haas at the end of the 2026 Formula 1 campaign with his replacement yet to be announced. The 30-year-old joined the American squad from Alpine for 2025…",
+   "url": "https://www.motorsport.com/f1/news/esteban-ocon-to-leave-haas-at-the-end-of-f1-2026/10860199/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T08:26:58Z"
+  },
+  {
+   "titulo": "Trump ameaça cortar exportações de gasóleo para a Europa",
+   "resumo": "A Europa pode estar prestes a enfrentar um novo problema no mercado de combustíveis. Donald Trump colocou em cima da mesa uma medida que pode ter consequências sérias para o mercado europeu…",
+   "url": "https://www.razaoautomovel.com/noticias/trump-corte-exportacoes-gasoleo-europa/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-30T08:15:00Z"
+  },
+  {
+   "titulo": "Is Ocon's Haas F1 exit deserved? Our verdict",
+   "resumo": "Esteban Ocon is officially out of Haas at the end of the year - was he given a fair crack?",
+   "url": "https://www.the-race.com/formula-1/our-verdict-on-esteban-ocon-haas-f1-exit/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T08:06:29Z"
+  },
+  {
+   "titulo": "Ocon vows he'll be back as Haas F1 exit official",
+   "resumo": "Esteban Ocon has confirmed he’s leaving Haas, with Ferrari’s F2 points leader Rafael Camara set to replace him",
+   "url": "https://www.the-race.com/formula-1/esteban-ocon-set-for-f1-exit-as-haas-split-announced/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T08:05:18Z"
+  },
+  {
+   "titulo": "Vauxhall ditches flag in bold new griffin logo for 2027",
+   "resumo": "Simplified version of British brand's historic mascot will make its debut on radical STX concept in Paris Vauxhall has revealed a bold new version of its griffin emblem ahead of the Paris…",
+   "url": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/vauxhall-ditches-flag-bold-new-griffin-logo-2027",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T08:00:00Z"
+  },
+  {
+   "titulo": "Ford CEO Jim Farley Says Europe Is Already Lost To Chinese Brands",
+   "resumo": "Jim Farley cites Europe’s 12 percent Chinese market share as he outlines Ford’s mix of partnerships and direct competition in future EV plans.",
+   "url": "https://www.motor1.com/news/810199/ford-ceo-jim-farley-warns/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T07:56:48Z"
+  },
+  {
+   "titulo": "FIA and ACO announce 10-year WEC deal after rumours about possible split",
+   "resumo": "The FIA and the Automobile Club de l’Ouest have announced a 10-year deal to jointly promote the World Endurance Championship, securing the long-term future of the sportscar racing series…",
+   "url": "https://www.autosport.com/wec/news/fia-and-aco-announce-10-year-wec-deal-after-rumours-about-possible-split/10860192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T07:53:37Z"
+  },
+  {
+   "titulo": "Watch Toyota Drop A Caravan On The Electric Hilux To Revive Top Gear Stunt",
+   "resumo": "Toyota is taking a 23-year-old recipe for destruction into the electric era.",
+   "url": "https://www.motor1.com/news/810196/toyota-drops-caravan-hilux-top-gear-stunt-repeat/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T07:51:44Z"
+  },
+  {
+   "titulo": "Retro Home-On-Wheels: A Vintage Airstream 310 Motorhome",
+   "resumo": "This is an Airstream 310 Motorhome from 1982, it came out of an era when the legendary aluminum travel trailer company was experimenting with... The post Retro Home-On-Wheels: A Vintage…",
+   "url": "https://silodrome.com/airstream-310-motorhome/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-30T06:30:50Z"
+  },
+  {
+   "titulo": "O novo carro de Fernando Alonso é um Veyron único no mundo",
+   "resumo": "Poucos meses depois de receber um Pagani Zonda único, o bicampeão do mundo de F1 apareceu ao volante de um Bugatti Veyron ainda mais raro. Trata-se de um Veyron Grand Sport Vitesse único…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-bugatti-veyron-unico-novo-carro-fernando-alonso/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-30T06:00:00Z"
+  },
   {
    "titulo": "F1 - 2026 Bahrain GP in Malaysia Schedule of Press Conferences",
    "resumo": "Sport news DATE TIME DRIVER / TEAM MEMBER Thursday, 1 October 1330hrs 1400hrs Nico Hülkenberg (Audi) Oliver Bearman (Haas) Max Verstappen (Red Bull) Pierre Gasly (Alpine) Lance Stroll…",
@@ -59,46 +428,6 @@
    "data": "2026-09-30T03:54:31Z"
   },
   {
-   "titulo": "Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash",
-   "resumo": "Plaintiffs are seeking a jury trial as well as compensatory and punitive damages",
-   "url": "https://www.carscoops.com/2026/09/lawsuit-claims-faulty-honda-seatbelt-killed-teenager-in-nj-crash/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T02:00:00Z"
-  },
-  {
-   "titulo": "This Porsche 944 Shooting Brake Costs $117K, Donor Car Not Included",
-   "resumo": "Carpoint’s GT-K44 transforms the Porsche 944 into a hand-built shooting brake, but the conversion alone costs €100,000 before taxes",
-   "url": "https://www.carscoops.com/2026/09/porsche-944-shooting-brake-carpoint/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T01:00:00Z"
-  },
-  {
-   "titulo": "Dodge Charger Sixpack Crosses The Atlantic With A Massive Price Tag",
-   "resumo": "The ICE-powered muscle car is over $40,000 more expensive on UK soil compared to the US",
-   "url": "https://www.carscoops.com/2026/09/dodge-charger-sixpack-uk/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T00:00:00Z"
-  },
-  {
-   "titulo": "The Range Rover Sport Electric Is As Quick As The V8 And Looks The Same",
-   "resumo": "The electric SUV boasts a 0-62 mph (100 km/h) time of 4.5 seconds and can travel up to 373 miles on a charge",
-   "url": "https://www.carscoops.com/2026/09/the-range-rover-sport-electric-is-as-quick-as-the-v8-and-looks-the-same/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T23:48:04Z"
-  },
-  {
    "titulo": "Batmobile from Batman Returns Headed to Auction",
    "resumo": "When Batman came back to the big screen in 1989, director Tim Burton made some big changes to Gotham and its well-known cast of characters. Batman lost the camp. The Joker kept some of…",
    "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/auctions-hagerty-insider/batmobile-from-batman-returns-headed-to-auction/",
@@ -107,16 +436,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-29T23:30:00Z"
-  },
-  {
-   "titulo": "Range Rover Sport agora é elétrico e nunca teve tanto binário",
-   "resumo": "A Range Rover continua a eletrificação da sua gama e, depois do Range Rover Electric que o Diogo Teixeira já testou no Reino Unido, chegou a vez do Range Rover Sport conhecer uma versão…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-range-rover-sport-electrico-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T23:05:27Z"
   },
   {
    "titulo": "Range Rover Sport goes electric: £110k EV matches V8 for grunt",
@@ -139,61 +458,11 @@
    "data": "2026-09-29T23:00:39Z"
   },
   {
-   "titulo": "This Michigan Dealer Group Will Scan Your Car For Free With AI, But Hertz Customers May Have Questions",
-   "resumo": "The drive-through system photographs hidden damage in seconds, providing helpful information to potential service and trade-in customers",
-   "url": "https://www.carscoops.com/2026/09/michigan-dealer-group-uveye-scan-free/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T23:00:00Z"
-  },
-  {
-   "titulo": "NASCAR indefinitely suspends Chad Bryant and another crew member over Corey Heim fight",
-   "resumo": "NASCAR has taken action after a dramatic altercation at Martinsville Speedway, involving rising star and 23XI Racing's newest hire, Corey Heim. Denny Hamlin, co-owner at 23XI alongside NBA…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascar-indefinitely-suspends-chad-bryant-and-another-crew-member-over-corey-heim-fight/10860148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T22:46:30Z"
-  },
-  {
-   "titulo": "BMW Is Killing The Diesel 3 Series In Europe",
-   "resumo": "The BMW 3 Series is about to lose one of the powertrains that helped make it a European icon.",
-   "url": "https://www.motor1.com/news/810092/bmw-3series-diesel-dead-europe/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T22:05:00Z"
-  },
-  {
-   "titulo": "BMW Série 3 perde o Diesel e muda tudo",
-   "resumo": "Ao fim de sete gerações e cerca de 14 milhões de unidades, o BMW Série 3 acaba de passar por uma das maiores transformações da sua história, iniciada há 51 anos, em 1975. Mantém as…",
-   "url": "https://www.razaoautomovel.com/video/apresentacao-bmw-serie-3-combustao-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T22:03:31Z"
-  },
-  {
    "titulo": "New petrol BMW 3 Series revealed with 437bhp straight-six option",
    "resumo": "i3's ICE-powered sibling comes as £45k 320 or feisty, £67k M350; PHEV and estate come next year BMW has revealed the eighth-generation 3 Series as the petrol-powered sibling to the electric…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/new-petrol-bmw-3-series-revealed-437bhp-straight-six-option",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T22:01:00Z"
-  },
-  {
-   "titulo": "The 2027 BMW 3 Series Is Here With 437 HP And A Factory Drift Mode",
-   "resumo": "The redesigned 3 Series gets BMW's Neue Klasse look, a tech-heavy new interior, and the most powerful M Performance model yet.",
-   "url": "https://www.motor1.com/news/810084/2027-bmw-3series-reveal-specs-price-horsepower/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-29T22:01:00Z"
@@ -269,46 +538,6 @@
    "data": "2026-09-29T20:22:38Z"
   },
   {
-   "titulo": "Alexandre Pinto inicia Rali de Marrocos com vitória na categoria Challenger",
-   "resumo": "Alexandre Pinto e Bernardo Oliveira estrearam-se da melhor forma no Rallye du Maroc, quarto evento do World Rally Raid Championship (W2RC), ao conquistarem a vitória na primeira etapa na…",
-   "url": "https://www.autosport.pt/todooterreno/alexandre-pinto-inicia-rali-de-marrocos-com-vitoria-na-categoria-challenger/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-29T19:58:02Z"
-  },
-  {
-   "titulo": "BMW Tuner AC Schnitzer Gets A Second Chance After Nearly Shutting Down",
-   "resumo": "The longtime BMW tuner will continue under new ownership after facing closure over Germany’s strict vehicle approval rules.",
-   "url": "https://www.motor1.com/news/810080/bmw-tuner-ac-schnitzer-new-owner/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T18:59:36Z"
-  },
-  {
-   "titulo": "João Ferreira vence 1ª etapa do Rallye du Maroc, e parou para assistência a motociclista",
-   "resumo": "João Ferreira e Filipe Palmeiro venceram a primeira etapa do Rallye du Maroc, quarta ronda do Campeonato do Mundo de Todo-o-Terreno, após a organização ter restituído o tempo perdido pela…",
-   "url": "https://www.autosport.pt/todooterreno/joao-ferreira-vence-1a-etapa-do-rallye-du-maroc-e-parou-para-assistencia-a-motociclista/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-29T18:54:06Z"
-  },
-  {
-   "titulo": "F1: Sergio Pérez teme acidente grave se diferenças de velocidade não forem atenuadas",
-   "resumo": "Sergio Pérez teme que as diferenças de velocidade entre os monolugares de 2026 provoquem um acidente grave se as regras de gestão de energia não forem ajustadas. O piloto da Cadillac afirma…",
-   "url": "https://www.autosport.pt/formula1/f1-sergio-perez-teme-acidente-grave-se-diferencas-de-velocidade-nao-forem-atenuadas/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-29T18:03:40Z"
-  },
-  {
    "titulo": "Japan’s Most Expensive Cars Are Newer and Cheaper than Their Rivals",
    "resumo": "Last year, over 8.41M vehicles rolled out of factories in Japan, according to OICA data. That puts Japan third among the car-building nations, behind the U.S. (10.2M) and China (34.5M), but…",
    "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/data-driven/japans-most-expensive-cars-are-newer-and-cheaper-than-their-rivals/",
@@ -319,46 +548,6 @@
    "data": "2026-09-29T18:00:00Z"
   },
   {
-   "titulo": "Portugal to be absent from WRC 2027 despite date agreement",
-   "resumo": "Portugal will be absent from the 2027 World Rally Championship calendar despite having a date set for next year’s event, according to rally organisers Automovel Club de Portugal (ACP). The…",
-   "url": "https://www.autosport.com/wrc/news/portugal-absent-from-wrc-2027/10860131/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T17:46:58Z"
-  },
-  {
-   "titulo": "Portugal to drop off 2027 WRC calendar",
-   "resumo": "Portugal will be absent from the 2027 World Rally Championship calendar despite having a date set for next year’s event, according to rally organisers Automovel Club de Portugal (ACP). The…",
-   "url": "https://www.motorsport.com/wrc/news/portugal-to-drop-off-2027-wrc-calendar-/10860129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T17:44:17Z"
-  },
-  {
-   "titulo": "Bentley Torcal: até 888 cv e 600 km de autonomia",
-   "resumo": "A Bentley, marca britânica de automóveis de luxo propriedade do Grupo Volkswagen, divulgou as primeiras imagens e informações oficiais do Torcal, que é também primeiro modelo proposto…",
-   "url": "https://www.autosport.pt/automais/bentley-torcal-ate-888-cv-e-600-km-de-autonomia/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-29T17:35:00Z"
-  },
-  {
-   "titulo": "TAD anula imposição de combustível no Rali de Castelo Branco e dá razão a Pedro Almeida",
-   "resumo": "O Tribunal Arbitral do Desporto (TAD) deu razão a Pedro Almeida no pedido principal do processo contra a Federação Portuguesa de Automobilismo e Karting (FPAK): anulou a decisão que obrigou…",
-   "url": "https://www.autosport.pt/ralis/tad-anula-imposicao-de-combustivel-no-rali-de-castelo-branco-e-da-razao-a-pedro-almeida/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-09-29T17:33:23Z"
-  },
-  {
    "titulo": "19 Out of 21 Late-Model Cars Tested Shared Data With 3rd Parties, Including Big Tech Companies: Study",
    "resumo": "A new study from Northeastern University claims late-model vehicles and their companion apps are sending vast swaths of information out.",
    "url": "https://www.roadandtrack.com/news/a73941763/personal-data-vehicle-security-study/",
@@ -367,46 +556,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-29T16:53:25Z"
-  },
-  {
-   "titulo": "Jack Aitken eyes first IMSA GTP title at Petit Le Mans amid ‘Bittersweet’ solo championship fight",
-   "resumo": "Jack Aitken enters Saturday’s Motul Petit Le Mans at Michelin Raceway Road Atlanta on the verge of securing his first IMSA WeatherTech SportsCar Championship GTP title. Holding a 147-point…",
-   "url": "https://www.motorsport.com/imsa/news/jack-aitken-eyes-first-imsa-gtp-title-at-petit-le-mans-amid-bittersweet-solo-championship-fight/10860123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T16:53:02Z"
-  },
-  {
-   "titulo": "Portugal pode passar a ter portagens nas cidades para reduzir trânsito",
-   "resumo": "Já acontece noutros países e é uma possibilidade prevista também em Portugal: cobrar mais pela utilização de determinadas estradas quando o congestionamento é maior. A proposta consta do…",
-   "url": "https://www.razaoautomovel.com/noticias/portagens-cidades-portugal-reduzir-transito/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T16:46:44Z"
-  },
-  {
-   "titulo": "Ford’s Mustang GT3 Race Cars Get A Wild Throwback To 1901",
-   "resumo": "The two Mustang GT3s honor Henry Ford’s 1901 Sweepstakes racer with a special livery at Petit Le Mans.",
-   "url": "https://www.motor1.com/news/810016/ford-mustang-gt3s-recreate-a/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T16:30:00Z"
-  },
-  {
-   "titulo": "Dörr targets DTM future with McLaren as three-year programme ends",
-   "resumo": "What next in 2027 for the McLaren team Dörr, which celebrated its second DTM victory with Ben Dörr at the Sachsenring? The Frankfurt-based squad, which also remains in the headlines because…",
-   "url": "https://www.motorsport.com/dtm/news/dorr-targets-dtm-future-with-mclaren-as-three-year-programme-ends/10860118/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T16:19:32Z"
   },
   {
    "titulo": "Porsche Brings Modern Infotainment to 2009–2016 Boxster, Cayman, and 911",
@@ -429,56 +578,6 @@
    "data": "2026-09-29T16:00:00Z"
   },
   {
-   "titulo": "Jake Garcia signs with Front Row Motorsports for 2027 NASCAR Truck season",
-   "resumo": "Front Row Motorsports has announced Jake Garcia as the replacement for Chandler Smith in the No. 38 Front Row Motorsports Ford F-150 in the 2027 NASCAR Truck Series. Smith is departing FRM…",
-   "url": "https://www.motorsport.com/nascar-truck/news/jake-garcia-signs-with-front-row-motorsports-for-2027-nascar-truck-season/10860109/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T15:59:39Z"
-  },
-  {
-   "titulo": "Christian Horner May Be Interested in Ferrari, But Maranello Stands By Fred Vasseur",
-   "resumo": "Speculation about the current team principal’s future has prompted a response from his employer.",
-   "url": "https://www.roadandtrack.com/news/a73942383/christian-horner-ferrari-fred-vasseur/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T15:42:26Z"
-  },
-  {
-   "titulo": "Este BMW M5 tem um motor Volkswagen",
-   "resumo": "Esqueçam os problemas da atualidade. A concorrência chinesa, os regulamento ambientais, as guerras e as transições tecnológicas. Em 1999 os carros poluíam mais, mas o ambiente era mais…",
-   "url": "https://www.razaoautomovel.com/classicos/este-bmw-m5-tem-um-motor-volkswagen/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T15:40:28Z"
-  },
-  {
-   "titulo": "Whether Baku was Red Bull's last realistic opportunity of winning in F1 2026",
-   "resumo": "When Max Verstappen walked into the Red Bull hospitality on Friday for his Dutch Formula 1 media session – which in Azerbaijan, incidentally, consisted of just two Dutch journalists – the…",
-   "url": "https://www.autosport.com/f1/news/whether-baku-was-red-bulls-last-realistic-chance-of-winning-in-f1-2026/10860093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T15:30:02Z"
-  },
-  {
-   "titulo": "Portugal está fora do Mundial de Ralis de 2027",
-   "resumo": "O Rally de Portugal não vai integrar o calendário do Campeonato do Mundo de Ralis (WRC) em 2027. A prova portuguesa, que chegou a ter data prevista entre 13 e 16 de maio, acabou por ficar…",
-   "url": "https://www.razaoautomovel.com/noticias/portugal-fora-mundial-ralis-wrc-2027/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T15:24:19Z"
-  },
-  {
    "titulo": "What’s Your Favorite Automotive Mispronunciation?",
    "resumo": "Let’s be clear on one thing: This question isn’t about mockery or ridicule, nor is it snobbery or superiority. Instead, today we are embracing how a word winds up diverging significantly…",
    "url": "https://www.hagerty.com/media/hagerty-community/whats-your-favorite-automotive-mispronunciation/",
@@ -487,36 +586,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-29T15:00:00Z"
-  },
-  {
-   "titulo": "Keen and Bryant snatch last-gasp Spa Six Hours win",
-   "resumo": "For 105 laps of the Spa-Francorchamps circuit a battle raged between the Ford GT40s of Nico Verdonck/Andy Newall and Phil Keen/Olly Bryant, with Danes Nikolai Kjaergaard/Alexander Weiss…",
-   "url": "https://www.autosport.com/historics/news/keen-and-bryant-snatch-last-gasp-spa-six-hours-win/10860045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T14:30:04Z"
-  },
-  {
-   "titulo": "Sordo explains co-driver change for WRC 2026 finale",
-   "resumo": "Dani Sordo has explained the reasons behind a surprise co-driver change ahead of the 2026 World Rally Championship season finale in Sardinia this week. The three-time WRC rally winner will…",
-   "url": "https://www.autosport.com/wrc/news/dani-sordo-explains-co-driver-change-for-wrc-2026-finale/10860079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T14:00:03Z"
-  },
-  {
-   "titulo": "The Two-Tone Ford F-150 Is Back, But Only For Certain Trims",
-   "resumo": "F-150 XLT and Lariat SuperCrew buyers get the revived two-tone stripe—but only with the 5.5-foot bed.",
-   "url": "https://www.motor1.com/news/810021/2027-ford-f150-two-tone/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T14:00:00Z"
   },
   {
    "titulo": "Fife-cylinder frenzy: Epic Scottish road trip in Cupra's five-pot Formentor",
@@ -547,76 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-29T12:14:01Z"
-  },
-  {
-   "titulo": "More than a mere prop: Peter Sellers’ Aston Martin DB4 GT returns to its film locations",
-   "resumo": "Peter Sellers drove his own Aston Martin DB4 GT in the 1963 film The Wrong Arm of the Law. We take chassis 0157/R back to the film's Uxbridge locations.",
-   "url": "https://www.octane-magazine.com/articles/features/peter-sellers-aston-martin-db4-gt-wrong-arm-of-the-law/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-29T11:51:40Z"
-  },
-  {
-   "titulo": "Local pair prevail as Knockhill hosts its first-ever night races",
-   "resumo": "History was made at Knockhill last weekend as the Fife circuit hosted its first-ever night race meeting, welcoming back the Classic Sports Car Club north of the border for the first time…",
-   "url": "https://www.autosport.com/national/news/local-pair-prevail-as-knockhill-hosts-its-first-ever-night-races/10859982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T11:32:23Z"
-  },
-  {
-   "titulo": "2026 FIA World Rally Championship – Rally Italia Sardegna- Event Preview",
-   "resumo": "Sport news Please click here to view the PDF version. World Rally Championship WRC SEASON 2026 Sport Rallies 1SportWorld Rally ChampionshipRalliesSEASON 2026WRC00 Tuesday, September 29…",
-   "url": "https://www.fia.com/news/2026-fia-world-rally-championship-rally-italia-sardegna-event-preview",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T11:22:00Z"
-  },
-  {
-   "titulo": "Alpine’s Lacoste A290 proves why more concept cars need to be fun",
-   "resumo": "James Elliott on why the crocodile-covered Alpine Lacoste A290 Rallye, runner-up at Chantilly, is a reminder that concept cars should be fun.",
-   "url": "https://www.octane-magazine.com/blogs/alpine-lacoste-a290-rallye-why-concept-cars-should-be-fun/",
-   "fonte": "Octane",
-   "dominio": "octane-magazine.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-29T11:09:44Z"
-  },
-  {
-   "titulo": "Alonso extends F1 career into 2027",
-   "resumo": "A fresh agreement with Aston Martin will keep Fernando Alonso racing in F1 in 2027",
-   "url": "https://www.the-race.com/formula-1/alonso-extends-f1-career-into-2027/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T11:02:58Z"
-  },
-  {
-   "titulo": "The colder, the better: Forget streaming F1 - go and watch a rally",
-   "resumo": "Trekking into cold forests late at night is worth it when you get to see fantastic cars at full tilt It's a wintry night and I'm perched on a Welsh mountaintop, about 500 metres above sea…",
-   "url": "https://www.autocar.co.uk/opinion/motorsport/colder-better-forget-streaming-f1-go-and-watch-rally",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T11:00:00Z"
-  },
-  {
-   "titulo": "Ferrari backs Vasseur as F1 chief in unusual press call",
-   "resumo": "Ferrari has moved to silence speculation about Fred Vasseur’s future as team principal after declaring its “full confidence” in him",
-   "url": "https://www.the-race.com/formula-1/ferrari-fred-vasseur-press-call-backing/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T10:41:47Z"
   }
  ]
 }
