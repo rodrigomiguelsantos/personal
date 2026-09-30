@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-09-29T22:14:50Z",
+ "atualizado": "2026-09-30T05:31:48Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,146 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "F1 - 2026 Bahrain GP in Malaysia Schedule of Press Conferences",
+   "resumo": "Sport news DATE TIME DRIVER / TEAM MEMBER Thursday, 1 October 1330hrs 1400hrs Nico Hülkenberg (Audi) Oliver Bearman (Haas) Max Verstappen (Red Bull) Pierre Gasly (Alpine) Lance Stroll…",
+   "url": "https://www.fia.com/news/f1-2026-bahrain-gp-malaysia-schedule-press-conferences",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-30T04:21:00Z"
+  },
+  {
+   "titulo": "Chinese tech helps Ford, Vauxhall and Renault save time and money",
+   "resumo": "Chinese tech is for the most part ordinary – but the speed at which it's developed is enviable Forget technology: what separates the industry’s winners from also-rans now is cost. Chinese…",
+   "url": "https://www.autocar.co.uk/opinion/business-manufacturing/chinese-tech-helps-ford-vauxhall-and-renault-save-time-and-money",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T04:00:00Z"
+  },
+  {
+   "titulo": "Motoring art: Chris Twitchell",
+   "resumo": "Motoring art: Chris Twitchell Ryan Standen Wed, 30/09/2026 - 04:55",
+   "url": "https://www.classicandsportscar.com/features/motoring-art-chris-twitchell",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-30T03:55:01Z"
+  },
+  {
+   "titulo": "Triumph Stag vs Ford Mustang Convertible: unlikely rivals?",
+   "resumo": "Triumph Stag vs Ford Mustang Convertible: unlikely rivals? Ryan Standen Wed, 30/09/2026 - 04:54",
+   "url": "https://www.classicandsportscar.com/features/triumph-stag-vs-ford-mustang-convertible-unlikely-rivals",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-30T03:54:31Z"
+  },
+  {
+   "titulo": "Lawsuit Claims Faulty Honda Seatbelt Killed Teenager In NJ Crash",
+   "resumo": "Plaintiffs are seeking a jury trial as well as compensatory and punitive damages",
+   "url": "https://www.carscoops.com/2026/09/lawsuit-claims-faulty-honda-seatbelt-killed-teenager-in-nj-crash/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T02:00:00Z"
+  },
+  {
+   "titulo": "This Porsche 944 Shooting Brake Costs $117K, Donor Car Not Included",
+   "resumo": "Carpoint’s GT-K44 transforms the Porsche 944 into a hand-built shooting brake, but the conversion alone costs €100,000 before taxes",
+   "url": "https://www.carscoops.com/2026/09/porsche-944-shooting-brake-carpoint/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T01:00:00Z"
+  },
+  {
+   "titulo": "Dodge Charger Sixpack Crosses The Atlantic With A Massive Price Tag",
+   "resumo": "The ICE-powered muscle car is over $40,000 more expensive on UK soil compared to the US",
+   "url": "https://www.carscoops.com/2026/09/dodge-charger-sixpack-uk/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-30T00:00:00Z"
+  },
+  {
+   "titulo": "The Range Rover Sport Electric Is As Quick As The V8 And Looks The Same",
+   "resumo": "The electric SUV boasts a 0-62 mph (100 km/h) time of 4.5 seconds and can travel up to 373 miles on a charge",
+   "url": "https://www.carscoops.com/2026/09/the-range-rover-sport-electric-is-as-quick-as-the-v8-and-looks-the-same/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T23:48:04Z"
+  },
+  {
+   "titulo": "Batmobile from Batman Returns Headed to Auction",
+   "resumo": "When Batman came back to the big screen in 1989, director Tim Burton made some big changes to Gotham and its well-known cast of characters. Batman lost the camp. The Joker kept some of…",
+   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/auctions-hagerty-insider/batmobile-from-batman-returns-headed-to-auction/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-09-29T23:30:00Z"
+  },
+  {
+   "titulo": "Range Rover Sport agora é elétrico e nunca teve tanto binário",
+   "resumo": "A Range Rover continua a eletrificação da sua gama e, depois do Range Rover Electric que o Diogo Teixeira já testou no Reino Unido, chegou a vez do Range Rover Sport conhecer uma versão…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-range-rover-sport-electrico-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-09-29T23:05:27Z"
+  },
+  {
+   "titulo": "Range Rover Sport goes electric: £110k EV matches V8 for grunt",
+   "resumo": "Rapid acceleration, keen dynamics and 374 miles of range for Gaydon's new Porsche Macan Electric rival The Range Rover Sport is now available as a 542bhp EV, with 374 miles of range, from…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/range-rover-sport-goes-electric-%C2%A3110k-ev-matches-v8-grunt",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T23:01:00Z"
+  },
+  {
+   "titulo": "Volume 37 Nowhere",
+   "resumo": "Nowhere celebrates the open road: the machines that carry us, the places that change us, and the detours that make the journey.",
+   "url": "https://www.roadandtrack.com/car-culture/a73948135/volume-37-nowhere-toc/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T23:00:39Z"
+  },
+  {
+   "titulo": "This Michigan Dealer Group Will Scan Your Car For Free With AI, But Hertz Customers May Have Questions",
+   "resumo": "The drive-through system photographs hidden damage in seconds, providing helpful information to potential service and trade-in customers",
+   "url": "https://www.carscoops.com/2026/09/michigan-dealer-group-uveye-scan-free/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-09-29T23:00:00Z"
+  },
+  {
+   "titulo": "NASCAR indefinitely suspends Chad Bryant and another crew member over Corey Heim fight",
+   "resumo": "NASCAR has taken action after a dramatic altercation at Martinsville Speedway, involving rising star and 23XI Racing's newest hire, Corey Heim. Denny Hamlin, co-owner at 23XI alongside NBA…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-indefinitely-suspends-chad-bryant-and-another-crew-member-over-corey-heim-fight/10860148/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-09-29T22:46:30Z"
+  },
   {
    "titulo": "BMW Is Killing The Diesel 3 Series In Europe",
    "resumo": "The BMW 3 Series is about to lose one of the powertrains that helped make it a European icon.",
@@ -38,21 +179,21 @@
    "data": "2026-09-29T22:03:31Z"
   },
   {
-   "titulo": "The 2027 BMW 3 Series Is Here With 437 HP And A Factory Drift Mode",
-   "resumo": "The redesigned 3 Series gets BMW's Neue Klasse look, a tech-heavy new interior, and the most powerful M Performance model yet.",
-   "url": "https://www.motor1.com/news/810084/2027-bmw-3series-reveal-specs-price-horsepower/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
+   "titulo": "New petrol BMW 3 Series revealed with 437bhp straight-six option",
+   "resumo": "i3's ICE-powered sibling comes as £45k 320 or feisty, £67k M350; PHEV and estate come next year BMW has revealed the eighth-generation 3 Series as the petrol-powered sibling to the electric…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/new-petrol-bmw-3-series-revealed-437bhp-straight-six-option",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-29T22:01:00Z"
   },
   {
-   "titulo": "New BMW 3-Series Gets Up To 437 HP, Arrives In The US Next Year",
-   "resumo": "The proportions of the 3-Series are a little different to the electric i3, although its design is largely identical",
-   "url": "https://www.carscoops.com/2026/09/2027-bmw-3-series-launch/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
+   "titulo": "The 2027 BMW 3 Series Is Here With 437 HP And A Factory Drift Mode",
+   "resumo": "The redesigned 3 Series gets BMW's Neue Klasse look, a tech-heavy new interior, and the most powerful M Performance model yet.",
+   "url": "https://www.motor1.com/news/810084/2027-bmw-3series-reveal-specs-price-horsepower/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-09-29T22:01:00Z"
@@ -118,16 +259,6 @@
    "data": "2026-09-29T22:01:00Z"
   },
   {
-   "titulo": "Suzuki Confirms Light Range Extender Setup Alongside More Efficient Hybrids",
-   "resumo": "Suzuki announced 24-month development cycles, modular e-Axles, plug-in range extenders, weight cuts, and more efficient turbo engines",
-   "url": "https://www.carscoops.com/2026/09/suzuki-strategy/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T21:00:00Z"
-  },
-  {
    "titulo": "2027 Chevy Bolt’s Production Run May Be Even Shorter Than Expected",
    "resumo": "UAW documents show a massive cut in expected production, from 150,000 units to just 35,000.",
    "url": "https://www.caranddriver.com/news/a73947815/2027-chevy-bolt-ev-production-run-shorten/",
@@ -138,16 +269,6 @@
    "data": "2026-09-29T20:22:38Z"
   },
   {
-   "titulo": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game",
-   "resumo": "For the price, you get sunglasses, stickers, a cap, and more, but no game whatsoever",
-   "url": "https://www.carscoops.com/2026/09/gta-vi-vice-city-collection-doesnt-come-with-game/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T20:00:00Z"
-  },
-  {
    "titulo": "Alexandre Pinto inicia Rali de Marrocos com vitória na categoria Challenger",
    "resumo": "Alexandre Pinto e Bernardo Oliveira estrearam-se da melhor forma no Rallye du Maroc, quarto evento do World Rally Raid Championship (W2RC), ao conquistarem a vitória na primeira etapa na…",
    "url": "https://www.autosport.pt/todooterreno/alexandre-pinto-inicia-rali-de-marrocos-com-vitoria-na-categoria-challenger/",
@@ -156,16 +277,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-29T19:58:02Z"
-  },
-  {
-   "titulo": "Porsche Just Vanished Another Reason Not To Daily A Used Cayman Or 911",
-   "resumo": "Infotainment retrofit option has been expanded to bring CarPlay and Android Auto to multiple Porsche models built between 2009-16",
-   "url": "https://www.carscoops.com/2026/09/porsche-just-vanished-another-reason-not-to-daily-a-used-cayman-or-911/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T19:30:00Z"
   },
   {
    "titulo": "BMW Tuner AC Schnitzer Gets A Second Chance After Nearly Shutting Down",
@@ -186,16 +297,6 @@
    "categoria": "Desporto",
    "pt": true,
    "data": "2026-09-29T18:54:06Z"
-  },
-  {
-   "titulo": "13-Year-Old Honda Odyssey Gains New Screen, Massage Seats, And A Much Lower Price",
-   "resumo": "Interestingly, the base trim has a lager infotainment compared to mid-spec and flagship variants",
-   "url": "https://www.carscoops.com/2026/09/honda-odyssey-china/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T18:15:00Z"
   },
   {
    "titulo": "F1: Sergio Pérez teme acidente grave se diferenças de velocidade não forem atenuadas",
@@ -358,16 +459,6 @@
    "data": "2026-09-29T15:40:28Z"
   },
   {
-   "titulo": "Was Baku really Max Verstappen's best chance to win in F1 2026?",
-   "resumo": "When Max Verstappen walked into the Red Bull hospitality on Friday for his Dutch Formula 1 media session – which in Azerbaijan, incidentally, consisted of just two Dutch journalists – the…",
-   "url": "https://www.motorsport.com/f1/news/was-baku-really-max-verstappens-best-chance-to-win-in-f1-2026/10859854/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T15:30:02Z"
-  },
-  {
    "titulo": "Whether Baku was Red Bull's last realistic opportunity of winning in F1 2026",
    "resumo": "When Max Verstappen walked into the Red Bull hospitality on Friday for his Dutch Formula 1 media session – which in Azerbaijan, incidentally, consisted of just two Dutch journalists – the…",
    "url": "https://www.autosport.com/f1/news/whether-baku-was-red-bulls-last-realistic-chance-of-winning-in-f1-2026/10860093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -388,16 +479,6 @@
    "data": "2026-09-29T15:24:19Z"
   },
   {
-   "titulo": "Brad Keselowski No Longer Driving for Namesake NASCAR Team, May Be Leaving Altogether",
-   "resumo": "The 2012 NASCAR Cup Series champion is stepping away from his ride, and likely his ownership stake, at Roush Fenway Keselowski Racing.",
-   "url": "https://www.roadandtrack.com/news/a73941861/brad-keselowski-no-longer-driving-for-namesake-nascar-team/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T15:24:07Z"
-  },
-  {
    "titulo": "What’s Your Favorite Automotive Mispronunciation?",
    "resumo": "Let’s be clear on one thing: This question isn’t about mockery or ridicule, nor is it snobbery or superiority. Instead, today we are embracing how a word winds up diverging significantly…",
    "url": "https://www.hagerty.com/media/hagerty-community/whats-your-favorite-automotive-mispronunciation/",
@@ -406,16 +487,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-29T15:00:00Z"
-  },
-  {
-   "titulo": "Toyota é a nova Mercedes-Benz japonesa",
-   "resumo": "Não me esqueci da Lexus, a marca de luxo da Toyota. Mas efetivamente é a Toyota que está a capitalizar, como poucas, o estatuto que tem no mercado. E o estatuto, como nós sabemos, paga-se…",
-   "url": "https://www.razaoautomovel.com/cronicas/toyota-nova-mercedes-benz-japonesa/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-09-29T14:59:01Z"
   },
   {
    "titulo": "Keen and Bryant snatch last-gasp Spa Six Hours win",
@@ -444,16 +515,6 @@
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T14:00:00Z"
-  },
-  {
-   "titulo": "Gallery: Happy Birthday, Thursday Night Motocross!",
-   "resumo": "A long time ago, friends Duane Wylder and Jim Rockstead dreamed up the notion of running a regular weeknight motocross series under stadium lights—something that could be both inexpensive…",
-   "url": "https://www.hagerty.com/media/motorsports/gallery-happy-birthday-thursday-night-motocross/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-09-29T14:00:00Z"
   },
@@ -556,66 +617,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-09-29T10:41:47Z"
-  },
-  {
-   "titulo": "The 2027 F1 grid: Every confirmed driver",
-   "resumo": "All the confirmed drivers for F1 2027 so far",
-   "url": "https://www.the-race.com/formula-1/2027-f1-grid-every-confirmed-driver/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T10:30:00Z"
-  },
-  {
-   "titulo": "When does each 2026 F1 driver's contract expire?",
-   "resumo": "Here's the contract status of every driver on the 2026 F1 grid",
-   "url": "https://www.the-race.com/formula-1/f1-driver-contracts-when-do-they-expire/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-09-29T09:25:00Z"
-  },
-  {
-   "titulo": "Tesla Roadster debut delayed – again – due to bad weather",
-   "resumo": "Autocar's vision of what the Roadster could look like Flagship supercar promises jet thrusters and radical new look, but stormy weather delays arrival Tesla has once again delayed the debut…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/tesla-roadster-debut-delayed-%E2%80%93-again-%E2%80%93-due-bad-weather",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T07:46:57Z"
-  },
-  {
-   "titulo": "A used Bentley Continental is a scary bargain - so get a good one",
-   "resumo": "There are GTs and then there are Bentley GTs, a class apart from £22,000 Frankly, with all that's going on in the world, it seems potty to suggest you consider buying a second-generation…",
-   "url": "https://www.autocar.co.uk/car-news/used-cars/used-bentley-continental-scary-bargain-so-get-good-one",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T07:00:00Z"
-  },
-  {
-   "titulo": "The New Lamborghini Cheetah Prototype R/C Car From Tamiya",
-   "resumo": "This is the new Tamiya R/C Lamborghini Cheetah prototype, it’s the new 1/12th scale model of the iconic Italian military off-roader, the vehicle that... The post The New Lamborghini Cheetah…",
-   "url": "https://silodrome.com/lamborghini-cheetah-prototype-rc-car-tamiya/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-29T06:30:40Z"
-  },
-  {
-   "titulo": "Jaecoo sibling brand iCaur nears UK launch",
-   "resumo": "Chery-owned off-roader brand has shown cars to UK dealers and is preparing to announce its market entry Chinese car maker Chery will bring its iCaur brand to the UK, according to Autocar…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/jaecoo-sibling-brand-icaur-nears-uk-launch",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-29T06:00:00Z"
   }
  ]
 }
