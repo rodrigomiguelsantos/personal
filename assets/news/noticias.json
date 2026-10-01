@@ -1,12 +1,11 @@
 {
- "atualizado": "2026-10-01T13:13:04Z",
+ "atualizado": "2026-10-01T22:40:55Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -18,6 +17,496 @@
  ],
  "itens": [
   {
+   "titulo": "Joe Gibbs Racing makes new claim against Chris Gabehart during discovery hearing",
+   "resumo": "The Joe Gibbs Racing v. Chris Gabehart and Spire Motorsports lawsuit was filed in the middle of February and is set to reach trial on February 1 of next year -- less than a year after its…",
+   "url": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-makes-new-claim-against-chris-gabehart-during-discovery-hearing/10860750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T22:19:12Z"
+  },
+  {
+   "titulo": "Fraudster Convicted Of Financing A Corvette With Stolen Identity And Fake $14,000 Check",
+   "resumo": "Is a 42-month sentence severe enough for someone involved in a complex car dealership theft ring that used stolen identities?",
+   "url": "https://www.carscoops.com/2026/10/fraudster-convicted-of-financing-a-corvette-with-stolen-identity-and-fake-check/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T22:00:00Z"
+  },
+  {
+   "titulo": "W2RC, Rali de Marrocos, Etapa 3: Sainz assume a liderança; João Ferreira sobe ao quarto lugar",
+   "resumo": "Carlos Sainz e Daniel Oliveras (Ford Raptor Ult / T1+) passaram a liderar a geral do Rallye OLA Energy du Maroc, depois de terminarem em segundo na etapa de hoje e de subirem dois lugares…",
+   "url": "https://www.autosport.pt/sem-categoria/w2rc-rali-de-marrocos-etapa-3-sainz-assume-a-lideranca-joao-ferreira-sobe-ao-quarto-lugar/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-01T21:32:05Z"
+  },
+  {
+   "titulo": "Hyundai Tucson muda quase tudo para continuar no topo",
+   "resumo": "O segmento C-SUV não para de crescer e já representa entre 20 e 25% dos automóveis vendidos na Europa. O Hyundai Tucson conhece bem este terreno: há vários anos que anda no pódio, «taco a…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-hyundai-tucson-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-01T21:20:00Z"
+  },
+  {
+   "titulo": "The sim rig Max Verstappen swears by ahead of his GT3 race against Rossi",
+   "resumo": "Max Verstappen hasn't sat in a GT3 car since leading his class at the Nurburgring 24 Hours back in May, and he's about to jump into one against Valentino Rossi with very little lead time…",
+   "url": "https://www.motorsport.com/f1/news/the-sim-rig-max-verstappen-swears-by-ahead-of-his-gt3-race-against-rossi/10860740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T21:18:00Z"
+  },
+  {
+   "titulo": "New 2027 Hyundai Tucson gets bold look and practicality boost",
+   "resumo": "UK-bound fifth-generation SUV gets interior overhaul with large touchscreen and Peugeot-style dashboard Hyundai has given the Tucson a high-tech makeover as it looks to bat off new Chinese…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-hyundai-tucson-gets-bold-look-and-practicality-boost",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "2027 Hyundai Tucson Lands With Wild Design And New Hybrids",
+   "resumo": "The new Hyundai Tucson introduces rugged XRT and XRT Pro versions",
+   "url": "https://www.carscoops.com/2026/10/hyundai-tucson-2027-reveal/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "2027 Hyundai Tucson Hybrid",
+   "resumo": "What We Know So Far",
+   "url": "https://www.caranddriver.com/hyundai/tucson-hybrid-2027",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "View Exterior Photos of the 2027 Hyundai Tucson Hybrid",
+   "resumo": "The new 2027 Tucson compact SUV once again offers a hybrid version, and here’s a closer look at the new model.",
+   "url": "https://www.caranddriver.com/photos/a73946380/2027-hyundai-tucson-hybrid-revealed-exterior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "View Interior Photos of the 2027 Hyundai Tucson",
+   "resumo": "See inside the new 2027 Tucson and Tucson Hybrid with this array of interior photos.",
+   "url": "https://www.caranddriver.com/photos/a73946413/2027-hyundai-tucson-tucson-hybrid-revealed-interior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "2027 Hyundai Tucson Goes Big and Bold, and We Now Have All the Specs",
+   "resumo": "The radical design is eye-catching, but the real draws are this new compact SUV’s larger interior and additional features, plus the hybrid model’s mpg.",
+   "url": "https://www.caranddriver.com/news/a73944194/2027-hyundai-tucson-specs-details/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "View Exterior Photos of the 2027 Hyundai Tucson",
+   "resumo": "See the redesigned Tucson compact SUV’s boxy new exterior look from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73946412/2027-hyundai-tucson-revealed-exterior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "The 2027 Hyundai Tucson Is an Electrified Adventurer With a Whole New Look",
+   "resumo": "A burly design and an updated hybrid system are just part of what makes the Tucson all-new for 2027.",
+   "url": "https://www.roadandtrack.com/news/a73946957/2027-hyundai-tucson-new-details/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "See More Photos of the 2027 Hyundai Tucson",
+   "resumo": "The compact crossover has a whole new look.",
+   "url": "https://www.roadandtrack.com/photos/a73977776/see-more-photos-of-the-2027-hyundai-tucson/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T21:15:00Z"
+  },
+  {
+   "titulo": "How to watch NASCAR at Las Vegas II: Weekend schedule, start time, entry list, TV",
+   "resumo": "The NASCAR Cup field will try their luck in Vegas this weekend, joined by the NASCAR O'Reilly Auto Parts Series. Denny Hamlin is the defending winner of the fall Cup race at Las Vegas…",
+   "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-las-vegas-ii-weekend-schedule-start-time-entry-list-tv/10860353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T21:08:12Z"
+  },
+  {
+   "titulo": "NASCAR shortens spoiler in new tweak to superspeedway package for Talladega",
+   "resumo": "NASCAR overhauled the superspeedway package for the regular season finale at Daytona International Speedway, and it seemed to be a success. There was far more movement throughout the field…",
+   "url": "https://www.motorsport.com/nascar-cup/news/nascar-shortens-spoiler-in-new-tweak-to-superspeedway-package-for-talladega/10860738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T20:54:25Z"
+  },
+  {
+   "titulo": "The 2027 Honda Civic Type R Adds More Downforce, Better Cooling, and Heated Seats",
+   "resumo": "The Type R gains meaningful chassis and aero tweaks for 2027, while its 315-hp turbo four carries over.",
+   "url": "https://www.roadandtrack.com/news/a73983232/2027-honda-civic-type-r/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T20:34:15Z"
+  },
+  {
+   "titulo": "Dudu Barrichello to end 'fun year' in IMSA with outside chance at GTD title",
+   "resumo": "Eduardo ‘Dudu’ Barrichello didn’t come into his first full season in the IMSA WeatherTech SportsCar Championship with any expectations, but is right in the mix for silverware. The…",
+   "url": "https://www.motorsport.com/imsa/news/dudu-barrichello-to-end-fun-year-in-imsa-with-shot-at-the-gtd-title/10860733/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T20:33:09Z"
+  },
+  {
+   "titulo": "Watch Hyundai Debut The New Tucson In The US: Livestream",
+   "resumo": "Hyundai is getting ready to show off its latest Tucson in the US for the first time, and you can watch it happen from home.",
+   "url": "https://www.motor1.com/news/810508/2027-hyundai-tucson-livestream-debut/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T20:00:00Z"
+  },
+  {
+   "titulo": "The 2026 Dodge Durango R/T Is Still Fun After 15 Years, But That Might Not Be Enough | Review",
+   "resumo": "That Hemi V8 growl is hard to resist, but nostalgia comes at a steep cost. Discover whether character alone saves this veteran SUV from modern competition.",
+   "url": "https://www.carscoops.com/2026/10/2026-dodge-durango-rt-392-review-still-fun-after-15-years-but-that-might-not-be-enough/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T20:00:00Z"
+  },
+  {
+   "titulo": "After Flying the U-2 and SR-71, Tony Bevacqua Got His Kicks in Corvettes",
+   "resumo": "Before we discuss Tony Bevacqua’s love of the Chevrolet Corvette, it may be helpful to learn a bit about his background. He had a long, distinguished career as a U.S. Air Force military…",
+   "url": "https://www.hagerty.com/media/automotive-history/after-flying-the-u-2-and-sr-71-tony-bevacqua-got-his-kicks-in-corvettes/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-01T20:00:00Z"
+  },
+  {
+   "titulo": "WRC Rally Italy: What Evans, Pajari and Solberg need in Sardinia",
+   "resumo": "The fight for the 2026 World Rally Championship is set to go down to the wire with Toyota trio Elfyn Evans, Sami Pajari and Oliver Solberg all in contention to claim a maiden title in…",
+   "url": "https://www.autosport.com/wrc/news/wrc-title-showdown-what-evans-pajari-and-solberg-need-in-sardinia/10860724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T19:29:43Z"
+  },
+  {
+   "titulo": "5 Affordable-ish V-12 Collector Cars",
+   "resumo": "If there’s a “coolest,” “best,” or “most prestigious” way to arrange the pistons in an internal-combustion engine, it’s to count out 12 of them and put them in a V formation. Big names like…",
+   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/hagerty-price-guide/5-affordable-ish-v-12-collector-cars/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-01T19:00:00Z"
+  },
+  {
+   "titulo": "It Looks Like A Normal Mazda MX-5, But It Actually Has A Ford V6",
+   "resumo": "Despite the big new engine, this MX-5 retains the original car's 50-50 weight distribution",
+   "url": "https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T18:15:00Z"
+  },
+  {
+   "titulo": "Fiat's New Concept Brings Back The Spirit Of The Multipla",
+   "resumo": "It's called the Fiat Multiplay, and it blends MPV practicality with SUV flexibility and pickup-inspired versatility.",
+   "url": "https://www.motor1.com/news/810489/fiat-multipla-successor-photo/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T18:00:00Z"
+  },
+  {
+   "titulo": "Homegrown: This P-40 Warhawk Flies Down the Road",
+   "resumo": "Few folks have the wherewithal to construct a vehicle saluting the P-40 Warhawk, one of WWII’s most memorable aircraft. James Trudeau, 74, of Punta Gorda, Florida, is clearly not your…",
+   "url": "https://www.hagerty.com/media/car-profiles/homegrown-roadgoing-p-40-warhawk-flies-down-the-road/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-01T18:00:00Z"
+  },
+  {
+   "titulo": "Fernando Alonso Remains ‘Motivated’ As He Commits to Racing in Formula 1 Next Year at 46 Years Old",
+   "resumo": "The two-time world champion shows no signs of slowing down.",
+   "url": "https://www.roadandtrack.com/news/a73981396/fernando-alonso-remains-motivated-at-46-years-old/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T17:34:16Z"
+  },
+  {
+   "titulo": "The family behind one of F1's greatest archives",
+   "resumo": "For almost 70 years, Bernard and Paul-Henri Cahier have captured every aspect of Formula 1.",
+   "url": "https://www.the-race.com/extra/the-family-behind-one-of-f1s-greatest-archives/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T17:31:47Z"
+  },
+  {
+   "titulo": "GM’s Next-Gen Battery Is Inching Closer To Production",
+   "resumo": "LMR batteries should arrive before the end of the decade and be affordable",
+   "url": "https://www.carscoops.com/2026/10/gm-lmr-battery-production/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T17:30:00Z"
+  },
+  {
+   "titulo": "Os Fórmula 1 sobem a rampa do Caramulo este mês",
+   "resumo": "Depois da 21.ª edição do Caramulo Motorfestival, a serra do Caramulo volta a receber máquinas de competição para uma jornada dedicada à história e aos protagonistas do desporto automóvel…",
+   "url": "https://www.razaoautomovel.com/noticias/formula-1-rampa-caramulo-heroes-day/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-01T17:13:39Z"
+  },
+  {
+   "titulo": "What Do You Get When 7 F1 Drivers Share a Tropical Island? Chaos",
+   "resumo": "Nearly a third of the Formula 1 grid took part on a group vacation between races in Azerbaijan and Malaysia.",
+   "url": "https://www.roadandtrack.com/news/a73980574/7-f1-drivers-share-a-tropical-island/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T17:10:06Z"
+  },
+  {
+   "titulo": "Alfa Romeo's Mysterious New Concept Car Has A Name",
+   "resumo": "The latest teaser for Alfa Romeo’s new concept appears to capture a sporty V6 exhaust note.",
+   "url": "https://www.motor1.com/news/810473/alfa-romeo-new-concept-car-named/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T17:00:00Z"
+  },
+  {
+   "titulo": "5 Essential Items to Pack When Taking a Car to the Track",
+   "resumo": "Few things are more fun to a driver than getting a feel for what a car is capable of. The problem is that even mundane vehicles now pack the horsepower and torque to embarrass any speed…",
+   "url": "https://www.hagerty.com/media/motorsports/5-essential-items-to-pack-when-taking-a-car-to-the-track/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-01T16:00:00Z"
+  },
+  {
+   "titulo": "The major unknown as F1 braces for \"sandpaper\" rough Sepang track",
+   "resumo": "A track surface of which roughness has been likened to “sandpaper” by Oscar Piastri has thrown a strategy curveball into F1’s return to Malaysia",
+   "url": "https://www.the-race.com/formula-1/the-major-unknown-as-f1-braces-for-sandpaper-rough-sepang-track/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T15:59:34Z"
+  },
+  {
+   "titulo": "WRC Rally Italy: Solberg grabs early lead with Evans third in title decider",
+   "resumo": "World Rally Championship title contender Oliver Solberg claimed the early lead in the Rally Italy Sardinia championship showdown after winning Thursday’s super special stage. Solberg starts…",
+   "url": "https://www.autosport.com/wrc/news/wrc-rally-italy-solberg-grabs-early-lead-with-evans-third/10860680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T15:44:39Z"
+  },
+  {
+   "titulo": "The unpredictability to expect for F1's one-off return to Sepang in 2026",
+   "resumo": "Malaysia's Sepang circuit is making a one-off return to the Formula 1 calendar as a proxy host for the Bahrain Grand Prix, bringing challenges both familiar and new. The hot and humid…",
+   "url": "https://www.autosport.com/f1/news/unpredictability-to-expect-for-f1-return-to-sepang-in-2026/10860677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T15:34:24Z"
+  },
+  {
+   "titulo": "Oliver Solberg lidera o Rali de Itália da Sardenha após a superespecial inaugural",
+   "resumo": "Oliver Solberg assumiu a liderança do Rali de Itália da Sardenha na quinta-feira, ao vencer a superespecial de abertura da nona prova do Campeonato do Mundo de Ralis (WRC). O piloto da…",
+   "url": "https://www.autosport.pt/ralis/oliver-solberg-lidera-o-rali-de-italia-da-sardenha-apos-a-superespecial-inaugural/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-01T15:29:24Z"
+  },
+  {
+   "titulo": "New Fiat Multiplay to preview cross between SUV and pick-up",
+   "resumo": "New concept car, to be revealed at Paris motor show, will put a fresh spin on Multiplas of the past Fiat is reinventing the Multipla as a cross between a pick-up truck and an SUV. The new…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/new-fiat-multiplay-preview-cross-between-suv-and-pick",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T15:16:50Z"
+  },
+  {
+   "titulo": "The reasons behind Ford's impending WRC factory return",
+   "resumo": "Ford’s decision to rejoin the World Rally Championship as a fully fledged manufacturer was a \"fairly easy decision\", according to its global director Mark Rushbrook. The American marque has…",
+   "url": "https://www.autosport.com/wrc/news/reasons-behind-ford-wrc-return/10860669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T15:15:02Z"
+  },
+  {
+   "titulo": "FIA AND FORMULA E ANNOUNCE BRIDGESTONE AS OFFICIAL TYRE SUPPLIER FOR GEN4 ERA",
+   "resumo": "Sport news The upcoming season will see the launch of Formula E’s next-generation GEN4 race car, setting a new global benchmark for speed, performance, and sustainability in electric…",
+   "url": "https://www.fia.com/news/fia-and-formula-e-announce-bridgestone-official-tyre-supplier-gen4-era",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T15:13:00Z"
+  },
+  {
+   "titulo": "Novo Tesla Roadster com sistema para ficar colado à estrada",
+   "resumo": "Por enquanto são apenas rumores, mas tudo indica que a segunda geração do Tesla Roadster, que está a poucas semanas de ser revelado, conte com um sistema que o vai «colar» ao asfalto…",
+   "url": "https://www.razaoautomovel.com/noticias/tesla-patente-sistema-ventoinhas-aumentar-downforce-e-diminuir-arrasto-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-01T15:07:41Z"
+  },
+  {
+   "titulo": "GP Bahrein F1: Horários, 6ª Feira, TL1 – 05h30, TL2 – 09h00",
+   "resumo": "A Fórmula 1 regressa ao Circuito Internacional de Sepang nove anos depois da última corrida disputada na Malásia. O traçado acolhe, de 2 a 4 de outubro, o Grande Prémio do Bahrein, que não…",
+   "url": "https://www.autosport.pt/formula1/gp-bahrein-f1-horarios-6a-feira-tl1-05h30-tl2-09h00/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-01T15:06:01Z"
+  },
+  {
+   "titulo": "Picture Car Confidential #49: Registration Day",
+   "resumo": "There’s a lot to say when sending your youngest child off to college after enjoying 18 years of his company. And while that time has come for me, mercifully, for you, I won’t say all these…",
+   "url": "https://www.hagerty.com/media/opinion/picture-car-confidential/picture-car-confidential-49-registration-day/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-01T15:00:00Z"
+  },
+  {
+   "titulo": "José Pedro Fontes no Rali do Algarve: “o Lancia tem andamento para lutar pelos lugares da frente”",
+   "resumo": "Após o quarto lugar alcançado no Rali da Água — Transibérico — Eurocidade Chaves/Verín, José Pedro Fontes e Inês Ponte preparam-se para um novo desafio crucial no Campeonato de Portugal de…",
+   "url": "https://www.autosport.pt/ralis/jose-pedro-fontes-no-rali-do-algarve-o-lancia-tem-andamento-para-lutar-pelos-lugares-da-frente/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-01T14:57:00Z"
+  },
+  {
+   "titulo": "Pedro Almeida no Rali do Algarve para lutar pelo CPR: “preparados para esta fase decisiva”",
+   "resumo": "A Toyota Gazoo Racing Caetano Portugal participa no Rallye Casinos do Algarve com Pedro Almeida e António Costa, no segundo lugar do campeonato com vontade de reforçar a sua posição e…",
+   "url": "https://www.autosport.pt/ralis/pedro-almeida-no-rali-do-algarve-para-lutar-pelo-cpr-preparados-para-esta-fase-decisiva/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-01T14:56:57Z"
+  },
+  {
+   "titulo": "Stellantis trava parte da produção em França por duas razões diferentes",
+   "resumo": "A Stellantis vai suspender temporariamente a produção em quatro fábricas francesas durante o mês de outubro, mas as causas por trás destas paragens não são todas iguais. Em Sochaux e Rennes…",
+   "url": "https://www.razaoautomovel.com/noticias/industria-suspensao-producao-fabricas-stellantis-franca-2026/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-01T14:42:35Z"
+  },
+  {
+   "titulo": "Gary Anderson's initial verdict on upgraded Mercedes",
+   "resumo": "The upgraded Mercedes (briefly) emerged in the Sepang pitlane - here's ex-F1 technical director Gary Anderson's early verdict on it",
+   "url": "https://www.the-race.com/formula-1/first-clues-major-mercedes-f1-upgrade-at-sepang/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T14:39:59Z"
+  },
+  {
+   "titulo": "Why Norris apologised to Colapinto after Baku comments",
+   "resumo": "Reigning Formula 1 champion Lando Norris says he issued a public apology to Franco Colapinto to help calm the waters as his calls for a race ban sparked an online backlash. Norris slammed…",
+   "url": "https://www.autosport.com/f1/news/why-norris-apologised-to-colapinto/10860658/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T14:17:02Z"
+  },
+  {
+   "titulo": "Será este protótipo de ralis o próximo Toyota Celica?",
+   "resumo": "A Toyota continua a preparar a sua próxima arma para o Mundial de Ralis (WRC), que em 2027 irá substituir o GR Yaris Rally1. O novo protótipo voltou a ser apanhado em testes, desta vez nos…",
+   "url": "https://www.razaoautomovel.com/noticias/antevisao-toyota-celica-prototipo-rali-espanha/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-01T14:06:40Z"
+  },
+  {
    "titulo": "Your New Car Is Sharing Your Personal Data. Without You Knowing",
    "resumo": "A recent study found that 21 connected vehicles and 30 companion apps sent driver and vehicle data to outside companies.",
    "url": "https://www.motor1.com/news/810451/connected-cars-share-driver-data/",
@@ -26,76 +515,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T13:00:10Z"
-  },
-  {
-   "titulo": "Dropped Esteban Ocon defiant: Formula 1 is “where I belong”",
-   "resumo": "This week the Haas Formula 1 team confirmed what had long been mooted in the paddock: Esteban Ocon will be leaving at the end of the current 2026 season. But the man himself has designs on…",
-   "url": "https://www.motorsport.com/f1/news/dropped-esteban-ocon-defiant-formula-1-is-where-i-belong/10860609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T13:00:04Z"
-  },
-  {
-   "titulo": "Ocon fighting for his F1 future - but is adamant he deserves to stay",
-   "resumo": "This week the Haas Formula 1 team confirmed what had long been mooted in the paddock: Esteban Ocon will be leaving at the end of the current 2026 season. But the man himself has designs on…",
-   "url": "https://www.autosport.com/f1/news/ocon-fighting-for-f1-future-adamant-he-deserves-to-stay/10860620/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T13:00:04Z"
-  },
-  {
-   "titulo": "America’s Civic Type R Gets Even Sharper For 2027, Europe’s Gets The Bullet",
-   "resumo": "Honda Civic Type R gains a new face, retuned engine, and chassis upgrades in North America, but emissions rules have already killed the hot hatch across the Atlantic",
-   "url": "https://www.carscoops.com/2026/10/2027-honda-civic-type-r-gets-even-sharper-for-2027/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T13:00:00Z"
-  },
-  {
-   "titulo": "View Photos of the 2027 Honda Civic Type R",
-   "resumo": "See the updated Honda Civic Type R 2027 model from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73965610/2027-honda-civic-type-r-reveal-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T13:00:00Z"
-  },
-  {
-   "titulo": "2027 Honda Civic Type R Adds Performance, Enhances Interior",
-   "resumo": "Honda’s hottest hatch gets more aggressive styling, improves aero and cooling, and steals the seat warmers from the Acura Integra Type S.",
-   "url": "https://www.caranddriver.com/news/a73962764/2027-honda-civic-type-r-updates-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T13:00:00Z"
-  },
-  {
-   "titulo": "Honda Sharpens Civic Type R For 2027",
-   "resumo": "Come 2027, the Honda Civic Type R will have been available in the U.S. for a decade, and globally for 30 years. Marking the occasion is a host of upgrades for Honda’s hot hatch that should…",
-   "url": "https://www.hagerty.com/media/news/honda-sharpens-civic-type-r-for-2027/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T13:00:00Z"
-  },
-  {
-   "titulo": "Kimi Antonelli on the hard call that rescued his Azerbaijan GP weekend",
-   "resumo": "Kimi Antonelli's Azerbaijan Grand Prix started in the worst way when technical issues hampered his practice and a crash in Q1 forced him to start 16th on the grid. Talking ahead of this…",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-on-the-hard-call-that-rescued-his-azerbaijan-gp-weekend/10860626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T12:54:03Z"
   },
   {
    "titulo": "Last-minute fix made to F1's Sepang starting grid",
@@ -108,36 +527,6 @@
    "data": "2026-10-01T12:41:09Z"
   },
   {
-   "titulo": "Em França já têm receita para um elétrico de menos de 15 mil euros",
-   "resumo": "Fazer um elétrico barato é hoje uma das grandes dores de cabeça da indústria automóvel europeia. Baterias caras, requisitos de segurança exigentes e custos de produção elevados tornam…",
-   "url": "https://www.razaoautomovel.com/noticias/estudo-franca-receita-eletrico-15-mil-euros-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-01T12:36:04Z"
-  },
-  {
-   "titulo": "2026 MotoGP Japanese Grand Prix – How to watch, session times & more",
-   "resumo": "Japan marks the start of the Asia-Pacific leg of the 2026 MotoGP season, with five races scheduled over the next six weeks. Francesco Bagnaia won the 2025 Japanese GP aboard the factory…",
-   "url": "https://www.motorsport.com/motogp/news/2026-motogp-japanese-grand-prix-how-to-watch-session-times/10860601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T12:31:00Z"
-  },
-  {
-   "titulo": "WRC: Oliver Solberg mais rápido no shakedown do Rali da Sardenha",
-   "resumo": "Oliver Solberg (Toyota) garantiu o melhor tempo na sessão de testes (shakedown) do Rally Italia Sardegna, realizada esta quinta-feira, assumindo a liderança inicial da derradeira ronda do…",
-   "url": "https://www.autosport.pt/ralis/wrc-oliver-solberg-mais-rapido-no-shakedown-do-rali-da-sardenha/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-01T12:30:38Z"
-  },
-  {
    "titulo": "For Sale: A Rare Abarth OTAS Grand Prix 1000",
    "resumo": "This is an unusual Abarth OTAS Grand Prix 1000, it’s a car many have never seen in person, or even heard about, as only... The post For Sale: A Rare Abarth OTAS Grand Prix 1000 appeared…",
    "url": "https://silodrome.com/abarth-otas-grand-prix-1000/",
@@ -148,121 +537,11 @@
    "data": "2026-10-01T12:30:05Z"
   },
   {
-   "titulo": "Ford Returns to the World Rally Stage to Build Better Road Cars",
-   "resumo": "In 2028, a Ford factory team will once again compete in the World Rally Championship and will inspire a new generation of road cars along the way. Ford’s history in rallying goes back more…",
-   "url": "https://www.hagerty.com/media/news/ford-returns-to-the-world-rally-stage-to-build-better-road-cars/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T12:04:56Z"
-  },
-  {
-   "titulo": "Lewis Hamilton questions Ferrari structure amid backing of Fred Vasseur",
-   "resumo": "After a tumultuous season for Ferrari, the outfit stood up on the last weekend of September to calm the nerves of not only its followers, but also its hard-working employees. Chief…",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-questions-ferrari-structure-amid-backing-of-fred-vasseur/10860582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T12:00:38Z"
-  },
-  {
-   "titulo": "The Base Ram 1500 Rumble Bee Is An Instant Sales Hit",
-   "resumo": "The 5.7-liter Hemi V8 pickup proves American muscle trucks remain in demand.",
-   "url": "https://www.motor1.com/news/810434/ram-rumble-bee-sales-hit/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T12:00:00Z"
-  },
-  {
-   "titulo": "Ram’s Entry-Level Rumble Bee Sold Out In 90 Minutes",
-   "resumo": "It took less than two hours for the entire 2026 allocation of the Rumble Bee 5.7-liter V8 to be spoken for",
-   "url": "https://www.carscoops.com/2026/10/ram-1500-rumble-bee-sells-out/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T12:00:00Z"
-  },
-  {
-   "titulo": "Bicicletas e trotinetes elétricas podem vir a ter novas regras de circulação",
-   "resumo": "Ainda nada é oficial, mas o tema já foi a discussão na Assembleia da República (AR). Ontem, 30 de setembro, foram aprovadas as propostas do PSD (Partido Social Democrata) e do PS (Partido…",
-   "url": "https://www.razaoautomovel.com/noticias/mobilidade-propostas-bicicletas-trotinetes-eletricas-seguranca-portugal-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-01T11:53:43Z"
-  },
-  {
-   "titulo": "Ricardo Sousa estreia-se em pisos de terra com o Skoda Rally2: “muito entusiasmados com esta estreia em terra”",
-   "resumo": "Os campeões nacionais de duas rodas motrizes (2RM), Ricardo Sousa e o navegador Luís Marques, estreiam-se em pisos de terra aos comandos de um Škoda Rally2 da ARC Sport, participando no…",
-   "url": "https://www.autosport.pt/ralis/ricardo-sousa-estreia-se-em-pisos-de-terra-com-o-skoda-rally2-muito-entusiasmados-com-esta-estreia-em-terra/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-01T11:48:22Z"
-  },
-  {
-   "titulo": "Ford regressa ao WRC com os olhos postos na Europa",
-   "resumo": "Escort, Sierra, Focus, Fiesta e Puma. Ao longo dos últimos 50 anos estas foram as máquinas que a Ford fez alinhar no Campeonato do Mundo de Ralis e que a estabeleceram como um dos…",
-   "url": "https://www.razaoautomovel.com/noticias/regresso-ford-wrc-2027/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-01T11:35:00Z"
-  },
-  {
-   "titulo": "Ford to make factory WRC return in 2028",
-   "resumo": "Ford will return to the World Rally Championship as a fully-fledged manufacturer in 2028 and will commit to building an all-new car to contest the 2029 campaign. The blue-oval brand will…",
-   "url": "https://www.motorsport.com/wrc/news/ford-factory-wrc-return-2028/10860554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T11:34:52Z"
-  },
-  {
-   "titulo": "Ford set for WRC factory return with M-Sport in 2028",
-   "resumo": "Ford will return to the World Rally Championship as a fully-fledged manufacturer in 2028 and will commit to building an all-new car to contest the 2029 campaign. The blue-oval brand will…",
-   "url": "https://www.autosport.com/wrc/news/ford-set-for-wrc-factory-return/10860558/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T11:30:04Z"
-  },
-  {
    "titulo": "Ford returns to World Rally Championship with factory team in 2028",
    "resumo": "Autocar's vision for Ford's new WRC contender, launching in 2029 Blue Oval revives WRC works team after a 16-year absence, in partnership with Cumbria's M-Sport Ford will return to the…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/ford-returns-world-rally-championship-factory-team-2028",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T11:30:00Z"
-  },
-  {
-   "titulo": "Ford Is Returning To The WRC As A Factory Team In 2028",
-   "resumo": "Ford Racing and M-Sport will reunite for a 2028 FIA World Rally Championship comeback that paves the way for a fresh 2029 rally car.",
-   "url": "https://www.motor1.com/news/810386/ford-racing-wrc-return-2028/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T11:30:00Z"
-  },
-  {
-   "titulo": "Ford’s WRC Team Is Returning to Full Factory Status",
-   "resumo": "The M Sport team returns as a factory operation in 2028, after running Fords as privateers for 15 years.",
-   "url": "https://www.roadandtrack.com/news/a73927125/ford-wrc-team-returning-to-full-factory-status/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T11:30:00Z"
@@ -278,36 +557,6 @@
    "data": "2026-10-01T11:28:42Z"
   },
   {
-   "titulo": "Ford regressa ao Mundial de Ralis em 2028 como equipa ‘full’ oficial",
-   "resumo": "A Ford vai voltar a competir no Campeonato do Mundo de Ralis da FIA a partir de 2028, como equipa oficial, sob a marca Ford Racing. O anúncio foi feito esta quinta-feira, 1 de outubro, em…",
-   "url": "https://www.autosport.pt/ralis/ford-regressa-ao-mundial-de-ralis-em-2028-como-equipa-full-oficial/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-01T11:28:17Z"
-  },
-  {
-   "titulo": "Tesla: condução autónoma falha teste na Bélgica!",
-   "resumo": "A tecnologia Full Self-Driving (FSD) da Tesla “chumbou” teste de cerca de 400 km na Bélgica, apresentando diversos problemas de funcionamento durante a prova: por exemplo, excedeu limites…",
-   "url": "https://www.autosport.pt/automais/tesla-conducao-autonoma-falha-teste-na-belgica/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-01T11:28:00Z"
-  },
-  {
-   "titulo": "Honda Just Raised The Passport TrailSport Price By $1,645",
-   "resumo": "TrailSport and TrailSport Elite gain a reworked suspension, extra ground clearance, and more kit that narrows the gap with the base Passport RTL.",
-   "url": "https://www.motor1.com/news/810444/2027-honda-passport-trailsport-price/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T11:08:56Z"
-  },
-  {
    "titulo": "Kia EV4 GT tested: Could less be more in an electric hot hatch?",
    "resumo": "Kia's all-electric answer to the VW Golf R prioritises handling fluency with an involving powertrain Kia’s GT performance sub-brand has been guilty of sending some mixed messages in its…",
    "url": "https://www.autocar.co.uk/car-review/kia/ev4-gt",
@@ -318,36 +567,6 @@
    "data": "2026-10-01T11:00:00Z"
   },
   {
-   "titulo": "Legendary BMW Tuner AC Schnitzer Saved From Death",
-   "resumo": "AC Schnitzer had announced they were closing after nearly four decades of tuning BMWs. But a last-minute sale will keep them alive",
-   "url": "https://www.carscoops.com/2026/10/legendary-bmw-tuner-ac-schnitzer-saved-from-death/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T11:00:00Z"
-  },
-  {
-   "titulo": "Rúben Rodrigues cada vez mais perto do título: “Nada se vai decidir no Algarve”",
-   "resumo": "Os líderes do Campeonato de Portugal de Ralis (CPR), Rúben Rodrigues e o navegador Rui Raimundo, disputam a prova do Algarve com uma vantagem superior a trinta pontos na classificação geral…",
-   "url": "https://www.autosport.pt/ralis/ruben-rodrigues-cada-vez-mais-perto-do-titulo-nada-se-vai-decidir-no-algarve/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-01T10:52:05Z"
-  },
-  {
-   "titulo": "Aston Martin DBX GT foca-se no luxo mas mantém-se fiel à combustão",
-   "resumo": "Faz hoje um ano desde que o Diogo Teixeira conduziu o Aston Martin DBX S, um SUV com 727 cv que não era apenas o mais potente e extremo da gama, mas também, segundo a marca, o último…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-aston-martin-dbx-gt-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-01T10:41:41Z"
-  },
-  {
    "titulo": "‘DEAL OF THE CENTURY’ PAYING DIVIDENDS FOR FIA WORLD RALLY CHAMPIONSHIP AS FORD RACING CONFIRMS ITS RETURN FROM 2028",
    "resumo": "Sport news The Fédération Internationale de l’Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has today welcomed Ford’s…",
    "url": "https://www.fia.com/news/deal-century-paying-dividends-fia-world-rally-championship-ford-racing-confirms-its-return-2028",
@@ -356,136 +575,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-01T10:37:00Z"
-  },
-  {
-   "titulo": "Tesla’s Model 3 Gets A Bigger Screen And V2L, But You Can’t Buy One",
-   "resumo": "Only Chinese-market Model 3s have been confirmed to get the upgrades for now, some of which are borrowed from the Model Y",
-   "url": "https://www.carscoops.com/2026/10/teslas-model-3-gets-a-bigger-screen-and-v2l-but-you-cant-buy-one/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T10:30:00Z"
-  },
-  {
-   "titulo": "Want A Tesla Model Y? You'll Have To Wait",
-   "resumo": "Delivery windows for Tesla Model Y trims range from October 2026 to early 2027, depending on whether buyers choose the long-wheelbase L Premium configuration.",
-   "url": "https://www.motor1.com/news/810433/tesla-model-y-wait-times/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T10:14:50Z"
-  },
-  {
-   "titulo": "Menos modelos e mais IA. Este é o novo plano da BMW",
-   "resumo": "O Grupo BMW apresentou o que descreve como um novo rumo estratégico para aumentar a rentabilidade, ganhar agilidade e preparar a empresa para um contexto de mercado cada vez mais exigente…",
-   "url": "https://www.razaoautomovel.com/noticias/industria-anuncio-bmw-novo-plano-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-01T10:14:44Z"
-  },
-  {
-   "titulo": "Hamilton strongly backs Vasseur amid Horner to Ferrari links",
-   "resumo": "Lewis Hamilton says Ferrari Formula 1 boss Fred Vasseur \"really is the guy to take this team in the right direction\" amid destabilising rumours around his future. Just over one year on from…",
-   "url": "https://www.autosport.com/f1/news/hamilton-strongly-backed-vasseur-amid-horner-to-ferrari-links/10860547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T10:13:39Z"
-  },
-  {
-   "titulo": "The New BMW 3-Series And i3 Already Have Some Wild M Performance Parts",
-   "resumo": "Both the combustion and electric models are available with carbon wing mirrors and exclusive wheels",
-   "url": "https://www.carscoops.com/2026/10/bmw-3-series-i3-m-performance-parts/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T10:00:00Z"
-  },
-  {
-   "titulo": "2026 Ford Mustang RTR Driven: The Base Stang Kicks Up Its Heels",
-   "resumo": "Based on the EcoBoost model, this new Mustang special edition is actually affordable.",
-   "url": "https://www.caranddriver.com/reviews/a73946680/2026-ford-mustang-rtr-drive/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T10:00:00Z"
-  },
-  {
-   "titulo": "View Photos of the 2026 Ford Mustang RTR",
-   "resumo": "See the interior and exterior of the 2027 Ford Mustang RTR from every angle.",
-   "url": "https://www.caranddriver.com/photos/a73927799/2026-ford-mustang-rtr-drive-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T10:00:00Z"
-  },
-  {
-   "titulo": "2026 Mustang RTR Premium Review: Sideways with 4 Cylinders",
-   "resumo": "You don’t need us to remind you that new cars are getting more expensive, and that younger enthusiasts, especially, are concerned about their ability to afford a daily driver, let alone a…",
-   "url": "https://www.hagerty.com/media/new-car-reviews/review-2026-mustang-rtr-premium/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T10:00:00Z"
-  },
-  {
-   "titulo": "Audi confirms plans for new F1 base",
-   "resumo": "The Audi Formula 1 team has revealed plans for its long-term development, including a new 'campus' near the existing factory in Hinwil, Switzerland. \"Elements of the new Campus on…",
-   "url": "https://www.autosport.com/f1/news/audi-confirms-plans-for-new-f1-base/10860534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T09:50:25Z"
-  },
-  {
-   "titulo": "What we learned from Vinales on his sudden MotoGP return",
-   "resumo": "Maverick Vinales is finally back in MotoGP action for what might be a 'farewell tour' for his career. Here's where he stands - and what changed since his last outings",
-   "url": "https://www.the-race.com/motogp/what-we-learned-from-vinales-on-his-sudden-motogp-return/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T09:31:34Z"
-  },
-  {
-   "titulo": "The reasons behind Alonso renewing F1 contract with Aston Martin",
-   "resumo": "It had been on the cards for a long time, but ahead of the Bahrain Grand Prix in Malaysia it was finally officially announced: Fernando Alonso will add another year to his illustrious…",
-   "url": "https://www.autosport.com/f1/news/why-alonso-is-staying-in-f1/10860518/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T09:24:03Z"
-  },
-  {
-   "titulo": "Red Bull returns to Honda after post-Marquez split",
-   "resumo": "Energy drink giant Red Bull is resuming its MotoGP partnership with the factory Honda team starting in 2027",
-   "url": "https://www.the-race.com/motogp/red-bull-returns-to-honda-after-post-marquez-split/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T08:20:39Z"
-  },
-  {
-   "titulo": "Honda secretly introduced ADUO 2 F1 upgrade",
-   "resumo": "Honda secretly introduced an upgrade to its F1 power unit’s turbocharger at the Spanish Grand Prix last month, using the second of its ADUO tokens",
-   "url": "https://www.the-race.com/formula-1/honda-secretly-introduced-aduo-2-f1-upgrade/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T08:00:05Z"
   },
   {
    "titulo": "New Renault Megane starts at £28k thanks to upgraded EV grant",
@@ -518,16 +607,6 @@
    "data": "2026-10-01T06:30:51Z"
   },
   {
-   "titulo": "BMW X3 M50 gains power boost to 437bhp",
-   "resumo": "Turbocharged straight six upgraded as part of latest revisions to M Performance model The BMW X3 M50’s straight-six engine will be upgraded to produce 437bhp as part of a series of updates…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-x3-m50-gains-power-boost-437bhp",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T06:11:14Z"
-  },
-  {
    "titulo": "A Lifesaving Call, a Mobility Lifeline, and a Solar-Powered Guardian | Region II Champions Announced for FIA Innovation Challenge 2026",
    "resumo": "Mobility news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has revealed the Region…",
    "url": "https://www.fia.com/news/lifesaving-call-mobility-lifeline-and-solar-powered-guardian-region-ii-champions-announced-fia",
@@ -536,86 +615,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-01T04:50:00Z"
-  },
-  {
-   "titulo": "Siata 300 BC: punching above its weight",
-   "resumo": "Siata 300 BC: punching above its weight Ryan Standen Thu, 01/10/2026 - 04:52",
-   "url": "https://www.classicandsportscar.com/features/siata-300-bc-punching-above-its-weight",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T03:52:08Z"
-  },
-  {
-   "titulo": "Jaguar GT greats: inside the November 2026 Classic & Sports Car",
-   "resumo": "Jaguar GT greats: inside the November 2026 Classic & Sports Car Lizzie Pope Thu, 01/10/2026 - 04:51",
-   "url": "https://www.classicandsportscar.com/news/jaguar-gt-greats-inside-november-2026-classic-sports-car",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T03:51:20Z"
-  },
-  {
-   "titulo": "F1 - 2026 Bahrain Grand Prix in Malaysia Preview",
-   "resumo": "Sport news FIA Formula One World Championship Formula 1 SEASON 2026 Sport Circuit 1SportFIA Formula One World ChampionshipCircuitSEASON 2026Formula 100 Thursday, October 1, 2026 - 5:25am…",
-   "url": "https://www.fia.com/news/f1-2026-bahrain-grand-prix-malaysia-preview",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T03:25:00Z"
-  },
-  {
-   "titulo": "The 2027 Jeep Cherokee Trailhawk Is a Hybrid SUV With Serious Off-Road Hardware",
-   "resumo": "The 31-mpg Cherokee has a two-speed transfer case, a rear locking differential, 9 inches of ground clearance, and can wade through two feet of water.",
-   "url": "https://www.roadandtrack.com/news/a73963403/2027-jeep-cherokee-trailhawk/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T23:46:38Z"
-  },
-  {
-   "titulo": "Revealed: New Aston Martin DBX GT focuses on long-distance luxury",
-   "resumo": "V8-engined SUV gains a plusher new version with softer suspension and more luxurious cabin Aston Martin is going after Bentley Bentayga buyers with a plush new GT version of its DBX , which…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/revealed-new-aston-martin-dbx-gt-focuses-long-distance-luxury",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T23:01:00Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Aston Martin DBX GT",
-   "resumo": "Get an up-close look at the 2027 Aston Martin DBX GT from every exterior angle.",
-   "url": "https://www.caranddriver.com/photos/a73960376/2027-aston-martin-dbx-gt-revealed-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T23:01:00Z"
-  },
-  {
-   "titulo": "The Aston Martin DBX GT Turns Up the Luxury",
-   "resumo": "New variant uses the same 717-hp V-8 as the DBX S, but gains a softer suspension tune and a plusher cabin.",
-   "url": "https://www.roadandtrack.com/news/a73944710/the-aston-martin-dbx-gt-turns-up-the-luxury/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-09-30T23:01:00Z"
-  },
-  {
-   "titulo": "Aston Martin DBX GT Wields Soft Power",
-   "resumo": "Aston Martin’s DBX SUV has a new derivative that delivers comfort without compromising speed. The DBX GT has the same powertrain as the potent S, but is set up to be softer, with a more…",
-   "url": "https://www.hagerty.com/media/news/aston-martin-dbx-gt-wields-soft-power/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-09-30T23:01:00Z"
   }
  ]
 }
