@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-10-01T22:40:55Z",
+ "atualizado": "2026-10-02T05:36:16Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,14 +18,184 @@
  ],
  "itens": [
   {
-   "titulo": "Joe Gibbs Racing makes new claim against Chris Gabehart during discovery hearing",
-   "resumo": "The Joe Gibbs Racing v. Chris Gabehart and Spire Motorsports lawsuit was filed in the middle of February and is set to reach trial on February 1 of next year -- less than a year after its…",
-   "url": "https://www.motorsport.com/nascar-cup/news/joe-gibbs-racing-makes-new-claim-against-chris-gabehart-during-discovery-hearing/10860750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "titulo": "F1 2026 Bahrain Grand Prix in Malaysia practice results",
+   "resumo": "Full results from Formula 1's Bahrain Grand Prix practice sessions in Malaysia",
+   "url": "https://www.the-race.com/formula-1/f1-2026-bahrain-grand-prix-in-malaysia-practice-results/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T05:35:15Z"
+  },
+  {
+   "titulo": "An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With Moving Internals",
+   "resumo": "This is the new Franzis reissue of its 1:2 scale working model of the BMW R 90 S flat-twin – timing the new edition... The post An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With…",
+   "url": "https://silodrome.com/bmw-r-90s-engine-model-kit/",
+   "fonte": "Silodrome",
+   "dominio": "silodrome.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-02T05:30:44Z"
+  },
+  {
+   "titulo": "Max Verstappen's Sepang answer has F1 fans falling for him all over again",
+   "resumo": "Press conferences in Formula 1 can come with plenty of rehearsed answers - we all saw Yuki Tsunoda's briefing sheet when he temporarily took Liam Lawson's seat a month ago. These filters…",
+   "url": "https://www.motorsport.com/f1/news/max-verstappens-sepang-answer-has-f1-fans-falling-for-him-all-over-again/10860809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
    "fonte": "Motorsport.com",
    "dominio": "motorsport.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-01T22:19:12Z"
+   "data": "2026-10-02T05:23:49Z"
+  },
+  {
+   "titulo": "Colapinto handed extra grid penalty at F1 Bahrain GP",
+   "resumo": "Alpine driver Franco Colapinto is set for an additional grid penalty at Formula 1's Bahrain GP in Malaysia after taking a new Mercedes V6 engine. Colapinto was set for a five-place grid…",
+   "url": "https://www.autosport.com/f1/news/colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp/10860808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T05:17:30Z"
+  },
+  {
+   "titulo": "Franco Colapinto handed extra grid penalty at F1 Bahrain GP",
+   "resumo": "Alpine driver Franco Colapinto is set for an additional grid penalty at Formula 1's Bahrain GP in Malaysia after taking a new Mercedes V6 engine. Colapinto was set for a five-place grid…",
+   "url": "https://www.motorsport.com/f1/news/franco-colapinto-handed-extra-grid-penalty-at-f1-bahrain-gp-in-malaysia/10860803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T05:16:40Z"
+  },
+  {
+   "titulo": "Aston won't launch EV until at least 2033, will keep V8 and V12",
+   "resumo": "Due to uncertain EV demand and changing legislation, the British firm will focus on ICE cars for the rest of the decade Aston Martin will not launch its first electric car until at least…",
+   "url": "https://www.autocar.co.uk/car-news/new-cars/aston-wont-launch-ev-until-least-2033-will-keep-v8-and-v12",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-02T05:00:00Z"
+  },
+  {
+   "titulo": "Mercedes introduces new floor, sidepods for F1 Bahrain GP",
+   "resumo": "Mercedes has revealed its updates for Formula 1's Bahrain Grand Prix in Malaysia, introducing a vastly reworked floor and new sidepods as it seeks to increase its control in both 2026…",
+   "url": "https://www.autosport.com/f1/news/mercedes-introduces-new-floor-sidepods-for-f1-bahrain-gp/10860785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T04:31:49Z"
+  },
+  {
+   "titulo": "Also in my garage: Soviet classic car models and artefacts",
+   "resumo": "Also in my garage: Soviet classic car models and artefacts Ryan Standen Fri, 02/10/2026 - 05:29",
+   "url": "https://www.classicandsportscar.com/features/also-my-garage-soviet-classic-car-models-and-artefacts",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-02T04:29:24Z"
+  },
+  {
+   "titulo": "Mercedes-Benz 370S Mannheim: miniature masterpiece",
+   "resumo": "Mercedes-Benz 370S Mannheim: miniature masterpiece Ryan Standen Fri, 02/10/2026 - 05:28",
+   "url": "https://www.classicandsportscar.com/features/mercedes-benz-370s-mannheim-miniature-masterpiece",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-02T04:28:56Z"
+  },
+  {
+   "titulo": "Mercedes reveals F1 Bahrain GP updates",
+   "resumo": "Mercedes has revealed its updates for Formula 1's Bahrain Grand Prix in Malaysia, introducing a vastly reworked floor and sidepods as it seeks to increase its control in both 2026…",
+   "url": "https://www.motorsport.com/f1/news/mercedes-reveals-f1-bahrain-gp-updates/10860779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T04:12:17Z"
+  },
+  {
+   "titulo": "Honda wildcard Takaaki Nakagami ruled out of Japanese GP after fracture",
+   "resumo": "Honda MotoGP development rider Takaaki Nakagami will miss the remainder of the Japanese Grand Prix weekend after breaking his collarbone in a crash during opening practice on Friday. The…",
+   "url": "https://www.motorsport.com/motogp/news/honda-wildcard-takaaki-nakagami-ruled-out-of-japanese-gp-after-fracture/10860769/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T03:02:39Z"
+  },
+  {
+   "titulo": "Nakagami injured, Marquez fastest in first Motegi session",
+   "resumo": "Taka Nakagami is already ruled out of the Japanese GP after breaking his collarbone in an early crash in practice, which was topped by Marc Marquez",
+   "url": "https://www.the-race.com/motogp/nakagami-injured-marquez-fastest-in-first-motegi-session/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T02:44:30Z"
+  },
+  {
+   "titulo": "Dashcam Shows Street Racer Hitting 107 MPH In A 35-MPH Zone",
+   "resumo": "Excellent police work in Washington avoided a high-speed chase and still nabbed the reckless drivers of a Porsche 911 and Audi R8",
+   "url": "https://www.carscoops.com/2026/10/dashcam-shows-street-racer-hitting-107-mph-in-a-35-mph-zone/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-02T02:00:00Z"
+  },
+  {
+   "titulo": "This Stellantis Patent Lets An EV Ditch Its Battery And Drive Away",
+   "resumo": "Stellantis has patented a system that can physically eject an EV’s high-voltage battery during an emergency",
+   "url": "https://www.carscoops.com/2026/10/stellantis-patent-lets-ev-ditch-battery-drive-away/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-02T01:00:00Z"
+  },
+  {
+   "titulo": "The Next-Gen Polestar 2 Is Aiming Straight For The BMW i3",
+   "resumo": "Details are slim, but the second generation of Polestar's compact luxury EV sedan is coming. Here's what to expect",
+   "url": "https://www.carscoops.com/2026/10/polestar-2-next-generation-report/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-02T00:00:00Z"
+  },
+  {
+   "titulo": "Scott Dixon: \"It’ll be tough for Lundgaard going up against Palou\"",
+   "resumo": "Scott Dixon knows Christian Lundgaard is stepping into a winning culture at Chip Ganassi Racing, but he warns the 25-year-old Dane is facing a formidable benchmark in Alex Palou. Lundgaard…",
+   "url": "https://www.motorsport.com/indycar/news/scott-dixon-itll-be-tough-for-lundgaard-going-up-against-palou/10860753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-01T23:39:22Z"
+  },
+  {
+   "titulo": "Tesla Spoiler Patent Hides What Could Be Our Best Look Yet At The Roadster",
+   "resumo": "A Tesla patent shows a mysterious sports car with active aero and up to 1,543 lbs of downforce",
+   "url": "https://www.carscoops.com/2026/10/tesla-spoiler-patent-may-hide-roadster-design/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T23:00:00Z"
+  },
+  {
+   "titulo": "Our Favorite Sim-Racing Gear Is Already Discounted for Prime Big Deal Days",
+   "resumo": "Prime Big Deal Days runs October 6–7, but some of our favorite sim-racing gear is already on sale.",
+   "url": "https://www.roadandtrack.com/gear/a73960309/our-favorite-sim-racing-gear-is-already-discounted-for-prime-big-deal-days/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-01T22:56:10Z"
   },
   {
    "titulo": "Fraudster Convicted Of Financing A Corvette With Stolen Identity And Fake $14,000 Check",
@@ -39,7 +210,7 @@
   {
    "titulo": "W2RC, Rali de Marrocos, Etapa 3: Sainz assume a liderança; João Ferreira sobe ao quarto lugar",
    "resumo": "Carlos Sainz e Daniel Oliveras (Ford Raptor Ult / T1+) passaram a liderar a geral do Rallye OLA Energy du Maroc, depois de terminarem em segundo na etapa de hoje e de subirem dois lugares…",
-   "url": "https://www.autosport.pt/sem-categoria/w2rc-rali-de-marrocos-etapa-3-sainz-assume-a-lideranca-joao-ferreira-sobe-ao-quarto-lugar/",
+   "url": "https://www.autosport.pt/todooterreno/w2rc-rali-de-marrocos-etapa-3-sainz-assume-a-lideranca-joao-ferreira-sobe-ao-quarto-lugar/",
    "fonte": "AutoSport",
    "dominio": "autosport.pt",
    "categoria": "Desporto",
@@ -57,31 +228,11 @@
    "data": "2026-10-01T21:20:00Z"
   },
   {
-   "titulo": "The sim rig Max Verstappen swears by ahead of his GT3 race against Rossi",
-   "resumo": "Max Verstappen hasn't sat in a GT3 car since leading his class at the Nurburgring 24 Hours back in May, and he's about to jump into one against Valentino Rossi with very little lead time…",
-   "url": "https://www.motorsport.com/f1/news/the-sim-rig-max-verstappen-swears-by-ahead-of-his-gt3-race-against-rossi/10860740/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T21:18:00Z"
-  },
-  {
    "titulo": "New 2027 Hyundai Tucson gets bold look and practicality boost",
    "resumo": "UK-bound fifth-generation SUV gets interior overhaul with large touchscreen and Peugeot-style dashboard Hyundai has given the Tucson a high-tech makeover as it looks to bat off new Chinese…",
    "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-hyundai-tucson-gets-bold-look-and-practicality-boost",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T21:15:00Z"
-  },
-  {
-   "titulo": "2027 Hyundai Tucson Lands With Wild Design And New Hybrids",
-   "resumo": "The new Hyundai Tucson introduces rugged XRT and XRT Pro versions",
-   "url": "https://www.carscoops.com/2026/10/hyundai-tucson-2027-reveal/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T21:15:00Z"
@@ -157,26 +308,6 @@
    "data": "2026-10-01T21:15:00Z"
   },
   {
-   "titulo": "How to watch NASCAR at Las Vegas II: Weekend schedule, start time, entry list, TV",
-   "resumo": "The NASCAR Cup field will try their luck in Vegas this weekend, joined by the NASCAR O'Reilly Auto Parts Series. Denny Hamlin is the defending winner of the fall Cup race at Las Vegas…",
-   "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-las-vegas-ii-weekend-schedule-start-time-entry-list-tv/10860353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T21:08:12Z"
-  },
-  {
-   "titulo": "NASCAR shortens spoiler in new tweak to superspeedway package for Talladega",
-   "resumo": "NASCAR overhauled the superspeedway package for the regular season finale at Daytona International Speedway, and it seemed to be a success. There was far more movement throughout the field…",
-   "url": "https://www.motorsport.com/nascar-cup/news/nascar-shortens-spoiler-in-new-tweak-to-superspeedway-package-for-talladega/10860738/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T20:54:25Z"
-  },
-  {
    "titulo": "The 2027 Honda Civic Type R Adds More Downforce, Better Cooling, and Heated Seats",
    "resumo": "The Type R gains meaningful chassis and aero tweaks for 2027, while its 315-hp turbo four carries over.",
    "url": "https://www.roadandtrack.com/news/a73983232/2027-honda-civic-type-r/",
@@ -187,31 +318,11 @@
    "data": "2026-10-01T20:34:15Z"
   },
   {
-   "titulo": "Dudu Barrichello to end 'fun year' in IMSA with outside chance at GTD title",
-   "resumo": "Eduardo ‘Dudu’ Barrichello didn’t come into his first full season in the IMSA WeatherTech SportsCar Championship with any expectations, but is right in the mix for silverware. The…",
-   "url": "https://www.motorsport.com/imsa/news/dudu-barrichello-to-end-fun-year-in-imsa-with-shot-at-the-gtd-title/10860733/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T20:33:09Z"
-  },
-  {
    "titulo": "Watch Hyundai Debut The New Tucson In The US: Livestream",
    "resumo": "Hyundai is getting ready to show off its latest Tucson in the US for the first time, and you can watch it happen from home.",
    "url": "https://www.motor1.com/news/810508/2027-hyundai-tucson-livestream-debut/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T20:00:00Z"
-  },
-  {
-   "titulo": "The 2026 Dodge Durango R/T Is Still Fun After 15 Years, But That Might Not Be Enough | Review",
-   "resumo": "That Hemi V8 growl is hard to resist, but nostalgia comes at a steep cost. Discover whether character alone saves this veteran SUV from modern competition.",
-   "url": "https://www.carscoops.com/2026/10/2026-dodge-durango-rt-392-review-still-fun-after-15-years-but-that-might-not-be-enough/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T20:00:00Z"
@@ -245,16 +356,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-01T19:00:00Z"
-  },
-  {
-   "titulo": "It Looks Like A Normal Mazda MX-5, But It Actually Has A Ford V6",
-   "resumo": "Despite the big new engine, this MX-5 retains the original car's 50-50 weight distribution",
-   "url": "https://www.carscoops.com/2026/10/mazda-mx5-v6-rocketeer/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T18:15:00Z"
   },
   {
    "titulo": "Fiat's New Concept Brings Back The Spirit Of The Multipla",
@@ -297,16 +398,6 @@
    "data": "2026-10-01T17:31:47Z"
   },
   {
-   "titulo": "GM’s Next-Gen Battery Is Inching Closer To Production",
-   "resumo": "LMR batteries should arrive before the end of the decade and be affordable",
-   "url": "https://www.carscoops.com/2026/10/gm-lmr-battery-production/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T17:30:00Z"
-  },
-  {
    "titulo": "Os Fórmula 1 sobem a rampa do Caramulo este mês",
    "resumo": "Depois da 21.ª edição do Caramulo Motorfestival, a serra do Caramulo volta a receber máquinas de competição para uma jornada dedicada à história e aos protagonistas do desporto automóvel…",
    "url": "https://www.razaoautomovel.com/noticias/formula-1-rampa-caramulo-heroes-day/",
@@ -315,16 +406,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-10-01T17:13:39Z"
-  },
-  {
-   "titulo": "What Do You Get When 7 F1 Drivers Share a Tropical Island? Chaos",
-   "resumo": "Nearly a third of the Formula 1 grid took part on a group vacation between races in Azerbaijan and Malaysia.",
-   "url": "https://www.roadandtrack.com/news/a73980574/7-f1-drivers-share-a-tropical-island/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T17:10:06Z"
   },
   {
    "titulo": "Alfa Romeo's Mysterious New Concept Car Has A Name",
@@ -347,7 +428,7 @@
    "data": "2026-10-01T16:00:00Z"
   },
   {
-   "titulo": "The major unknown as F1 braces for \"sandpaper\" rough Sepang track",
+   "titulo": "The major unknown as F1 braces for 'sandpaper' rough Sepang track",
    "resumo": "A track surface of which roughness has been likened to “sandpaper” by Oscar Piastri has thrown a strategy curveball into F1’s return to Malaysia",
    "url": "https://www.the-race.com/formula-1/the-major-unknown-as-f1-braces-for-sandpaper-rough-sepang-track/",
    "fonte": "The Race",
@@ -395,16 +476,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T15:16:50Z"
-  },
-  {
-   "titulo": "The reasons behind Ford's impending WRC factory return",
-   "resumo": "Ford’s decision to rejoin the World Rally Championship as a fully fledged manufacturer was a \"fairly easy decision\", according to its global director Mark Rushbrook. The American marque has…",
-   "url": "https://www.autosport.com/wrc/news/reasons-behind-ford-wrc-return/10860669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T15:15:02Z"
   },
   {
    "titulo": "FIA AND FORMULA E ANNOUNCE BRIDGESTONE AS OFFICIAL TYRE SUPPLIER FOR GEN4 ERA",
@@ -487,16 +558,6 @@
    "data": "2026-10-01T14:39:59Z"
   },
   {
-   "titulo": "Why Norris apologised to Colapinto after Baku comments",
-   "resumo": "Reigning Formula 1 champion Lando Norris says he issued a public apology to Franco Colapinto to help calm the waters as his calls for a race ban sparked an online backlash. Norris slammed…",
-   "url": "https://www.autosport.com/f1/news/why-norris-apologised-to-colapinto/10860658/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T14:17:02Z"
-  },
-  {
    "titulo": "Será este protótipo de ralis o próximo Toyota Celica?",
    "resumo": "A Toyota continua a preparar a sua próxima arma para o Mundial de Ralis (WRC), que em 2027 irá substituir o GR Yaris Rally1. O novo protótipo voltou a ser apanhado em testes, desta vez nos…",
    "url": "https://www.razaoautomovel.com/noticias/antevisao-toyota-celica-prototipo-rali-espanha/",
@@ -515,16 +576,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-01T13:00:10Z"
-  },
-  {
-   "titulo": "Last-minute fix made to F1's Sepang starting grid",
-   "resumo": "Race officials at Formula 1's Bahrain Grand Prix in Malaysia had to make a last-minute fix on Thursday",
-   "url": "https://www.the-race.com/formula-1/last-minute-fix-made-to-f1s-sepang-starting-grid/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T12:41:09Z"
   },
   {
    "titulo": "For Sale: A Rare Abarth OTAS Grand Prix 1000",
@@ -547,16 +598,6 @@
    "data": "2026-10-01T11:30:00Z"
   },
   {
-   "titulo": "What we learned on the first day of F1's Malaysia return",
-   "resumo": "F1's first day back at Sepang taught us plenty...",
-   "url": "https://www.the-race.com/formula-1/what-we-learned-on-the-first-day-of-f1s-malaysia-return/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T11:28:42Z"
-  },
-  {
    "titulo": "Kia EV4 GT tested: Could less be more in an electric hot hatch?",
    "resumo": "Kia's all-electric answer to the VW Golf R prioritises handling fluency with an involving powertrain Kia’s GT performance sub-brand has been guilty of sending some mixed messages in its…",
    "url": "https://www.autocar.co.uk/car-review/kia/ev4-gt",
@@ -575,46 +616,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-01T10:37:00Z"
-  },
-  {
-   "titulo": "New Renault Megane starts at £28k thanks to upgraded EV grant",
-   "resumo": "Facelifted Megane and bigger Scenic undercut key rivals thanks to £3750 discount from UK government The updated Renault Scenic and Megane have gone on sale in the UK – and, thanks to it now…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/new-renault-megane-starts-%C2%A328k-thanks-upgraded-ev-grant",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-01T08:00:00Z"
-  },
-  {
-   "titulo": "F1 - 2026 Bahrain Grand Prix in Malaysia - Thursday Press Conference Transcript",
-   "resumo": "Sport news PART ONE – Nico HÜLKENBERG (Audi), Max VERSTAPPEN (Red Bull Racing), Oliver BEARMAN (Haas) Q: Max, if I can start with you. Very happy birthday for yesterday. Max VERSTAPPEN…",
-   "url": "https://www.fia.com/news/f1-2026-bahrain-grand-prix-malaysia-thursday-press-conference-transcript",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T07:21:00Z"
-  },
-  {
-   "titulo": "Build Your Own Turntable: The Orbit Custom By U-Turn Audio",
-   "resumo": "The new Orbit custom turntable configurator allows you to build your own turntable, selecting from a variety of platters, plinths, speed controllers, preamps, cartridges,... The post Build…",
-   "url": "https://silodrome.com/orbit-custom-turntable-u-turn-audio/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-01T06:30:51Z"
-  },
-  {
-   "titulo": "A Lifesaving Call, a Mobility Lifeline, and a Solar-Powered Guardian | Region II Champions Announced for FIA Innovation Challenge 2026",
-   "resumo": "Mobility news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, has revealed the Region…",
-   "url": "https://www.fia.com/news/lifesaving-call-mobility-lifeline-and-solar-powered-guardian-region-ii-champions-announced-fia",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-01T04:50:00Z"
   }
  ]
 }
