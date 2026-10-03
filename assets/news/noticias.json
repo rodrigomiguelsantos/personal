@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-10-03T11:38:53Z",
+ "atualizado": "2026-10-03T16:17:14Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
+  "FIA",
   "Hagerty",
   "Motor1",
   "Motorsport.com",
@@ -18,7 +18,287 @@
  ],
  "itens": [
   {
-   "titulo": "Gone backwards? Mercedes's upgrade letdown explained",
+   "titulo": "Las Vegas Motor Speedway Honors Kyle Busch with Kurt as Pace Car Driver and a Weekend of Tributes",
+   "resumo": "Kurt Busch will be the pace car driver for the South Point 400 at Las Vegas Motor Speedway in NASCAR’s first visit since the loss of Kyle Busch.",
+   "url": "https://www.roadandtrack.com/news/a74005497/kurt-busch-honor-late-brother-kyle-drives-nascar-pace-car-start-las-vegas-home-track/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T16:09:41Z"
+  },
+  {
+   "titulo": "Stellantis CEO Sees A 'Huge Opportunity' For Cheap Cars",
+   "resumo": "The automaker plans to launch nine new models with prices starting under $40,000.",
+   "url": "https://www.motor1.com/news/810664/stellantis-ceo-cheap-cars-opportunity/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T16:00:00Z"
+  },
+  {
+   "titulo": "Paul Newman’s Daytona-Winning Mustang Is a Perfect Storm of Collectibility",
+   "resumo": "Paul Newman is most widely known for his incredible filmography. Whether it was drama or comedy, he was able to inhabit a range of characters with careful nuance and, when necessary, his…",
+   "url": "https://www.hagerty.com/media/market-trends/hagerty-insider/sale-of-the-week/paul-newmans-daytona-class-winning-mustang-cobra-is-a-perfect-storm-of-collectability/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-03T16:00:00Z"
+  },
+  {
+   "titulo": "CPR, Rali do Algarve – Pedro Almeida: “Conseguimos impor um bom ritmo desde o início”",
+   "resumo": "Pedro Almeida / António Costa venceram o Rali do Algarve, em Toyota GR Yaris Rally2, após uma luta intensa até à Power Stage com os colegas de equipa Rafael Rêgo / Nuno Mota Ribeiro…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-pedro-almeida-conseguimos-impor-um-bom-ritmo-desde-o-inicio/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T15:55:40Z"
+  },
+  {
+   "titulo": "CPR, Rali do Algarve – Armindo Araújo: “Não era o resultado que queríamos”",
+   "resumo": "Armindo Araújo / Luís Ramalho terminaram o Rali do Algarve no terceiro lugar, ao volante do Škoda Fabia RS Rally2, a 19,5 segundos dos vencedores Pedro Almeida / António Costa. Apesar do…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-armindo-araujo-nao-era-o-resultado-que-queriamos/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T15:47:23Z"
+  },
+  {
+   "titulo": "Why Malaysia would be the best place for F1’s first wet-weather race in 2026",
+   "resumo": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations – or even a wet session. Rain has…",
+   "url": "https://www.motorsport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T15:45:03Z"
+  },
+  {
+   "titulo": "Why Malaysia would be the perfect place for F1’s first wet-weather race in 2026",
+   "resumo": "While Formula 1 has already reached the 16th round of the 2026 season, fans have still not been treated to a wet-weather race under the new regulations – or even a wet session. Rain has…",
+   "url": "https://www.autosport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T15:45:03Z"
+  },
+  {
+   "titulo": "Verstappen Targets Sepang Win After Logging Ford's First F1 Pole in 27 Years",
+   "resumo": "The Red Bull driver earns the first pole not backed by a Mercedes engine of the 2026 season.",
+   "url": "https://www.roadandtrack.com/news/a74005292/verstappen-targets-sepang-win-after-logging-ford-first-f1-pole-since-1999/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T15:20:37Z"
+  },
+  {
+   "titulo": "CPR, Rali do Algarve: Pedro Almeida vence e aproveita deslize de Rúben Rodrigues",
+   "resumo": "Vitória suada, mas muito importante para a história deste Campeonato de Portugal de Ralis 2026. Pedro Almeida / António Costa (Toyota GR Yaris Rally2) venceram o Rali do Algarve sob forte…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-pedro-almeida-vence-e-aproveita-deslize-de-ruben-rodrigues/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T15:17:45Z"
+  },
+  {
+   "titulo": "Police Arrest Four And Seize Race Car Following Illegal Drag Race In NY",
+   "resumo": "Police say they caught four men leaving an illegal street race with a competition car riding on a trailer",
+   "url": "https://www.carscoops.com/2026/10/police-arrest-four-and-seize-race-car-following-illegal-drag-race-in-ny/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T15:00:00Z"
+  },
+  {
+   "titulo": "This 1963 Falcon Ranchero on BaT Was Ford’s Original Small Pickup",
+   "resumo": "It has an undeniable simple charm.",
+   "url": "https://www.caranddriver.com/news/a73992894/1963-ford-falcon-ranchero-bring-a-trailer-auction/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T15:00:00Z"
+  },
+  {
+   "titulo": "CPR, Rali do Algarve/PEC7: Rafael Rêgo é o novo líder",
+   "resumo": "Rafael Rêgo / Nuno Mota Ribeiro (Toyota GR Yaris Rally2) são os novos líderes do Rali do Algarve. A dupla da Toyota suplantou os colegas de equipa Pedro Almeida / António Costa (Toyota GR…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-pec7-rafael-rego-e-o-novo-lider/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T14:49:24Z"
+  },
+  {
+   "titulo": "Max Verstappen reveals Valentino Rossi wish ahead of Portimao GT3 season finale",
+   "resumo": "Four-time Formula 1 champion Max Verstappen says he hopes to avoid an on-track battle with Valentino Rossi when the pair share the GT3 starting grid for the first time at Portimao. Heading…",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-reveals-valentino-rossi-wish-ahead-of-portimao-gt3-season-finale/10861597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T14:40:22Z"
+  },
+  {
+   "titulo": "Ferrari’s Vigna on Vasseur and fake news: “There is only one reality”",
+   "resumo": "The Ferrari CEO reflects on the rash of rumours and the need to distinguish facts from speculation. He recalls reading about alleged tensions with Fred Vasseur while having dinner with him…",
+   "url": "https://www.motorsport.com/f1/news/f1-ferraris-vigna-on-vasseur-rumours-and-fake-news-there-is-only-one-reality/10861589/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T14:34:43Z"
+  },
+  {
+   "titulo": "CPR, Rali do Algarve/PEC6: Pedro Almeida perde tempo e Rafael Rêgo sobe ao segundo lugar",
+   "resumo": "A tarde de sábado do Rali do Algarve começou com uma meia surpresa. Rafael Rêgo / Nuno Mota Ribeiro (Toyota GR Yaris Rally2) já tinham dado boas indicações ao longo do dia, mas, na segunda…",
+   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-pec6-pedro-almeida-perde-tempo-e-rafael-rego-sobe-ao-segundo-lugar/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T14:07:01Z"
+  },
+  {
+   "titulo": "Max Verstappen responds to George Russell: \"Maybe I should take him to the sauna!\"",
+   "resumo": "The debate over cooling vests has been revived during the Formula 1 weekend in Malaysia. Two years ago, there were discussions behind the scenes about making the cooling vest mandatory…",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-george-russell-maybe-i-should-take-him-to-the-sauna/10861581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T13:48:29Z"
+  },
+  {
+   "titulo": "I had a ride in a Rally1 car – this is why they'll be missed",
+   "resumo": "This weekend's Rally Sardinia marks the end of the line for Rally1 – and that's a great shame For the last four years, the World Rally Championship's top-class has run to Rally1…",
+   "url": "https://www.autocar.co.uk/car-news/features/i-had-ride-rally1-car-%E2%80%93-why-theyll-be-missed",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T13:40:41Z"
+  },
+  {
+   "titulo": "The former weakness key to Red Bull's sudden supremacy",
+   "resumo": "Red Bull's dominant Sepang pole points to it having eliminated a key weakness of its 2026 car",
+   "url": "https://www.the-race.com/formula-1/key-weakness-red-bull-has-eradicated-malaysia-max-verstappen/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T13:20:48Z"
+  },
+  {
+   "titulo": "How the FIA plans to differentiate between Rally1 and Rally2 in WRC 2027",
+   "resumo": "The FIA is proposing a change in turbo restrictor regulations to ensure the new World Rally Championship Rally1 cars will have a small power advantage over Rally2 cars next season. Next…",
+   "url": "https://www.motorsport.com/wrc/news/how-the-fia-plans-to-differentiate-between-rally1-and-rally2-in-wrc-2027/10861576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T13:20:40Z"
+  },
+  {
+   "titulo": "\"The FIA needs to step in\" - Russell's cooling vest comments explained",
+   "resumo": "Mercedes Formula 1 driver George Russell caused a stir in some quarters by appearing to suggest the FIA should protect teams against themselves by ensuring cooling vests are commonly used…",
+   "url": "https://www.autosport.com/f1/news/whats-actually-going-on-with-george-russells-fia-cooling-vest-complaints/10861569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T13:05:07Z"
+  },
+  {
+   "titulo": "Honda’s New Prelude Is Great, But We All Know What It’s Missing | Review",
+   "resumo": "The new Honda Prelude proves a sports car doesn't need a boatload of power to be great, but it falls short of excellence",
+   "url": "https://www.carscoops.com/2026/10/honda-prelude-australia-review/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T13:00:00Z"
+  },
+  {
+   "titulo": "This Vintage Porsche 944 Conversion Is Way Cooler Than a New 911",
+   "resumo": "German tuner CarPoint will turn your transaxle-era Porsche into a stylish shooting brake.",
+   "url": "https://www.caranddriver.com/news/a74001537/carpoint-porsche-944-conversion-details/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T13:00:00Z"
+  },
+  {
+   "titulo": "1960 Cadillac Fleetwood Sixty Special: Executive Suite",
+   "resumo": "Is there a more easily distinguished, classic American car than a 1948 through 1964 Cadillac? These cars set a standard, signifying our infatuation with tailfins, and are fondly remembered…",
+   "url": "https://www.hagerty.com/media/opinion/klockau-classics/1960-cadillac-fleetwood-sixty-special-executive-suite/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-03T13:00:00Z"
+  },
+  {
+   "titulo": "McLaren puzzled by persistent Norris-only F1 car problem",
+   "resumo": "Lando Norris has a straightline speed deficit to team-mate Oscar Piastri for the second Formula 1 weekend running in Malaysia, one his McLaren team doesn’t understand",
+   "url": "https://www.the-race.com/formula-1/mclaren-puzzled-by-persistent-lando-norris-only-f1-car-problem/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T12:50:38Z"
+  },
+  {
+   "titulo": "McLaren explains recurring Norris straightline speed issue after Bahrain GP qualifying",
+   "resumo": "McLaren team principal Andrea Stella has clarified the issues with Lando Norris' current Mercedes power unit, as the reigning champion rued the lack of straightline speed in Formula 1…",
+   "url": "https://www.autosport.com/f1/news/mclaren-explains-recurring-norris-straightline-speed-issue-after-bahrain-gp-qualifying/10861561/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T12:49:40Z"
+  },
+  {
+   "titulo": "View Photos of the 1978 Subaru Wagon Through Baja",
+   "resumo": "See photos of the 1978 Subaru wagon through Baja from every angle.",
+   "url": "https://www.caranddriver.com/photos/a73963655/1978-subaru-wagon-through-baja-archive-feature-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T12:47:15Z"
+  },
+  {
+   "titulo": "1978 Subaru Wagon Through Baja: Only the Strong Survive",
+   "resumo": "And that should tell you something about our four-wheel-drive Subaru.",
+   "url": "https://www.caranddriver.com/features/a73924282/1978-subaru-wagon-through-baja-archive-feature/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T12:47:11Z"
+  },
+  {
+   "titulo": "From \"paper car\" to pole – What changed for Verstappen and Red Bull?",
+   "resumo": "It is less than a month since Max Verstappen qualified sixth at Monza and afterwards spoke about a Red Bull car \"made of paper\". Admittedly, that comment specifically concerned the \"car…",
+   "url": "https://www.autosport.com/f1/news/from-paper-car-to-pole-what-changed-for-verstappen-and-red-bull/10861532/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T12:05:21Z"
+  },
+  {
+   "titulo": "Mercedes' upgrade letdown - What we know",
    "resumo": "Despite an upgraded car, Mercedes suffered its toughest F1 qualifying of the year. It's now scrambling for answers with multiple factors contributing to its disappointment",
    "url": "https://www.the-race.com/formula-1/gone-backwards-mercedess-upgrade-letdown-explained/",
    "fonte": "The Race",
@@ -38,34 +318,24 @@
    "data": "2026-10-03T11:30:41Z"
   },
   {
-   "titulo": "Mika Hakkinen returns to F1 cockpit in Ayrton Senna's title-winning McLaren MP4/6",
-   "resumo": "Mika Hakkinen returns to the Formula 1 cockpit today at the Allwyn x McLaren Racing: Live in Athens event outside the Olympic Athletic Center (OAKA). The two-time champion will drive around…",
-   "url": "https://www.motorsport.com/f1/news/mika-hakkinen-returns-to-f1-cockpit-in-ayrton-sennas-title-winning-mclaren-mp4-6/10861512/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "F1 – Verstappen storms to first pole of 2026 at Sepang as Hamilton hands Ferrari front row start",
+   "resumo": "Sport news Max Verstappen claimed his first pole position of the 2026 FIA Formula One World Championship with a commanding performance in Qualifying for the Bahrain Grand Prix in Malaysia…",
+   "url": "https://www.fia.com/news/f1-verstappen-storms-first-pole-2026-sepang-hamilton-hands-ferrari-front-row-start",
+   "fonte": "FIA",
+   "dominio": "fia.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-03T11:24:41Z"
+   "data": "2026-10-03T11:09:00Z"
   },
   {
-   "titulo": "Why Mercedes' Bahrain GP upgrade is still a \"big question mark\"",
-   "resumo": "The Mercedes team has taken a big swing by introducing a substantial aerodynamic update package at a circuit Formula 1 hasn't visited since 2017. Has it missed? Probably not – but, because…",
-   "url": "https://www.motorsport.com/f1/news/why-mercedes-bahrain-gp-upgrade-is-still-a-big-question-mark/10861508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
+   "titulo": "Anyone for mini-Golf? Bag a minter with a used Volkswagen Polo",
+   "resumo": "Mk6 Polo is a competent, great-value supermini with a classy big car feel Fifty years after the Volkswagen Polo arrived in the UK and now in its sixth generation, it remains the default…",
+   "url": "https://www.autocar.co.uk/car-news/used-cars/anyone-mini-golf-bag-minter-used-volkswagen-polo",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
    "pt": false,
-   "data": "2026-10-03T11:21:58Z"
-  },
-  {
-   "titulo": "Kimi Antonelli eyes aggressive undercut attack in F1 Malaysia",
-   "resumo": "Kimi Antonelli will start third on the Bahrain Grand Prix grid thanks to Isack Hadjar's five-place grid penalty, but after Mercedes introduced a seven-piece upgrade package at Sepang, the…",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-eyes-aggressive-undercut-attack-in-f1-malaysia/10861499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T11:03:29Z"
+   "data": "2026-10-03T11:00:00Z"
   },
   {
    "titulo": "The Beauty And The Stainless Beast: Alfa Romeo 8C Hangs Out With Tesla Cybertruck",
@@ -98,54 +368,14 @@
    "data": "2026-10-03T10:45:00Z"
   },
   {
-   "titulo": "Lando Norris frustrated by engine issue that cost him in Sepang qualifying",
-   "resumo": "Lando Norris was left frustrated by a power unit problem that left him just sixth on the grid for the Formula 1 Bahrain Grand Prix in Malaysia. The McLaren driver was six tenths off Red…",
-   "url": "https://www.motorsport.com/f1/news/lando-norris-frustrated-by-engine-issue-that-cost-him-in-sepang-qualifying/10861468/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
+   "titulo": "F1 - 2026 Bahrain Grand Prix in Malaysia Post-Qualifying Press Conference Transcript",
+   "resumo": "Sport news DRIVERS 1 – Max VERSTAPPEN (Red Bull Racing) 2 – Lewis HAMILTON (Ferrari) 3 – Isack HADJAR (Red Bull Racing) PARC FERMÉ INTERVIEWS (Conducted by Naomi Schiff) Q: Max, huge…",
+   "url": "https://www.fia.com/news/f1-2026-bahrain-grand-prix-malaysia-post-qualifying-press-conference-transcript",
+   "fonte": "FIA",
+   "dominio": "fia.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-03T10:44:23Z"
-  },
-  {
-   "titulo": "Michelin bans soft compound for MotoGP Japanese GP",
-   "resumo": "Following acute tyre difficulties for some riders during today's sprint race at Motegi, MotoGP tyre supplier Michelin has taken the extreme step of banning the soft compound for tomorrow's…",
-   "url": "https://www.motorsport.com/motogp/news/michelin-bans-soft-compound-for-motogp-japanese-grand-prix/10861441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T10:28:19Z"
-  },
-  {
-   "titulo": "CPR, Rali do Algarve/PEC4: Rúben Rodrigues fora de prova, Pedro Almeida dilata vantagem",
-   "resumo": "A PEC 4, Santana da Serra 1 (15,08 km), trouxe o primeiro grande momento dramático do Rali do Algarve. Rúben Rodrigues / Rui Raimundo (Toyota GR Yaris Rally2) tiveram uma saída de estrada…",
-   "url": "https://www.autosport.pt/ralis/cpr-rali-do-algarve-pec4-ruben-rodrigues-fora-de-prova-pedro-almeida-dilata-vantagem/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T10:26:42Z"
-  },
-  {
-   "titulo": "WRC Sardinia: Solberg storms into the lead to boost title chances against Evans",
-   "resumo": "Oliver Solberg further boosted his World Rally Championship title hopes by snatching the Rally Italy Sardinia lead from Hyundai’s Thierry Neuville on Saturday morning. Starting the morning…",
-   "url": "https://www.autosport.com/wrc/news/wrc-sardinia-solberg-storms-to-the-lead-to-boost-title-chances/10861431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T10:08:55Z"
-  },
-  {
-   "titulo": "WRC, Rali da Sardenha, PEC10: Oliver Solberg termina a manhã na liderança",
-   "resumo": "Foi uma excelente manhã para Oliver Solberg (Toyota GR Yaris Rally1). Depois de Thierry Neuville (Hyundai i20 N Rally1) ter vencido o primeiro troço do dia, Solberg iniciou um ataque que…",
-   "url": "https://www.autosport.pt/ralis/wrc-rali-da-sardenha-pec10-oliver-solberg-termina-a-manha-na-lideranca/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T10:04:07Z"
+   "data": "2026-10-03T09:57:00Z"
   },
   {
    "titulo": "Winners and losers from MotoGP's Motegi sprint",
@@ -168,36 +398,6 @@
    "data": "2026-10-03T09:47:34Z"
   },
   {
-   "titulo": "CPR, Rali do Algarve/PEC3: Rúben Rodrigues aproxima-se da frente",
-   "resumo": "Rúben Rodrigues / Rui Raimundo (Toyota GR Yaris Rally2) começaram o segundo dia do Rali do Algarve ao ataque. A dupla líder do campeonato começou o dia na quarta posição da geral, mas deu…",
-   "url": "https://www.autosport.pt/sem-categoria/cpr-rali-do-algarve-pec3-ruben-rodrigues-aproxima-se-da-frente/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T09:37:25Z"
-  },
-  {
-   "titulo": "Michelin makes major Motegi tyre decision after sprint dramas",
-   "resumo": "Michelin will remove the soft rear - but not the medium - from its allocation at the Japanese Grand Prix, in a significant development for the competitive picture",
-   "url": "https://www.the-race.com/motogp/michelin-motegi-tyre-compound-removed-japanese-gp/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T09:36:15Z"
-  },
-  {
-   "titulo": "F1 Malaysia starting grid after three penalties",
-   "resumo": "Max Verstappen and Lewis Hamilton will share the front row for the first Formula 1 race in Malaysia in nine years",
-   "url": "https://www.the-race.com/formula-1/f1-malaysian-grand-prix-in-bahrain-starting-grid-after-three-penalties/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T09:35:41Z"
-  },
-  {
    "titulo": "CEO da Geely na Europa diz que elétricos não são a única solução",
    "resumo": "A Geely chegou recentemente a Portugal e sabe que não tem vida fácil pela frente. A marca chinesa entra num mercado onde já estão instaladas várias concorrentes do mesmo país, mas não…",
    "url": "https://www.razaoautomovel.com/noticias/entrevista-ceo-geely-europe-eletricos-nao-sao-unica-solucao/",
@@ -218,36 +418,6 @@
    "data": "2026-10-03T09:20:11Z"
   },
   {
-   "titulo": "GP Bahrein F1: Max Verstappen conquista primeira pole do ano",
-   "resumo": "Na 16.ª corrida do ano, Max Verstappen conquista a primeira pole da temporada, na qualificação para o GP do Bahrein, na Malásia. O piloto da Red Bull esteve no controlo das operações, nunca…",
-   "url": "https://www.autosport.pt/formula1/gp-bahrein-f1-max-verstappen-conquista-primeira-pole-do-ano/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T09:17:28Z"
-  },
-  {
-   "titulo": "F1 Bahrain GP in Malaysia: Verstappen dominates for first pole of 2026 from Hamilton",
-   "resumo": "Max Verstappen took his first pole of the 2026 Formula 1 campaign to deliver on his early weekend promise by dominating qualifying at the Bahrain Grand Prix in Malaysia. The Red Bull driver…",
-   "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-qualifying-report/10861364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T09:14:06Z"
-  },
-  {
-   "titulo": "GP Bahrein F1, Q2: Alonso perto de passar à Q3",
-   "resumo": "Max Verstappen mantém-se como o mais forte candidato à pole, com a concorrência ainda sem conseguir ameaçar o andamento do #3. Na zona de eliminação, vimos a Aston Martin, com Fernando…",
-   "url": "https://www.autosport.pt/formula1/gp-bahrein-f1-q2-alonso-perto-de-passar-a-q3/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T08:49:31Z"
-  },
-  {
    "titulo": "G7 vai libertar 100 milhões de barris para baixar preço do gasóleo",
    "resumo": "O G7, grupo que reúne as sete maiores economias do mundo, acordou libertar até 100 milhões de barris de reservas estratégicas para tentar aliviar a pressão sobre os preços dos combustíveis…",
    "url": "https://www.razaoautomovel.com/noticias/grandes-economias-libertam-milhoes-de-barris-para-travar-preco-do-gasoleo/",
@@ -256,16 +426,6 @@
    "categoria": "Modelos",
    "pt": true,
    "data": "2026-10-03T08:03:01Z"
-  },
-  {
-   "titulo": "MotoGP Japanese GP: Marquez defeats Moreira for sprint victory",
-   "resumo": "Marc Marquez closed the gap to world championship leader Jorge Martin by claiming victory in the sprint race at Motegi on Saturday. Jorge Martin and Enea Bastianini crossed the line second…",
-   "url": "https://www.autosport.com/motogp/news/motogp-japanese-gp-marc-marquez-defeats-diogo-moreira-in-sprint/10861309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T06:53:20Z"
   },
   {
    "titulo": "A Ferrari Testarossa Engine Coffee Table (With A Cracked Crankcase)",
@@ -278,14 +438,14 @@
    "data": "2026-10-03T06:30:43Z"
   },
   {
-   "titulo": "F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3",
-   "resumo": "Kimi Antonelli topped final practice at the Bahrain Grand Prix in Malaysia to recover from a disappointing Friday for the championship-leading Mercedes outfit. The Silver Arrows brought a…",
-   "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-antonelli-recovers-from-tough-friday-to-top-fp3/10861282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
+   "titulo": "F1 – Antonelli tops final practice for Bahrain Grand Prix in Malaysia",
+   "resumo": "Sport news Kimi Antonelli set the pace in Free Practice 3 for the 2026 FIA Formula 1 Bahrain Grand Prix in Malaysia, leading Max Verstappen and Isack Hadjar as Mercedes demonstrated its…",
+   "url": "https://www.fia.com/news/f1-antonelli-tops-final-practice-bahrain-grand-prix-malaysia",
+   "fonte": "FIA",
+   "dominio": "fia.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-03T05:42:11Z"
+   "data": "2026-10-03T06:29:00Z"
   },
   {
    "titulo": "Crayford returns: Is this £35k Mini the ultimate budget resto-mod?",
@@ -318,26 +478,6 @@
    "data": "2026-10-03T01:00:00Z"
   },
   {
-   "titulo": "As VW Kills Off The ID.4, It Launches A $12,500 Discount In The US",
-   "resumo": "VW ended US production of the all-electric ID.4 earlier this year, but big discounts are still available on remaining inventory",
-   "url": "https://www.carscoops.com/2026/10/vw-id-4-incentives/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-03T00:00:00Z"
-  },
-  {
-   "titulo": "With Two Extra Wheels, This Defender Is Ready To Tackle Anything",
-   "resumo": "This wild six-wheeled Defender has a supercharged Coyote V8 with 700 hp",
-   "url": "https://www.carscoops.com/2026/10/custom-land-rover-defender-6x6/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T23:00:00Z"
-  },
-  {
    "titulo": "Governo volta a baixar desconto no ISP do gasóleo e gasolina",
    "resumo": "Os preços dos combustíveis deverão voltar a descer na próxima semana, mas o alívio será parcialmente reduzido por uma redução do desconto aplicado pelo Governo no Imposto sobre os Produtos…",
    "url": "https://www.razaoautomovel.com/noticias/com-combustiveis-a-baixar-governo-reduz-desconto-do-isp/",
@@ -366,16 +506,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-02T22:18:18Z"
-  },
-  {
-   "titulo": "Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen",
-   "resumo": "Several incremental changes arrive on the Model 3, from a new screen to an extra 18 horsepower for the Performance model.",
-   "url": "https://www.caranddriver.com/news/a73998953/tesla-model-3-updates-quicker-bigger-screen/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T20:03:32Z"
   },
   {
    "titulo": "BMW Celebrates One Million M Cars By Teasing The Next M3",
@@ -408,6 +538,16 @@
    "data": "2026-10-02T19:00:00Z"
   },
   {
+   "titulo": "Neuville takes Sardinia lead as Solberg maintains title challenge",
+   "resumo": "Sport news Just 0.4 seconds separate the two Hyundai i20 N Rally1 cars at the end of Friday’s six gravel stages, with Solberg 12.3 seconds further back in his Toyota GR Yaris Rally1…",
+   "url": "https://www.fia.com/news/neuville-takes-sardinia-lead-solberg-maintains-title-challenge",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-02T18:56:00Z"
+  },
+  {
    "titulo": "The 2027 Chevrolet Corvette’s New 6.7-Liter V-8 Is Already Leaking Oil",
    "resumo": "GM says a pair of seals may be responsible for oil leaks in some brand-new Corvettes, but thankfully, the fix is relatively simple.",
    "url": "https://www.roadandtrack.com/news/a73994401/2027-chevrolet-corvette-new-6-7-liter-v-8-leaking-oil/",
@@ -418,32 +558,12 @@
    "data": "2026-10-02T18:49:32Z"
   },
   {
-   "titulo": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
-   "resumo": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
-   "url": "https://www.caranddriver.com/news/g29994375/future-electric-cars-trucks/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T18:31:06Z"
-  },
-  {
    "titulo": "Range Rover Sport Recalled Over Rear Subframes That Can Crack",
    "resumo": "NHTSA campaign 26V613000 covers 2024 to 2026 Land Rover Range Rover Sport SUVs built at Solihull after a rear subframe forging defect.",
    "url": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/",
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T18:00:00Z"
-  },
-  {
-   "titulo": "Engines Are Just Dumb Air Pumps",
-   "resumo": "Engines are dumb simple. Let me explain. Back in the day, we needed something to replace the horse. Animals are pretty good for farm and transport work, but they are a bit hungry and leaky…",
-   "url": "https://www.hagerty.com/media/maintenance-and-tech/engines-are-just-dumb-air-pumps/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-02T18:00:00Z"
   },
@@ -478,34 +598,14 @@
    "data": "2026-10-02T16:00:00Z"
   },
   {
-   "titulo": "The CB900F Was Honda’s Ticket to the 1-Liter Superbike Dance",
-   "resumo": "Honda’s latest bike is a retro-themed model called the CB1000F. It’s a naked four-cylinder roadster whose name and angular styling are inspired by the CB750F and CB900F from 1979. Of that…",
-   "url": "https://www.hagerty.com/media/motorcycles/the-cb900f-was-hondas-ticket-to-the-1-liter-superbike-dance/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
+   "titulo": "New Book Maps Seven Forms of Online Abuse Threatening Sport",
+   "resumo": "FIA news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, and Dublin City University…",
+   "url": "https://www.fia.com/news/new-book-maps-seven-forms-online-abuse-threatening-sport",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-02T16:00:00Z"
-  },
-  {
-   "titulo": "Aston Martin’s First EV Pushed Back to 2033 at the Earliest",
-   "resumo": "While legislation continues to be unpredictable and demand for high-end EVs remains low, Aston Martin is sticking to what it knows.",
-   "url": "https://www.caranddriver.com/news/a73994101/aston-martin-first-ev-pushed-to-2033/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T15:42:22Z"
-  },
-  {
-   "titulo": "These Are the Biggest Winners and Losers in Auto Sales in Q3 2026",
-   "resumo": "Kia and Hyundai set new third-quarter sales records, while electric vehicles continued to suffer from slumping sales across the board.",
-   "url": "https://www.caranddriver.com/news/a73994800/auto-sales-q3-2026-winners-losers/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T15:39:12Z"
+   "data": "2026-10-02T15:10:00Z"
   },
   {
    "titulo": "Michael Jordan’s Ferrari 550 Maranello Sells for Record $2.7 Million",
@@ -516,106 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-02T14:38:58Z"
-  },
-  {
-   "titulo": "Mercedes Is Dropping Three Models For 2027",
-   "resumo": "The EQE sedan, AMG S63 E Performance, and Maybach EQS 680 SUV are leaving the lineup for 2027.",
-   "url": "https://www.motor1.com/news/810604/mercedes-eqe-s63-eqs-discontinued/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T14:04:56Z"
-  },
-  {
-   "titulo": "Ford Says Its $30,000 Fathom Truck Will Require One 'Heck Of An Effort'",
-   "resumo": "The Fathom is unlike any vehicle Ford has made before, with a new platform and production process.",
-   "url": "https://www.motor1.com/news/810512/ford-fathom-electric-truck-challenge/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T13:00:00Z"
-  },
-  {
-   "titulo": "For Sale: A Flat-Six Powered Meyers Manx Dune Buggy",
-   "resumo": "This is a Meyers Manx dune buggy, powered by a 2.7 liter air-cooled flat-six out of a Chevrolet Corvair, rather than the more common... The post For Sale: A Flat-Six Powered Meyers Manx…",
-   "url": "https://silodrome.com/flat-six-meyers-manx-dune-buggy/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T12:30:58Z"
-  },
-  {
-   "titulo": "Audi A6 Allroad driven: Executive long-distance motoring reimagined",
-   "resumo": "Return of the jacked-up, black-clad executive estate with six-cylinder power We’re used to ruggedised versions of estate cars coming and going. Mostly going, it must be said: they had a…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/audi-a6-allroad-driven-executive-long-distance-motoring-reimagined",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T12:00:54Z"
-  },
-  {
-   "titulo": "UK in 'genuine dilemma' over bowing to EU on Chinese car tariffs",
-   "resumo": "The EU has reportedly pressured the UK to tariff Chinese cars in exchange for significant trade benefits The UK is facing a “genuine dilemma” over whether to impose the same tariffs on…",
-   "url": "https://www.autocar.co.uk/car-news/business-corporate/uk-genuine-dilemma-over-bowing-eu-chinese-car-tariffs",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T11:13:26Z"
-  },
-  {
-   "titulo": "Jaecoo 7 named UK's best-selling car as Chinese brands take nearly quarter of market",
-   "resumo": "Omoda-Jaecoo brands are \"here to stay\", says MD, as Chinese marques secure strong footing in UK The Jaecoo 7 was the UK’s best-selling new car in September – its second month at the top…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/jaecoo-7-named-uks-best-selling-car-chinese-brands-take-nearly-quarter-market",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T09:31:49Z"
-  },
-  {
-   "titulo": "Why Ford's WRC comeback proves its commitment to the UK",
-   "resumo": "Company's return to top-flight rallying is great news for fans but will also reshape its road cars Ford’s return to the World Rally Championship in 2028 is great news for rallying fans…",
-   "url": "https://www.autocar.co.uk/opinion/motorsport-wrc/why-fords-wrc-comeback-proves-its-commitment-uk",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T06:00:00Z"
-  },
-  {
-   "titulo": "An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With Moving Internals",
-   "resumo": "This is the new Franzis reissue of its 1:2 scale working model of the BMW R 90 S flat-twin – timing the new edition... The post An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With…",
-   "url": "https://silodrome.com/bmw-r-90s-engine-model-kit/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T05:30:44Z"
-  },
-  {
-   "titulo": "Also in my garage: Soviet classic car models and artefacts",
-   "resumo": "Also in my garage: Soviet classic car models and artefacts Ryan Standen Fri, 02/10/2026 - 05:29",
-   "url": "https://www.classicandsportscar.com/features/also-my-garage-soviet-classic-car-models-and-artefacts",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T04:29:24Z"
-  },
-  {
-   "titulo": "Mercedes-Benz 370S Mannheim: miniature masterpiece",
-   "resumo": "Mercedes-Benz 370S Mannheim: miniature masterpiece Ryan Standen Fri, 02/10/2026 - 05:28",
-   "url": "https://www.classicandsportscar.com/features/mercedes-benz-370s-mannheim-miniature-masterpiece",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T04:28:56Z"
   }
  ]
 }
