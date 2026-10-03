@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-02T22:13:38Z",
+ "atualizado": "2026-10-03T05:17:55Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -17,6 +17,126 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Honda calls Aleix Espargaro back for Indonesia MotoGP race",
+   "resumo": "Joan Mir’s injury and Takaaki Nakagami’s fractured collarbone, which required surgery after Friday’s crash at Motegi, have forced Honda to call up Aleix Espargaro, who will return to MotoGP…",
+   "url": "https://www.motorsport.com/motogp/news/honda-calls-aleix-espargaro-back-for-indonesia-motogp-race/10861222/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T05:00:21Z"
+  },
+  {
+   "titulo": "Crayford returns: Is this £35k Mini the ultimate budget resto-mod?",
+   "resumo": "Coachbuilding marque revived for open-sided beach car that brings endless fun for VW Golf money This is one of those cars whose elevator pitch would be a remarkably straightforward one…",
+   "url": "https://www.autocar.co.uk/car-news/features/crayford-returns-%C2%A335k-mini-ultimate-budget-resto-mod",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T05:00:00Z"
+  },
+  {
+   "titulo": "MotoGP Japanese GP: Martin edges out Marquez to claim back-to-back pole positions",
+   "resumo": "MotoGP’s championship leader Jorge Martin claimed pole position in a thrilling qualifying at the Japanese Grand Prix, beating Marc Marquez to the top spot by a tenth of a second. Martin had…",
+   "url": "https://www.autosport.com/motogp/news/motogp-japanese-gp-martin-edges-out-marquez-to-claim-back-to-back-pole-positions/10861235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T02:52:04Z"
+  },
+  {
+   "titulo": "MotoGP Japanese GP: Jorge Martin edges out Marc Marquez to claim back-to-back pole positions",
+   "resumo": "MotoGP’s championship leader Jorge Martin claimed pole position in a thrilling qualifying at the Japanese Grand Prix, beating Marc Marquez to the top spot by a tenth of a second. Martin had…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-japanese-gp-martin-pole-aprilia-marquez/10861231/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T02:50:58Z"
+  },
+  {
+   "titulo": "Martin upsets Marquez to score surprise Motegi pole",
+   "resumo": "MotoGP championship leader Jorge Martin sniped Motegi pole position from title rival Marc Marquez after a substantial turnaround from Friday practice",
+   "url": "https://www.the-race.com/motogp/martin-upsets-marquez-to-score-surprise-motegi-pole/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-03T02:48:32Z"
+  },
+  {
+   "titulo": "We Bet You’ve Never Seen A Lincoln Town Car Like This Before",
+   "resumo": "This bizarre hearse has been driven just 19,717 miles and is one heck of a way to go out",
+   "url": "https://www.carscoops.com/2026/10/lincoln-town-car-hearse-auction/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T02:00:00Z"
+  },
+  {
+   "titulo": "BMW Sales Are Up, But Some Models Are Having A Very Strange Year",
+   "resumo": "BMW had a solid third quarter, but huge gains for the 3 Series and X5 hide some spectacular declines elsewhere",
+   "url": "https://www.carscoops.com/2026/10/bmw-sales-up-some-models-having-strange-year/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T01:00:00Z"
+  },
+  {
+   "titulo": "As VW Kills Off The ID.4, It Launches A $12,500 Discount In The US",
+   "resumo": "VW ended US production of the all-electric ID.4 earlier this year, but big discounts are still available on remaining inventory",
+   "url": "https://www.carscoops.com/2026/10/vw-id-4-incentives/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T00:00:00Z"
+  },
+  {
+   "titulo": "With Two Extra Wheels, This Defender Is Ready To Tackle Anything",
+   "resumo": "This wild six-wheeled Defender has a supercharged Coyote V8 with 700 hp",
+   "url": "https://www.carscoops.com/2026/10/custom-land-rover-defender-6x6/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-02T23:00:00Z"
+  },
+  {
+   "titulo": "Com combustíveis a baixar Governo reduz desconto do ISP",
+   "resumo": "Os preços dos combustíveis deverão voltar a descer na próxima semana, mas o alívio será parcialmente reduzido por uma redução do desconto aplicado pelo Governo no Imposto sobre os Produtos…",
+   "url": "https://www.razaoautomovel.com/noticias/com-combustiveis-a-baixar-governo-reduz-desconto-do-isp/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-02T22:55:05Z"
+  },
+  {
+   "titulo": "What is the USA’s 25-year import rule?",
+   "resumo": "The US bans imports of cars under 25 years old that weren’t sold there. We explain how the 25-year rule works, why it exists and which cars are eligible.",
+   "url": "https://www.octane-magazine.com/articles/features/usa-25-year-import-rule-explained/",
+   "fonte": "Octane",
+   "dominio": "octane-magazine.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-02T22:40:49Z"
+  },
+  {
+   "titulo": "Porsche Debuts Modern Infotainment for Older Models—But Do I Want One?",
+   "resumo": "Ah, the late 2000s. Digital nannies hadn’t fully taken over our cars, and we all still thought automotive batteries were just the 12-volt units you could buy at AutoZone. But screens had…",
+   "url": "https://www.hagerty.com/media/news/porsche-debuts-modern-infotainment-for-older-models-but-do-i-want-one/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-02T22:18:18Z"
+  },
   {
    "titulo": "Driving The Corvette Stingray And Z06 On Track Is Like Dying And Going To Heaven | Review",
    "resumo": "There's no better way to send off the 6.2-liter Corvette Stingray and the Z06 than with a rather special track",
@@ -58,26 +178,6 @@
    "data": "2026-10-02T21:01:18Z"
   },
   {
-   "titulo": "Lexus LX Finally Gets F Sport Treatment In Japan, Plus Handling Tweaks",
-   "resumo": "The Land Cruiser's premium sibling benefits from model year updates in the Japanese market",
-   "url": "https://www.carscoops.com/2026/10/lexus-lx-f-sport-japan/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T21:00:00Z"
-  },
-  {
-   "titulo": "Spire to remember first and last Kyle Busch Motorsports wins with special paint schemes",
-   "resumo": "On Friday, Spire Motorsports announced plans to memorialize Kyle Busch with not one, but two special paint schemes for the upcoming NASCAR Craftsman Truck Series race at Charlotte Motor…",
-   "url": "https://www.motorsport.com/nascar-truck/news/spire-will-remember-first-and-100th-kyle-busch-motorsports-wins-with-special-paint-schemes/10861178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-02T20:25:20Z"
-  },
-  {
    "titulo": "Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen",
    "resumo": "Several incremental changes arrive on the Model 3, from a new screen to an extra 18 horsepower for the Performance model.",
    "url": "https://www.caranddriver.com/news/a73998953/tesla-model-3-updates-quicker-bigger-screen/",
@@ -98,54 +198,14 @@
    "data": "2026-10-02T20:00:00Z"
   },
   {
-   "titulo": "Stellantis Sales Are Flat, But The Numbers Tell A Wild Story",
-   "resumo": "Ram is booming, Jeep is struggling, Alfa is collapsing, and gas Chargers are crushing their electric siblings",
-   "url": "https://www.carscoops.com/2026/10/stellantis-sales-flat-but-numbers-tell-wild-story/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T20:00:00Z"
-  },
-  {
    "titulo": "If You’re Gaga for Goggomobil, Here’s Your Chance",
    "resumo": "Automotive history is rich with companies that began by building one thing and then pivoted to cars. Renzo Rivolta, for example, built refrigerators before he built cars (under the Iso…",
-   "url": "https://www.hagerty.com/media/buying-and-selling/if-youre-gaga-for-goggomobil-heres-your-chance/",
+   "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/if-youre-gaga-for-goggomobil-heres-your-chance/",
    "fonte": "Hagerty",
    "dominio": "hagerty.com",
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-02T20:00:00Z"
-  },
-  {
-   "titulo": "Tom Blomqvist leads Acura Meyer Shank front-row sweep at Petit Le Mans",
-   "resumo": "Tom Blomqvist led a front row sweep in Acura Meyer Shank Racing’s swansong in the Motul Petit Le Mans at Michelin Raceway Road Atlanta. Driving the #60 Acura ARX-06, Blomqvist delivered an…",
-   "url": "https://www.motorsport.com/imsa/news/tom-blomqvist-leads-acura-meyer-shank-front-row-sweep-at-petit-le-mans/10861165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-02T19:55:00Z"
-  },
-  {
-   "titulo": "Porsche’s Hotter Electric Cayenne Coupe Steps Out Of The Shadows",
-   "resumo": "The upcoming Turbo GT variant could have over 1,200 hp",
-   "url": "https://www.carscoops.com/2026/10/porsche-cayenne-turbo-gt-electric-spied-2/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T19:51:21Z"
-  },
-  {
-   "titulo": "Hyundai’s New Tucson Is Already Out, But Sales of The 6-Year-Old One Rocketed 32%",
-   "resumo": "Korean brand experienced its best September ever in US, fueled by a 39% jump in hybrid sales",
-   "url": "https://www.carscoops.com/2026/10/hyundais-new-tucson-is-already-out-but-sales-of-the-6-year-old-one-rocketed-32/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T19:00:00Z"
   },
   {
    "titulo": "The 2027 BMW 3 Series We’re Most Excited to Drive Isn’t the EV or the M3",
@@ -378,18 +438,8 @@
    "data": "2026-10-02T15:02:16Z"
   },
   {
-   "titulo": "Our Two Cents: Summer, Winter, or All-Season Tires for Your Daily?",
-   "resumo": "Tires come in all shapes and sizes these days. Well, perhaps not shapes, but the compounds used to make these circular feats of engineering come in a diverse array of formulations. We have…",
-   "url": "https://www.hagerty.com/media/hagerty-community/our-two-cents-summer-winter-or-all-season-tires-for-your-daily/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T15:00:00Z"
-  },
-  {
    "titulo": "Michael Jordan’s Ferrari 550 Maranello Sells for Record $2.7 Million",
-   "resumo": "The NBA legend put more than 6000 miles on the car during his ownership, much of it driving to and from Chicago Bills games.",
+   "resumo": "The NBA legend put more than 6000 miles on the car during his ownership, much of it driving to and from Chicago Bulls games.",
    "url": "https://www.roadandtrack.com/news/a73987660/michael-jordan-ferrari-550-maranello-sells-for-2-7-million-dollars/",
    "fonte": "Road & Track",
    "dominio": "roadandtrack.com",
@@ -478,16 +528,6 @@
    "data": "2026-10-02T12:00:54Z"
   },
   {
-   "titulo": "Futuro do BMW Série 1 cada vez mais claro",
-   "resumo": "Aos poucos, o futuro do BMW Série 1 vai ficando mais claro. Depois de há uns meses os responsáveis da marca bávara terem dado pistas sobre o regresso da tração traseira, agora começa a…",
-   "url": "https://www.razaoautomovel.com/noticias/antevisao-bmw-confirmou-compacto-cinco-portas-eletrico-2028/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-02T11:37:34Z"
-  },
-  {
    "titulo": "WRC Sardinia: Fourmaux heads Hyundai 1-2 after puncture-filled morning",
    "resumo": "Adrien Fourmaux has moved into the lead of Rally Italy Sardinia to head a Hyundai 1-2 after a punishing opening loop that featured several punctures for World Rally Championship Rally1…",
    "url": "https://www.autosport.com/wrc/news/wrc-sardinia-adrien-fourmaux-heads-hyundai-1-2-after-puncture-filled-morning-/10861047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -516,16 +556,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-02T11:13:26Z"
-  },
-  {
-   "titulo": "The hidden potential in Honda's home MotoGP weekend",
-   "resumo": "The Honda MotoGP team's Japanese Grand Prix weekend did not exactly get off to a flyer. The manufacturer came into Motegi with worries around its factory rider, Joan Mir, who remains absent…",
-   "url": "https://www.autosport.com/motogp/news/the-hidden-potential-in-hondas-home-motogp-weekend/10861014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-02T10:46:46Z"
   },
   {
    "titulo": "ETRC: Chrome title chase takes centre stage at Jarama season finale",
@@ -568,16 +598,6 @@
    "data": "2026-10-02T09:24:20Z"
   },
   {
-   "titulo": "Cost cap creating 'two-tier' F1 - Vowles",
-   "resumo": "Formula 1’s \"cost cap trap\" is creating a “two-tier championship”, widening the gap between the top four teams and the rest, reckons this series team boss",
-   "url": "https://www.the-race.com/formula-1/cost-cap-creating-two-tier-f1/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-02T07:50:07Z"
-  },
-  {
    "titulo": "F1 - 2026 Bahrain Grand Prix in Malaysia - Friday Press Conference Transcript",
    "resumo": "Sport news TEAM REPRESENTATIVES - James VOWLES (Williams), Frédéric VASSEUR (Ferrari), Flavio BRIATORE (Alpine) Q: If I could start with all three of you, if that’s okay. It’s been a…",
    "url": "https://www.fia.com/news/f1-2026-bahrain-grand-prix-malaysia-friday-press-conference-transcript",
@@ -596,26 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-02T06:00:00Z"
-  },
-  {
-   "titulo": "An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With Moving Internals",
-   "resumo": "This is the new Franzis reissue of its 1:2 scale working model of the BMW R 90 S flat-twin – timing the new edition... The post An Incredible 1:2 Scale BMW R/90S Engine Model Kit – With…",
-   "url": "https://silodrome.com/bmw-r-90s-engine-model-kit/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-02T05:30:44Z"
-  },
-  {
-   "titulo": "Aston won't launch EV until at least 2033, will keep V8 and V12",
-   "resumo": "Due to uncertain EV demand and changing legislation, the British firm will focus on ICE cars for the rest of the decade Aston Martin will not launch its first electric car until at least…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/aston-wont-launch-ev-until-least-2033-will-keep-v8-and-v12",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T05:00:00Z"
   }
  ]
 }
