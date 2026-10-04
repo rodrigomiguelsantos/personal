@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-03T21:13:43Z",
+ "atualizado": "2026-10-04T05:51:37Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,106 @@
  ],
  "itens": [
   {
+   "titulo": "Brandon Jones disqualified by NASCAR after Las Vegas crash",
+   "resumo": "Saturday's NASCAR O'Reilly Auto Parts Series (NOAPS) race at Las Vegas Motor Speedway was one both Brandon Jones and Justin Allgaier would like to forget. They crashed out of the race after…",
+   "url": "https://www.motorsport.com/nascar-os/news/brandon-jones-disqualified-after-las-vegas-crash/10861709/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-04T04:33:46Z"
+  },
+  {
+   "titulo": "Porsche Penske Holds Off BMW to Win From IMSA’s Top Class at Petit Le Mans for the First Time",
+   "resumo": "Cadillac takes it all, but Porsche Penske finally finds victory at Road Atlanta in the GTP category.",
+   "url": "https://www.roadandtrack.com/news/a74009254/porsche-penske-holds-off-bmw-wins-from-the-top-class-at-petit-le-mans-for-the-first-time/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-04T02:42:32Z"
+  },
+  {
+   "titulo": "Laurens Vanthoor holds off BMW to give Porsche historic IMSA Petit Le Mans win",
+   "resumo": "Laurens Vanthoor fended off rivals on a late restart to give Porsche Penske Motorsport the victory in the Motul Petit Le Mans at Michelin Raceway Road Atlanta. The Belgian, co-driving the…",
+   "url": "https://www.motorsport.com/imsa/news/laurens-vanthoor-holds-off-bmw-to-give-porsche-historic-petit-le-mans-win/10861684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-04T02:35:24Z"
+  },
+  {
+   "titulo": "Corey Day prevails in jaw-dropping battle for NASCAR O'Reilly win at Las Vegas",
+   "resumo": "Corey Day earned his third win of the 2026 NASCAR O'Reilly Auto Parts season in dramatic fashion, narrowly holding off Carson Kvapil in an incredible back-and-forth battle. Kvapil ran Day…",
+   "url": "https://www.motorsport.com/nascar-os/news/corey-day-prevails-jaw-dropping-battle-for-win-nascar-oreilly-las-vegas/10861678/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-04T02:22:26Z"
+  },
+  {
+   "titulo": "MotoGP Japanese GP: Full starting grid",
+   "resumo": "Aprilia's Jorge Martin will start the Japanese Grand Prix from pole position after breaking the circuit record in Saturday's qualifying session at Motegi. The 2024 MotoGP champion will line…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-2026-japanese-gp-full-starting-grid/10861549/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-04T01:54:33Z"
+  },
+  {
+   "titulo": "Felipe Nasr crashes out of Petit Le Mans in violent wreck after winning Endurance Cup",
+   "resumo": "A dramatic front-stretch accident involving Felipe Nasr brought a bitter end to the Motul Petit Le Mans for the #7 Porsche Penske Motorsport Porsche 963, shortly after Nasr, Julien…",
+   "url": "https://www.motorsport.com/imsa/news/felipe-nasr-crashes-out-of-petit-le-mans-after-winning-endurance-cup/10861689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-04T01:23:29Z"
+  },
+  {
+   "titulo": "João Rodrigues Campeão de Portugal de Ralis 2RM",
+   "resumo": "João Rodrigues e Bruno Carvalho asseguraram antecipadamente o título das 2RM do Campeonato de Portugal de Ralis. Numa prova que contou também para os dois troféus da Peugeot, o piloto de…",
+   "url": "https://www.autosport.pt/ralis/joao-rodrigues-campeao-de-portugal-de-ralis-2rm/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T22:10:42Z"
+  },
+  {
+   "titulo": "Citroen Is Reviving The Iconic 2CV As An Affordable EV",
+   "resumo": "The model will be unveiled as a concept in Paris, but Citroen is cooking up a production version for 2028",
+   "url": "https://www.carscoops.com/2026/10/citroen-2cv-teasers/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T22:00:00Z"
+  },
+  {
+   "titulo": "Cadillac Benefits from Magnussen-Palou Crash at Petit Le Mans Halfway Mark",
+   "resumo": "Alex Palou, in the opening corners of his first race at Road Atlanta, was involved in an incident with Kevin Magnussen in the No. 25 BMW.",
+   "url": "https://www.roadandtrack.com/news/a74008113/magnussen-palou-crash-petit-le-mans-cadillac-leads-halfway-mark/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-03T21:29:56Z"
+  },
+  {
+   "titulo": "Oliver Solberg assume liderança e leva decisão do título do WRC para o último dia",
+   "resumo": "Oliver Solberg lidera o Rali da Sardenha e leva a decisão do título do WRC para o derradeiro dia, com Elfyn Evans sob pressão. Oliver Solberg assumiu este sábado a liderança do Rali da…",
+   "url": "https://www.autosport.pt/ralis/oliver-solberg-assume-lideranca-e-leva-decisao-do-titulo-do-wrc-para-o-ultimo-dia/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T21:18:43Z"
+  },
+  {
    "titulo": "It Looks Like A Toyota Minivan But It’s Actually An EV With 5 HP",
    "resumo": "The Nora EV Metro is a small urban MPV with a fully electric powertrain that will soon go on sale in Pakistan",
    "url": "https://www.carscoops.com/2026/10/nora-ev-metro/",
@@ -28,6 +128,26 @@
    "data": "2026-10-03T21:00:00Z"
   },
   {
+   "titulo": "FIA aumenta potência dos Rally1 de 2027",
+   "resumo": "A FIA confirmou que os carros da categoria Rally1 vão dispor de mais potência a partir de 2027, com o objetivo de os afastar do pelotão dos carros do segundo escalão (Rally2). O diretor…",
+   "url": "https://www.autosport.pt/ralis/fia-aumenta-potencia-dos-rally1-de-2027/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T20:36:55Z"
+  },
+  {
+   "titulo": "Rampa da Arrábida arranca com quatro pilotos separados por menos de um segundo",
+   "resumo": "A 35ª Rampa da Arrábida arrancou com quatro pilotos separados por menos de um segundo na liderança. Conheça todos os resultados do primeiro dia. A 35ª edição da rampa da arrábida…",
+   "url": "https://www.autosport.pt/velocidade/rampa-da-arrabida-arranca-com-quatro-pilotos-separados-por-menos-de-um-segundo/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T19:37:00Z"
+  },
+  {
    "titulo": "Evans set for “all in or nothing” approach to WRC title showdown",
    "resumo": "Elfyn Evans admits he will have to go “all in or nothing” to claim a maiden World Rally Championship title in Sunday’s showdown at Rally Italy Sardinia. The five-time title runner-up took a…",
    "url": "https://www.autosport.com/wrc/news/elfyn-evans-set-for-all-in-or-nothing-approach-to-wrc-title-showdown/10861661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -36,16 +156,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-03T19:13:24Z"
-  },
-  {
-   "titulo": "Elfyn Evans set for “all in or nothing” approach to WRC title showdown",
-   "resumo": "Elfyn Evans admits he will have to go “all in or nothing” to claim a maiden World Rally Championship title in Sunday’s showdown at Rally Italy Sardinia. The five-time title runner-up took a…",
-   "url": "https://www.motorsport.com/wrc/news/elfyn-evans-set-for-all-in-or-nothing-approach-to-wrc-title-showdown/10861659/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T19:10:21Z"
   },
   {
    "titulo": "Goodyear FIA ETRC Jarama day one round-up: Smith joins Kiss in the Winners’ Club with maiden victory",
@@ -68,6 +178,16 @@
    "data": "2026-10-03T19:00:00Z"
   },
   {
+   "titulo": "Pedro e João Câmara vencem Rali do Algarve e relançam luta no troféu Peugeot",
+   "resumo": "Com a Peugeot Rally Cup Ibérica resolvida, Pedro Câmara e João Câmara venceram o Rallye Casinos do Algarve, quarta e última prova da Peugeot Rally Cup Ibérica e penúltima ronda da Peugeot…",
+   "url": "https://www.autosport.pt/ralis/pedro-e-joao-camara-vencem-rali-do-algarve-e-relancam-luta-no-trofeu-peugeot/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-03T18:53:00Z"
+  },
+  {
    "titulo": "Testei o Dacia Sandero a GPL e é fácil perceber porque vende tanto",
    "resumo": "O Dacia Sandero capta atenções pelo preço e custos de utilização, mas os seus argumentos não se resumem ao efeito que tem na nossa carteira. Lançado há seis anos, o Dacia Sandero parece…",
    "url": "https://www.razaoautomovel.com/testes/ensaio/teste-dacia-sandero-stepway-gpl-2026/",
@@ -88,36 +208,6 @@
    "data": "2026-10-03T18:43:00Z"
   },
   {
-   "titulo": "Why Sheldon Creed is going to Sam Hunt Racing in 2027",
-   "resumo": "Sheldon Creed is leading the NASCAR O’Reilly Series Chase for the Championship through three races with Haas Factory Team but will move to Sam Hunt Racing in 2027 where the goal will be…",
-   "url": "https://www.motorsport.com/nascar-os/news/why-sheldon-creed-is-going-to-sam-hunt-racing-in-2027-/10861656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T18:39:36Z"
-  },
-  {
-   "titulo": "Kyle Busch Remembered: Rowdy's wildest and most impressive moments at Las Vegas home track",
-   "resumo": "We continue our 'Kyle Busch Remembered' series with memorable moments from a place very special to Busch -- his home track in Las Vegas, Nevada. Busch won seven NASCAR races at his home…",
-   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-remembered-rowdys-most-memorable-las-vegas-moments/10861249/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T18:37:56Z"
-  },
-  {
-   "titulo": "GP do Bahrein F1, Lewis Hamilton: “Fizemos uma última alteração e acertámos em cheio”",
-   "resumo": "Lewis Hamilton vai partir da primeira fila para o Grande Prémio do Bahrein na Malásia, depois de garantir o segundo lugar da grelha no Circuito Internacional de Sepang. O piloto da Ferrari…",
-   "url": "https://www.autosport.pt/formula1/gp-do-bahrein-f1-lewis-hamilton-fizemos-uma-ultima-alteracao-e-acertamos-em-cheio/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T18:24:28Z"
-  },
-  {
    "titulo": "Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40",
    "resumo": "The Ferrari F40 conundrum: What do you do when the best car you own is the worst car for your life?",
    "url": "https://www.caranddriver.com/features/columns/a73929551/ezra-dyer-friend-ferrari-f40/",
@@ -126,26 +216,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-03T18:00:00Z"
-  },
-  {
-   "titulo": "OPINIÃO: o difícil adeus à era mais veloz da história dos ralis",
-   "resumo": "Na Sardenha, com o cair do pano sobre a temporada de 2026, o WRC fecha um livro dourado, mas de cortar a respiração: o ciclo técnico que gerou os carros de rali mais rápidos, eficazes e…",
-   "url": "https://www.autosport.pt/ralis/opiniao-o-dificil-adeus-a-era-mais-veloz-da-historia-dos-ralis/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T17:53:00Z"
-  },
-  {
-   "titulo": "GP Bahrein F1, Max Verstappen: “Resultado incrível”",
-   "resumo": "Max Verstappen conquistou em Sepang a sua primeira pole position da temporada de 2026 e parte para o Grande Prémio do Bahrein com o objetivo de terminar o jejum de vitórias. O piloto da Red…",
-   "url": "https://www.autosport.pt/formula1/gp-bahrein-f1-max-verstappen-resultado-incrivel/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T17:49:41Z"
   },
   {
    "titulo": "Mercedes Struggles to Get It Right As It Brings Long-Awaited Upgrades to Malaysia",
@@ -168,16 +238,6 @@
    "data": "2026-10-03T17:17:03Z"
   },
   {
-   "titulo": "Sheldon Creed leaves Haas for Sam Hunt Racing in multi-year NASCAR O'Reilly deal",
-   "resumo": "Neither of Haas Factory Team’s current NASCAR O’Reilly drivers will return in 2027. It was already announced that Sam Mayer would leave the No. 41 to rejoin JR Motorsports, and on Saturday…",
-   "url": "https://www.motorsport.com/nascar-os/news/sheldon-creed-leaves-haas-for-sam-hunt-racing-in-multi-year-nascar-oreilly-deal/10861636/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T17:13:01Z"
-  },
-  {
    "titulo": "GM’s Electric Vehicle Sales Fell Off A Cliff Last Quarter",
    "resumo": "GM sales were down 5.5% in Q3 compared to last year, but EV sales dropped even worse",
    "url": "https://www.carscoops.com/2026/10/gms-electric-vehicle-sales-fell-off-a-cliff-last-quarter/",
@@ -196,26 +256,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-03T16:40:41Z"
-  },
-  {
-   "titulo": "WRC Sardinia: Title wide open after double Hyundai drama",
-   "resumo": "Sami Pajari Oliver Solberg will head into the final day of the World Rally Championship a mere six points behind Toyota's Elfyn Evans after a dramatic Saturday afternoon at Rally Italy…",
-   "url": "https://www.motorsport.com/wrc/news/wrc-sardinia-title-wide-open-after-double-hyundai-drama/10861628/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-03T16:38:06Z"
-  },
-  {
-   "titulo": "WRC, Rali da Sardenha, PEC13: Oliver Solberg termina dia na liderança, contas do título em aberto",
-   "resumo": "Oliver Solberg (Toyota GR Yaris Rally1) termina o penúltimo dia do Rali da Sardenha na liderança da prova, com 33,6 segundos de vantagem para Sébastien Ogier (Toyota GR Yaris Rally1). Mas…",
-   "url": "https://www.autosport.pt/ralis/wrc-rali-da-sardenha-pec13-oliver-solberg-termina-dia-na-lideranca-contas-do-titulo-em-aberto/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-03T16:28:58Z"
   },
   {
    "titulo": "Las Vegas Motor Speedway Honors Kyle Busch with Kurt as Pace Car Driver and a Weekend of Tributes",
@@ -256,16 +296,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-03T15:45:03Z"
-  },
-  {
-   "titulo": "Verstappen Targets Sepang Win After Logging Ford's First F1 Pole in 27 Years",
-   "resumo": "The Red Bull driver earns the first pole not backed by a Mercedes engine of the 2026 season.",
-   "url": "https://www.roadandtrack.com/news/a74005292/verstappen-targets-sepang-win-after-logging-ford-first-f1-pole-since-1999/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-03T15:20:37Z"
   },
   {
    "titulo": "Police Arrest Four And Seize Race Car Following Illegal Drag Race In NY",
@@ -326,16 +356,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-03T13:05:07Z"
-  },
-  {
-   "titulo": "Honda’s New Prelude Is Great, But We All Know What It’s Missing | Review",
-   "resumo": "The new Honda Prelude proves a sports car doesn't need a boatload of power to be great, but it falls short of excellence",
-   "url": "https://www.carscoops.com/2026/10/honda-prelude-australia-review/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-03T13:00:00Z"
   },
   {
    "titulo": "This Vintage Porsche 944 Conversion Is Way Cooler Than a New 911",
@@ -468,16 +488,6 @@
    "data": "2026-10-03T09:33:56Z"
   },
   {
-   "titulo": "Max Verstappen Secures First Pole Position of 2026 in F1’s Return to Sepang",
-   "resumo": "Max Verstappen brought Red Bull Racing their first pole in their DM01 era with a dominant run in F1’s return to Malaysia for the Bahrain Grand Prix.",
-   "url": "https://www.roadandtrack.com/news/a74002492/max-verstappen-secures-first-pole-position-2026-f1-return-to-sepang/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-03T09:20:11Z"
-  },
-  {
    "titulo": "G7 vai libertar 100 milhões de barris para baixar preço do gasóleo",
    "resumo": "O G7, grupo que reúne as sete maiores economias do mundo, acordou libertar até 100 milhões de barris de reservas estratégicas para tentar aliviar a pressão sobre os preços dos combustíveis…",
    "url": "https://www.razaoautomovel.com/noticias/grandes-economias-libertam-milhoes-de-barris-para-travar-preco-do-gasoleo/",
@@ -606,16 +616,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-02T16:00:00Z"
-  },
-  {
-   "titulo": "Mercedes Is Dropping Three Models For 2027",
-   "resumo": "The EQE sedan, AMG S63 E Performance, and Maybach EQS 680 SUV are leaving the lineup for 2027.",
-   "url": "https://www.motor1.com/news/810604/mercedes-eqe-s63-eqs-discontinued/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T14:04:56Z"
   }
  ]
 }
