@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-10-04T21:24:00Z",
+ "atualizado": "2026-10-05T05:38:51Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,96 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Who slept worst last night: an F1 fan",
+   "resumo": "You know how you try to watch a series you like, but it’s sort of a boring episode with a lot of nothing going on – at least in the beginning – and you fall asleep in front of the TV? And…",
+   "url": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-an-f1-fan/10862068/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-05T05:20:15Z"
+  },
+  {
+   "titulo": "Mini vs MINI at 25: BMW’s pretender battles last-of-the-line Cooper",
+   "resumo": "Mini vs MINI at 25: BMW’s pretender battles last-of-the-line Cooper Ryan Standen Mon, 05/10/2026 - 05:00",
+   "url": "https://www.classicandsportscar.com/features/mini-vs-mini-25-bmws-pretender-battles-last-line-cooper",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-05T04:00:00Z"
+  },
+  {
+   "titulo": "Kyle Larson's 2.2 average finish is turning Cup Series Chase into a rout",
+   "resumo": "Kyle Larson didn’t win the battle on Sunday night at Las Vegas Motor Speedway but Kyle Larson and Cliff Daniels took a tremendous step towards winning the war with how they rallied in the…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-larsons-22-average-finish-is-turning-cup-series-chase-into-a-rout/10862134/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-05T03:16:14Z"
+  },
+  {
+   "titulo": "Denny Hamlin explains costly Las Vegas spin in rough NASCAR Cup race",
+   "resumo": "Denny Hamlin had high expectations for Las Vegas, and it was hard not to after earning pole position in a Joe Gibbs Racing 1-2-3-4. Ultimately though, it was a day he'd like to soon forget…",
+   "url": "https://www.motorsport.com/nascar-cup/news/denny-hamlin-explains-why-he-spun-in-difficult-day-for-nascar-cup-title-challenger/10862115/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-05T02:56:55Z"
+  },
+  {
+   "titulo": "Christopher Bell frustrated after mechanical issue tanks potential opportunity in Las Vegas",
+   "resumo": "The stage was set for Christopher Bell to jump up the Chase standings with a strong finish on Sunday at Las Vegas Motor Speedway. After the top two drivers in the Chase, Kyle Larson and…",
+   "url": "https://www.motorsport.com/nascar-cup/news/christopher-bell-frustrated-after-mechanical-issue-tanks-potential-opportunity-in-las-vegas/10862132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-05T02:55:06Z"
+  },
+  {
+   "titulo": "Austin Cindric feels like he’s right on the edge of winning",
+   "resumo": "Austin Cindric had another strong finish at Las Vegas Motor Speedway on Sunday, taking fourth place in the South Point 400 to secure his second straight top-five of the Chase. While Cindric…",
+   "url": "https://www.motorsport.com/nascar-cup/news/austin-cindric-felt-close-to-competing-for-las-vegas-cup-win/10862129/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-05T02:28:23Z"
+  },
+  {
+   "titulo": "Briscoe Finds Redemption Battling with Larson for Las Vegas Win at Halfway Mark of NASCAR’s Chase",
+   "resumo": "Chase Briscoe scores a mega points day at Las Vegas and finds redemption in holding off Kyle Larson after last week's heartbreaking defeat.",
+   "url": "https://www.roadandtrack.com/news/a74020628/briscoe-finds-redemption-battling-with-larson-for-las-vegas-win-at-halfway-mark-of-nascars-chase/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-05T00:48:22Z"
+  },
+  {
+   "titulo": "Luis Cidade sétimo no Rali do Algarve: “estamos a dar os passos certos”",
+   "resumo": "O piloto Luis Cidade terminou este domingo a sua estreia absoluta no Campeonato de Portugal de Ralis (CPR) com um notável sétimo lugar na geral do Rallye do Algarve, a menos de 90 segundos…",
+   "url": "https://www.autosport.pt/ralis/luis-cidade-setimo-no-rali-do-algarve-estamos-a-dar-os-passos-certos/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-04T23:21:00Z"
+  },
+  {
+   "titulo": "Keselowski and RFK Racing’s Negotiations Fell Apart Over Incompatible Timelines",
+   "resumo": "At the end of the day, a racing driver wants to race.",
+   "url": "https://www.roadandtrack.com/news/a74019485/keselowski-and-rfk-racings-negotiations-fell-apart-over-incompatible-timelines/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-04T22:12:23Z"
+  },
   {
    "titulo": "Electrify America Allows Companies To Own And Brand EV Charging Stations",
    "resumo": "Powered by Electrify America already supports nearly 600 chargers, letting retailers build charging networks under their own brands",
@@ -36,16 +127,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-04T19:58:15Z"
-  },
-  {
-   "titulo": "New WRC champion Elfyn Evans relieved after “surreal” Sardinia title showdown",
-   "resumo": "A relieved Elfyn Evans feels years of hard work have finally paid off after becoming Britain’s first World Rally Champion for 25 years following a “surreal” final stage showdown at Rally…",
-   "url": "https://www.motorsport.com/wrc/news/new-wrc-champion-elfyn-evans-relieved-after-surreal-sardinia-title-showdown/10862081/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-04T19:56:20Z"
   },
   {
    "titulo": "2026 FIA World Rally Championship – Rally Italia Sardegna- Event Review",
@@ -68,36 +149,6 @@
    "data": "2026-10-04T19:33:20Z"
   },
   {
-   "titulo": "Las Vegas honors hometown hero Kyle Busch with memorial rock and numerous tributes",
-   "resumo": "Las Vegas Motor Speedway (LVMS) and the 0.375-mile Bullring just outside of the 1.5-mile intermediate speedway have been paying tribute to Las Vegas native and two-time NASCAR Cup Series…",
-   "url": "https://www.motorsport.com/nascar-cup/news/las-vegas-honors-kyle-busch-with-new-memorial-rock-and-other-hometown-tributes/10861719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-04T19:18:13Z"
-  },
-  {
-   "titulo": "Slick-tire gamble helps CrowdStrike seal Petit Le Mans win and IMSA championship",
-   "resumo": "The path to the IMSA WeatherTech SportsCar Championship Le Mans Prototype 2 (LMP2) title was anything but straightforward for George Kurtz, Alex Quinn, Toby Sowery, and the #04 ORECA LMP2…",
-   "url": "https://www.motorsport.com/imsa/news/slick-tire-gamble-helps-crowdstrike-seal-petit-le-mans-win-and-imsa-championship/10862042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-04T19:04:50Z"
-  },
-  {
-   "titulo": "Why Toto Wolff’s $102,000 IWC watch can survive almost anything",
-   "resumo": "Toto Wolff has built up quite the reputation. He's a commanding character who oozes respect, class and swagger, and has a proven history in finance and the business of motorsport. But when…",
-   "url": "https://www.motorsport.com/f1/news/why-toto-wolffs-102000-iwc-watch-can-survive-almost-anything/10861857/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-04T19:00:04Z"
-  },
-  {
    "titulo": "Mazda Sales Surged Last Month, Including The MX-5",
    "resumo": "Year-to-date, Mazda has sold 310,268 in the US, down 2.9% from last year, but the MX-5 has bucked this trend",
    "url": "https://www.carscoops.com/2026/10/mazda-sales-surged-last-month-including-the-mx-5/",
@@ -106,16 +157,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-04T19:00:00Z"
-  },
-  {
-   "titulo": "Paul Miller Racing survives Petit Le Mans chaos to win IMSA GTD Pro title",
-   "resumo": "Surviving early-race contact, a costly drive-through penalty, slick tires in mixed conditions, and a harrowing final two hours, Paul Miller Racing emerged as IMSA GTD Pro champions. Led by…",
-   "url": "https://www.motorsport.com/imsa/news/paul-miller-racing-survives-petit-le-mans-chaos-to-win-imsa-gtd-pro-title/10862076/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-04T18:53:58Z"
   },
   {
    "titulo": "Was it 'unfair' not to penalise stricken F1 cars in Malaysia?",
@@ -236,16 +277,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-04T15:00:00Z"
-  },
-  {
-   "titulo": "GP do Bahrein F1, Toto Wolff: “Estou extremamente irritado”",
-   "resumo": "Toto Wolff não escondeu a frustração após o GP do Bahrein, em Sepang, uma corrida em que a Mercedes viu George Russell abandonar perto do fim devido a uma falha na unidade motriz. O…",
-   "url": "https://www.autosport.pt/formula1/gp-do-bahrein-f1-toto-wolff-estou-extremamente-irritado/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-04T14:49:18Z"
   },
   {
    "titulo": "Winners and losers from F1's 2026 Bahrain GP in Malaysia",
@@ -438,26 +469,6 @@
    "data": "2026-10-04T06:30:38Z"
   },
   {
-   "titulo": "Porsche Penske Holds Off BMW to Win From IMSA’s Top Class at Petit Le Mans for the First Time",
-   "resumo": "Cadillac takes it all, but Porsche Penske finally finds victory at Road Atlanta in the GTP category.",
-   "url": "https://www.roadandtrack.com/news/a74009254/porsche-penske-holds-off-bmw-wins-from-the-top-class-at-petit-le-mans-for-the-first-time/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-04T02:42:32Z"
-  },
-  {
-   "titulo": "Cadillac Benefits from Magnussen-Palou Crash at Petit Le Mans Halfway Mark",
-   "resumo": "Alex Palou, in the opening corners of his first race at Road Atlanta, was involved in an incident with Kevin Magnussen in the No. 25 BMW.",
-   "url": "https://www.roadandtrack.com/news/a74008113/magnussen-palou-crash-petit-le-mans-cadillac-leads-halfway-mark/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-03T21:29:56Z"
-  },
-  {
    "titulo": "Goodyear FIA ETRC Jarama day one round-up: Smith joins Kiss in the Winners’ Club with maiden victory",
    "resumo": "Sport news After finishing second overall at Le Mans last Sunday, Smith led Race 2 at Circuito de Madrid Jarama – RACE this evening from the front to triumph ahead of José Eduardo Rodrigues…",
    "url": "https://www.fia.com/news/goodyear-fia-etrc-jarama-day-one-round-smith-joins-kiss-winners-club-maiden-victory",
@@ -604,16 +615,6 @@
    "fonte": "Motor1",
    "dominio": "motor1.com",
    "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-02T20:00:00Z"
-  },
-  {
-   "titulo": "If You’re Gaga for Goggomobil, Here’s Your Chance",
-   "resumo": "Automotive history is rich with companies that began by building one thing and then pivoted to cars. Renzo Rivolta, for example, built refrigerators before he built cars (under the Iso…",
-   "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/if-youre-gaga-for-goggomobil-heres-your-chance/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-02T20:00:00Z"
   }
