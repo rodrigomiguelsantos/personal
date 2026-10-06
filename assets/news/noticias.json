@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-06T00:02:48Z",
+ "atualizado": "2026-10-06T06:19:52Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -18,6 +18,96 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "Nem imaginam que carro está na base do Land Rover mais baixo de todos",
+   "resumo": "Há Land Rover que enfrentam lama, pedras e água. Este parece até ter medo das lombas. Chamado “Slamd-Rover”, este exemplar único junta uma carroçaria de um Land Rover Series III a uma base…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-land-rover-mais-baixo-todos/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-06T06:00:00Z"
+  },
+  {
+   "titulo": "2027 Ford Bronco RTR Gets Big Price Cut Versus Bronco Raptor",
+   "resumo": "Ford positions the 2027 Bronco RTR tens of thousands below the Bronco Raptor, with key options pushing a loaded truck just under $60,000 before destination.",
+   "url": "https://www.motor1.com/news/810867/2027-ford-bronco-rtr-pricing/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T05:58:11Z"
+  },
+  {
+   "titulo": "The action Mercedes can take over confusing F1 upgrade",
+   "resumo": "There's a big upgrade question mark for Mercedes to solve - here's what we know",
+   "url": "https://www.the-race.com/formula-1/the-action-mercedes-can-take-over-confusing-f1-upgrade/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T05:54:04Z"
+  },
+  {
+   "titulo": "What time is F1's 2026 Singapore Grand Prix? Full weekend schedule",
+   "resumo": "All the times you need to know for Formula 1's next race - the 2026 Singapore Grand Prix",
+   "url": "https://www.the-race.com/promoted/what-time-is-f1-2026-singapore-grand-prix-full-weekend-schedule/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T05:51:28Z"
+  },
+  {
+   "titulo": "Alfa Romeo Alfasud vs Citroën GS: leading from the front",
+   "resumo": "Alfa Romeo Alfasud vs Citroën GS: leading from the front Ryan Standen Tue, 06/10/2026 - 05:00",
+   "url": "https://www.classicandsportscar.com/features/alfa-romeo-alfasud-vs-citroen-gs-leading-front",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-06T04:00:00Z"
+  },
+  {
+   "titulo": "Nismo Opens Shop In Australia To Cater To Classic Skyline And GT-R Demands",
+   "resumo": "The first Nismo Performance Center outside of Japan was opened in Melbourne, serving owners of the GT-R, Skyline, and Z models",
+   "url": "https://www.carscoops.com/2026/10/nismo-opens-shop-in-australia-to-cater-to-classic-skyline-and-gt-r-demands/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T02:00:00Z"
+  },
+  {
+   "titulo": "IMSA Closed Out 2026 with Petit Le Mans, and It Was a Humdinger",
+   "resumo": "What an odd, and consistently interesting, the season finale for the IMSA WeatherTech SportsCar Championship turned out to be. Although there was only one genuinely scary crash, the race…",
+   "url": "https://www.hagerty.com/media/motorsports/imsa-closed-out-2026-with-petit-le-mans-and-it-was-a-humdinger/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-06T01:33:24Z"
+  },
+  {
+   "titulo": "This Might Be The Ultimate Lexus GX 550",
+   "resumo": "Joining the body upgrades are new air filters, after wheels, and an audio system upgrade",
+   "url": "https://www.carscoops.com/2026/10/lexus-gx-550-novel-body-kit/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T01:00:00Z"
+  },
+  {
+   "titulo": "Spire’s Jeff Dickerson about Joe Gibbs Racing lawsuit: ‘Where is the proof?’",
+   "resumo": "Throughout the entire Joe Gibbs Racing v. Spire Motorsports and Chris Gabehart intellectual property theft and restrictive covenant lawsuit, Jeff Dickerson has continued to make himself…",
+   "url": "https://www.motorsport.com/nascar-cup/news/spires-jeff-dickerson-about-joe-gibbs-racing-lawsuit-where-is-the-proof-/10862397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T00:42:00Z"
+  },
   {
    "titulo": "Mazda Is Working On A New Midsize Pickup",
    "resumo": "The Mazda BT-50 will get a new generation by 2028, and a chief designer said we should \"look forward to it\"",
@@ -79,16 +169,6 @@
    "data": "2026-10-05T22:18:49Z"
   },
   {
-   "titulo": "Project Earnie Might Just Be The Perfect Series II Discovery",
-   "resumo": "Found in the Discovery's interior is bespoke brown leather and a modern infotainment system",
-   "url": "https://www.carscoops.com/2026/10/project-earnie-perfect-land-rover-series-ii-discovery/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-05T22:00:00Z"
-  },
-  {
    "titulo": "Big Altima Energy Done Right: The 2005–06 SE-R",
    "resumo": "The Toyota Camry is a practical family sedan that offers excellent fuel economy thanks to a standard hybrid powertrain. The Honda Accord is also a practical family sedan, with just a bit…",
    "url": "https://www.hagerty.com/media/car-profiles/big-altima-energy-done-right-the-2005-06-se-r/",
@@ -107,16 +187,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-05T21:31:30Z"
-  },
-  {
-   "titulo": "Roush Gives The 2027 Ford Super Duty A $21K Off-Road Makeover",
-   "resumo": "The 2027 Roush Super Duty gets new wheels, improved clearance, and plenty of visual pizzazz, but it misses one key upgrade",
-   "url": "https://www.carscoops.com/2026/10/2027-ford-super-duty-roush-makeover/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-05T21:00:00Z"
   },
   {
    "titulo": "This Split-Personality Supercar Wants to Be the New Lancia Stratos",
@@ -279,16 +349,6 @@
    "data": "2026-10-05T18:22:32Z"
   },
   {
-   "titulo": "Andrea Stella concedes McLaren made \"incorrect judgment\" on Bahrain GP Strategy",
-   "resumo": "Lando Norris qualified sixth for the Bahrain Grand Prix, but a misjudgement of the water on the Sepang circuit meant within a lap he was fighting from the back of the pack. McLaren team…",
-   "url": "https://www.motorsport.com/f1/news/andrea-stella-concedes-mclaren-made-incorrect-judgment-on-bahrain-gp-strategy/10862366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-05T18:04:07Z"
-  },
-  {
    "titulo": "California Is Finally Cracking Down On Montana's Supercar Tax Loophole",
    "resumo": "The days of using a Montana LLC to hide an expensive car from California’s taxman are over.",
    "url": "https://www.motor1.com/news/810827/california-closes-montana-tax-loophole-wealthy-owners/",
@@ -369,16 +429,6 @@
    "data": "2026-10-05T14:45:00Z"
   },
   {
-   "titulo": "New Citroën 2CV Will Go Full Retro, but with Electric Power",
-   "resumo": "Citroën will reboot the emblematic 2CV after years of rumors and at least one false start. The model is scheduled to make its public debut as a close-to-production concept on October 11…",
-   "url": "https://www.hagerty.com/media/news/new-citroen-2cv-electric-unveiling-date/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-05T14:30:00Z"
-  },
-  {
    "titulo": "Six champions crowned, new winners and lap records fall at Castle Combe",
    "resumo": "At the culmination of a challenging season for the Castle Combe Racing Club, some fine sport at Saturday’s Champions’ Coronation meeting was punctuated by a three-car incident at the start…",
    "url": "https://www.autosport.com/national/news/six-champions-crowned-new-winners-andlap-records-fall-at-castle-combe-/10862246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -449,16 +499,6 @@
    "data": "2026-10-05T12:00:29Z"
   },
   {
-   "titulo": "Podcast: Should F1 have avoided its Malaysia farce?",
-   "resumo": "On the latest episode of The Race F1 Podcast, Edd Straw is joined by Jon Noble and Scott Mitchell-Malm to discuss the Malaysia-hosted Bahrain GP",
-   "url": "https://www.the-race.com/formula-1/podcast-should-f1-have-avoided-its-malaysia-farce/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-05T11:39:59Z"
-  },
-  {
    "titulo": "Testei o BYD Dolphin G DM-i o híbrido plug-in mais barato do mercado",
    "resumo": "O BYD Dolphin G DM-i é uma solução intermédia de eletrificação que me suscitou uma dúvida: porque não há mais marcas a apostar nesta tecnologia nos segmentos mais baixos? O segmento dos…",
    "url": "https://www.razaoautomovel.com/testes/ensaio/byd-dolphin-g-dm-i-hibrido-plug-in-mais-barato-mercado-2026/",
@@ -469,16 +509,6 @@
    "data": "2026-10-05T11:32:07Z"
   },
   {
-   "titulo": "Edd Straw's 2026 Bahrain Grand Prix in Malaysia F1 driver rankings",
-   "resumo": "Wet weather, tyre choices, software bug chaos and safety cars make assessing the Sepang field against their circumstances all the more critical. Here's Edd Straw's final verdict",
-   "url": "https://www.the-race.com/formula-1/edd-straws-2026-bahrain-grand-prix-in-malaysia-f1-driver-rankings/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-05T11:25:39Z"
-  },
-  {
    "titulo": "The dire consequence of Russell's Bahrain GP in Malaysia retirement",
    "resumo": "George Russell’s retirement from the Bahrain Grand Prix in Malaysia will have huge consequences on the rest of his 2026 Formula 1 campaign - especially in regards to ADUO. The Mercedes…",
    "url": "https://www.autosport.com/f1/news/the-added-consequence-of-george-russells-retirement-in-malaysia/10862235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -487,16 +517,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-05T11:15:02Z"
-  },
-  {
-   "titulo": "Famous Designer’s Ruf 1970 Porsche 914/6 Sells For Six Figures",
-   "resumo": "Ruf turns Luc Donckerwolke’s Porsche 914/6 from a Lemon Yellow GT-style build into a Grand Prix White, track-focused machine.",
-   "url": "https://www.motor1.com/news/810774/luc-donckerwolke-ruf-porsche-914/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-05T11:00:10Z"
   },
   {
    "titulo": "Whales glide to victory in Equipe Silverstone Super Sprint event",
@@ -559,16 +579,6 @@
    "data": "2026-10-05T08:48:32Z"
   },
   {
-   "titulo": "Combustíveis voltam a descer. Quanto vai pagar?",
-   "resumo": "Pela segunda semana consecutiva, a chegada da segunda-feira trouxe boas notícias para quem tem de abastecer o automóvel. Tal como previsto na passada sexta-feira, 2 de outubro, a semana…",
-   "url": "https://www.razaoautomovel.com/noticias/preco-combustiveis-semana-41-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-05T08:44:16Z"
-  },
-  {
    "titulo": "Honda HRC to get new boss with Watanabe set to retire",
    "resumo": "Koji Watanabe, the long-time boss of Honda's racing activities under HRC, will retire on 1 January 2027, with Keiichi Yasuda appointed as his successor. A long-time Honda employee after…",
    "url": "https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -607,16 +617,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-05T05:00:00Z"
-  },
-  {
-   "titulo": "Mini vs MINI at 25: BMW’s pretender battles last-of-the-line Cooper",
-   "resumo": "Mini vs MINI at 25: BMW’s pretender battles last-of-the-line Cooper Ryan Standen Mon, 05/10/2026 - 05:00",
-   "url": "https://www.classicandsportscar.com/features/mini-vs-mini-25-bmws-pretender-battles-last-line-cooper",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-05T04:00:00Z"
   }
  ]
 }
