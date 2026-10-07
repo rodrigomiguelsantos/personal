@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-06T18:21:35Z",
+ "atualizado": "2026-10-07T05:58:20Z",
  "fontes": [
   "AutoSport",
   "Autocar",
@@ -19,24 +19,334 @@
  ],
  "itens": [
   {
-   "titulo": "VW ID. Buzz And Transporter Gain Signature Editions With GTI Flair",
-   "resumo": "Who said that bodykits and upmarket interiors should be reserved for hot hatchbacks and performance sedans?",
-   "url": "https://www.carscoops.com/2026/10/vw-vans-signature-editions/",
+   "titulo": "Opinion: can the Jaguar Type 01 save the brand?",
+   "resumo": "The Type 01 has at last been revealed – and the market has changed hugely since it was first conceived Finally, the new Jaguar is here . Rarely has a car's arrival been so drawn out, as…",
+   "url": "https://www.autocar.co.uk/opinion/electric-cars/opinion-can-jaguar-type-01-save-brand",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T05:00:00Z"
+  },
+  {
+   "titulo": "Humber Imperial V8: the ‘eight’ that could have been great",
+   "resumo": "Humber Imperial V8: the ‘eight’ that could have been great Ryan Standen Wed, 07/10/2026 - 05:00",
+   "url": "https://www.classicandsportscar.com/features/humber-imperial-v8-eight-could-have-been-great",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-07T04:00:00Z"
+  },
+  {
+   "titulo": "Suzuki’s Smallest EV Is A Kei Car With A Sub-$10k Price Tag",
+   "resumo": "The pint-sized hatchback is available in the Japanese market with optional accessories, and will soon find its way into the Old Continent",
+   "url": "https://www.carscoops.com/2026/10/suzukis-esky-japan/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-10-06T18:15:00Z"
+   "data": "2026-10-07T02:00:00Z"
   },
   {
-   "titulo": "You Can Now Get in Line to Order Saleen’s Newest Sports Car",
-   "resumo": "Pricing for the street-legal version of the S1 starts at $160K, but refundable reservations cost just one band.",
-   "url": "https://www.caranddriver.com/news/a74049773/saleen-s1-street-order-books-open/",
+   "titulo": "Ford Shows Its First Wolftrak-branded SUV",
+   "resumo": "The 2027 Ford Everest Wolftrak replaces the Wildtrak trim in Australia, with new colors and standard towing hardware",
+   "url": "https://www.carscoops.com/2026/10/ford-everest-wolftrak/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T01:00:00Z"
+  },
+  {
+   "titulo": "Jaguar’s Type 01 Is A Radical EV That Laughs At Convention",
+   "resumo": "Jaguar may have its work cut out for it convincing Bentley and Rolls-Royce shoppers to buy this instead",
+   "url": "https://www.carscoops.com/2026/10/jaguars-type-01-is-a-radical-ev-that-laughs-at-convention/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:28:44Z"
+  },
+  {
+   "titulo": "Este é o momento do tudo ou nada da Jaguar",
+   "resumo": "Nunca o destino de uma marca pareceu estar tão dependente de um modelo só. O Jaguar Type 01 acaba de ser revelado depois de quase dois anos de controvérsia, uma reinvenção completa da…",
+   "url": "https://www.razaoautomovel.com/noticias/apresentacao-jaguar-type-01/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-07T00:01:34Z"
+  },
+  {
+   "titulo": "The Jaguar Type 01 Is Here. It's Jag's Most Powerful Road Car Ever",
+   "resumo": "The Type 01 combines dramatic styling with a high-performance electric powertrain and sophisticated chassis.",
+   "url": "https://www.motor1.com/news/810988/jaguar-type-01-horsepower-details-specs/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:01:25Z"
+  },
+  {
+   "titulo": "Jaguar Type 01: Photos From Every Angle",
+   "resumo": "The Type 01 is here. Check it out from all angles.",
+   "url": "https://www.roadandtrack.com/photos/a74055226/jaguar-type-01-photos-from-every-angle/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:01:00Z"
+  },
+  {
+   "titulo": "New Jaguar Type 01: radical EV arrives to spearhead brand's reboot",
+   "resumo": "Bold 1000bhp £150,000 grand tourer will kick-start British brand’s EV-only rebirth Jaguar has revealed the Type 01, the electric GT on which the brand's future rests. Five years ago Jaguar…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/new-jaguar-type-01-radical-ev-arrives-spearhead-brands-reboot",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "EVs Could Be Staging A Comeback Thanks To High Gas Prices",
+   "resumo": "Consistently high gas prices and more advanced autonomous driving systems could help EV sales rebound",
+   "url": "https://www.carscoops.com/2026/10/evs-could-be-staging-a-comeback-thanks-to-high-gas-prices/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "Design Leads the Charge with the 2028 Jaguar Type 01 Electric Sedan",
+   "resumo": "Jaguar’s rebirth begins with this sedan, packing proportions bordering on vulgar.",
+   "url": "https://www.caranddriver.com/news/a74036834/2028-jaguar-type-01-revealed/",
    "fonte": "Car and Driver",
    "dominio": "caranddriver.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-10-06T18:09:28Z"
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "View Exterior Photos of the 2028 Jaguar Type 01",
+   "resumo": "See the new Jaguar Type 01’s fetching exterior from every angle.",
+   "url": "https://www.caranddriver.com/photos/a74056532/2028-jaguar-type-01-revealed-exterior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "View Interior Photos of the 2028 Jaguar Type 01",
+   "resumo": "See the new Jaguar Type 01’s very interesting interior from every angle.",
+   "url": "https://www.caranddriver.com/photos/a74056533/2028-jaguar-type-01-revealed-interior-gallery/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "The Type 01 Relaunches Jaguar with Imposing Looks and 1015 HP of Electric Power",
+   "resumo": "It starts at around $130,000, has a curb weight of 5950 lbs, and looks like nothing else on the road today.",
+   "url": "https://www.roadandtrack.com/news/a74055200/jaguar-type-01-revealed-specs-photos/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "Jaguar’s Controversial, Production-Ready Type 01 Revealed",
+   "resumo": "Two years after it broke the internet with the launch of its Type 00 concept car in Miami, Jaguar has returned to the U.S. to reveal the production version of that car, unsurprisingly named…",
+   "url": "https://www.hagerty.com/media/news/jaguars-controversial-production-ready-type-01-revealed/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-07T00:00:00Z"
+  },
+  {
+   "titulo": "Naomi Schiff raises Mercedes concern that 'could cost Kimi Antonelli more victories'",
+   "resumo": "Sky Sports Formula 1 pundit and former W Series driver Naomi Schiff has warned that ongoing power unit issues at Mercedes could cost Kimi Antonelli race wins and threaten his championship…",
+   "url": "https://www.motorsport.com/f1/news/naomi-schiff-raises-mercedes-concern-that-could-cost-kimi-antonelli-more-victories/10862602/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T23:24:59Z"
+  },
+  {
+   "titulo": "Luis Miguel Rego: “Queremos voltar este ano, certo, no Rali Vidreiro, mas também talvez Fafe”",
+   "resumo": "Luis Miguel Rego e José Janela (Skoda Fabia Rs Rally2) terminaram o Rali do Algarve no top 10. O açoriano regressou ao continente após assegurar o título nos Açores, e fez um balanço…",
+   "url": "https://www.autosport.pt/ralis/luis-miguel-rego-queremos-voltar-este-ano-certo-no-rali-vidreiro-mas-tambem-talvez-fafe/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-06T23:15:00Z"
+  },
+  {
+   "titulo": "Ricardo Sousa faz balanço positivo da estreia na terra com o Skoda Fabia RS Rally2: “bom rali e excelente aprendizagem”",
+   "resumo": "Ricardo Sousa e Luís Marques, aos comandos de um Skoda Fabia RS Rally2, concluíram a participação na prova algarvia com um balanço amplamente positivo, encarando o rali como uma etapa…",
+   "url": "https://www.autosport.pt/ralis/ricardo-sousa-faz-balanco-positivo-da-estreia-na-terra-com-o-skoda-fabia-rs-rally2-bom-rali-e-excelente-aprendizagem/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-06T23:12:00Z"
+  },
+  {
+   "titulo": "Rafael Rego brilha no Rali do Algarve: “estamos cada vez mais rápidos e sinto que ainda temos margem para progredir”",
+   "resumo": "Rafael Rego e Nuno Mota Ribeiro, aos comandos de um Toyota GR Yaris Rally2, alcançaram um notável segundo lugar no Campeonato de Portugal de Ralis (CPR), conquistando o primeiro pódio da…",
+   "url": "https://www.autosport.pt/ralis/rafael-rego-brilha-no-rali-do-algarve-estamos-cada-vez-mais-rapidos-e-sinto-que-ainda-temos-margem-para-progredir/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-06T23:10:00Z"
+  },
+  {
+   "titulo": "Paulo Neto: “fizemos um rali muito equilibrado e em crescendo”",
+   "resumo": "Paulo Neto e Carlos Magalhães, aos comandos de um Skoda Fabia RS Rally2 da Paulo Neto Sport, concluíram o Rallye Casinos do Algarve na 14ª posição da classificação absoluta e no 10.º lugar…",
+   "url": "https://www.autosport.pt/ralis/paulo-neto-fizemos-um-rali-muito-equilibrado-e-em-crescendo/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-06T23:09:00Z"
+  },
+  {
+   "titulo": "2026 Singapore Grand Prix: Guide to schedule, driver meet-ups, and race week parties",
+   "resumo": "Singapore in October means the floodlights are being illuminated at Marina Bay for Formula 1, and this year the city is pushing hard to give fans everything they need to have an…",
+   "url": "https://www.motorsport.com/f1/news/2026-singapore-grand-prix-guide-to-schedule-driver-meet-ups-and-race-week-parties/10862599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T23:02:17Z"
+  },
+  {
+   "titulo": "Lancia Corse fecha época histórica: título de equipas no WRC2",
+   "resumo": "A Lancia Corse HF concluiu a primeira temporada oficial no Campeonato do Mundo de Ralis com um balanço agridoce no exigente Rally Italia Sardegna, última etapa do calendário. Apesar de um…",
+   "url": "https://www.autosport.pt/ralis/lancia-corse-fecha-epoca-historica-titulo-de-equipas-no-wrc2/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-06T23:01:00Z"
+  },
+  {
+   "titulo": "Fiat 500 Hybrid test: Cute looks and a nice interior – but terribly slow",
+   "resumo": "Fiat performs the unprecedented and converts an EV to petrol power. Is it any good? The very existence of the new Fiat 500 Hybrid is tantamount to the Italian giant breaking the emergency…",
+   "url": "https://www.autocar.co.uk/car-review/fiat/500-hybrid",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T23:01:00Z"
+  },
+  {
+   "titulo": "Corvettes With The New 6.7-Liter V8 May Already Have An Oil Leak",
+   "resumo": "Chevy's new LS6 engine delivers 535 hp and 520 lb-ft of torque but is leaking oil",
+   "url": "https://www.carscoops.com/2026/10/corvettes-with-the-new-6-7-liter-v8-may-already-have-an-oil-leak/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T23:00:00Z"
+  },
+  {
+   "titulo": "Hyundai Ioniq 3 driven: Great style, substance and value",
+   "resumo": "Hyundai's entry-level electric hatchback arrives with head-turning style and a jaw-dropping price tag Like almost every ‘legacy’ car maker, Hyundai is feeling the pinch at the moment. One…",
+   "url": "https://www.autocar.co.uk/car-review/hyundai/ioniq-3",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T22:01:00Z"
+  },
+  {
+   "titulo": "Audi Patent Imagines EVs That Throw Sparks and Emit Smells",
+   "resumo": "If you think the smooth quiet of EVs is too boring, these concepts might make some, uh, sense.",
+   "url": "https://www.caranddriver.com/news/a74056900/audi-patent-evs-emit-sparks-smells/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T22:00:00Z"
+  },
+  {
+   "titulo": "Lessons Learned From an 8000-RPM Pump Gas Big-Block",
+   "resumo": "Steve Morris is on the cutting edge of drag-and-drive V-8 engine development, with his own line of water-jacketed billet aluminum engines. Capable of producing well over 4000 hp, they are…",
+   "url": "https://www.hagerty.com/media/video/lessons-learned-from-an-8000-rpm-pump-gas-big-block/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-06T20:30:00Z"
+  },
+  {
+   "titulo": "New BMW M3 EV Photos Tease the Production-Spec Sports Sedan",
+   "resumo": "New photos of the electric M3 show a camouflaged model that looks quite similar to the Neue Klasse concept car released in June.",
+   "url": "https://www.caranddriver.com/news/a74056328/bmw-m3-ev-i3-neue-klasse-prototype-photos/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T20:18:01Z"
+  },
+  {
+   "titulo": "Jeb Burton joins RSS Racing, will drive father Ward Burton's No. 22",
+   "resumo": "Jeb Burton announced on Tuesday that he will join RSS Racing in 2027, driving the No. 22 full-time in the 2027 NASCAR O'Reilly Auto Parts Series (NOAPS). That number has special…",
+   "url": "https://www.motorsport.com/nascar-os/news/jeb-burton-joins-rss-racing-as-team-expands-for-2027-nascar-oreilly-season/10862588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-06T20:15:23Z"
+  },
+  {
+   "titulo": "Stolen Corvette C7 Grand Sport Recovered After Five Years Underwater",
+   "resumo": "An underwater search in Georgia, a visible Instagram handle, and an old theft report combined to confirm this Chevrolet Corvette C7 Grand Sport.",
+   "url": "https://www.motor1.com/news/810929/stolen-c7-corvette-grand-sport/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T20:08:13Z"
+  },
+  {
+   "titulo": "NHTSA Says It’s Finally Modernizing Headlight Standards",
+   "resumo": "Glare, headlamp height, and harmonization with international standards are all being examined.",
+   "url": "https://www.roadandtrack.com/news/a74055384/nhtsa-says-its-finally-modernizing-headlight-standards/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T19:23:31Z"
+  },
+  {
+   "titulo": "The Street Fighter Car Is Real, And Someone Is Going To Win It",
+   "resumo": "The General, and partners, recreated the iconic Lexus LS400 from Street Fighter II—and one lucky fan will take it home with more than $25,000 in cash.",
+   "url": "https://www.motor1.com/news/810970/street-fighter-ii-car-giveaway/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-06T19:00:00Z"
+  },
+  {
+   "titulo": "Mini’s Off-Roadiest Countryman Gains a Proper Set of Hiking Boots for 2027",
+   "resumo": "Four years after Mini added some off-road flair to its Countryman lineup via the Untamed Edition, it has given the compact crossover the gear it needed. No, we aren’t talking about the…",
+   "url": "https://www.hagerty.com/media/news/minis-off-roadiest-countryman-gains-a-proper-set-of-hiking-boots-for-2027/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-06T19:00:00Z"
   },
   {
    "titulo": "Old Trucks Are the Smart Money Now",
@@ -69,16 +379,6 @@
    "data": "2026-10-06T17:27:24Z"
   },
   {
-   "titulo": "This Skoda Sedan Looks Like A Baby Octavia But Starts From $10k",
-   "resumo": "The facelifted Skoda Slavia went on sale in India, and the lineup includes a sporty Monte Carlo trim",
-   "url": "https://www.carscoops.com/2026/10/skoda-slavia-prices/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T17:15:00Z"
-  },
-  {
    "titulo": "F1 fashion goes local as Ferrari, McLaren and Mercedes celebrate Singapore",
    "resumo": "Formula 1 merchandise has tended to evolve slowly as it keeps up with team colours, sponsors and other branding. But more recently, fashion has become a large part of the championship and…",
    "url": "https://www.motorsport.com/f1/news/f1-fashion-goes-local-as-ferrari-mclaren-and-mercedes-celebrate-singapore/10862577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
@@ -87,16 +387,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-06T17:08:00Z"
-  },
-  {
-   "titulo": "2027 Kia EV3",
-   "resumo": "Review, Pricing, and Specs",
-   "url": "https://www.caranddriver.com/kia/ev3",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T17:07:58Z"
   },
   {
    "titulo": "The Vantrue N4S Dash Cam Is Over $100 Off for Amazon’s Fall Prime Day",
@@ -139,16 +429,6 @@
    "data": "2026-10-06T16:51:58Z"
   },
   {
-   "titulo": "Belgian Test Finds Tesla FSD Speeding And Trying To Pass Cyclists Illegally",
-   "resumo": "A three-day Belgian test raises questions about Tesla Full Self-Driving system speed control ahead of a possible vote on wider EU approval",
-   "url": "https://www.carscoops.com/2026/10/belgian-test-tesla-fsd-faults/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:45:00Z"
-  },
-  {
    "titulo": "Alpine Teases A Mysterious New Sports Car With Hidden Headlights",
    "resumo": "The PS1 is part of Alpine’s special projects and it debuts this week at the Paris Motor Show.",
    "url": "https://www.motor1.com/news/810957/alpine-sports-car-concept-teaser/",
@@ -157,16 +437,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-06T16:30:00Z"
-  },
-  {
-   "titulo": "Toyota Hilux: as roulottes continuam a cair-lhe em cima",
-   "resumo": "Em 2003, de forma a destacar a elevada resistência da “pick-up” japonesa, o programa televisivo Top Gear, à época em emissão na BBC, largou uma roulotte em cima de uma Hilux. Mais de 20…",
-   "url": "https://www.autosport.pt/automais/toyota-hilux-as-roulottes-continuam-a-cair-lhe-em-cima/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-06T16:18:00Z"
   },
   {
    "titulo": "Meet Mini's Most Rugged Countryman Yet",
@@ -189,106 +459,6 @@
    "data": "2026-10-06T16:00:00Z"
   },
   {
-   "titulo": "After 16 Years Without A Redesign, The Durango Is Feeling Blue",
-   "resumo": "The 2027 Durango is getting a couple of new options including Petrol Blue Laguna leather seats",
-   "url": "https://www.carscoops.com/2026/10/2027-dodge-durango-updates/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:00:00Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Mini Countryman Electric Untamed Edition",
-   "resumo": "See the new Untamed Edition for the 2027 Mini Countryman Electric from every exterior angle.",
-   "url": "https://www.caranddriver.com/photos/a74037629/2027-mini-countryman-electric-untamed-edition-revealed-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:00:00Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2027 Mini Countryman Untamed Edition",
-   "resumo": "See the new off-road-themed Mini Countryman’s exterior from every angle.",
-   "url": "https://www.caranddriver.com/photos/a74037615/2027-mini-countryman-untamed-edition-revealed-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:00:00Z"
-  },
-  {
-   "titulo": "2027 Mini Countryman Electric",
-   "resumo": "Review, Pricing, and Specs",
-   "url": "https://www.caranddriver.com/mini/countryman-electric-2027",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:00:00Z"
-  },
-  {
-   "titulo": "The 2027 Mini Countryman Untamed Seeks Adventure",
-   "resumo": "Suspension upgrades, smaller wheels, and all-terrain tires help make the new Countryman more adventure-ready.",
-   "url": "https://www.roadandtrack.com/news/a74017416/2027-mini-countryman-untamed-details/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T16:00:00Z"
-  },
-  {
-   "titulo": "Fernando Alonso builds his dream F1 circuit but Sergio Perez spots one major problem",
-   "resumo": "If you were given the power to stitch together the greatest corners of global motorsport to create the ultimate Formula 1 track, what would you choose? During a recent stage appearance…",
-   "url": "https://www.motorsport.com/f1/news/fernando-alonso-just-revealed-his-dream-f1-track-but-one-brutal-reality-would-ruin-it/10862446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-06T15:55:03Z"
-  },
-  {
-   "titulo": "Red Bull is overcoming ADUO restrictions but still calls on tweaks for F1 2027",
-   "resumo": "Red Bull is working with the FIA on how to tweak Formula 1’s Additional Development and Upgrades Opportunities system after its contentious findings, says team boss Laurent Mekies. ADUO is…",
-   "url": "https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-06T15:51:13Z"
-  },
-  {
-   "titulo": "Lewis Hamilton expands fashion empire with Plus44 Singapore launch",
-   "resumo": "Lewis Hamilton has spent almost two decades building a reputation as one of the best drivers Formula 1 has ever seen. But outside of motorsport, he aims to build an empire to his name in…",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-expands-fashion-empire-with-plus44-singapore-launch/10862566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-06T15:38:30Z"
-  },
-  {
-   "titulo": "Fraudster Amassed More Than 90 Exotic Cars, Now the Feds Are Selling Them",
-   "resumo": "He got 13 years in prison, while his Lamborghinis, Ferraris, Maseratis, and dozens of other cars are being sold to repay his victims.",
-   "url": "https://www.roadandtrack.com/news/a74049351/fraudster-amassed-more-than-90-exotic-cars-now-the-feds-are-selling-them/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T15:38:26Z"
-  },
-  {
-   "titulo": "WRC: Petter Solberg destaca Oliver após decisão do título na Sardenha: “Estou orgulhoso”",
-   "resumo": "Petter Solberg mostrou-se orgulhoso do percurso do filho, Oliver Solberg, apesar da perda do título mundial de ralis para Elfyn Evans nas duas últimas curvas da derradeira especial do Rally…",
-   "url": "https://www.autosport.pt/ralis/wrc-petter-solberg-destaca-oliver-apos-decisao-do-titulo-na-sardenha-estou-orgulhoso/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-06T15:37:21Z"
-  },
-  {
    "titulo": "The numbers behind Ducati becoming a modern MotoGP powerhouse",
    "resumo": "The 2026 Japanese Grand Prix was a special one for Ducati’s technical guru Gigi Dall’Igna. Exactly a year after Marc Marquez clinched the MotoGP title on one of his creations, Dall’Igna…",
    "url": "https://www.autosport.com/motogp/news/how-ducati-became-modern-motogp-powerhouse/10862534/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -297,16 +467,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-06T15:21:11Z"
-  },
-  {
-   "titulo": "Honda Escapes US Investigation Into Backup Camera Failures",
-   "resumo": "Insufficient corrugated tubing and poorly fastened zip ties prompted Honda to issue a recall for Ridgeline models in 2022",
-   "url": "https://www.carscoops.com/2026/10/honda-ridgeline-backup-camera-nhtsa/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T15:15:00Z"
   },
   {
    "titulo": "Carregar elétrico em casa está mais caro a partir deste mês",
@@ -319,26 +479,6 @@
    "data": "2026-10-06T15:10:04Z"
   },
   {
-   "titulo": "Teste completo ao EBRO s900 em Portugal",
-   "resumo": "O EBRO s900 tem um preço canhão no nosso país. Felizmente há mais argumentos. Esta EBRO s900 coloca em causa a universalidade das expressões populares “quando a esmola é muita, o pobre…",
-   "url": "https://www.razaoautomovel.com/testes/ensaio/ensaio-ebro-s900-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-06T15:09:47Z"
-  },
-  {
-   "titulo": "Someone Is Making The 'Cars' Prequel Pixar Never Did. And It Looks Legit",
-   "resumo": "Animator Ariya Alexander Berenji is making a Cars prequel from scratch, complete with new characters.",
-   "url": "https://www.motor1.com/news/810925/fan-making-cars-prequel-nascar/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T15:00:00Z"
-  },
-  {
    "titulo": "According To You: Favorite Automotive Mispronunciations",
    "resumo": "I felt like I might be going on a limb when asking this question last week, but Hagerty Media readers came through with answers worthy of a medal. I thank you all for participating, because…",
    "url": "https://www.hagerty.com/media/hagerty-community/according-to-you-favorite-automotive-mispronunciations/",
@@ -347,26 +487,6 @@
    "categoria": "Clássicos",
    "pt": false,
    "data": "2026-10-06T15:00:00Z"
-  },
-  {
-   "titulo": "BMW M3 EV in Camo Reveals Concept-to-Production Changes",
-   "resumo": "New photos give us our first real glimpse of the electric M3.",
-   "url": "https://www.roadandtrack.com/news/a74049656/bmw-m3-ev-in-camo-reveals-concept-to-production-changes/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T14:55:16Z"
-  },
-  {
-   "titulo": "Ricardo Teodósio: “Correr em casa é sempre especial, nunca baixámos os braços e lutámos até ao último quilómetro”",
-   "resumo": "Ricardo Teodósio e José Teixeira concluíram o Rallye Casinos do Algarve na sexta posição da classificação geral, ao volante de um Citroën C3 Rally2. A jogar em casa e perante o seu público…",
-   "url": "https://www.autosport.pt/ralis/ricardo-teodosio-correr-em-casa-e-sempre-especial-nunca-baixamos-os-bracos-e-lutamos-ate-ao-ultimo-quilometro/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-06T14:54:58Z"
   },
   {
    "titulo": "Russell to take grid penalty in Singapore due to Sepang retirement",
@@ -389,36 +509,6 @@
    "data": "2026-10-06T14:00:48Z"
   },
   {
-   "titulo": "ICE-Powered Porsche Macan to Return in 2028",
-   "resumo": "The second-generation Porsche Macan released for 2025 was developed exclusively with electric power in mind. That was a risky bet; it’s one of the brand’s best-selling models, and the EV…",
-   "url": "https://www.hagerty.com/media/news/ice-powered-porsche-macan-to-return-in-2028/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-06T14:00:00Z"
-  },
-  {
-   "titulo": "Guilherme Meireles estreou-se a vencer troço à geral: “uma excelente recordação”",
-   "resumo": "Guilherme Meireles e Pedro Alves (Skoda Fabia Rally2 Evo) não terminaram o Rali do Algarve, mas fizeram algo histórico na prova: venceram à geral a PEC5, São Marcos da Serra 1, o que sucede…",
-   "url": "https://www.autosport.pt/ralis/guilherme-meireles-estreou-se-a-vencer-troco-a-geral-uma-excelente-recordacao/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-06T13:23:10Z"
-  },
-  {
-   "titulo": "Fernando Alonso pode regressar ao rali Dakar, com a Aston Martin",
-   "resumo": "Fernando Alonso renovou o seu vínculo com a Aston Martin até 2027 na Fórmula 1 e intensificou os rumores sobre futuros desafios fora da categoria máxima do automobilismo, deixando pistas…",
-   "url": "https://www.autosport.pt/formula1/fernando-alonso-pode-regressar-ao-rali-dakar-com-a-aston-martin/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-06T13:12:18Z"
-  },
-  {
    "titulo": "Neuville assessing his future options with WRC 2027 drive unconfirmed",
    "resumo": "Thierry Neuville remains hopeful there will be World Rally Championship opportunities to compete with Hyundai in 2027 - but is keen to scale back his commitments. The 2024 world champion…",
    "url": "https://www.autosport.com/wrc/news/neuville-assessing-wrc-future-options/10862466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
@@ -427,26 +517,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-06T13:11:40Z"
-  },
-  {
-   "titulo": "Final Parking Space: 1988 Chevrolet Nova Four-Door Sedan",
-   "resumo": "Toyota has been building vehicles at its plant in Georgetown, Kentucky since the first Camry rolled off the line in 1988. More than three years before that, Americanized Toyota Sprinters…",
-   "url": "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-1988-chevrolet-nova-four-door-sedan/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-06T13:00:00Z"
-  },
-  {
-   "titulo": "New Freelander brand confirmed for UK launch",
-   "resumo": "UK is planned as part of \"third wave\" of launches for JLR-Chery collaboration The new Freelander brand has confirmed that it will launch in the UK. The Chinese marque was born out of a…",
-   "url": "https://www.autocar.co.uk/car-news/new-cars/new-freelander-brand-confirmed-uk-launch",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T12:44:46Z"
   },
   {
    "titulo": "For Sale: A 2005 Panoz Esperante – Forgotten American V8 Roadster",
@@ -489,26 +559,6 @@
    "data": "2026-10-06T11:16:18Z"
   },
   {
-   "titulo": "Car Thefts Are Down In All 50 States This Year",
-   "resumo": "Vehicle thefts fell 21% during the first half of 2026, continuing a nationwide decline that began after the pandemic-era peak.",
-   "url": "https://www.motor1.com/news/810913/usa-car-thefts-21-percent-down/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T11:09:27Z"
-  },
-  {
-   "titulo": "Roush Offers 2027 Super Duty Package For $21,399, No Power Upgrade",
-   "resumo": "Roush’s 2027 Super Duty package adds 35-inch tires, suspension and styling tweaks for F-250 and F-350, but leaves engine output unchanged.",
-   "url": "https://www.motor1.com/news/810911/2027-roush-super-duty-package/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T10:51:44Z"
-  },
-  {
    "titulo": "World Cup Fever Hits Viterbo with Record Driver Line-Up",
    "resumo": "Sport news A record entry list of 266 drivers across the OK-N and OK-N Junior categories will take to the Leopard Circuit in Viterbo, Italy this week for the 2026 FIA Karting World Cup. The…",
    "url": "https://www.fia.com/news/world-cup-fever-hits-viterbo-record-driver-line",
@@ -539,36 +589,6 @@
    "data": "2026-10-06T08:31:09Z"
   },
   {
-   "titulo": "Jaguar Type 01 to be unveiled tonight",
-   "resumo": "Production version of 1000bhp GT to break cover in US, almost two years after game-changing concept Jaguar will tonight reveal the Type 01, the hotly anticipated electric GT that begins the…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/jaguar-type-01-be-unveiled-tonight",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T08:03:34Z"
-  },
-  {
-   "titulo": "Bold new Renault E-Space Concept previews future electric MPV",
-   "resumo": "\"Future-focused vision of the 1980s original\" looks to make spacious monobox family cars fashionable again The new Renault E-Space Concept, set to be revealed in full at next week’s Paris…",
-   "url": "https://www.autocar.co.uk/car-news/electric-cars/bold-new-renault-e-space-concept-previews-future-electric-mpv",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T07:44:29Z"
-  },
-  {
-   "titulo": "Polestar 5 road test: Great but too late",
-   "resumo": "Swedes deliver on six-year-old promise to take on the Porsche Taycan The mainly British-engineered Polestar 5 brings with it a tangible sense of fulfilment that has been rather a long time…",
-   "url": "https://www.autocar.co.uk/car-review/polestar/5",
-   "fonte": "Autocar",
-   "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-06T07:41:40Z"
-  },
-  {
    "titulo": "Made In Sweden: The Hultafors Classic Hunting Axe",
    "resumo": "This is the Hultafors Classic Hunting Axe, each is made by hand in Sweden using traditional techniques, and this design was specifically created to be... The post Made In Sweden: The…",
    "url": "https://silodrome.com/hultafors-classic-hunting-axe/",
@@ -597,26 +617,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-06T05:51:28Z"
-  },
-  {
-   "titulo": "Alfa Romeo Alfasud vs Citroën GS: leading from the front",
-   "resumo": "Alfa Romeo Alfasud vs Citroën GS: leading from the front Ryan Standen Tue, 06/10/2026 - 05:00",
-   "url": "https://www.classicandsportscar.com/features/alfa-romeo-alfasud-vs-citroen-gs-leading-front",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-06T04:00:00Z"
-  },
-  {
-   "titulo": "IMSA Closed Out 2026 with Petit Le Mans, and It Was a Humdinger",
-   "resumo": "What an odd, and consistently interesting, the season finale for the IMSA WeatherTech SportsCar Championship turned out to be. Although there was only one genuinely scary crash, the race…",
-   "url": "https://www.hagerty.com/media/motorsports/imsa-closed-out-2026-with-petit-le-mans-and-it-was-a-humdinger/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-06T01:33:24Z"
   }
  ]
 }
