@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-10-08T23:20:31Z",
+ "atualizado": "2026-10-09T06:07:54Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
+  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -17,6 +18,146 @@
   "The Race"
  ],
  "itens": [
+  {
+   "titulo": "BMW M5 Touring veste farda da polícia mas ainda não passa multas",
+   "resumo": "A polícia alemã já usa a BMW Série 5 Touring como carro-patrulha, mas a BMW decidiu levar a receita um pouco mais longe. Muito mais longe. O resultado é uma BMW M5 Touring vestido a rigor…",
+   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-bmw-m5-touring-policia-alemanha/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T06:00:00Z"
+  },
+  {
+   "titulo": "MotoGP riders resigned to Qatar GP as series monitors safety situation",
+   "resumo": "MotoGP is continuing to plan for the Qatar Grand Prix to take place in November, despite the ongoing conflict in the Middle East, with deputy CEO Carlos Ezpeleta saying the championship is…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-riders-resigned-to-qatar-gp-as-series-monitors-safety-situation/10863212/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T05:34:03Z"
+  },
+  {
+   "titulo": "MotoGP responds to criticism over lack of rider input on 2027 format change",
+   "resumo": "MotoGP says it had been encouraging teams to consult their riders over the 2027 weekend format, insisting it remains open to feedback about the sporting regulations. The championship has…",
+   "url": "https://www.motorsport.com/motogp/news/motogp-responds-to-criticism-over-lack-of-rider-input-on-2027-format-change/10863207/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T05:19:37Z"
+  },
+  {
+   "titulo": "Easy living in Leapmotor's £36k EV - with a petrol lifeline",
+   "resumo": "We get experience of a new, rare and evidently attractive form of plug-in range-extender It has taken us a couple of months to get our hands on a Leapmotor C10 Hybrid EV – the new D-segment…",
+   "url": "https://www.autocar.co.uk/car-review/long-term-reviews/easy-living-leapmotors-%C2%A336k-ev-petrol-lifeline",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T05:00:00Z"
+  },
+  {
+   "titulo": "Abarth to VW: Every sub-£30k electric car on sale – and how far they go",
+   "resumo": "Market for affordable EVs is heating up, and they're not all short-range city slickers Did you know, the UK’s cheapest new car is an EV? It’s a milestone for a technology that’s…",
+   "url": "https://www.autocar.co.uk/car-news/electric-cars/abarth-vw-every-sub-%C2%A330k-electric-car-sale-%E2%80%93-and-how-far-they-go",
+   "fonte": "Autocar",
+   "dominio": "autocar.co.uk",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T05:00:00Z"
+  },
+  {
+   "titulo": "Five free wallpapers from Classic & Sports Car’s November 2026 issue",
+   "resumo": "Five free wallpapers from Classic & Sports Car’s November 2026 issue Marc McLaren Fri, 09/10/2026 - 05:32",
+   "url": "https://www.classicandsportscar.com/features/five-free-wallpapers-classic-sports-cars-november-2026-issue",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T04:32:49Z"
+  },
+  {
+   "titulo": "Buyer’s guide: TVR Tuscan",
+   "resumo": "Buyer’s guide: TVR Tuscan Marc McLaren Fri, 09/10/2026 - 05:32",
+   "url": "https://www.classicandsportscar.com/features/buyers-guide-tvr-tuscan",
+   "fonte": "Classic & Sports Car",
+   "dominio": "classicandsportscar.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T04:32:10Z"
+  },
+  {
+   "titulo": "Spire places Chris Gabehart on administrative leave; JGR claims proof of wrongdoing",
+   "resumo": "Joe Gibbs Racing is pointing to Spire Motorsports placing Chris Gabehart on administrative leave over the past month as yet another reason the team should be placed in contempt for…",
+   "url": "https://www.motorsport.com/nascar-cup/news/spire-places-chris-gabehart-on-administrative-leave-jgr-claims-proof-of-wrongdoing-/10863197/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T04:06:01Z"
+  },
+  {
+   "titulo": "Everything that happened in first Indonesia MotoGP practice",
+   "resumo": "Marco Bezzecchi set the pace in first practice for MotoGP's Indonesian GP as a late Marc Marquez lap denied Aprilia an early 1-2 at Mandalika",
+   "url": "https://www.the-race.com/motogp/marquez-splits-aprilias-late-on-in-first-indonesia-motogp-practice/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T03:50:55Z"
+  },
+  {
+   "titulo": "Jorge Martin: “I’d sign right now to secure MotoGP title with just one grand prix win”",
+   "resumo": "Jorge Martin says he would 'sign up' to clinch the 2026 MotoGP title with just one grand prix victory, even as he believes he has the potential to top more Sunday races. The Aprilia rider…",
+   "url": "https://www.motorsport.com/motogp/news/martin-id-sign-right-now-to-win-the-championship-with-just-one-victory/10863189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T02:44:22Z"
+  },
+  {
+   "titulo": "2026 MotoGP Indonesian Grand Prix – How to watch, session times & more",
+   "resumo": "Following Marc Marquez's double win for Ducati in Japan last weekend, Aprilia is expected to mount a comeback as MotoGP heads to Mandalika for the Indonesian Grand Prix. Marco Bezzecchi was…",
+   "url": "https://www.motorsport.com/motogp/news/2026-motogp-indonesian-grand-prix-how-to-watch-session-times/10863184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T02:29:48Z"
+  },
+  {
+   "titulo": "A Front-Engined, Twin-Turbo V8 Porsche 911 Sounds Like Sacrilege But Actually Works",
+   "resumo": "This front-engined monster delivers more than 1,200 hp through the rear wheels",
+   "url": "https://www.carscoops.com/2026/10/a-front-engined-twin-turbo-v8-porsche-911-sounds-like-sacrilege-but-actually-works/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T02:00:00Z"
+  },
+  {
+   "titulo": "Nine Sentenced Over Car Theft Ring Who Went To Street Takeovers",
+   "resumo": "Sentences for convicted members of this crime ring vary six months up to 96 months behind bars",
+   "url": "https://www.carscoops.com/2026/10/car-theft-ring-street-takeovers/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T01:00:00Z"
+  },
+  {
+   "titulo": "This $1M Honda NSX Restomod Will Knock You Out Of Your White Socks And Loafers",
+   "resumo": "JAS and Pininfarina joined forces to create the Tensei, which gets a 414 hp V6 with a 8,500 rpm limiter",
+   "url": "https://www.carscoops.com/2026/10/classic-honda-nsx-restomod-jas-tensei/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T00:00:00Z"
+  },
   {
    "titulo": "Jaguar's Next Model Could Be An SUV With Type 01 Styling",
    "resumo": "Jaguar hints that its second model will offer more practicality than the Type 01 GT while keeping the styling.",
@@ -48,26 +189,6 @@
    "data": "2026-10-08T22:00:00Z"
   },
   {
-   "titulo": "How to watch NASCAR at Charlotte II: Weekend schedule, start time, entry list, TV",
-   "resumo": "NASCAR returns to its home track at Charlotte Motor Speedway, with a triple-header weekend of racing. This is the first fall Cup race on the Charlotte oval since 2017, after utilizing the…",
-   "url": "https://www.motorsport.com/nascar-cup/news/how-to-watch-nascar-at-charlotte-ii-weekend-schedule-start-time-entry-list-tv/10863176/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T21:52:21Z"
-  },
-  {
-   "titulo": "The BYD Seal 6 Is A Perfectly Adequate EV Sedan, But That’s About It | Review",
-   "resumo": "We get behind the wheel of the BYD Seal 6 in Malaysia, and find out that it's perfect in most ways, but not exactly excellent in any way either",
-   "url": "https://www.carscoops.com/2026/10/byd-seal-6-review-perfectly-adequate-ev-sedan/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T21:00:00Z"
-  },
-  {
    "titulo": "Global Rally Returns to the U.S. in 2027 with a Late-August WRC Debut",
    "resumo": "The FIA’s 2027 WRC calendar confirms that the global rally competition is heading to the United States next summer.",
    "url": "https://www.caranddriver.com/news/a74084206/global-rally-returns-to-the-us-in-2027-with-a-late-august-wrc-debut/",
@@ -76,16 +197,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-08T20:59:23Z"
-  },
-  {
-   "titulo": "Naomi Schiff questions Mercedes' George Russell F1 engine penalty decision",
-   "resumo": "Former W Series driver and Sky Sports analyst Naomi Schiff has questioned Mercedes' decision to take a power unit penalty for George Russell at this weekend's Singapore Grand Prix. Schiff…",
-   "url": "https://www.motorsport.com/f1/news/naomi-schiff-questions-mercedes-george-russell-f1-engine-penalty-decision/10863171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T20:57:20Z"
   },
   {
    "titulo": "Exercise in Excess: The ABC-Exclusive 500 SEC",
@@ -106,16 +217,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-08T20:04:00Z"
-  },
-  {
-   "titulo": "Honda Elevate Gains Rugged Face And Premium Features, Still Starts From $12,000",
-   "resumo": "The subcompact SUV retains the same FWD underpinnings and naturally-aspirated 1.5-liter engine under the hood",
-   "url": "https://www.carscoops.com/2026/10/honda-elevate-facelift/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T20:00:00Z"
   },
   {
    "titulo": "Who Ya Gonna Call? Perhaps a ‘Ghostbusters’-Themed Rivian",
@@ -168,16 +269,6 @@
    "data": "2026-10-08T19:30:00Z"
   },
   {
-   "titulo": "F1 Singapore GP: Friday schedule, weather forecast and how to watch",
-   "resumo": "Formula 1 remains in south-east Asia this weekend for the Singapore Grand Prix, the final race of the current triple-header and round 17 of the 2026 season. Kimi Antonelli arrives at Marina…",
-   "url": "https://www.motorsport.com/f1/news/f1-singapore-gp-friday-schedule-weather-forecast-and-how-to-watch/10863120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T19:21:54Z"
-  },
-  {
    "titulo": "The Chevy Silverado HD Is Much Pricier For 2027",
    "resumo": "The 2027 Silverado HD climbs up to $1,500 by trim, while the 8.3-liter Duramax diesel alone now adds $11,400 before fees.",
    "url": "https://www.motor1.com/news/811176/2027-silverado-hd-diesel-price/",
@@ -186,16 +277,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-08T19:07:30Z"
-  },
-  {
-   "titulo": "VW’s Largest Camper Drops Prices, Gains Solar Panels And Rugged Dune Special Edition",
-   "resumo": "The Crafter-based motorhome is available in two bodystyle variations and comes with a bathroom",
-   "url": "https://www.carscoops.com/2026/10/vw-grand-california-dune/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T19:00:00Z"
   },
   {
    "titulo": "The Mini Countryman Untamed Is Racing in the Rebelle Rally",
@@ -268,16 +349,6 @@
    "data": "2026-10-08T16:49:20Z"
   },
   {
-   "titulo": "The unselfish anchor behind Jack Aitken’s first IMSA GTP title, Earl Bamber reflects on 2026 campaign",
-   "resumo": "Looking back on a hard-fought IMSA WeatherTech SportsCar Championship campaign, Earl Bamber sees a season defined not by individual standings, but by the relentless pursuit of team success…",
-   "url": "https://www.motorsport.com/imsa/news/the-unselfish-anchor-behind-jack-aitkens-first-imsa-gtp-title-run-earl-bamber-reflects-on-2026-camp/10863144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T16:41:15Z"
-  },
-  {
    "titulo": "Best Windshield Wiper Blades of 2026, Tested",
    "resumo": "We evaluated the best blades for rain, sleet, and highway elements to see which deliver clear vision and reliable performance.",
    "url": "https://www.roadandtrack.com/gear/g68988115/best-windshield-wiper-blades/",
@@ -298,17 +369,7 @@
    "data": "2026-10-08T16:38:14Z"
   },
   {
-   "titulo": "How Hurricane Isaias may impact NASCAR's Charlotte race weekend",
-   "resumo": "NASCAR is hosting a fall race on the Charlotte Motor Speedway oval for the first time since 2017, after spending the last few years utilizing the infield road course. Unfortunately, they…",
-   "url": "https://www.motorsport.com/nascar-cup/news/how-hurricane-isaias-impact-nascar-charlotte-race-weekend/10862821/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T16:32:01Z"
-  },
-  {
-   "titulo": "‘Should be banned’ - F1 drivers divided over cooling vests",
+   "titulo": "'Should be banned' - F1 drivers divided over cooling vests",
    "resumo": "F1 drivers are properly divided on cooling vests and whether they’re redundant in 2026, ahead of the fourth ‘heat hazard’ weekend of the year in Singapore",
    "url": "https://www.the-race.com/formula-1/should-be-banned-f1-drivers-divided-over-cooling-vests/",
    "fonte": "The Race",
@@ -488,16 +549,6 @@
    "data": "2026-10-08T12:14:42Z"
   },
   {
-   "titulo": "Cascais quer colocar portagens na Marginal",
-   "resumo": "A possibilidade de avançar com portagens na Avenida Marginal (EN6), que liga Lisboa a Cascais, foi admitida pelo presidente da Câmara Municipal de Cascais, Nuno Piteira Lopes, como forma de…",
-   "url": "https://www.razaoautomovel.com/noticias/camara-cascais-portagens-avenida-marginal-en6-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-08T12:10:23Z"
-  },
-  {
    "titulo": "Elétricos: 47,7% do mercado em setembro",
    "resumo": "Em setembro, quase metade dos ligeiros de passageiros matriculados em Portugal tinham motores elétricas. Num mercado que progrediu 15,2%, comparativamente ao mês homólogo de 2025, a quota…",
    "url": "https://www.autosport.pt/automais/eletricos-477-do-mercado-em-setembro/",
@@ -566,56 +617,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-08T10:00:30Z"
-  },
-  {
-   "titulo": "'Your mind starts to play games' - Bottas's jungle ride to Singapore",
-   "resumo": "Valtteri Bottas encountered snakes and had to hop his bike over a monitor lizard while cycling from Malaysia to Formula 1’s Singapore Grand Prix",
-   "url": "https://www.the-race.com/extra/your-mind-starts-to-play-games-bottass-jungle-ride-to-singapore/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T09:48:56Z"
-  },
-  {
-   "titulo": "FIA Sustainable Innovation Series concludes its 2026 programme at Rally Italia Sardegna",
-   "resumo": "FIA news The Fédération Internationale de l'Automobile (FIA), the global governing body for motor sport and the federation for mobility organisations worldwide, hosted the final event of…",
-   "url": "https://www.fia.com/news/fia-sustainable-innovation-series-concludes-its-2026-programme-rally-italia-sardegna",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T08:53:00Z"
-  },
-  {
-   "titulo": "MotoGP riders divided on contentious 2027 weekend format change",
-   "resumo": "MotoGP’s new weekend format for 2027 has divided the grid, with riders such as Francesco Bagnaia and Luca Marini believing the changes will help promote the championship, while Pedro Acosta…",
-   "url": "https://www.autosport.com/motogp/news/motogp-riders-divided-on-contentious-2027-weekend-format-change/10862904/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T08:28:39Z"
-  },
-  {
-   "titulo": "FIA concludes investigation into Bahrain GP in Malaysia formation lap “software bug”",
-   "resumo": "Sport news The FIA has completed a thorough review of the circumstances which necessitated the release of a Power Unit software configurations upgrade ahead of the race start of the Bahrain…",
-   "url": "https://www.fia.com/news/fia-concludes-investigation-bahrain-gp-malaysia-formation-lap-software-bug",
-   "fonte": "FIA",
-   "dominio": "fia.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-08T07:01:00Z"
-  },
-  {
-   "titulo": "The El Cap Boot By Big Rock Candy Mountaineering",
-   "resumo": "This is the El Cap Boot by Big Rock Candy Mountaineering, it’s a classically-styled mountaineering boot designed with all-day comfort in mind, and each... The post The El Cap Boot By Big…",
-   "url": "https://silodrome.com/el-cap-boot-big-rock-candy-mountaineering-2/",
-   "fonte": "Silodrome",
-   "dominio": "silodrome.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-08T06:30:38Z"
   }
  ]
 }
