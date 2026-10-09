@@ -1,12 +1,11 @@
 {
- "atualizado": "2026-10-09T13:15:56Z",
+ "atualizado": "2026-10-09T22:37:48Z",
  "fontes": [
   "AutoSport",
   "Autocar",
   "Autosport",
   "Car and Driver",
   "Carscoops",
-  "Classic & Sports Car",
   "FIA",
   "Hagerty",
   "Motor1",
@@ -18,64 +17,504 @@
  ],
  "itens": [
   {
-   "titulo": "Max Verstappen to be investigated for yellow flag infringement at F1 Singapore GP",
-   "resumo": "Max Verstappen is set to be investigated after sprint qualifying for the Formula 1 Singapore Grand Prix following an alleged yellow flag infringement. The Red Bull driver was reported to…",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-to-be-investigated-for-yellow-flag-infringement-at-f1-singapore-gp/10863449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T13:09:21Z"
-  },
-  {
-   "titulo": "Manthey Celebrates 30 Years With a Pair of Limited-Edition Porsche Race Cars",
-   "resumo": "Manthey, a German racing team and engineering company closely linked with Porsche, is celebrating its 30th birthday. The brand unveiled a pair of race cars: the Porsche 911 GT3 Cup MR 30…",
-   "url": "https://www.hagerty.com/media/news/manthey-30-years-limited-edition-cars-911-cayman/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-09T13:07:04Z"
-  },
-  {
-   "titulo": "Cops Checked 568 Trucks In One Night And Benched 78 Drivers",
-   "resumo": "Police issued 173 moving violations and made seven arrests during a coordinated nighttime commercial truck crackdown",
-   "url": "https://www.carscoops.com/2026/10/cops-checked-568-trucks-in-one-night-and-benched-78-drivers/",
+   "titulo": "This Jet-Powered Harley Hit 60 MPH On Pure Thrust",
+   "resumo": "Two jet engines, diesel fuel and no drivetrain turn this Harley into something completely different",
+   "url": "https://www.carscoops.com/2026/10/this-jet-powered-harley-hit-60-mph-on-pure-thrust/",
    "fonte": "Carscoops",
    "dominio": "carscoops.com",
    "categoria": "Modelos",
    "pt": false,
-   "data": "2026-10-09T13:00:00Z"
+   "data": "2026-10-09T22:00:00Z"
   },
   {
-   "titulo": "Why Detroit Stopped Making Affordable Sedans, and Probably Won’t Again",
-   "resumo": "As any car person will remind you, probably with a shade of melancholy, we live in the age of the crossover. Gone are the affordable American starter cars of yesteryear, like the Chevrolet…",
-   "url": "https://www.hagerty.com/media/automotive-history/why-detroit-stopped-making-affordable-sedans-and-probably-wont-again/",
+   "titulo": "2027 Kia Telluride X-Pro SX Prestige AWD vs. Volkswagen Atlas SEL Premium R-Line 4Motion Comparison Test",
+   "resumo": "Is the all-new Atlas ready to do battle at the sharp end of the mid-size SUV class?",
+   "url": "https://www.caranddriver.com/reviews/comparison-test/a74056001/2027-kia-telluride-vs-volkswagen-atlas-comparison-test/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T21:37:20Z"
+  },
+  {
+   "titulo": "Lando Norris: “No excuse” for Singapore gap to Oscar Piastri",
+   "resumo": "Lando Norris says he has “no excuse” for his poor performance in sprint qualifying at Formula 1’s Singapore Grand Prix. After taking seventh in SQ1, 0.020s ahead of McLaren team-mate Oscar…",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-no-excuse-for-singapore-gap-to-oscar-piastri/10863564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T21:05:02Z"
+  },
+  {
+   "titulo": "Alfa Romeo’s Junior Has Some Appeal, But It’s Not The Smart Choice | Review",
+   "resumo": "The Alfa Romeo Junior looks good, but the powertrain needs improvement",
+   "url": "https://www.carscoops.com/2026/10/alfa-romeo-junior-ibrida-review-some-appeal-but-not-the-smart-choice/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T21:00:00Z"
+  },
+  {
+   "titulo": "4 Traps First-Time Vintage-Car Buyers Should Be Wary Of",
+   "resumo": "The car looks just like the one from the poster in your childhood bedroom, except now that photo is in a for-sale ad rather than tucked into the rolling cases that appeared in the library…",
+   "url": "https://www.hagerty.com/media/maintenance-and-tech/4-traps-first-time-vintage-car-buyers-should-be-wary-of/",
    "fonte": "Hagerty",
    "dominio": "hagerty.com",
    "categoria": "Clássicos",
    "pt": false,
-   "data": "2026-10-09T13:00:00Z"
+   "data": "2026-10-09T20:30:00Z"
   },
   {
-   "titulo": "GP Singapura F1, SQ1: Eliminados, dois Williams e Cadillac, Lindblad e Stroll",
-   "resumo": "Arvid Lindblad e Sergio Perez eliminados na primeira fase da qualificação em Singapura Arvid Lindblad, Lance Stroll, Alex Albon, Sergio Perez, Valtteri Bottas e Carlos Sainz foram…",
-   "url": "https://www.autosport.pt/formula1/gp-singapura-f1-sq1-eliminados-dois-williams-e-cadillac-lindblad-e-stroll/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
+   "titulo": "Gallery: All five Kyle Busch tribute paint schemes for Charlotte NASCAR Truck race",
+   "resumo": "This weekend, NASCAR returns to Charlotte Motor Speedway for the first time since a very somber Memorial Day Weekend in May. The track hosted the first race weekend after the tragic death…",
+   "url": "https://www.motorsport.com/nascar-truck/news/gallery-all-five-kyle-busch-tribute-paint-schemes-for-charlotte-nascar-truck-race/10863616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
    "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-09T12:57:00Z"
+   "pt": false,
+   "data": "2026-10-09T20:29:43Z"
   },
   {
-   "titulo": "Rivals reject Williams proposal for F1 cost cap reform",
-   "resumo": "Williams looks set to fall short of securing enough support to change Formula 1’s cost cap rules for 2027, with key rivals rejecting the idea of a revamp",
-   "url": "https://www.the-race.com/formula-1/rivals-reject-williams-proposal-for-f1-cost-cap-reform/",
+   "titulo": "Kyle Busch Celebration of Life event details: Free and open to the public",
+   "resumo": "On Friday, October 9, the NASCAR community will gather for a public Celebration of Life, honoring the life and legacy of Kyle Busch. The two-time NASCAR Cup Series champion and winner of…",
+   "url": "https://www.motorsport.com/nascar-cup/news/kyle-busch-celebration-of-life-details-free-and-open-to-the-public/10861180/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T20:01:18Z"
+  },
+  {
+   "titulo": "See More Photos of The 2027 Mercedes GLE 450",
+   "resumo": "",
+   "url": "https://www.roadandtrack.com/photos/a74050483/see-more-photos-of-the-2027-mercedes-gle-450/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T20:00:11Z"
+  },
+  {
+   "titulo": "Bring A Very Big Trailer For This Stretched Porsche 356 Auction",
+   "resumo": "Someone turned a 1953 Porsche 356 into a four-door limousine, complete with champagne holders and a glass partition",
+   "url": "https://www.carscoops.com/2026/10/stretched-limo-porsche-356-auction-bring-a-trailer/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T20:00:00Z"
+  },
+  {
+   "titulo": "Porsche Teases Mid-Engine Supercar Called ‘Mission S’",
+   "resumo": "The concept is expected to preview a new model positioned above the 911 that could be powered by a flat-eight engine.",
+   "url": "https://www.caranddriver.com/news/a74065319/porsche-mid-engine-supercar-teaser/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T19:59:00Z"
+  },
+  {
+   "titulo": "Rivian Removes Some R2 Cooled-Seat Functionality over Excessive Noise",
+   "resumo": "Newer R2 models no longer push cool air through the seatbacks because the company found the fans to be too loud.",
+   "url": "https://www.caranddriver.com/news/a74093089/rivian-r2-cooled-seat-functionality/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T19:31:24Z"
+  },
+  {
+   "titulo": "L'Osteria founder dead after Porsche crash in Mallorca Rally",
+   "resumo": "L'Osteria founder Klaus Rader has died in a crash during a rally in Mallorca on Friday. The 63-year-old restaurant entrepreneur and passionate race driver was participating in the 550…",
+   "url": "https://www.motorsport.com/rally/news/losteria-founder-killed-in-mallorca-rally-crash/10863607/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T19:05:39Z"
+  },
+  {
+   "titulo": "No evo joker upgrade for Cadillac in 2027 WEC and IMSA campaigns",
+   "resumo": "Cadillac will not use further evo jokers to upgrade its LMDh prototype for the 2027 World Endurance Championship and IMSA SportsCar Championship, according to its factory partner Jota…",
+   "url": "https://www.motorsport.com/wec/news/no-evo-joker-upgrade-for-cadillac-in-2027-wec-and-imsa-campaigns/10863223/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
+   "fonte": "Motorsport.com",
+   "dominio": "motorsport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T19:05:02Z"
+  },
+  {
+   "titulo": "Alfa Romeo's New Sports Car Teases A Four-Seat Layout: Video",
+   "resumo": "A new interior teaser suggests Alfa Romeo’s upcoming Cuorerosso concept could be a four-seat GT rather than a two-seat sports coupe.",
+   "url": "https://www.motor1.com/news/811404/alfa-romeo-sports-car-interior-teaser/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T19:00:00Z"
+  },
+  {
+   "titulo": "This Bright Orange Ruf Might Sell For $8 Million",
+   "resumo": "Complementing the carbon fiber bodywork and upgraded engine are Bilstein dampers and carbon ceramic brakes",
+   "url": "https://www.carscoops.com/2026/10/ruf-project-dragon-auction-usa/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T19:00:00Z"
+  },
+  {
+   "titulo": "The Legendary Run of the Duramax Diesel, from LB7 to Mongoose",
+   "resumo": "Diesel engines haven’t enjoyed the broad appeal in the U.S. that they have in the rest of the world, but there is one segment of the consumer market where they’ve managed to thrive: Trucks…",
+   "url": "https://www.hagerty.com/media/automotive-history/the-legendary-run-of-the-duramax-diesel-from-lb7-to-mongoose/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T19:00:00Z"
+  },
+  {
+   "titulo": "Every EV from Every Brand in America",
+   "resumo": "We've created this handy guide to let you know all the brands that sell electric vehicles in the United States.",
+   "url": "https://www.caranddriver.com/features/g64446307/every-ev-automaker/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T18:40:44Z"
+  },
+  {
+   "titulo": "The Porsche Mission S Supercar Concept Revs to 8000 RPM",
+   "resumo": "The company will unveil the concept that could be its next supercar in less than a week.",
+   "url": "https://www.roadandtrack.com/news/a74094026/the-porsche-mission-s-supercar-concept-revs-to-8000-rpm/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T18:40:00Z"
+  },
+  {
+   "titulo": "Volkswagen ao ataque nos 46 mil e 25 mil euros",
+   "resumo": "Neste momento, a Volkswagen trava uma batalha em duas frentes. A primeira é pela perceção que se instalou em torno da marca. O grupo alemão continua a liderar as vendas de automóveis 100%…",
+   "url": "https://www.razaoautomovel.com/cronicas/volkswagen-eletricos-ataque-46-mil-25-mil-euros/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T18:39:31Z"
+  },
+  {
+   "titulo": "Here's Every New Electric Vehicle Model for Sale in the U.S. for 2027",
+   "resumo": "Range, efficiency, and base price: This guide will help you decide on the EV that works best for you.",
+   "url": "https://www.caranddriver.com/features/g32463239/new-ev-models-us/",
+   "fonte": "Car and Driver",
+   "dominio": "caranddriver.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T18:35:06Z"
+  },
+  {
+   "titulo": "Honda Is Finally Getting A Ladder-Frame Pickup Thanks To Mitsubishi",
+   "resumo": "The new midsize pickup will reportedly ride on the ladder-frame underpinnings of the Mitsubishi Triton, also used by the Nissan Navara and the Mitsubishi Pajero",
+   "url": "https://www.carscoops.com/2026/10/honda-mitsubishi-triton/",
+   "fonte": "Carscoops",
+   "dominio": "carscoops.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T18:15:00Z"
+  },
+  {
+   "titulo": "Six Lessons I’ve Learned While Teaching Myself 3D Modeling",
+   "resumo": "Restoring vintage cars—or simply keeping project cars functional and on the road—can be challenging. For one thing, the older a car gets, the fewer new-old stock (NOS) parts are available…",
+   "url": "https://www.hagerty.com/media/lists/six-lessons-ive-learned-while-teaching-myself-3d-modeling/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T18:00:00Z"
+  },
+  {
+   "titulo": "ANAREC quer mostrar toda a verdade dos impostos nos combustíveis",
+   "resumo": "Mostrar quanto o Estado reduz nos impostos sobre os combustíveis é importante. Mas mostrar quanto continua a cobrar também. É esta a posição da ANAREC (Associação Nacional de Revendedores…",
+   "url": "https://www.razaoautomovel.com/noticias/anarec-quer-mostrar-toda-a-verdade-dos-impostos-nos-combustiveis/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T17:43:04Z"
+  },
+  {
+   "titulo": "Big weakness with new Mercedes upgrade has been exposed",
+   "resumo": "Singapoe has already exposed a big weakness with Mercedes' new upgrade package",
+   "url": "https://www.the-race.com/formula-1/big-weakness-with-new-mercedes-upgrade-has-been-exposed/",
    "fonte": "The Race",
    "dominio": "the-race.com",
    "categoria": "Desporto",
    "pt": false,
-   "data": "2026-10-09T12:38:32Z"
+   "data": "2026-10-09T17:29:53Z"
+  },
+  {
+   "titulo": "The Next Porsche Panamera and Audi A8 Will Reportedly Share a Platform, Factory",
+   "resumo": "Audi’s executive sedan could join the Bentley Continental GT and Flying Spur in using Porsche-based bones.",
+   "url": "https://www.roadandtrack.com/news/a74092510/next-audi-a8-porsche-panamera-reportedly-share-platform/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T17:16:02Z"
+  },
+  {
+   "titulo": "Partido Chega propõe no Parlamento fim de todas as portagens",
+   "resumo": "O Chega quer acabar com todas as portagens em Portugal. A proposta voltou à discussão política esta sexta-feira, 9 de outubro, durante o debate quinzenal na Assembleia da República…",
+   "url": "https://www.razaoautomovel.com/noticias/partido-chega-propoe-fim-todas-portagens/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T16:54:30Z"
+  },
+  {
+   "titulo": "Piloto alemão morre e copiloto fica gravemente ferido em acidente no 550 Challenge Mallorca",
+   "resumo": "Um piloto alemão de cerca de 60 anos morreu e o seu copiloto de aproximadamente 40 anos sofreu ferimentos graves na sequência de um acidente registado durante a prova automóvel 550…",
+   "url": "https://www.autosport.pt/ralis/piloto-alemao-morre-e-copiloto-fica-gravemente-ferido-em-acidente-no-550-challenge-mallorca/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-09T16:50:00Z"
+  },
+  {
+   "titulo": "Cheap Classic Cars for Collectors on a Budget",
+   "resumo": "If you want a unique classic car without the collector price, these are the best affordable models hiding in plain sight.",
+   "url": "https://www.roadandtrack.com/rankings/g74093175/cheap-classic-cars/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T16:41:11Z"
+  },
+  {
+   "titulo": "EV Buyers Still Want More Range Than They Need, BMW Survey Finds",
+   "resumo": "Most Americans drive less than 75 miles a day, but they say they still want at least 300 miles of range before buying an EV.",
+   "url": "https://www.motor1.com/news/811350/bmw-ev-survey-shows-big/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T16:30:00Z"
+  },
+  {
+   "titulo": "GP Singapura F1: Charles Leclerc aponta falta de ritmo puro da Ferrari",
+   "resumo": "Charles Leclerc admitiu que a Ferrari não teve velocidade suficiente para lutar pela ‘pole position’ na qualificação Sprint do Grande Prémio de Singapura de Fórmula 1, terminando a sessão…",
+   "url": "https://www.autosport.pt/formula1/gp-singapura-f1-charles-leclerc-aponta-falta-de-ritmo-puro-da-ferrari/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-09T16:25:11Z"
+  },
+  {
+   "titulo": "Este Opel Astra tem motor alemão e tecnologia PHEV",
+   "resumo": "Da Alemanha com amor, podia ser uma das mensagens dos engenheiros da Opel neste Astra Sports Tourer. É que o motor turbo de quatro cilindros desta versão híbrida plug-in (nas imagens) foi…",
+   "url": "https://www.razaoautomovel.com/branded-content/opel-astra-sports-tourer-tem-motor-alemao-tecnologia-phev/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T16:07:42Z"
+  },
+  {
+   "titulo": "GP Singapura F1: Oscar Piastri e Lando Norris ‘divididos’",
+   "resumo": "Oscar Piastri e Lando Norris terminaram nas quarta e quinta posições, respetivamente, na qualificação Sprint do Grande Prémio de Singapura de Fórmula 1, manifestando reações distintas…",
+   "url": "https://www.autosport.pt/formula1/gp-singapura-f1-oscar-piastri-e-lando-norris-divididos/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-09T16:07:00Z"
+  },
+  {
+   "titulo": "Why Verstappen keeps Singapore sprint pole despite yellow flag 'breach'",
+   "resumo": "Max Verstappen has kept his pole position for Formula 1's Singapore sprint race despite breaching the yellow flag rules by overtaking Lewis Hamilton",
+   "url": "https://www.the-race.com/formula-1/why-verstappen-keeps-singapore-sprint-pole-despite-yellow-flag-breach/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T16:00:19Z"
+  },
+  {
+   "titulo": "Audi RS 5 Avant ganha versão especial de Fórmula 1",
+   "resumo": "Espaço, performance, aspeto e poupança. Destas quatro qualidades, há uma que não corresponde totalmente à realidade… não é difícil adivinhar qual é. As primeiras unidades da nova Audi RS 5…",
+   "url": "https://www.razaoautomovel.com/noticias/audi-rs-5-avant-ganha-versao-especial-de-formula-1/",
+   "fonte": "Razão Automóvel",
+   "dominio": "razaoautomovel.com",
+   "categoria": "Modelos",
+   "pt": true,
+   "data": "2026-10-09T15:55:42Z"
+  },
+  {
+   "titulo": "Winners and losers from sprint qualifying at F1's Singapore GP",
+   "resumo": "The FIA and both Mercedes are among our picks for the biggest winners and losers from sprint qualifying in Singapore",
+   "url": "https://www.the-race.com/formula-1/winners-and-losers-from-sprint-qualifying-at-f1s-singapore-gp/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T15:45:33Z"
+  },
+  {
+   "titulo": "F1 Singapore Grand Prix sprint race starting grid",
+   "resumo": "Max Verstappen and George Russell will share the front row for the sprint race at Formula 1's Singapore Grand Prix",
+   "url": "https://www.the-race.com/formula-1/f1-singapore-grand-prix-sprint-race-starting-grid/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T15:43:26Z"
+  },
+  {
+   "titulo": "Singapore sprint qualifying chaos leaves F1 teams furious",
+   "resumo": "A race control error that left cars down on power in sprint qualifying at Formula 1's Singapore Grand Prix has left several teams frustrated - with Aston Martin still considering its…",
+   "url": "https://www.autosport.com/f1/news/f1-teams-furious-after-singapore-qualifying-chaos/10863535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T15:40:38Z"
+  },
+  {
+   "titulo": "Next-Gen ‘Honda Hybrid’ Platform Promises Better Handling, ‘Exhilarating’ Drive",
+   "resumo": "It should also be more efficient, and will debut a new e-AWD system.",
+   "url": "https://www.roadandtrack.com/news/a74092149/next-gen-honda-hybrid-platform-better-handling/",
+   "fonte": "Road & Track",
+   "dominio": "roadandtrack.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T15:34:35Z"
+  },
+  {
+   "titulo": "Porsche's New Hypercar Teases Its 8,000-RPM Redline: Video",
+   "resumo": "Porsche's upcoming halo car will sit above the 911 and could usher in a new family of high-performance models.",
+   "url": "https://www.motor1.com/news/811378/porsche-hypercar-8000-rpm-teaser-video/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T15:34:33Z"
+  },
+  {
+   "titulo": "GP Singapura F1: Erro da FIA condiciona potência dos motores na qualificação Sprint",
+   "resumo": "Um erro humano da FIA privou vários monolugares de potência máxima durante as voltas rápidas da primeira fase (SQ1) da qualificação Sprint do Grande Prémio de Singapura de Fórmula 1. A…",
+   "url": "https://www.autosport.pt/formula1/gp-singapura-f1-erro-da-fia-condiciona-potencia-dos-motores-na-qualificacao-sprint/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-09T15:26:18Z"
+  },
+  {
+   "titulo": "GP Singapura F1: Max Verstappen escapa de penalização",
+   "resumo": "A FIA decidiu não aplicar penalizações a Max Verstappen após investigar uma ultrapassagem do piloto neerlandês sobre Lewis Hamilton sob bandeiras amarelas na primeira fase da qualificação…",
+   "url": "https://www.autosport.pt/formula1/gp-singapura-f1-max-verstappen-escapa-de-penalizacao/",
+   "fonte": "AutoSport",
+   "dominio": "autosport.pt",
+   "categoria": "Desporto",
+   "pt": true,
+   "data": "2026-10-09T15:19:00Z"
+  },
+  {
+   "titulo": "Retired Michigan Paper Mill Becomes Home to Horsepower",
+   "resumo": "Old cars have a certain draw for many of us, and vintage buildings can do the same. Combine the two and you may be able to create a space for celebrating history, while also making new…",
+   "url": "https://www.hagerty.com/media/news/retired-michigan-paper-mill-becomes-home-to-horsepower/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T15:00:00Z"
+  },
+  {
+   "titulo": "F1 – Verstappen seals pole for Singapore Sprint ahead of Russell and Leclerc",
+   "resumo": "Sport news Max Verstappen took top spot in Sprint Qualifying for the 2026 FIA Formula 1 Singapore Grand Prix, beating Mercedes’ George Russell by 0.120 seconds as Ferrari’s Charles Leclerc…",
+   "url": "https://www.fia.com/news/f1-verstappen-seals-pole-singapore-sprint-ahead-russell-and-leclerc",
+   "fonte": "FIA",
+   "dominio": "fia.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T14:56:00Z"
+  },
+  {
+   "titulo": "FIA reveals \"human error\" caused latest software glitch in Singapore sprint qualifying",
+   "resumo": "The FIA has confirmed the existence of a second error during sprint qualifying for the Singapore GP, on top of a glitch in the timing and scoring system which caused some drivers' times to…",
+   "url": "https://www.autosport.com/f1/news/human-error-caused-singapore-gp-sprint-qualifying-glitch/10863502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T14:44:34Z"
+  },
+  {
+   "titulo": "Button hopes F1 calendar won't keep expanding",
+   "resumo": "Jenson Button hopes Formula 1’s calendar does not expand beyond 24 events, as he believes it would put too much strain on the personnel in teams",
+   "url": "https://www.the-race.com/business/button-hopes-f1-calendar-wont-keep-expanding/",
+   "fonte": "The Race",
+   "dominio": "the-race.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T14:32:28Z"
+  },
+  {
+   "titulo": "Geely Is Officially Coming To Canada In 2027",
+   "resumo": "The Chinese automaker is building a Canadian retail and service network ahead of its first vehicle launches next year.",
+   "url": "https://www.motor1.com/news/811368/geely-canada-2027/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T14:26:37Z"
+  },
+  {
+   "titulo": "Where Pajari can improve after WRC title near miss",
+   "resumo": "Sami Pajari has already identified the area where he needs to improve after missing out on a maiden World Rally Championship title by six points. The Toyota driver headed into last…",
+   "url": "https://www.autosport.com/wrc/news/where-sami-pajari-can-improve-after-wrc-title-near-miss/10863472/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T14:09:08Z"
+  },
+  {
+   "titulo": "The 2027 Corvette Is Already Getting A Price Increase",
+   "resumo": "Chevrolet confirms a flat $300 bump for every 2027 Corvette trim.",
+   "url": "https://www.motor1.com/news/811343/2027-chevrolet-corvette-prices-rise/",
+   "fonte": "Motor1",
+   "dominio": "motor1.com",
+   "categoria": "Modelos",
+   "pt": false,
+   "data": "2026-10-09T14:00:50Z"
+  },
+  {
+   "titulo": "Meet the Spirit of Tomorrow, a Hand-Built Aerocar from British Columbia",
+   "resumo": "Forty years ago, Vancouver, British Columbia, welcomed the world to Expo ’86—only the second time a world’s fair had been held in Canada. The event focused on transportation and…",
+   "url": "https://www.hagerty.com/media/car-profiles/meet-the-spirit-of-tomorrow-a-hand-built-aerocar-from-british-columbia/",
+   "fonte": "Hagerty",
+   "dominio": "hagerty.com",
+   "categoria": "Clássicos",
+   "pt": false,
+   "data": "2026-10-09T14:00:00Z"
+  },
+  {
+   "titulo": "F1 Singapore GP: Verstappen storms to sprint pole with Antonelli only seventh",
+   "resumo": "Max Verstappen topped sprint qualifying for Formula 1’s Singapore Grand Prix, where he will be joined on the front row by George Russell. This is the first time Verstappen has come first in…",
+   "url": "https://www.autosport.com/f1/news/f1-singapore-gp-verstappen-takes-sprint-pole/10863448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
+   "fonte": "Autosport",
+   "dominio": "autosport.com",
+   "categoria": "Desporto",
+   "pt": false,
+   "data": "2026-10-09T13:47:20Z"
   },
   {
    "titulo": "For Sale: An Unusual 1975 Land Rover Santana 1300",
@@ -88,46 +527,6 @@
    "data": "2026-10-09T12:30:20Z"
   },
   {
-   "titulo": "Quartararo leads calls for action on Mandalika gravel traps",
-   "resumo": "Fabio Quartararo has called for changes to the Mandalika circuit's gravel traps in the wake of his crash during MotoGP practice",
-   "url": "https://www.the-race.com/motogp/quartararo-leads-calls-for-action-on-mandalika-gravel-traps/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T12:26:42Z"
-  },
-  {
-   "titulo": "Why Kimi Antonelli and George Russell are \"test pilots\" for Mercedes at Singapore GP",
-   "resumo": "Mercedes Formula 1 boss Toto Wolff has labelled his drivers Kimi Antonelli and George Russell as “two test pilots” as they run different car specifications at this weekend’s Singapore Grand…",
-   "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-and-george-russell-are-test-pilots-for-mercedes-at-singapore-gp/10863412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T12:24:45Z"
-  },
-  {
-   "titulo": "Gasolina sobe de preço para a semana mas gasóleo não",
-   "resumo": "Na próxima segunda-feira, 12 de outubro, o preço do gasóleo e da gasolina vão seguir caminhos opostos. As previsões do setor apontam para uma queda marginal de um cêntimo por litro para o…",
-   "url": "https://www.razaoautomovel.com/noticias/previsao-preco-combustiveis-semanas-42-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-09T12:23:41Z"
-  },
-  {
-   "titulo": "Jorge Martin “struggling” at Mandalika, says Marc Marquez’s pace is “better”",
-   "resumo": "Jorge Martin has conceded he “struggled” through Friday practice at the Indonesian Grand Prix despite finishing third-quickest, attributing his difficulties to tyre temperature issues. As…",
-   "url": "https://www.motorsport.com/motogp/news/jorge-martin-struggling-at-mandalika-says-marc-marquezs-pace-is-better/10863384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T12:03:41Z"
-  },
-  {
    "titulo": "From dealer to customer: This Honda salesman had to have a Type R",
    "resumo": "FN2 Type R was never the most loved hot Civic - but at £2450 you couldn't ask for much more What does a car salesman drive when he's not driving his demonstrator? A hard bargain? Not…",
    "url": "https://www.autocar.co.uk/car-news/used-cars/dealer-customer-honda-salesman-had-have-type-r",
@@ -136,56 +535,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-09T12:00:00Z"
-  },
-  {
-   "titulo": "Mitsubishi’s Taiwanese EV Has More Grunt Than The Most Powerful Evo Ever",
-   "resumo": "The ASX VR-e comes equipped with a 57.7-kWh lithium-ion battery",
-   "url": "https://www.carscoops.com/2026/10/mitsubishis-taiwanese-ev-has-more-grunt-than-the-most-powerful-evo-ever/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T12:00:00Z"
-  },
-  {
-   "titulo": "Without a Spark: Only Diesels Will Do at West Virginia’s Radio-Silent Green Bank Observatory",
-   "resumo": "Workers and visitors alike at the radio telescope must obey strict rules. One of them involves going without spark plugs.",
-   "url": "https://www.roadandtrack.com/car-culture/a73572219/without-a-spark-volume-37/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T12:00:00Z"
-  },
-  {
-   "titulo": "Never Stop Driving #202: The Car Trade AI Can’t Replace.",
-   "resumo": "There’s no shortage of hand-wringing these days about which jobs artificial intelligence will eliminate next. The list gets longer every month. Tom Cotter, the host of the Hagerty Barn Find…",
-   "url": "https://www.hagerty.com/media/never-stop-driving/never-stop-driving-202-the-car-trade-ai-cant-replace/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-09T12:00:00Z"
-  },
-  {
-   "titulo": "George Russell reveals the missing part that ruined Mercedes’ massive F1 upgrade",
-   "resumo": "When the Mercedes team arrived at the 2026 Bahrain Grand Prix in Malaysia, they expected their highly anticipated upgrade package to completely solidify their championship lead. Instead…",
-   "url": "https://www.motorsport.com/f1/news/george-russell-reveals-the-missing-part-that-ruined-mercedes-massive-f1-upgrade/10863268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T11:57:57Z"
-  },
-  {
-   "titulo": "Rali de Cantanhede/Marquês de Marialva: prova decisiva no Campeonato Centro de Ralis",
-   "resumo": "Este fim de semana, o Rali de Cantanhede – Marquês de Marialva será o palco da sexta prova do Campeonato Centro de Ralis. Este evento é de suma importância, pois pontua igualmente para o…",
-   "url": "https://www.autosport.pt/ralis/rali-de-cantanhede-marques-de-marialva-prova-decisiva-no-campeonato-centro-de-ralis/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-09T11:47:09Z"
   },
   {
    "titulo": "Is Antonelli favoured by Mercedes? Wolff responds to latest claims",
@@ -198,16 +547,6 @@
    "data": "2026-10-09T11:46:49Z"
   },
   {
-   "titulo": "Toto Wolff hits back at “brainless” George Russell conspiracy theory",
-   "resumo": "Mercedes Formula 1 team principal Toto Wolff says people who suggest Kimi Antonelli is being favoured over George Russell are “brainless” and should stick to ‘watching Teletubbies’…",
-   "url": "https://www.motorsport.com/f1/news/is-george-russell-a-number-two-driver-at-mercedes-theyre-brainless-whoever-thinks-that-retorts-toto/10863392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=www",
-   "fonte": "Motorsport.com",
-   "dominio": "motorsport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T11:41:03Z"
-  },
-  {
    "titulo": "F1 - 2026 Singapore Grand Prix - Friday Press Conference Transcript",
    "resumo": "Sport news TEAM REPRESENTATIVES - Alan PERMANE (Racing Bulls), Zak BROWN (McLaren), Toto WOLFF (Mercedes) Q: Toto, if we could start with you, please. Let's begin with upgrades. They proved…",
    "url": "https://www.fia.com/news/f1-2026-singapore-grand-prix-friday-press-conference-transcript",
@@ -218,191 +557,11 @@
    "data": "2026-10-09T11:41:00Z"
   },
   {
-   "titulo": "Skoda Octavia estreia híbrido à Toyota mas há um senão",
-   "resumo": "Mais vale tarde que nunca. Depois de anos a apostar nos mild hybrid e plug-in, o Grupo Volkswagen começou finalmente a apostar nos híbridos convencionais, tecnologia popularizada pela…",
-   "url": "https://www.razaoautomovel.com/noticias/apresentacao-skoda-octavia-hybrid-hibrido-convencional-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-09T11:40:13Z"
-  },
-  {
-   "titulo": "Porsche's Manthey Celebrates 30 Years With Two Wild Race Cars",
-   "resumo": "The Cayman's final evolution and a bigger-engined 911 GT3 Cup make for one potent duo.",
-   "url": "https://www.motor1.com/news/811332/porsche-manthey-911-gt3-cup-cayman/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:30:00Z"
-  },
-  {
-   "titulo": "Manthey Celebrates 30 Years Of Faster Porsches With Special 911 GT3 Cup And 718 Cayman GT4 RS",
-   "resumo": "German motorsport legend reveals limited run 911 GT3 Cup MR 30 and 718 GT4 RS Clubsport MR 30",
-   "url": "https://www.carscoops.com/2026/10/manthey-celebrates-30-years-special-edition-porsches/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:30:00Z"
-  },
-  {
-   "titulo": "Manthey Racing Debuts Two Legendary Porsche Models, Limited to 15 Each",
-   "resumo": "Meet the Porsche 911 GT3 Cup MR 30 and 718 Cayman GT4 RS Clubsport MR 30.",
-   "url": "https://www.caranddriver.com/news/a74071001/porsche-911-gt3-cup-718-cayman-gt4-rs-race-cars-manthey/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:30:00Z"
-  },
-  {
-   "titulo": "Manthey Shows Off 30th Anniversary Porsche 911 GT3 Cup and 718 GT4 RS Clubsport",
-   "resumo": "The GT3 Cup MR 30 even nets a bump in displacement, to a 4.2-liter flat-six.",
-   "url": "https://www.roadandtrack.com/news/a74082999/manthey-30th-anniversary-porsche-911-gt3-cup-718-gt4-rs-clubsport/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:30:00Z"
-  },
-  {
-   "titulo": "One-Off Ruf Project Dragon Heads To Auction With An $8 Million Estimate",
-   "resumo": "Gooding Christie's will auction the factory-built Ruf Project Dragon without reserve, tying CTR2 Sport hardware to a rare single-customer commission.",
-   "url": "https://www.motor1.com/news/811338/ruf-project-dragon-one-off/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:18:36Z"
-  },
-  {
-   "titulo": "FIA clampdown on Macarena wings for 2027",
-   "resumo": "The FIA has moved to stop teams developing more outlandish rotating wing designs for 2027 with a tightening up of F1's technical rules",
-   "url": "https://www.the-race.com/formula-1/fia-clampdown-macarena-f1-rear-wings-for-2027/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T11:01:17Z"
-  },
-  {
-   "titulo": "Hyundai engine builder off the grid for BTCC 2027",
-   "resumo": "One of the British Touring Car Championship’s most successful engine suppliers will likely not be on the grid for 2027. Swindon Powertrain, which has built bespoke Hyundai engines for…",
-   "url": "https://www.autosport.com/btcc/news/hyundai-engine-builder-off-the-grid-for-btcc-2027/10863329/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T11:00:03Z"
-  },
-  {
-   "titulo": "Audi Could Make Its EVs Better By Making Them “Worse”",
-   "resumo": "Part of a new patent describes a physical connection between an EV's powertrain and a car's cabin",
-   "url": "https://www.carscoops.com/2026/10/audi-could-make-its-evs-better-by-making-them-worse/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T11:00:00Z"
-  },
-  {
-   "titulo": "\"It should be banned\" - F1 drivers still divided over cooling vests",
-   "resumo": "F1 drivers are split over the use and importance of cooling vests as the series is set for its fourth \"heat hazard\" race of 2026. Driver comfort in hot climates has been a point of…",
-   "url": "https://www.autosport.com/f1/news/it-should-be-banned-f1-drivers-still-divided-over-cooling-vests/10863347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T10:42:19Z"
-  },
-  {
-   "titulo": "Campeonato Norte de Ralis prossegue em Famalicão: mais decisões",
-   "resumo": "No próximo fim de semana, dias 10 e 11 de outubro, realiza-se a sétima jornada do Campeonato Norte de Ralis e do Campeonato Norte de Ralis 2RM. O Rali de Vila Nova de Famalicão contará com…",
-   "url": "https://www.autosport.pt/ralis/campeonato-norte-de-ralis-prossegue-em-famalicao-mais-decisoes/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-09T10:40:51Z"
-  },
-  {
-   "titulo": "Brabus Unveils Electric Motorcycle Limited To Just 10 Units",
-   "resumo": "This Fragment Design collaboration turns the Brabus Urban E into a $50,000, 10-unit electric collectible with modest range and everyday charging times.",
-   "url": "https://www.motor1.com/news/811327/brabus-urban-e-fragment-edition/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:22:43Z"
-  },
-  {
-   "titulo": "Agora chama-se ID. Tiguan. O novo rei dos Volkswagen elétricos",
-   "resumo": "Os primeiros elétricos da Volkswagen não tiveram a recetividade esperada no mercado. A estética e a dinâmica não entusiasmavam e o uso de designações alfanuméricas em vez de nomes…",
-   "url": "https://www.razaoautomovel.com/video/apresentacao-volkswagen-id-tiguan-2026/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-09T10:09:51Z"
-  },
-  {
    "titulo": "VW ID Tiguan revealed as overhauled ID 4 with 373-mile range",
    "resumo": "ID 4 and ID 5 are no more as they are renamed amid major mid-life update The Volkswagen ID Tiguan has been revealed as the replacement for the ID 4 and ID 5 siblings. Although it is…",
    "url": "https://www.autocar.co.uk/car-news/electric-cars/vw-id-tiguan-revealed-overhauled-id-4-373-mile-range",
    "fonte": "Autocar",
    "dominio": "autocar.co.uk",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:00:00Z"
-  },
-  {
-   "titulo": "Volkswagen ID.4 Is Dead: Meet Its New Electric SUV Replacement",
-   "resumo": "The new ID. Tiguan replaces the ID.4 with a more traditional SUV design and an interior packed with physical controls.",
-   "url": "https://www.motor1.com/news/811249/volkswagen-id-tiguan-debut-details/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:00:00Z"
-  },
-  {
-   "titulo": "VW’s ID Tiguan Replaces ID 4 With Up To 373 Miles Of Range",
-   "resumo": "VW has announced rear- and all-wheel drive versions of the ID Tiguan with 58 kWh and 77 kWh battery packs",
-   "url": "https://www.carscoops.com/2026/10/vw-id-tiguan-launch/",
-   "fonte": "Carscoops",
-   "dominio": "carscoops.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:00:00Z"
-  },
-  {
-   "titulo": "View Exterior Photos of the 2028 Volkswagen ID. Tiguan",
-   "resumo": "See the new electric Volkswagen ID. Tiguan SUV from every exterior angle.",
-   "url": "https://www.caranddriver.com/photos/a74083745/2028-volkswagen-id-tiguan-details-exterior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:00:00Z"
-  },
-  {
-   "titulo": "View Interior Photos of the 2028 Volkswagen ID. Tiguan",
-   "resumo": "Get an up-close look at the new electric Volkswagen ID. Tiguan from every interior angle.",
-   "url": "https://www.caranddriver.com/photos/a74083747/2028-volkswagen-id-tiguan-details-interior-gallery/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T10:00:00Z"
-  },
-  {
-   "titulo": "2028 Volkswagen ID. Tiguan Replaces the ID.4 EV with Stronger Styling",
-   "resumo": "The ID. Tiguan looks more striking and has huge screens in the cabin, but also brings back physical buttons and real door handles.",
-   "url": "https://www.caranddriver.com/news/a74084272/2028-volkswagen-id-tiguan-revealed/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-09T10:00:00Z"
@@ -416,86 +575,6 @@
    "categoria": "Desporto",
    "pt": false,
    "data": "2026-10-09T09:58:00Z"
-  },
-  {
-   "titulo": "Polémica sobre a mudança do Rali de Itália do WRC da Sardenha para Roma",
-   "resumo": "O Rali de Itália da Sardenha concluiu a sua edição mais recente em meio a contínuas contestações políticas locais sobre a transferência da prova do Campeonato do Mundo de Ralis (WRC) para a…",
-   "url": "https://www.autosport.pt/ralis/polemica-sobre-a-mudanca-do-rali-de-italia-do-wrc-da-sardenha-para-roma/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-09T09:56:30Z"
-  },
-  {
-   "titulo": "GP de Singapura de F1/TL1: George Russell lidera sessão única",
-   "resumo": "George Russell rubricou o melhor tempo na única sessão de treinos livres do Grande Prémio de Singapura de Fórmula 1, aos comandos de um Mercedes com a especificação anterior. O piloto…",
-   "url": "https://www.autosport.pt/formula1/gp-de-singapura-de-f1-tl1-george-russell-lidera-sessao-unica/",
-   "fonte": "AutoSport",
-   "dominio": "autosport.pt",
-   "categoria": "Desporto",
-   "pt": true,
-   "data": "2026-10-09T09:45:00Z"
-  },
-  {
-   "titulo": "Someone Turned A Classic Mini Into The Perfect Beach Cruiser",
-   "resumo": "Crayford strips a classic Mini into the Mojito, a £35,000 open-sided coastal runabout that keeps its compact footprint and familiar mechanical character.",
-   "url": "https://www.motor1.com/news/811318/crayford-mojito-classic-mini-beach/",
-   "fonte": "Motor1",
-   "dominio": "motor1.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-09T09:44:17Z"
-  },
-  {
-   "titulo": "F1 Singapore GP: Russell tops FP1 with Verstappen also impressing",
-   "resumo": "George Russell came fastest in the only free practice outing of Formula 1’s Singapore Grand Prix, but Max Verstappen was half a second quicker than anyone on medium tyres. This was the only…",
-   "url": "https://www.autosport.com/f1/news/f1-singapore-gp-russell-tops-fp1/10863304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T09:42:25Z"
-  },
-  {
-   "titulo": "Russell fastest in 'downgraded' Mercedes in only Singapore practice",
-   "resumo": "George Russell's older-spec Mercedes topped the only practice session of F1's 2026 Singapore GP weekend",
-   "url": "https://www.the-race.com/formula-1/f1-2026-singapore-gp-practice-russell-fastest/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T09:40:38Z"
-  },
-  {
-   "titulo": "F1 2026 Singapore Grand Prix practice results",
-   "resumo": "Results from the sole F1 practice session for the Singapore Grand Prix, which is a sprint weekend",
-   "url": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-practice-results/",
-   "fonte": "The Race",
-   "dominio": "the-race.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T09:36:24Z"
-  },
-  {
-   "titulo": "Estado prevê cobrar mais 231 milhões em ISP, ISV e IUC",
-   "resumo": "O automóvel continua a ser uma galinha dos ovos de ouro para as contas do Estado. Pelo menos, é isso que sugere a proposta do Orçamento do Estado para 2027, que prevê um aumento de receita…",
-   "url": "https://www.razaoautomovel.com/noticias/orcamento-do-estado-2027-previsao-receita-impostos-automovel/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-09T09:32:50Z"
-  },
-  {
-   "titulo": "MotoGP Indonesian Grand Prix: Fernandez on top as Aprilia dominates",
-   "resumo": "Aprilia lived up to expectations at Mandalika on Friday, with Raul Fernandez breaking the lap record to lead a 1-2-3 for the Italian marque in Practice. Only the factory riders, Marco…",
-   "url": "https://www.autosport.com/motogp/news/motogp-indonesian-grand-prix-raul-fernandez-on-top-as-aprilia-dominates/10863300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-ALL&utm_term=News&utm_content=uk",
-   "fonte": "Autosport",
-   "dominio": "autosport.com",
-   "categoria": "Desporto",
-   "pt": false,
-   "data": "2026-10-09T08:59:24Z"
   },
   {
    "titulo": "The YETI Rambler French Press: An Adventure-Spec Coffee Maker",
@@ -518,16 +597,6 @@
    "data": "2026-10-09T06:00:00Z"
   },
   {
-   "titulo": "BMW M5 Touring veste farda da polícia mas ainda não passa multas",
-   "resumo": "A polícia alemã já usa a BMW Série 5 Touring como carro-patrulha, mas a BMW decidiu levar a receita um pouco mais longe. Muito mais longe. O resultado é uma BMW M5 Touring vestido a rigor…",
-   "url": "https://www.razaoautomovel.com/noticias/arranque-a-frio-bmw-m5-touring-policia-alemanha/",
-   "fonte": "Razão Automóvel",
-   "dominio": "razaoautomovel.com",
-   "categoria": "Modelos",
-   "pt": true,
-   "data": "2026-10-09T06:00:00Z"
-  },
-  {
    "titulo": "Easy living in Leapmotor's £36k EV - with a petrol lifeline",
    "resumo": "We get experience of a new, rare and evidently attractive form of plug-in range-extender It has taken us a couple of months to get our hands on a Leapmotor C10 Hybrid EV – the new D-segment…",
    "url": "https://www.autocar.co.uk/car-review/long-term-reviews/easy-living-leapmotors-%C2%A336k-ev-petrol-lifeline",
@@ -546,76 +615,6 @@
    "categoria": "Modelos",
    "pt": false,
    "data": "2026-10-09T05:00:00Z"
-  },
-  {
-   "titulo": "Five free wallpapers from Classic & Sports Car’s November 2026 issue",
-   "resumo": "Five free wallpapers from Classic & Sports Car’s November 2026 issue Marc McLaren Fri, 09/10/2026 - 05:32",
-   "url": "https://www.classicandsportscar.com/features/five-free-wallpapers-classic-sports-cars-november-2026-issue",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-09T04:32:49Z"
-  },
-  {
-   "titulo": "Buyer’s guide: TVR Tuscan",
-   "resumo": "Buyer’s guide: TVR Tuscan Marc McLaren Fri, 09/10/2026 - 05:32",
-   "url": "https://www.classicandsportscar.com/features/buyers-guide-tvr-tuscan",
-   "fonte": "Classic & Sports Car",
-   "dominio": "classicandsportscar.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-09T04:32:10Z"
-  },
-  {
-   "titulo": "Global Rally Returns to the U.S. in 2027 with a Late-August WRC Debut",
-   "resumo": "The FIA’s 2027 WRC calendar confirms that the global rally competition is heading to the United States next summer.",
-   "url": "https://www.caranddriver.com/news/a74084206/global-rally-returns-to-the-us-in-2027-with-a-late-august-wrc-debut/",
-   "fonte": "Car and Driver",
-   "dominio": "caranddriver.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T20:59:23Z"
-  },
-  {
-   "titulo": "Exercise in Excess: The ABC-Exclusive 500 SEC",
-   "resumo": "Fans might describe the Mercedes W126 sedans as understated and elegant, while its detractors might call its styling dowdy. No matter your stance on the four-doors, nobody would describe…",
-   "url": "https://www.hagerty.com/media/buying-and-selling/hagerty-marketplace/exercise-in-excess-the-abc-exclusive-500-sec/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-08T20:30:00Z"
-  },
-  {
-   "titulo": "Rivian Is Going Full ‘Ghostbusters’ Mode for Halloween",
-   "resumo": "The EV brand is bringing some spooky fun to its vehicles with a new ‘Halloween Mode’ that adds lights, sounds, and Easter eggs from the famous movie’s universe.",
-   "url": "https://www.roadandtrack.com/news/a74079668/rivian-ghostbusters-mode-halloween/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T20:00:00Z"
-  },
-  {
-   "titulo": "The JAS-Pininfarina Honda NSX Restomod Is Finally Here",
-   "resumo": "The long-awaited JAS Tensei packs a 425-hp naturally aspirated V6, a six-speed manual, and stunning Italian styling.",
-   "url": "https://www.roadandtrack.com/news/a74082703/pininfarina-designed-honda-acura-nsx-restomod/",
-   "fonte": "Road & Track",
-   "dominio": "roadandtrack.com",
-   "categoria": "Modelos",
-   "pt": false,
-   "data": "2026-10-08T19:32:58Z"
-  },
-  {
-   "titulo": "Following the IHRA’s Demise, 12 of Its Tracks Will Sell to the Highest Bidders",
-   "resumo": "A website called Tranzon.com, which bills itself as “A Better Way to Sell Real Estate,” is at this moment hosting 143 property auctions in 31 states. They range from a 10,400-acre coastal…",
-   "url": "https://www.hagerty.com/media/motorsports/following-the-ihras-demise-12-of-its-tracks-will-sell-to-the-highest-bidders/",
-   "fonte": "Hagerty",
-   "dominio": "hagerty.com",
-   "categoria": "Clássicos",
-   "pt": false,
-   "data": "2026-10-08T19:30:00Z"
   }
  ]
 }
